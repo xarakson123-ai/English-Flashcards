@@ -1,0 +1,9761 @@
+[
+  {
+    "id": "f-F.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "F.",
+    "pronunciation": "/ˈef/",
+    "meaning": [
+      "członek",
+      "Fahrenheita"
+    ]
+  },
+  {
+    "id": "f-FA",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "FA",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Związek Piłki Nożnej"
+    ]
+  },
+  {
+    "id": "f-fable",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fable",
+    "pronunciation": "ˈfeɪbəl",
+    "meaning": [
+      "bajka"
+    ]
+  },
+  {
+    "id": "f-fabric",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fabric",
+    "pronunciation": "ˈfæbrɪk",
+    "meaning": [
+      "materiał",
+      "płótno",
+      "tkanka",
+      "substancja budowlana",
+      "substancja"
+    ]
+  },
+  {
+    "id": "f-fabricate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fabricate",
+    "pronunciation": "ˈfæbrɪkeɪt",
+    "meaning": [
+      "fabrykować",
+      "produkować"
+    ]
+  },
+  {
+    "id": "f-fabulous",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fabulous",
+    "pronunciation": "ˈfæbjələs",
+    "meaning": [
+      "fantastyczny",
+      "baśniowy"
+    ]
+  },
+  {
+    "id": "f-facade",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "facade",
+    "pronunciation": "fəˈsɑ:d",
+    "meaning": [
+      "fasada"
+    ]
+  },
+  {
+    "id": "f-face",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "face",
+    "pronunciation": "feɪs",
+    "meaning": [
+      "twarz",
+      "zbocze",
+      "tarcza",
+      "cyferblat",
+      "oblicze",
+      "stawiać czoła",
+      "być skierowanym",
+      "wychodzić",
+      "mieć do czynienia",
+      "stawiać czoło",
+      "zebrać się",
+      "pogodzić się",
+      "przyjmować",
+      "brać na siebie",
+      "wartość nominalna"
+    ]
+  },
+  {
+    "id": "f-faceless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "faceless",
+    "pronunciation": "ˈfeɪslɪs",
+    "meaning": [
+      "anonimowy"
+    ]
+  },
+  {
+    "id": "f-facet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "facet",
+    "pronunciation": "ˈfæsət",
+    "meaning": [
+      "aspekt",
+      "faseta"
+    ]
+  },
+  {
+    "id": "f-facetious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "facetious",
+    "pronunciation": "fəˈsi:ʃəs",
+    "meaning": [
+      "żartobliwy"
+    ]
+  },
+  {
+    "id": "f-facial",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "facial",
+    "pronunciation": "ˈfeɪʃəl",
+    "meaning": [
+      "dotyczący twarzy",
+      "twarzy"
+    ]
+  },
+  {
+    "id": "f-facile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "facile",
+    "pronunciation": "ˈfæsaɪl",
+    "meaning": [
+      "łatwy",
+      "lekki",
+      "płytki",
+      "powierzchowny"
+    ]
+  },
+  {
+    "id": "f-facilitate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "facilitate",
+    "pronunciation": "fəˈsɪlɪteɪt",
+    "meaning": [
+      "ułatwiać"
+    ]
+  },
+  {
+    "id": "f-facility",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "facility",
+    "pronunciation": "fəˈsɪlɪtɪ",
+    "meaning": [
+      "zdolność",
+      "łatwość",
+      "urządzenie",
+      "ułatwienie"
+    ]
+  },
+  {
+    "id": "f-facsimile",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "facsimile",
+    "pronunciation": "fækˈsɪmɪlɪ",
+    "meaning": [
+      "kopia",
+      "fax"
+    ]
+  },
+  {
+    "id": "f-fact",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fact",
+    "pronunciation": "fækt",
+    "meaning": [
+      "fakt",
+      "sprawa",
+      "zdarzenie"
+    ]
+  },
+  {
+    "id": "f-faction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "faction",
+    "pronunciation": "ˈfækʃən",
+    "meaning": [
+      "frakcja"
+    ]
+  },
+  {
+    "id": "f-factor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "factor",
+    "pronunciation": "ˈfæktə",
+    "meaning": [
+      "czynnik"
+    ]
+  },
+  {
+    "id": "f-factory",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "factory",
+    "pronunciation": "ˈfæktərɪ",
+    "meaning": [
+      "fabryka"
+    ]
+  },
+  {
+    "id": "f-factual",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "factual",
+    "pronunciation": "ˈfækʧʊəl",
+    "meaning": [
+      "rzeczowy"
+    ]
+  },
+  {
+    "id": "f-faculty",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "faculty",
+    "pronunciation": "ˈfækəltɪ",
+    "meaning": [
+      "władze umysłowe i cielesne",
+      "wydział uniwersytecki",
+      "wydział"
+    ]
+  },
+  {
+    "id": "f-fad",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fad",
+    "pronunciation": "fæd",
+    "meaning": [
+      "przelotna moda"
+    ]
+  },
+  {
+    "id": "f-faeces",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "faeces",
+    "pronunciation": "ˈfɪ:si:z",
+    "meaning": [
+      "kał"
+    ]
+  },
+  {
+    "id": "f-fag",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fag",
+    "pronunciation": "fæg",
+    "meaning": [
+      "harówka",
+      "pet",
+      "pedał"
+    ]
+  },
+  {
+    "id": "f-faggot",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "faggot",
+    "pronunciation": "ˈfægət",
+    "meaning": [
+      "pedzio"
+    ]
+  },
+  {
+    "id": "f-Fahrenheit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Fahrenheit",
+    "pronunciation": "ˈfærənhaɪt",
+    "meaning": [
+      "skala Fahrenheita"
+    ]
+  },
+  {
+    "id": "f-failing",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "failing",
+    "pronunciation": "ˈfeɪlɪŋ",
+    "meaning": [
+      "wada",
+      "zawodzący",
+      "słaby"
+    ]
+  },
+  {
+    "id": "f-failure",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "failure",
+    "pronunciation": "ˈfeɪljə",
+    "meaning": [
+      "niepowodzenie",
+      "fiasko",
+      "niewypełnienie",
+      "brak",
+      "niesprawność",
+      "krach",
+      "załamanie się",
+      "pechowiec",
+      "nieudacznik"
+    ]
+  },
+  {
+    "id": "f-faint",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "faint",
+    "pronunciation": "feɪnt",
+    "meaning": [
+      "nikły",
+      "wątły",
+      "mdlejący",
+      "mdleć"
+    ]
+  },
+  {
+    "id": "f-faintly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "faintly",
+    "pronunciation": "ˈfeɪntlɪ",
+    "meaning": [
+      "słabo",
+      "wątle"
+    ]
+  },
+  {
+    "id": "f-fair",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "fair",
+    "pronunciation": "feə",
+    "meaning": [
+      "uczciwy",
+      "fair",
+      "pokaźny",
+      "średni",
+      "prawidłowy",
+      "jasny",
+      "ładny",
+      "targowy",
+      "jarmarczny",
+      "wesołe miasteczko",
+      "targ",
+      "uczciwość",
+      "sprawiedliwość"
+    ]
+  },
+  {
+    "id": "f-fairly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "fairly",
+    "pronunciation": "ˈfeəlɪ",
+    "meaning": [
+      "dość",
+      "uczciwie",
+      "naprawdę",
+      "fair"
+    ]
+  },
+  {
+    "id": "f-fairness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fairness",
+    "pronunciation": "ˈfeənɪs",
+    "meaning": [
+      "sprawiedliwość"
+    ]
+  },
+  {
+    "id": "f-fairy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fairy",
+    "pronunciation": "ˈfeərɪ",
+    "meaning": [
+      "wróżka",
+      "baśń"
+    ]
+  },
+  {
+    "id": "f-faith",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "faith",
+    "pronunciation": "feɪθ",
+    "meaning": [
+      "wiara",
+      "religia"
+    ]
+  },
+  {
+    "id": "f-faithful",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "faithful",
+    "pronunciation": "ˈfeɪθfʊl",
+    "meaning": [
+      "wierny"
+    ]
+  },
+  {
+    "id": "f-faithfully",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "faithfully",
+    "pronunciation": "ˈfeɪθfʊlɪ",
+    "meaning": []
+  },
+  {
+    "id": "f-fake",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "fake",
+    "pronunciation": "feɪk",
+    "meaning": [
+      "fałszerstwo",
+      "imitacja",
+      "oszust",
+      "symulant",
+      "fałszowany",
+      "fałszować",
+      "naśladować",
+      "udawać"
+    ]
+  },
+  {
+    "id": "f-falcon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "falcon",
+    "pronunciation": "ˈfɔ:kən",
+    "meaning": [
+      "sokół"
+    ]
+  },
+  {
+    "id": "f-fall",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fall",
+    "pronunciation": "fɔ:l",
+    "meaning": [
+      "spadać",
+      "padać",
+      "upadać",
+      "opadać",
+      "zapadać",
+      "dawać się dzielić",
+      "rozpadać się",
+      "stawać się",
+      "paść",
+      "zginąć",
+      "upadek",
+      "spadek",
+      "wodospad",
+      "jesień",
+      "padać ze śmiechu",
+      "odpadać",
+      "cofać się",
+      "odskakiwać",
+      "uciekać się",
+      "wracać",
+      "cofać się do",
+      "zostawać w tyle",
+      "tracić głowę dla",
+      "tracić głowę",
+      "dawać się nabierać na",
+      "dawać się nabierać",
+      "zapadać się",
+      "zgadzać się z",
+      "zgadzać się",
+      "dostosowywać się do",
+      "dostosowywać się",
+      "spadać na",
+      "wypadać",
+      "kłócić się",
+      "przewracać się",
+      "nie udawać się",
+      "przypadać"
+    ]
+  },
+  {
+    "id": "f-fallacious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "fallacious",
+    "pronunciation": "fəˈleɪʃəs",
+    "meaning": [
+      "błędny",
+      "zwodniczy"
+    ]
+  },
+  {
+    "id": "f-fallacy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "fallacy",
+    "pronunciation": "ˈfæləsɪ",
+    "meaning": [
+      "błąd logiczny",
+      "błąd",
+      "fałsz rozumowania",
+      "fałsz"
+    ]
+  },
+  {
+    "id": "f-fallible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fallible",
+    "pronunciation": "ˈfɔ:ləbəl",
+    "meaning": [
+      "omylny",
+      "niedoskonały"
+    ]
+  },
+  {
+    "id": "f-fallout",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fallout",
+    "pronunciation": "ˈfɔ:laʊt",
+    "meaning": [
+      "opad promieniotwórczy"
+    ]
+  },
+  {
+    "id": "f-fallow",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "fallow",
+    "pronunciation": "ˈfæləʊ",
+    "meaning": [
+      "leżący odłogiem"
+    ]
+  },
+  {
+    "id": "f-false",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "false",
+    "pronunciation": "fɔ:ls",
+    "meaning": [
+      "fałszywy",
+      "sztuczny",
+      "falstart"
+    ]
+  },
+  {
+    "id": "f-falsehood",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "falsehood",
+    "pronunciation": "ˈfɔ:lshʊd",
+    "meaning": [
+      "fałszywość",
+      "fałsz",
+      "kłamstwo"
+    ]
+  },
+  {
+    "id": "f-falsify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "falsify",
+    "pronunciation": "ˈfɔ:lsɪfaɪ",
+    "meaning": [
+      "fałszować"
+    ]
+  },
+  {
+    "id": "f-falsity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "falsity",
+    "pronunciation": "ˈfɔ:lsətɪ",
+    "meaning": [
+      "fałsz"
+    ]
+  },
+  {
+    "id": "f-falter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "falter",
+    "pronunciation": "ˈfɔ:ltə",
+    "meaning": [
+      "krztusić się",
+      "chwiać się",
+      "kuleć",
+      "wahać się",
+      "zawahać się",
+      "zająknąć się",
+      "zwalniać"
+    ]
+  },
+  {
+    "id": "f-fame",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fame",
+    "pronunciation": "feɪm",
+    "meaning": [
+      "sława"
+    ]
+  },
+  {
+    "id": "f-famed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "famed",
+    "pronunciation": "feɪmd",
+    "meaning": [
+      "słynący"
+    ]
+  },
+  {
+    "id": "f-familial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "familial",
+    "pronunciation": "fəˈmɪlɪəl",
+    "meaning": [
+      "rodzinny"
+    ]
+  },
+  {
+    "id": "f-familiar",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "familiar",
+    "pronunciation": "fəˈmɪlɪə",
+    "meaning": [
+      "znajomy",
+      "zaznajomiony",
+      "obznajomiony",
+      "poufały"
+    ]
+  },
+  {
+    "id": "f-familiarize",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "familiarize",
+    "pronunciation": "fəˈmɪljəraɪz",
+    "meaning": []
+  },
+  {
+    "id": "f-family",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "family",
+    "pronunciation": "ˈfæmɪlɪ",
+    "meaning": [
+      "rodzina",
+      "rodzinny",
+      "drzewo genealogiczne"
+    ]
+  },
+  {
+    "id": "f-famine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "famine",
+    "pronunciation": "ˈfæmɪn",
+    "meaning": [
+      "głód"
+    ]
+  },
+  {
+    "id": "f-famished",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "famished",
+    "pronunciation": "ˈfæmɪʃt",
+    "meaning": [
+      "głodny jak wilk"
+    ]
+  },
+  {
+    "id": "f-famous",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "famous",
+    "pronunciation": "ˈfeɪməs",
+    "meaning": [
+      "słynny",
+      "znany"
+    ]
+  },
+  {
+    "id": "f-fan",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fan",
+    "pronunciation": "fæn",
+    "meaning": [
+      "fan",
+      "kibic",
+      "wachlarz",
+      "wentylator",
+      "wachlować się",
+      "podsycać",
+      "rozchodzić się promieniście"
+    ]
+  },
+  {
+    "id": "f-fanatic",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fanatic",
+    "pronunciation": "fəˈnætɪk",
+    "meaning": [
+      "fanatyk",
+      "fanatyczny"
+    ]
+  },
+  {
+    "id": "f-fanatical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fanatical",
+    "pronunciation": "fəˈnætɪkəl",
+    "meaning": [
+      "fanatyczny"
+    ]
+  },
+  {
+    "id": "f-fanciful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fanciful",
+    "pronunciation": "ˈfænsɪfʊl",
+    "meaning": [
+      "fantastyczny",
+      "urojony",
+      "wymyślny"
+    ]
+  },
+  {
+    "id": "f-fanfare",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fanfare",
+    "pronunciation": "ˈfænfeə",
+    "meaning": [
+      "fanfara"
+    ]
+  },
+  {
+    "id": "f-fanfold_paper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fanfold paper",
+    "pronunciation": "ˌfænˌfəʊld ˈpeɪpə",
+    "meaning": [
+      "papier ciągły perforowany",
+      "papier ciągły",
+      "składanka"
+    ]
+  },
+  {
+    "id": "f-fang",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fang",
+    "pronunciation": "fæŋ",
+    "meaning": [
+      "kieł"
+    ]
+  },
+  {
+    "id": "f-fantasize",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "fantasize",
+    "pronunciation": "ˈfæntəsaɪz",
+    "meaning": [
+      "fantazjować"
+    ]
+  },
+  {
+    "id": "f-fantasy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fantasy",
+    "pronunciation": "ˈfæntəsɪ",
+    "meaning": [
+      "fantazjowanie",
+      "fantazja"
+    ]
+  },
+  {
+    "id": "f-FAO",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "FAO",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Organizacja do Spraw Wyżywienia i Rolnictwa"
+    ]
+  },
+  {
+    "id": "f-faraway",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "faraway",
+    "pronunciation": "ˈfɑ:rəweɪ",
+    "meaning": [
+      "odległy",
+      "daleki"
+    ]
+  },
+  {
+    "id": "f-farce",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "farce",
+    "pronunciation": "fɑ:s",
+    "meaning": [
+      "farsa"
+    ]
+  },
+  {
+    "id": "f-farcical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "farcical",
+    "pronunciation": "ˈfɑ:sɪkəl",
+    "meaning": [
+      "farsowy"
+    ]
+  },
+  {
+    "id": "f-fare",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fare",
+    "pronunciation": "feə",
+    "meaning": [
+      "opłata",
+      "pożywienie",
+      "powodzić się"
+    ]
+  },
+  {
+    "id": "f-farewell",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "exclamation"
+    ],
+    "word": "farewell",
+    "pronunciation": "feəˈwel",
+    "meaning": [
+      "pożegnanie",
+      "żegnaj"
+    ]
+  },
+  {
+    "id": "f-far-fetched",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "far-fetched",
+    "pronunciation": "fɑ:ˈfeʧt",
+    "meaning": [
+      "przesadny",
+      "naciągnięty"
+    ]
+  },
+  {
+    "id": "f-far-flung",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "far-flung",
+    "pronunciation": "ˌfɑ:ˈflʌŋ",
+    "meaning": [
+      "oddalony",
+      "szeroko rozpostarty"
+    ]
+  },
+  {
+    "id": "f-farm",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "farm",
+    "pronunciation": "fɑ:m",
+    "meaning": [
+      "gospodarstwo rolne",
+      "farma",
+      "gospodarować na roli",
+      "gospodarować"
+    ]
+  },
+  {
+    "id": "f-farmer",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "farmer",
+    "pronunciation": "ˈfɑ:mə",
+    "meaning": [
+      "chłop",
+      "rolnik",
+      "farmer"
+    ]
+  },
+  {
+    "id": "f-farmhand",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "farmhand",
+    "pronunciation": "ˈfɑ:mhænd",
+    "meaning": [
+      "robotnik rolny",
+      "parobek"
+    ]
+  },
+  {
+    "id": "f-farming",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "farming",
+    "pronunciation": "ˈfɑ:mɪŋ",
+    "meaning": [
+      "rolnictwo",
+      "gospodarka"
+    ]
+  },
+  {
+    "id": "f-farmland",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "farmland",
+    "pronunciation": "ˈfɑ:mlænd",
+    "meaning": [
+      "ziemia uprawna"
+    ]
+  },
+  {
+    "id": "f-farmyard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "farmyard",
+    "pronunciation": "ˈfɑ:mjɑ:d",
+    "meaning": [
+      "podwórze"
+    ]
+  },
+  {
+    "id": "f-far-off",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "far-off",
+    "pronunciation": "ˌfɑ:rˈɒf",
+    "meaning": [
+      "odległy"
+    ]
+  },
+  {
+    "id": "f-far-reaching",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "far-reaching",
+    "pronunciation": "ˌfɑ:ˈri:ʧɪŋ",
+    "meaning": [
+      "doniosły",
+      "dalekosiężny"
+    ]
+  },
+  {
+    "id": "f-far-sighted",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "far-sighted",
+    "pronunciation": "ˌfɑ:ˈsaɪtɪd",
+    "meaning": [
+      "dalekowzroczny"
+    ]
+  },
+  {
+    "id": "f-fart",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fart",
+    "pronunciation": "ˈfɑ:t",
+    "meaning": [
+      "pierdzieć",
+      "pierdnięcie"
+    ]
+  },
+  {
+    "id": "f-farthing",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "farthing",
+    "pronunciation": "ˈfɑ:ðɪŋ",
+    "meaning": [
+      "ćwierć pensa"
+    ]
+  },
+  {
+    "id": "f-fascinate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fascinate",
+    "pronunciation": "ˈfæsɪneɪt",
+    "meaning": [
+      "fascynować"
+    ]
+  },
+  {
+    "id": "f-fascination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fascination",
+    "pronunciation": "ˌfæsɪˈneɪʃən",
+    "meaning": [
+      "fascynacja"
+    ]
+  },
+  {
+    "id": "f-fascism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fascism",
+    "pronunciation": "ˈfæʃɪzəm",
+    "meaning": [
+      "faszyzm"
+    ]
+  },
+  {
+    "id": "f-fascist",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fascist",
+    "pronunciation": "ˈfæʃɪst",
+    "meaning": [
+      "faszysta",
+      "faszystowski"
+    ]
+  },
+  {
+    "id": "f-fashion",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fashion",
+    "pronunciation": "ˈfæʃən",
+    "meaning": [
+      "sposób",
+      "moda",
+      "sporządzać"
+    ]
+  },
+  {
+    "id": "f-fashionable",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fashionable",
+    "pronunciation": "ˈfæʃənəbəl",
+    "meaning": [
+      "modny"
+    ]
+  },
+  {
+    "id": "f-fast",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb",
+      "verb",
+      "noun"
+    ],
+    "word": "fast",
+    "pronunciation": "fɑ:st",
+    "meaning": [
+      "szybki",
+      "trwały",
+      "szybko",
+      "prędko",
+      "twardo",
+      "mocno",
+      "pościć",
+      "post",
+      "potrawy na poczekaniu ciepłe",
+      "potrawy na poczekaniu"
+    ]
+  },
+  {
+    "id": "f-fastening",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fastening",
+    "pronunciation": "ˈfɑ:sənɪŋ",
+    "meaning": [
+      "klamra",
+      "zamocowanie"
+    ]
+  },
+  {
+    "id": "f-fastidious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fastidious",
+    "pronunciation": "fæstˈtɪdɪəs",
+    "meaning": [
+      "wybredny",
+      "grymaśny"
+    ]
+  },
+  {
+    "id": "f-fat",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fat",
+    "pronunciation": "fæt",
+    "meaning": [
+      "tłuszcz",
+      "tłusty",
+      "gruby",
+      "niezły",
+      "duży"
+    ]
+  },
+  {
+    "id": "f-fatal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fatal",
+    "pronunciation": "ˈfeɪtəl",
+    "meaning": [
+      "fatalny",
+      "śmiertelny"
+    ]
+  },
+  {
+    "id": "f-fatalism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "fatalism",
+    "pronunciation": "ˈfeɪtəlɪzəm",
+    "meaning": [
+      "fatalizm"
+    ]
+  },
+  {
+    "id": "f-fatality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fatality",
+    "pronunciation": "fəˈtælɪtɪ",
+    "meaning": [
+      "ofiara śmiertelna",
+      "fatalizm"
+    ]
+  },
+  {
+    "id": "f-fate",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fate",
+    "pronunciation": "feɪt",
+    "meaning": [
+      "los",
+      "przeznaczenie"
+    ]
+  },
+  {
+    "id": "f-fated",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fated",
+    "pronunciation": "ˈfeɪtɪd",
+    "meaning": []
+  },
+  {
+    "id": "f-fateful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fateful",
+    "pronunciation": "ˈfeɪtfʊl",
+    "meaning": [
+      "brzemienny w skutki"
+    ]
+  },
+  {
+    "id": "f-father",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "father",
+    "pronunciation": "ˈfɑ:ðə",
+    "meaning": [
+      "ojciec",
+      "zrodzić",
+      "być ojcem",
+      "św. Mikołaj"
+    ]
+  },
+  {
+    "id": "f-fatherhood",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fatherhood",
+    "pronunciation": "ˈfɑ:ðəhʊd",
+    "meaning": [
+      "ojcostwo"
+    ]
+  },
+  {
+    "id": "f-father-in-law",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "father-in-law",
+    "pronunciation": "ˈfɑ:ðərɪnlɔ:",
+    "meaning": [
+      "teść"
+    ]
+  },
+  {
+    "id": "f-fatherless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fatherless",
+    "pronunciation": "ˈfɑ:ðəlɪs",
+    "meaning": [
+      "bez ojca"
+    ]
+  },
+  {
+    "id": "f-fatherly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fatherly",
+    "pronunciation": "ˈfɑ:ðəlɪ",
+    "meaning": [
+      "ojcowski"
+    ]
+  },
+  {
+    "id": "f-fathom",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fathom",
+    "pronunciation": "ˈfæθəm",
+    "meaning": [
+      "sążeń",
+      "zgłębiać",
+      "dociekać"
+    ]
+  },
+  {
+    "id": "f-fatigue",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fatigue",
+    "pronunciation": "fəˈti:g",
+    "meaning": [
+      "wyczerpanie",
+      "wyczerpywać",
+      "zmęczenie metalu",
+      "zmęczenie"
+    ]
+  },
+  {
+    "id": "f-fatten",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fatten",
+    "pronunciation": "ˈfætən",
+    "meaning": [
+      "tuczyć się",
+      "tuczyć",
+      "przybierać na wadze"
+    ]
+  },
+  {
+    "id": "f-fatty",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fatty",
+    "pronunciation": "ˈfætɪ",
+    "meaning": [
+      "tłusty",
+      "tłuścioch"
+    ]
+  },
+  {
+    "id": "f-fatuous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "fatuous",
+    "pronunciation": "ˈfætjʊəs",
+    "meaning": [
+      "głupi",
+      "bujający w obłokach"
+    ]
+  },
+  {
+    "id": "f-faucet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "faucet",
+    "pronunciation": "ˈfɔ:sət",
+    "meaning": [
+      "kurek",
+      "kran"
+    ]
+  },
+  {
+    "id": "f-fault",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fault",
+    "pronunciation": "fɔ:lt",
+    "meaning": [
+      "wina",
+      "brak",
+      "defekt",
+      "uskok tektoniczny",
+      "uskok",
+      "zarzucać"
+    ]
+  },
+  {
+    "id": "f-faultless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "faultless",
+    "pronunciation": "ˈfɔ:ltlɪs",
+    "meaning": [
+      "bezbłędny",
+      "bez zarzutu"
+    ]
+  },
+  {
+    "id": "f-faulty",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "faulty",
+    "pronunciation": "ˈfɔ:ltɪ",
+    "meaning": [
+      "wadliwy"
+    ]
+  },
+  {
+    "id": "f-fauna",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fauna",
+    "pronunciation": "ˈfɔ:nə",
+    "meaning": [
+      "fauna"
+    ]
+  },
+  {
+    "id": "f-favour",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "favour",
+    "pronunciation": "ˈfeɪvə",
+    "meaning": [
+      "aprobata",
+      "uznanie",
+      "przysługa",
+      "woleć",
+      "sprzyjać",
+      "faworyzować",
+      "zaszczycać"
+    ]
+  },
+  {
+    "id": "f-favourable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "favourable",
+    "pronunciation": "ˈfeɪvərəbəl",
+    "meaning": [
+      "aprobujący",
+      "korzystny",
+      "sprzyjający"
+    ]
+  },
+  {
+    "id": "f-favourite",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "favourite",
+    "pronunciation": "ˈfeɪvrɪt",
+    "meaning": [
+      "ulubiony",
+      "faworyt"
+    ]
+  },
+  {
+    "id": "f-favouritism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "favouritism",
+    "pronunciation": "ˈfeɪvrɪtɪzəm",
+    "meaning": [
+      "faworyzowanie"
+    ]
+  },
+  {
+    "id": "f-fawn",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "fawn",
+    "pronunciation": "fɔ:n",
+    "meaning": [
+      "płowy",
+      "jelonek",
+      "łasić się",
+      "przypochlebiać się"
+    ]
+  },
+  {
+    "id": "f-fax",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fax",
+    "pronunciation": "fæks",
+    "meaning": [
+      "faks",
+      "faksować"
+    ]
+  },
+  {
+    "id": "f-FBI",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "FBI",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Federalne Biuro Śledcze"
+    ]
+  },
+  {
+    "id": "f-FCO",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "FCO",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "MSZ",
+      "Ministerstwo Spraw Zagranicznych"
+    ]
+  },
+  {
+    "id": "f-fear",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fear",
+    "pronunciation": "fɪə",
+    "meaning": [
+      "strach",
+      "obawa",
+      "bać się",
+      "obawiać się",
+      "mieć obawy"
+    ]
+  },
+  {
+    "id": "f-fearful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fearful",
+    "pronunciation": "ˈfɪəfʊl",
+    "meaning": [
+      "straszny"
+    ]
+  },
+  {
+    "id": "f-fearless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fearless",
+    "pronunciation": "ˈfɪəlɪs",
+    "meaning": [
+      "nieustraszony"
+    ]
+  },
+  {
+    "id": "f-fearsome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fearsome",
+    "pronunciation": "ˈfɪəsəm",
+    "meaning": [
+      "straszliwy"
+    ]
+  },
+  {
+    "id": "f-feasible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "feasible",
+    "pronunciation": "ˈfi:zəbəl",
+    "meaning": [
+      "osiągalny",
+      "wykonalny"
+    ]
+  },
+  {
+    "id": "f-feast",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "feast",
+    "pronunciation": "fi:st",
+    "meaning": [
+      "przyjęcie",
+      "uczta",
+      "ucztować"
+    ]
+  },
+  {
+    "id": "f-feat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "feat",
+    "pronunciation": "fi:t",
+    "meaning": [
+      "wyczyn",
+      "popis"
+    ]
+  },
+  {
+    "id": "f-feather",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "feather",
+    "pronunciation": "ˈfeðə",
+    "meaning": [
+      "pióro"
+    ]
+  },
+  {
+    "id": "f-feathery",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "feathery",
+    "pronunciation": "ˈfeðərɪ",
+    "meaning": [
+      "pierzasty"
+    ]
+  },
+  {
+    "id": "f-feature",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "feature",
+    "pronunciation": "ˈfi:ʧə",
+    "meaning": [
+      "cecha charakterystyczna",
+      "cecha",
+      "urządzenie",
+      "dodatek",
+      "rysy",
+      "charakterystyczny punkt",
+      "rzeźba",
+      "artykuł wiodący",
+      "audycja specjalna dokumentacyjna",
+      "audycja specjalna",
+      "najważniejszy punkt",
+      "film pełnometrażowy",
+      "prezentować",
+      "obsadzać w głównej roli",
+      "występować w głównej roli",
+      "występować na pierwszym planie"
+    ]
+  },
+  {
+    "id": "f-Feb.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Feb.",
+    "pronunciation": "/ˈfebrʊəri/",
+    "meaning": [
+      "luty"
+    ]
+  },
+  {
+    "id": "f-February",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "February",
+    "pronunciation": "ˈfebrʊərɪ",
+    "meaning": [
+      "luty"
+    ]
+  },
+  {
+    "id": "f-feckless",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "feckless",
+    "pronunciation": "ˈfeklɪs",
+    "meaning": [
+      "nieporęczny",
+      "niezgrabny"
+    ]
+  },
+  {
+    "id": "f-federal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "federal",
+    "pronunciation": "ˈfedərəl",
+    "meaning": [
+      "federalny",
+      "dotyczący całości USA"
+    ]
+  },
+  {
+    "id": "f-federation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "federation",
+    "pronunciation": "ˌfedəˈreɪʃən",
+    "meaning": [
+      "związek",
+      "federacja"
+    ]
+  },
+  {
+    "id": "f-fee",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fee",
+    "pronunciation": "fi:",
+    "meaning": [
+      "opłata",
+      "honorarium",
+      "gaża"
+    ]
+  },
+  {
+    "id": "f-feeble",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "feeble",
+    "pronunciation": "ˈfi:bəl",
+    "meaning": [
+      "słaby",
+      "wątły",
+      "kiepski"
+    ]
+  },
+  {
+    "id": "f-feed",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "feed",
+    "pronunciation": "fi:d",
+    "meaning": [
+      "karmić",
+      "żywić się",
+      "żywić",
+      "wyżywiać się",
+      "wyżywiać",
+      "podsycać",
+      "wprowadzać",
+      "pasza",
+      "karmienie",
+      "pokarm"
+    ]
+  },
+  {
+    "id": "f-feedback",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "feedback",
+    "pronunciation": "ˈfi:dbæk",
+    "meaning": [
+      "odzew",
+      "sprzężenie zwrotne"
+    ]
+  },
+  {
+    "id": "f-feel",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "feel",
+    "pronunciation": "fi:l",
+    "meaning": [
+      "czuć się",
+      "czuć",
+      "sądzić",
+      "być w dotyku",
+      "odczuwać",
+      "wyczuwać",
+      "dotykać",
+      "obmacywać",
+      "wyszukiwać",
+      "dotknięcie",
+      "odczucie"
+    ]
+  },
+  {
+    "id": "f-feeling",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "feeling",
+    "pronunciation": "ˈfi:lɪŋ",
+    "meaning": [
+      "uczucie",
+      "czucie",
+      "odczucie"
+    ]
+  },
+  {
+    "id": "f-feign",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "feign",
+    "pronunciation": "feɪn",
+    "meaning": [
+      "udawać"
+    ]
+  },
+  {
+    "id": "f-feint",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "feint",
+    "pronunciation": "feɪnt",
+    "meaning": [
+      "fingowany cios",
+      "fingować"
+    ]
+  },
+  {
+    "id": "f-feline",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "feline",
+    "pronunciation": "ˈfi:laɪn",
+    "meaning": [
+      "kotowaty",
+      "koci"
+    ]
+  },
+  {
+    "id": "f-fell",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "fell",
+    "pronunciation": "fel",
+    "meaning": [
+      "zwalać"
+    ]
+  },
+  {
+    "id": "f-fellow",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fellow",
+    "pronunciation": "ˈfeləʊ",
+    "meaning": [
+      "facet",
+      "gość",
+      "członek",
+      "współtowarzysz",
+      "współ-",
+      "bliźni"
+    ]
+  },
+  {
+    "id": "f-fellowship",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fellowship",
+    "pronunciation": "ˈfeləʃɪp",
+    "meaning": [
+      "braterstwo",
+      "stowarzyszenie",
+      "związek"
+    ]
+  },
+  {
+    "id": "f-felony",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "felony",
+    "pronunciation": "ˈfelənə",
+    "meaning": [
+      "zbrodnia"
+    ]
+  },
+  {
+    "id": "f-felt",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "felt",
+    "pronunciation": "felt",
+    "meaning": [
+      "filc",
+      "filcowy"
+    ]
+  },
+  {
+    "id": "f-felt-tip_pen",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "felt-tip pen",
+    "pronunciation": "ˌfelttɪp ˈpen",
+    "meaning": [
+      "mazak",
+      "pisak"
+    ]
+  },
+  {
+    "id": "f-fem.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fem.",
+    "pronunciation": "/ˈfem/",
+    "meaning": [
+      "żeński"
+    ]
+  },
+  {
+    "id": "f-female",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "female",
+    "pronunciation": "ˈfi:meɪl",
+    "meaning": [
+      "samica",
+      "kobieta",
+      "osobnik płci żeńskiej",
+      "żeński",
+      "kobiecy"
+    ]
+  },
+  {
+    "id": "f-feminine",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "feminine",
+    "pronunciation": "ˈfemɪnɪn",
+    "meaning": [
+      "kobiecy",
+      "żeński"
+    ]
+  },
+  {
+    "id": "f-femininity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "femininity",
+    "pronunciation": "ˌfemɪˈnɪnətɪ",
+    "meaning": [
+      "kobiecość"
+    ]
+  },
+  {
+    "id": "f-feminism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "feminism",
+    "pronunciation": "ˈfemɪnɪzəm",
+    "meaning": [
+      "feminizm"
+    ]
+  },
+  {
+    "id": "f-feminist",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "feminist",
+    "pronunciation": "ˈfemɪnɪst",
+    "meaning": [
+      "feministka",
+      "feministyczny"
+    ]
+  },
+  {
+    "id": "f-fencing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fencing",
+    "pronunciation": "ˈfensɪŋ",
+    "meaning": [
+      "szermierka",
+      "materiał ogrodzeniowy"
+    ]
+  },
+  {
+    "id": "f-fend",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fend",
+    "pronunciation": "fend",
+    "meaning": [
+      "odparowywać",
+      "odbijać"
+    ]
+  },
+  {
+    "id": "f-fender",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fender",
+    "pronunciation": "ˈfendə",
+    "meaning": [
+      "błotnik"
+    ]
+  },
+  {
+    "id": "f-ferment",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ferment",
+    "pronunciation": "/ˈfɜːment/",
+    "meaning": [
+      "ferment",
+      "fermentować"
+    ]
+  },
+  {
+    "id": "f-fern",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fern",
+    "pronunciation": "fɜ:n",
+    "meaning": [
+      "paproć"
+    ]
+  },
+  {
+    "id": "f-ferocious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ferocious",
+    "pronunciation": "fəˈrəʊʃəs",
+    "meaning": [
+      "zażarty",
+      "zajadły"
+    ]
+  },
+  {
+    "id": "f-ferocity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ferocity",
+    "pronunciation": "fəˈrɒsətɪ",
+    "meaning": [
+      "zajadłość",
+      "zaciekłośc"
+    ]
+  },
+  {
+    "id": "f-ferret",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ferret",
+    "pronunciation": "ˈferɪt",
+    "meaning": [
+      "fretka",
+      "wygrzebywać"
+    ]
+  },
+  {
+    "id": "f-ferry",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ferry",
+    "pronunciation": "ˈferɪ",
+    "meaning": [
+      "prom",
+      "transportować"
+    ]
+  },
+  {
+    "id": "f-fertile",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fertile",
+    "pronunciation": "ˈfɜ:taɪl",
+    "meaning": [
+      "żyzny",
+      "płodny"
+    ]
+  },
+  {
+    "id": "f-fertilize",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "fertilize",
+    "pronunciation": "ˈfɜ:tɪlaɪz",
+    "meaning": [
+      "zapładniać",
+      "zapylać",
+      "nawozić"
+    ]
+  },
+  {
+    "id": "f-fertilizer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fertilizer",
+    "pronunciation": "ˈfɜ:tɪlaɪzə",
+    "meaning": [
+      "nawóz"
+    ]
+  },
+  {
+    "id": "f-fervent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fervent",
+    "pronunciation": "ˈfɜ:vənt",
+    "meaning": [
+      "żarliwy",
+      "namiętny"
+    ]
+  },
+  {
+    "id": "f-fervour",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fervour",
+    "pronunciation": "ˈfɜ:və",
+    "meaning": [
+      "żarliwość",
+      "namiętność"
+    ]
+  },
+  {
+    "id": "f-fester",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fester",
+    "pronunciation": "ˈfestə",
+    "meaning": [
+      "ropieć",
+      "jątrzyć się"
+    ]
+  },
+  {
+    "id": "f-festival",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "festival",
+    "pronunciation": "ˈfestɪvəl",
+    "meaning": [
+      "festiwal",
+      "święto religijne",
+      "święto"
+    ]
+  },
+  {
+    "id": "f-festive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "festive",
+    "pronunciation": "ˈfestɪv",
+    "meaning": [
+      "świąteczny"
+    ]
+  },
+  {
+    "id": "f-festivity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "festivity",
+    "pronunciation": "feˈstɪvɪtɪ",
+    "meaning": [
+      "uroczystość",
+      "świętowanie"
+    ]
+  },
+  {
+    "id": "f-festoon",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "festoon",
+    "pronunciation": "feˈstu:n",
+    "meaning": []
+  },
+  {
+    "id": "f-fetch",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "fetch",
+    "pronunciation": "feʧ",
+    "meaning": [
+      "sprowadzać",
+      "przynosić",
+      "lądować"
+    ]
+  },
+  {
+    "id": "f-fetching",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fetching",
+    "pronunciation": "ˈfeʧɪŋ",
+    "meaning": [
+      "korzystny"
+    ]
+  },
+  {
+    "id": "f-fête",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fête",
+    "pronunciation": "feɪt",
+    "meaning": [
+      "feta",
+      "festyn",
+      "fetować",
+      "owacyjnie przyjmować"
+    ]
+  },
+  {
+    "id": "f-fetid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fetid",
+    "pronunciation": "ˈfetɪd",
+    "meaning": [
+      "cuchnący"
+    ]
+  },
+  {
+    "id": "f-fetish",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fetish",
+    "pronunciation": "ˈfetɪʃ",
+    "meaning": [
+      "fetysz"
+    ]
+  },
+  {
+    "id": "f-fetter",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fetter",
+    "pronunciation": "ˈfetə",
+    "meaning": [
+      "więzić",
+      "więzy",
+      "kajdany"
+    ]
+  },
+  {
+    "id": "f-feud",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "feud",
+    "pronunciation": "fju:d",
+    "meaning": [
+      "waśń",
+      "wendeta"
+    ]
+  },
+  {
+    "id": "f-feudal",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "feudal",
+    "pronunciation": "ˈfju:dəl",
+    "meaning": [
+      "feudalny"
+    ]
+  },
+  {
+    "id": "f-feudalism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "feudalism",
+    "pronunciation": "ˈfju:dəlɪzəm",
+    "meaning": [
+      "feudalizm"
+    ]
+  },
+  {
+    "id": "f-fever",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fever",
+    "pronunciation": "ˈfi:və",
+    "meaning": [
+      "gorączka",
+      "febra",
+      "rozgorączkowanie"
+    ]
+  },
+  {
+    "id": "f-feverish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "feverish",
+    "pronunciation": "ˈfi:vərɪʃ",
+    "meaning": [
+      "rozgorączkowany",
+      "podniecony",
+      "gorączkujący"
+    ]
+  },
+  {
+    "id": "f-ff.",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun",
+      "preposition"
+    ],
+    "word": "ff.",
+    "pronunciation": "/ˈfɒləʊɪŋ/",
+    "meaning": [
+      "i nn.",
+      "i następne linie",
+      "i następne strony"
+    ]
+  },
+  {
+    "id": "f-fiancé",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fiancé",
+    "pronunciation": "fɪˈɒnseɪ",
+    "meaning": [
+      "narzeczony"
+    ]
+  },
+  {
+    "id": "f-fiancée",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fiancée",
+    "pronunciation": "fɪˈɒnseɪ",
+    "meaning": [
+      "narzeczona"
+    ]
+  },
+  {
+    "id": "f-fiasco",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fiasco",
+    "pronunciation": "fɪˈæskəʊ",
+    "meaning": [
+      "fiasko",
+      "niepowodzenie"
+    ]
+  },
+  {
+    "id": "f-fib",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fib",
+    "pronunciation": "fɪb",
+    "meaning": [
+      "łgarstwo",
+      "łgać"
+    ]
+  },
+  {
+    "id": "f-fibre",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fibre",
+    "pronunciation": "ˈfaɪbə",
+    "meaning": [
+      "włókno",
+      "błonnik"
+    ]
+  },
+  {
+    "id": "f-fibreglass",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "fibreglass",
+    "pronunciation": "ˈfaɪbəglɑ:s",
+    "meaning": [
+      "włókno szklane"
+    ]
+  },
+  {
+    "id": "f-fibrous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fibrous",
+    "pronunciation": "ˈfaɪbrəs",
+    "meaning": [
+      "włóknisty"
+    ]
+  },
+  {
+    "id": "f-fickle",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fickle",
+    "pronunciation": "ˈfɪkəl",
+    "meaning": [
+      "zmienny",
+      "niestały"
+    ]
+  },
+  {
+    "id": "f-fiction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fiction",
+    "pronunciation": "ˈfɪkʃən",
+    "meaning": [
+      "literatura",
+      "beletrystyka",
+      "fikcja"
+    ]
+  },
+  {
+    "id": "f-fictional",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fictional",
+    "pronunciation": "ˈfɪkʃənəl",
+    "meaning": [
+      "fikcyjny",
+      "powieściowy"
+    ]
+  },
+  {
+    "id": "f-fictitious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fictitious",
+    "pronunciation": "fɪkˈtɪʃəs",
+    "meaning": [
+      "fikcyjny"
+    ]
+  },
+  {
+    "id": "f-fidelity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fidelity",
+    "pronunciation": "fɪˈdelɪtɪ",
+    "meaning": [
+      "wierność"
+    ]
+  },
+  {
+    "id": "f-fidget",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "fidget",
+    "pronunciation": "ˈfɪʤɪt",
+    "meaning": [
+      "kręcić się",
+      "wiercić się"
+    ]
+  },
+  {
+    "id": "f-fidgety",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fidgety",
+    "pronunciation": "ˈfɪʤɪtɪ",
+    "meaning": [
+      "wiercący się",
+      "nerwowy"
+    ]
+  },
+  {
+    "id": "f-field",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "field",
+    "pronunciation": "fi:ld",
+    "meaning": [
+      "pole",
+      "boisko",
+      "pokład",
+      "dziedzina",
+      "teren badań",
+      "teren",
+      "naturalne środowisko",
+      "terenowy",
+      "lornetka",
+      "marszałek polny"
+    ]
+  },
+  {
+    "id": "f-fiend",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fiend",
+    "pronunciation": "fi:nd",
+    "meaning": [
+      "potwór",
+      "szatan",
+      "fanatyk"
+    ]
+  },
+  {
+    "id": "f-fiendish",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fiendish",
+    "pronunciation": "ˈfi:ndɪʃ",
+    "meaning": [
+      "potworny",
+      "piekielny"
+    ]
+  },
+  {
+    "id": "f-fierce",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fierce",
+    "pronunciation": "fɪəs",
+    "meaning": [
+      "zajadły",
+      "gwałtowny"
+    ]
+  },
+  {
+    "id": "f-fiery",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fiery",
+    "pronunciation": "ˈfaɪərɪ",
+    "meaning": [
+      "rozogniony",
+      "rozpalony",
+      "rozpłomieniony"
+    ]
+  },
+  {
+    "id": "f-fifteen",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "determiner"
+    ],
+    "word": "fifteen",
+    "pronunciation": "ˌfɪfˈti:n",
+    "meaning": [
+      "piętnaście"
+    ]
+  },
+  {
+    "id": "f-fifteenth",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "fifteenth",
+    "pronunciation": "ˌfɪfˈti:nθ",
+    "meaning": [
+      "piętnasty"
+    ]
+  },
+  {
+    "id": "f-fifth",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "fifth",
+    "pronunciation": "fɪfθ",
+    "meaning": [
+      "piąty"
+    ]
+  },
+  {
+    "id": "f-fiftieth",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fiftieth",
+    "pronunciation": "ˈfɪftɪəθ",
+    "meaning": [
+      "pięćdziesiąty"
+    ]
+  },
+  {
+    "id": "f-fifty",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fifty",
+    "pronunciation": "ˈfɪftɪ",
+    "meaning": [
+      "pięćdziesiąt"
+    ]
+  },
+  {
+    "id": "f-fifty-fifty",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "fifty-fifty",
+    "pronunciation": "ˌfɪftɪ ˈfɪftɪ",
+    "meaning": [
+      "pół na pół",
+      "fifty fifty"
+    ]
+  },
+  {
+    "id": "f-fig",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fig",
+    "pronunciation": "fɪg",
+    "meaning": [
+      "figa"
+    ]
+  },
+  {
+    "id": "f-fig.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fig.",
+    "pronunciation": "/fɪɡ/",
+    "meaning": [
+      "ryc.",
+      "rycina"
+    ]
+  },
+  {
+    "id": "f-fight",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fight",
+    "pronunciation": "faɪt",
+    "meaning": [
+      "walczyć",
+      "bić się",
+      "bić",
+      "zwalczać",
+      "kłócić się",
+      "sprzeczać się",
+      "walka",
+      "bójka",
+      "odpierać",
+      "stosować kontratak",
+      "powstrzymywać",
+      "opanowywać",
+      "rozstrzygać na drodze walki"
+    ]
+  },
+  {
+    "id": "f-fighter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fighter",
+    "pronunciation": "ˈfaɪtə",
+    "meaning": [
+      "bojownik",
+      "wojownik",
+      "uczestnik walki",
+      "myśliwiec"
+    ]
+  },
+  {
+    "id": "f-figment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "figment",
+    "pronunciation": "ˈfɪgmənt",
+    "meaning": []
+  },
+  {
+    "id": "f-figurative",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "figurative",
+    "pronunciation": "ˈfɪgərətɪv",
+    "meaning": [
+      "metaforyczny",
+      "przenośny"
+    ]
+  },
+  {
+    "id": "f-figure",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "figure",
+    "pronunciation": "ˈfɪgə",
+    "meaning": [
+      "cyfra",
+      "suma",
+      "dane",
+      "postać",
+      "osobowość",
+      "symbol",
+      "typ",
+      "figura",
+      "rycina",
+      "rysunek",
+      "dochodzić do przekonania",
+      "oceniać",
+      "pojawiać się",
+      "uważać",
+      "figura retoryczna",
+      "przemyśliwać",
+      "wymyślać",
+      "kombinować"
+    ]
+  },
+  {
+    "id": "f-figurehead",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "figurehead",
+    "pronunciation": "ˈfɪgəhed",
+    "meaning": [
+      "figurant"
+    ]
+  },
+  {
+    "id": "f-filament",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "filament",
+    "pronunciation": "ˈfɪləmənt",
+    "meaning": [
+      "włókno",
+      "włókienko",
+      "drucik w żarówce",
+      "drucik"
+    ]
+  },
+  {
+    "id": "f-filch",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "filch",
+    "pronunciation": "fɪlʧ",
+    "meaning": [
+      "zwędzić"
+    ]
+  },
+  {
+    "id": "f-file",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "file",
+    "pronunciation": "faɪl",
+    "meaning": [
+      "kartoteka",
+      "skoroszyt",
+      "segregator",
+      "akta",
+      "rejestr",
+      "plik",
+      "pilnik",
+      "rząd",
+      "kolumna",
+      "ewidencjonować",
+      "włączać do akt",
+      "włączać",
+      "wnosić",
+      "składać",
+      "przedstawiać",
+      "piłować",
+      "iść w kolumnie pojedynczo",
+      "iść w kolumnie"
+    ]
+  },
+  {
+    "id": "f-filial",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "filial",
+    "pronunciation": "ˈfɪlɪəl",
+    "meaning": [
+      "synowski"
+    ]
+  },
+  {
+    "id": "f-filing_cabinet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "filing cabinet",
+    "pronunciation": "ˈfaɪlɪŋ ˌkæbɪnət",
+    "meaning": [
+      "szafa na kartoteki"
+    ]
+  },
+  {
+    "id": "f-Filipino",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Filipino",
+    "pronunciation": "ˌfɪlɪˈpi:nəʊ",
+    "meaning": [
+      "Filipińczyk"
+    ]
+  },
+  {
+    "id": "f-fill",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "fill",
+    "pronunciation": "fɪl",
+    "meaning": [
+      "napełniać",
+      "wypełniać się",
+      "wypełniać",
+      "spełniać",
+      "poinformować kogoś",
+      "zastępować",
+      "przybierać na wadze",
+      "napełniać się"
+    ]
+  },
+  {
+    "id": "f-fillet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fillet",
+    "pronunciation": "ˈfɪlɪt",
+    "meaning": [
+      "filet"
+    ]
+  },
+  {
+    "id": "f-filling",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "filling",
+    "pronunciation": "ˈfɪlɪŋ",
+    "meaning": [
+      "plomba",
+      "nadzienie",
+      "sytny",
+      "stacja benzynowa"
+    ]
+  },
+  {
+    "id": "f-film",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "film",
+    "pronunciation": "fɪlm",
+    "meaning": [
+      "film",
+      "powłoka",
+      "warstwa",
+      "błona",
+      "robić zdjęcia",
+      "filmować"
+    ]
+  },
+  {
+    "id": "f-filter",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "filter",
+    "pronunciation": "ˈfɪltə",
+    "meaning": [
+      "filtrować",
+      "przesączać się",
+      "przedzierać się",
+      "przedostawać się",
+      "filtr",
+      "odfiltrowywać"
+    ]
+  },
+  {
+    "id": "f-filth",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "filth",
+    "pronunciation": "fɪlθ",
+    "meaning": [
+      "brud",
+      "plugastwo",
+      "sprośność"
+    ]
+  },
+  {
+    "id": "f-filthy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "filthy",
+    "pronunciation": "ˈfɪlθɪ",
+    "meaning": [
+      "brudny",
+      "zapaskudzony",
+      "plugawy",
+      "sprośny"
+    ]
+  },
+  {
+    "id": "f-fin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fin",
+    "pronunciation": "fɪn",
+    "meaning": [
+      "płetwa"
+    ]
+  },
+  {
+    "id": "f-final",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "final",
+    "pronunciation": "ˈfaɪnəl",
+    "meaning": [
+      "końcowy",
+      "finałowy",
+      "finalny",
+      "główny",
+      "największy",
+      "ostateczny",
+      "finał",
+      "egzaminy końcowe"
+    ]
+  },
+  {
+    "id": "f-finalist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "finalist",
+    "pronunciation": "ˈfaɪnəlɪst",
+    "meaning": [
+      "finalista"
+    ]
+  },
+  {
+    "id": "f-finality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "finality",
+    "pronunciation": "faɪˈnælɪtɪ",
+    "meaning": [
+      "zdecydowanie",
+      "stanowczość"
+    ]
+  },
+  {
+    "id": "f-finally",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "finally",
+    "pronunciation": "ˈfaɪnəlɪ",
+    "meaning": [
+      "w końcu",
+      "ostatecznie",
+      "na końcu",
+      "wreszcie"
+    ]
+  },
+  {
+    "id": "f-finance",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "finance",
+    "pronunciation": "fɪˈnæns",
+    "meaning": [
+      "finansować",
+      "sfinansowanie",
+      "dofinansowanie",
+      "pieniądze",
+      "finansowość",
+      "finanse"
+    ]
+  },
+  {
+    "id": "f-financial",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "financial",
+    "pronunciation": "fɪˈnænʃəl",
+    "meaning": [
+      "finansowy"
+    ]
+  },
+  {
+    "id": "f-financier",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "financier",
+    "pronunciation": "fɪˈnænsɪə",
+    "meaning": [
+      "finansista"
+    ]
+  },
+  {
+    "id": "f-finch",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "finch",
+    "pronunciation": "fɪnʧ",
+    "meaning": [
+      "zięba",
+      "szczygieł",
+      "gil",
+      "czyżyk"
+    ]
+  },
+  {
+    "id": "f-find",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "find",
+    "pronunciation": "faɪnd",
+    "meaning": [
+      "znajdować",
+      "zauważać",
+      "stwierdzać",
+      "znalezisko",
+      "zdobycz",
+      "zdemaskować"
+    ]
+  },
+  {
+    "id": "f-finding",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "finding",
+    "pronunciation": "ˈfaɪndɪŋ",
+    "meaning": [
+      "rezultat",
+      "stwierdzenie"
+    ]
+  },
+  {
+    "id": "f-finery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "finery",
+    "pronunciation": "ˈfaɪnərɪ",
+    "meaning": [
+      "stroje i kosztowności",
+      "precjoza"
+    ]
+  },
+  {
+    "id": "f-finesse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "finesse",
+    "pronunciation": "fɪˈnes",
+    "meaning": [
+      "finezja"
+    ]
+  },
+  {
+    "id": "f-finger",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "finger",
+    "pronunciation": "ˈfɪŋgə",
+    "meaning": [
+      "palec",
+      "obmacywać"
+    ]
+  },
+  {
+    "id": "f-fingernail",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "fingernail",
+    "pronunciation": "ˈfɪŋgəneɪl",
+    "meaning": [
+      "paznokieć"
+    ]
+  },
+  {
+    "id": "f-fingerprint",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fingerprint",
+    "pronunciation": "ˈfɪŋgəprɪnt",
+    "meaning": [
+      "odcisk palca",
+      "odcisk",
+      "zdejmować odciski palców",
+      "zdejmować odciski"
+    ]
+  },
+  {
+    "id": "f-finicky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "finicky",
+    "pronunciation": "ˈfɪnɪkɪ",
+    "meaning": [
+      "grymaśny",
+      "wybredny"
+    ]
+  },
+  {
+    "id": "f-finish",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "finish",
+    "pronunciation": "ˈfɪnɪʃ",
+    "meaning": [
+      "kończyć się",
+      "kończyć",
+      "kończyć zawody",
+      "kończyć wyścig",
+      "koniec",
+      "zakończenie",
+      "wykończenie",
+      "finisz",
+      "meta",
+      "dokańczać",
+      "dojadać",
+      "dopijać",
+      "lądować",
+      "kończyć podróż",
+      "zerwać z",
+      "skończyć z"
+    ]
+  },
+  {
+    "id": "f-finished",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "finished",
+    "pronunciation": "ˈfɪnɪʃt",
+    "meaning": [
+      "gotowy",
+      "skończony"
+    ]
+  },
+  {
+    "id": "f-finishing_school",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "finishing school",
+    "pronunciation": "ˈfɪnɪʃɪŋ sku:l",
+    "meaning": [
+      "pensja dla panien",
+      "pensja"
+    ]
+  },
+  {
+    "id": "f-finite",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "finite",
+    "pronunciation": "ˈfaɪnaɪt",
+    "meaning": [
+      "skończony",
+      "ograniczony"
+    ]
+  },
+  {
+    "id": "f-Finland",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Finland",
+    "pronunciation": "ˈfɪnlənd",
+    "meaning": [
+      "Finlandia"
+    ]
+  },
+  {
+    "id": "f-Finn",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Finn",
+    "pronunciation": "fɪn",
+    "meaning": [
+      "Fin"
+    ]
+  },
+  {
+    "id": "f-Finnish",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Finnish",
+    "pronunciation": "ˈfɪnɪʃ",
+    "meaning": [
+      "fiński"
+    ]
+  },
+  {
+    "id": "f-fir",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fir",
+    "pronunciation": "fɜ:",
+    "meaning": [
+      "jodła"
+    ]
+  },
+  {
+    "id": "f-firearm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "firearm",
+    "pronunciation": "ˈfaɪərɑ:m",
+    "meaning": [
+      "broń palna",
+      "broń"
+    ]
+  },
+  {
+    "id": "f-firebrand",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "firebrand",
+    "pronunciation": "ˈfaɪəbrænd",
+    "meaning": [
+      "podżegacz"
+    ]
+  },
+  {
+    "id": "f-fire-fighting",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fire-fighting",
+    "pronunciation": "ˈfaɪəfaɪtɪŋ",
+    "meaning": [
+      "przeciwpożarowy"
+    ]
+  },
+  {
+    "id": "f-fireguard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fireguard",
+    "pronunciation": "ˈfaɪəgɑ:d",
+    "meaning": [
+      "ekran przed ogniem",
+      "ekran"
+    ]
+  },
+  {
+    "id": "f-firelight",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "firelight",
+    "pronunciation": "ˈfaɪəlaɪt",
+    "meaning": [
+      "światło od ognia"
+    ]
+  },
+  {
+    "id": "f-fireman",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fireman",
+    "pronunciation": "ˈfaɪəmən",
+    "meaning": [
+      "strażak"
+    ]
+  },
+  {
+    "id": "f-fireplace",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fireplace",
+    "pronunciation": "ˈfaɪəpleɪs",
+    "meaning": [
+      "kominek"
+    ]
+  },
+  {
+    "id": "f-fireproof",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fireproof",
+    "pronunciation": "ˈfaɪəpru:f",
+    "meaning": [
+      "ognioodporny",
+      "ogniotrwały"
+    ]
+  },
+  {
+    "id": "f-fireside",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fireside",
+    "pronunciation": "ˈfaɪəsaɪd",
+    "meaning": []
+  },
+  {
+    "id": "f-firewood",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "firewood",
+    "pronunciation": "ˈfaɪəwʊd",
+    "meaning": [
+      "drewno na podpałkę",
+      "drewno opałowe"
+    ]
+  },
+  {
+    "id": "f-firework",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "firework",
+    "pronunciation": "ˈfaɪəwɜ:k",
+    "meaning": [
+      "ogień sztuczny",
+      "fajerwerk"
+    ]
+  },
+  {
+    "id": "f-firing_squad",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "firing squad",
+    "pronunciation": "ˈfaɪərɪŋ skwɒd",
+    "meaning": [
+      "pluton egzekucyjny"
+    ]
+  },
+  {
+    "id": "f-firm",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "firm",
+    "pronunciation": "fɜ:m",
+    "meaning": [
+      "firma",
+      "przedsiębiorstwo",
+      "twardy",
+      "sztywny",
+      "dobrze umocowany",
+      "pewny",
+      "mocny",
+      "silny",
+      "niewzruszony",
+      "nie do zbicia",
+      "stały"
+    ]
+  },
+  {
+    "id": "f-first",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "first",
+    "pronunciation": "fɜ:st",
+    "meaning": [
+      "pierwszy",
+      "najpierw",
+      "po pierwsze",
+      "pierwsza pomoc",
+      "parter",
+      "pierwsze piętro",
+      "imię chrzestne",
+      "imię",
+      "premiera"
+    ]
+  },
+  {
+    "id": "f-first-born",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "first-born",
+    "pronunciation": "ˈfɜ:stbɔ:n",
+    "meaning": [
+      "pierworodny"
+    ]
+  },
+  {
+    "id": "f-first-hand",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "first-hand",
+    "pronunciation": "ˌfɜ:stˈhænd",
+    "meaning": [
+      "z pierwszej ręki"
+    ]
+  },
+  {
+    "id": "f-firstly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "firstly",
+    "pronunciation": "ˈfɜ:stlɪ",
+    "meaning": [
+      "po pierwsze"
+    ]
+  },
+  {
+    "id": "f-first-rate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "first-rate",
+    "pronunciation": "ˈfɜ:streɪt",
+    "meaning": [
+      "pierwszorzędny"
+    ]
+  },
+  {
+    "id": "f-fiscal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fiscal",
+    "pronunciation": "ˈfɪskəl",
+    "meaning": [
+      "fiskalny",
+      "podatkowy"
+    ]
+  },
+  {
+    "id": "f-fish",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fish",
+    "pronunciation": "fɪʃ",
+    "meaning": [
+      "ryba",
+      "łowić ryby",
+      "łowić",
+      "wędkować",
+      "wyławiać",
+      "zbierać"
+    ]
+  },
+  {
+    "id": "f-fisherman",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fisherman",
+    "pronunciation": "ˈfɪʃəmən",
+    "meaning": [
+      "rybak"
+    ]
+  },
+  {
+    "id": "f-fishery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fishery",
+    "pronunciation": "ˈfɪʃərɪ",
+    "meaning": [
+      "obszar połowu",
+      "łowisko"
+    ]
+  },
+  {
+    "id": "f-fishing",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fishing",
+    "pronunciation": "ˈfɪʃɪŋ",
+    "meaning": [
+      "rybołówstwo",
+      "wędkarstwo",
+      "wędka"
+    ]
+  },
+  {
+    "id": "f-fishmonger",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fishmonger",
+    "pronunciation": "ˈfɪʃmʌŋgə",
+    "meaning": [
+      "sklep rybny",
+      "sprzedawca ryb"
+    ]
+  },
+  {
+    "id": "f-fishy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fishy",
+    "pronunciation": "ˈfɪʃɪ",
+    "meaning": [
+      "rybi",
+      "naciągany"
+    ]
+  },
+  {
+    "id": "f-fission",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fission",
+    "pronunciation": "ˈfɪʃən",
+    "meaning": [
+      "rozszczepienie",
+      "rozbicie atomu",
+      "rozbicie"
+    ]
+  },
+  {
+    "id": "f-fissure",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fissure",
+    "pronunciation": "ˈfɪʃə",
+    "meaning": [
+      "rozpadlina",
+      "szczelina"
+    ]
+  },
+  {
+    "id": "f-fist",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fist",
+    "pronunciation": "fɪst",
+    "meaning": [
+      "pięść"
+    ]
+  },
+  {
+    "id": "f-fistful",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fistful",
+    "pronunciation": "ˈfɪstfʊl",
+    "meaning": [
+      "garść"
+    ]
+  },
+  {
+    "id": "f-fit",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "fit",
+    "pronunciation": "fɪt",
+    "meaning": [
+      "pasować",
+      "mieścić się",
+      "umieszczać",
+      "wkładać",
+      "dorabiać",
+      "odpowiadać",
+      "zdrowy",
+      "sprawny",
+      "nadający się",
+      "dopasowany",
+      "atak choroby",
+      "atak",
+      "napad szału",
+      "napad",
+      "przystęp gniewu",
+      "przystęp",
+      "mieć czas na",
+      "uwzględniać",
+      "dopasować się",
+      "dopasować"
+    ]
+  },
+  {
+    "id": "f-fitful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fitful",
+    "pronunciation": "ˈfɪtfʊl",
+    "meaning": [
+      "niespokojny"
+    ]
+  },
+  {
+    "id": "f-fitments",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fitments",
+    "pronunciation": "ˈfɪtmənts",
+    "meaning": [
+      "wyposażenie"
+    ]
+  },
+  {
+    "id": "f-fitter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fitter",
+    "pronunciation": "ˈfɪtə",
+    "meaning": [
+      "mechanik",
+      "montażysta",
+      "instalator"
+    ]
+  },
+  {
+    "id": "f-fitting",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "fitting",
+    "pronunciation": "ˈfɪtɪŋ",
+    "meaning": [
+      "stosowny",
+      "akcesoria",
+      "sprzęt ruchomy",
+      "sprzęt",
+      "wyposażenie",
+      "przymiarka"
+    ]
+  },
+  {
+    "id": "f-five",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "five",
+    "pronunciation": "faɪv",
+    "meaning": [
+      "pięć"
+    ]
+  },
+  {
+    "id": "f-fiver",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fiver",
+    "pronunciation": "ˈfaɪvə",
+    "meaning": [
+      "piątka"
+    ]
+  },
+  {
+    "id": "f-fixation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fixation",
+    "pronunciation": "fɪkˈseɪʃən",
+    "meaning": [
+      "fiksacja",
+      "mania"
+    ]
+  },
+  {
+    "id": "f-fixed",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "fixed",
+    "pronunciation": "ˈfɪkst",
+    "meaning": [
+      "ustalony",
+      "stały",
+      "sztywny",
+      "utrwalony"
+    ]
+  },
+  {
+    "id": "f-fixedly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "fixedly",
+    "pronunciation": "ˈfɪksɪdlɪ",
+    "meaning": [
+      "z uporem",
+      "bez przerwy"
+    ]
+  },
+  {
+    "id": "f-fixture",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fixture",
+    "pronunciation": "ˈfɪksʧə",
+    "meaning": [
+      "sprzęt",
+      "wyposażenie",
+      "stały akcent",
+      "stały element",
+      "ustalone spotkanie",
+      "impreza"
+    ]
+  },
+  {
+    "id": "f-fizz",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "fizz",
+    "pronunciation": "fɪz",
+    "meaning": [
+      "musować"
+    ]
+  },
+  {
+    "id": "f-fizzle_out",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "fizzle out",
+    "pronunciation": "ˌfɪzəl ˈaʊt",
+    "meaning": [
+      "spełzać na niczym"
+    ]
+  },
+  {
+    "id": "f-fizzy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fizzy",
+    "pronunciation": "ˈfɪzɪ",
+    "meaning": [
+      "musujący"
+    ]
+  },
+  {
+    "id": "f-fl.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fl.",
+    "pronunciation": "/ˈflaʊə/",
+    "meaning": [
+      "piętro",
+      "płynny"
+    ]
+  },
+  {
+    "id": "f-flabbergasted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flabbergasted",
+    "pronunciation": "ˈflæbəgɑ:stɪd",
+    "meaning": [
+      "oszołomiony"
+    ]
+  },
+  {
+    "id": "f-flabby",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "flabby",
+    "pronunciation": "ˈflæbɪ",
+    "meaning": [
+      "sflaczały",
+      "obwisły"
+    ]
+  },
+  {
+    "id": "f-flaccid",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "flaccid",
+    "pronunciation": "ˈflæksɪd",
+    "meaning": [
+      "zwiotczały"
+    ]
+  },
+  {
+    "id": "f-flag",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flag",
+    "pronunciation": "flæg",
+    "meaning": [
+      "flaga",
+      "upadać na duchu",
+      "upadać",
+      "zatrzymywać"
+    ]
+  },
+  {
+    "id": "f-flagon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flagon",
+    "pronunciation": "ˈflægən",
+    "meaning": [
+      "karafka",
+      "dzban",
+      "flaszka"
+    ]
+  },
+  {
+    "id": "f-flagpole",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flagpole",
+    "pronunciation": "ˈflægpəʊl",
+    "meaning": [
+      "maszt flagowy",
+      "maszt"
+    ]
+  },
+  {
+    "id": "f-flagrant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flagrant",
+    "pronunciation": "ˈfleɪgrənt",
+    "meaning": [
+      "brutalny",
+      "rażący"
+    ]
+  },
+  {
+    "id": "f-flagship",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flagship",
+    "pronunciation": "ˈflægʃɪp",
+    "meaning": [
+      "okręt flagowy"
+    ]
+  },
+  {
+    "id": "f-flagstaff",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flagstaff",
+    "pronunciation": "ˈflægstɑ:f",
+    "meaning": [
+      "maszt flagowy",
+      "maszt"
+    ]
+  },
+  {
+    "id": "f-flagstone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flagstone",
+    "pronunciation": "ˈflægstəʊn",
+    "meaning": [
+      "płyta chodnikowa"
+    ]
+  },
+  {
+    "id": "f-flail",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flail",
+    "pronunciation": "fleɪl",
+    "meaning": [
+      "cep",
+      "wymachiwać"
+    ]
+  },
+  {
+    "id": "f-flair",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flair",
+    "pronunciation": "fleə",
+    "meaning": [
+      "talent",
+      "zmysł",
+      "wyczucie"
+    ]
+  },
+  {
+    "id": "f-flake",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flake",
+    "pronunciation": "fleɪk",
+    "meaning": [
+      "strzęp",
+      "płatek",
+      "łuszczyć się",
+      "odpadać",
+      "padać z nóg"
+    ]
+  },
+  {
+    "id": "f-flamboyant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flamboyant",
+    "pronunciation": "flæmˈbɔɪənt",
+    "meaning": [
+      "przesadny",
+      "jaskrawy",
+      "rzucający się w oczy"
+    ]
+  },
+  {
+    "id": "f-flame",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "flame",
+    "pronunciation": "fleɪm",
+    "meaning": [
+      "płomień"
+    ]
+  },
+  {
+    "id": "f-flaming",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "flaming",
+    "pronunciation": "ˈfleɪmɪŋ",
+    "meaning": [
+      "płonący",
+      "płomienny",
+      "przeklęty"
+    ]
+  },
+  {
+    "id": "f-flamingo",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flamingo",
+    "pronunciation": "fləˈmɪŋgəʊ",
+    "meaning": [
+      "flaming"
+    ]
+  },
+  {
+    "id": "f-flammable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "flammable",
+    "pronunciation": "ˈflæməbəl",
+    "meaning": [
+      "łatwo palny"
+    ]
+  },
+  {
+    "id": "f-flan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flan",
+    "pronunciation": "flæn",
+    "meaning": [
+      "placek"
+    ]
+  },
+  {
+    "id": "f-flank",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flank",
+    "pronunciation": "flæŋk",
+    "meaning": [
+      "bok",
+      "flanka"
+    ]
+  },
+  {
+    "id": "f-flannel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "flannel",
+    "pronunciation": "ˈflænəl",
+    "meaning": [
+      "flanela",
+      "flanelowy",
+      "spodnie flanelowe",
+      "flanelka do mycia się",
+      "flanelka"
+    ]
+  },
+  {
+    "id": "f-flap",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flap",
+    "pronunciation": "flæp",
+    "meaning": [
+      "trzepotać",
+      "bić",
+      "machać",
+      "ruchoma część",
+      "patka",
+      "zakładka"
+    ]
+  },
+  {
+    "id": "f-flare",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flare",
+    "pronunciation": "fleə",
+    "meaning": [
+      "rakieta świetlna",
+      "rakieta",
+      "rozjarzać się",
+      "rozpalać się",
+      "rozpościerać się"
+    ]
+  },
+  {
+    "id": "f-flared",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "flared",
+    "pronunciation": "fleəd",
+    "meaning": [
+      "kloszowy"
+    ]
+  },
+  {
+    "id": "f-flashback",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flashback",
+    "pronunciation": "ˈflæʃbæk",
+    "meaning": [
+      "retrospekcja"
+    ]
+  },
+  {
+    "id": "f-flashlight",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flashlight",
+    "pronunciation": "ˈflæʃlaɪt",
+    "meaning": [
+      "duża latarka",
+      "latarka",
+      "lampa błyskowa"
+    ]
+  },
+  {
+    "id": "f-flashy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "flashy",
+    "pronunciation": "ˈflæʃɪ",
+    "meaning": [
+      "wyzywający"
+    ]
+  },
+  {
+    "id": "f-flask",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flask",
+    "pronunciation": "flɑ:sk",
+    "meaning": [
+      "piersiówka",
+      "termos"
+    ]
+  },
+  {
+    "id": "f-flat",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "flat",
+    "pronunciation": "flæt",
+    "meaning": [
+      "płaski",
+      "spłaszczony",
+      "bez powietrza",
+      "kategoryczny",
+      "bezbarwny",
+      "wyładowany",
+      "zwietrzały",
+      "za niski",
+      "ryczałtowy",
+      "jednolity",
+      "płasko",
+      "dokładnie",
+      "mieszkanie",
+      "równina",
+      "płaska część",
+      "bemol"
+    ]
+  },
+  {
+    "id": "f-flatmate",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flatmate",
+    "pronunciation": "ˈflætmeɪt",
+    "meaning": [
+      "współmieszkaniec"
+    ]
+  },
+  {
+    "id": "f-flatten",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "flatten",
+    "pronunciation": "ˈflætən",
+    "meaning": [
+      "spłaszczać się",
+      "spłaszczać",
+      "równać z ziemią",
+      "zwalać z nóg",
+      "wygładzać się"
+    ]
+  },
+  {
+    "id": "f-flatter",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "flatter",
+    "pronunciation": "ˈflætə",
+    "meaning": [
+      "pochlebiać"
+    ]
+  },
+  {
+    "id": "f-flattery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flattery",
+    "pronunciation": "ˈflætərɪ",
+    "meaning": [
+      "pochlebstwo"
+    ]
+  },
+  {
+    "id": "f-flaunt",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "flaunt",
+    "pronunciation": "flɔ:nt",
+    "meaning": [
+      "obnosić się"
+    ]
+  },
+  {
+    "id": "f-flavour",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flavour",
+    "pronunciation": "ˈfleɪvə",
+    "meaning": [
+      "smak",
+      "posmak",
+      "doprawiać",
+      "przyprawiać"
+    ]
+  },
+  {
+    "id": "f-flavouring",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flavouring",
+    "pronunciation": "ˈfleɪvərɪŋ",
+    "meaning": [
+      "przyprawa smakowa",
+      "przyprawa"
+    ]
+  },
+  {
+    "id": "f-flaw",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flaw",
+    "pronunciation": "flɔ:",
+    "meaning": [
+      "błąd",
+      "niedopatrzenie",
+      "skaza"
+    ]
+  },
+  {
+    "id": "f-flawless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "flawless",
+    "pronunciation": "ˈflɔ:lɪs",
+    "meaning": [
+      "nieskazitelny"
+    ]
+  },
+  {
+    "id": "f-flax",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flax",
+    "pronunciation": "flæks",
+    "meaning": [
+      "len"
+    ]
+  },
+  {
+    "id": "f-flaxen",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flaxen",
+    "pronunciation": "ˈflæksən",
+    "meaning": [
+      "słomiany",
+      "lniany"
+    ]
+  },
+  {
+    "id": "f-flea",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flea",
+    "pronunciation": "fli:",
+    "meaning": [
+      "pchła",
+      "pchli"
+    ]
+  },
+  {
+    "id": "f-fleck",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fleck",
+    "pronunciation": "flek",
+    "meaning": [
+      "cętka"
+    ]
+  },
+  {
+    "id": "f-fledgling",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fledgling",
+    "pronunciation": "ˈfleʤlɪŋ",
+    "meaning": [
+      "pisklę",
+      "wykluwający się",
+      "początkujący"
+    ]
+  },
+  {
+    "id": "f-flee",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "flee",
+    "pronunciation": "fli:",
+    "meaning": [
+      "uciekać"
+    ]
+  },
+  {
+    "id": "f-fleece",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fleece",
+    "pronunciation": "fli:s",
+    "meaning": [
+      "wełna",
+      "runo",
+      "oskubywać"
+    ]
+  },
+  {
+    "id": "f-fleet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fleet",
+    "pronunciation": "fli:t",
+    "meaning": [
+      "flota",
+      "flotylla"
+    ]
+  },
+  {
+    "id": "f-fleeting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fleeting",
+    "pronunciation": "ˈfli:tɪŋ",
+    "meaning": [
+      "ulotny",
+      "przelotny"
+    ]
+  },
+  {
+    "id": "f-Flemish",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Flemish",
+    "pronunciation": "ˈflemɪʃ",
+    "meaning": [
+      "flamandzki"
+    ]
+  },
+  {
+    "id": "f-flesh",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flesh",
+    "pronunciation": "fleʃ",
+    "meaning": [
+      "ciało",
+      "mięso",
+      "miąższ",
+      "wypełniać treścią",
+      "wypełniać szczegółami"
+    ]
+  },
+  {
+    "id": "f-flesh-and-blood",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flesh-and-blood",
+    "pronunciation": "fleʃənˈblʌd",
+    "meaning": [
+      "z krwi i kości"
+    ]
+  },
+  {
+    "id": "f-fleshy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fleshy",
+    "pronunciation": "ˈfleʃɪ",
+    "meaning": [
+      "korpulentny",
+      "mięsisty"
+    ]
+  },
+  {
+    "id": "f-flex",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flex",
+    "pronunciation": "fleks",
+    "meaning": [
+      "przedłużacz",
+      "kabel",
+      "naprężać"
+    ]
+  },
+  {
+    "id": "f-flexible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "flexible",
+    "pronunciation": "ˈfleksɪbəl",
+    "meaning": [
+      "giętki"
+    ]
+  },
+  {
+    "id": "f-flicker",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flicker",
+    "pronunciation": "ˈflɪkə",
+    "meaning": [
+      "migotać",
+      "przebłyskiwać",
+      "błyskać",
+      "migotanie",
+      "przebłysk"
+    ]
+  },
+  {
+    "id": "f-flight",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flight",
+    "pronunciation": "flaɪt",
+    "meaning": [
+      "lot",
+      "stado",
+      "ucieczka",
+      "bieg",
+      "wzlot",
+      "stewardesa",
+      "kabina pilota"
+    ]
+  },
+  {
+    "id": "f-flimsy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flimsy",
+    "pronunciation": "ˈflɪmzɪ",
+    "meaning": [
+      "wątły",
+      "przewiewny",
+      "cienki"
+    ]
+  },
+  {
+    "id": "f-flinch",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "flinch",
+    "pronunciation": "ˈflɪnʧ",
+    "meaning": [
+      "wzdrygać się",
+      "wzdragać się"
+    ]
+  },
+  {
+    "id": "f-fling",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fling",
+    "pronunciation": "flɪŋ",
+    "meaning": [
+      "rzucać się",
+      "rzucać",
+      "przygoda"
+    ]
+  },
+  {
+    "id": "f-flint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flint",
+    "pronunciation": "flɪnt",
+    "meaning": [
+      "krzemień",
+      "kamień do zapalniczki",
+      "kamień"
+    ]
+  },
+  {
+    "id": "f-flip",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "flip",
+    "pronunciation": "flɪp",
+    "meaning": [
+      "kartkować",
+      "przerzucać na drugą stronę",
+      "włączać",
+      "wyłączać",
+      "wrzucać"
+    ]
+  },
+  {
+    "id": "f-flippant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flippant",
+    "pronunciation": "ˈflɪpənt",
+    "meaning": [
+      "niepoważny",
+      "kpiący"
+    ]
+  },
+  {
+    "id": "f-flipper",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flipper",
+    "pronunciation": "ˈflɪpə",
+    "meaning": [
+      "noga upłetwiona",
+      "noga",
+      "odnóże pławne",
+      "płetwa"
+    ]
+  },
+  {
+    "id": "f-flirt",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flirt",
+    "pronunciation": "flɜ:t",
+    "meaning": [
+      "flirtować",
+      "kokietować",
+      "zabawiać się",
+      "flirciarz",
+      "flirciarka"
+    ]
+  },
+  {
+    "id": "f-flirtation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flirtation",
+    "pronunciation": "flɜ:ˈteɪʃən",
+    "meaning": [
+      "flirt"
+    ]
+  },
+  {
+    "id": "f-flirtatious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "flirtatious",
+    "pronunciation": "flɜ:ˈteɪʃəs",
+    "meaning": [
+      "kokieteryjny"
+    ]
+  },
+  {
+    "id": "f-flit",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "flit",
+    "pronunciation": "flɪt",
+    "meaning": [
+      "przemykać"
+    ]
+  },
+  {
+    "id": "f-float",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "float",
+    "pronunciation": "fləʊt",
+    "meaning": [
+      "unosić się",
+      "opadać",
+      "spływać",
+      "pływak",
+      "platforma"
+    ]
+  },
+  {
+    "id": "f-floating",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "floating",
+    "pronunciation": "ˈfləʊtɪŋ",
+    "meaning": [
+      "niezdecydowany",
+      "niestabilny",
+      "płynny"
+    ]
+  },
+  {
+    "id": "f-flock",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flock",
+    "pronunciation": "flɒk",
+    "meaning": [
+      "stado",
+      "trzoda",
+      "gromadzić się tłumnie",
+      "gromadzić się"
+    ]
+  },
+  {
+    "id": "f-flog",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "flog",
+    "pronunciation": "flɒg",
+    "meaning": [
+      "chłostać",
+      "sprzedawać",
+      "opylać"
+    ]
+  },
+  {
+    "id": "f-flood",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flood",
+    "pronunciation": "flʌd",
+    "meaning": [
+      "powódź",
+      "sterta",
+      "potop",
+      "zalewać się wodą",
+      "zalewać wodą",
+      "występować z brzegów",
+      "napływać",
+      "zalewać",
+      "wypełniać",
+      "wpływać"
+    ]
+  },
+  {
+    "id": "f-floodgate",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "floodgate",
+    "pronunciation": "ˈflʌdgeɪt",
+    "meaning": [
+      "zapora",
+      "śluza"
+    ]
+  },
+  {
+    "id": "f-floodlight",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "floodlight",
+    "pronunciation": "ˈflʌdlaɪt",
+    "meaning": [
+      "reflektor",
+      "oświetlać reflektorami"
+    ]
+  },
+  {
+    "id": "f-floor",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "floor",
+    "pronunciation": "flɔ:",
+    "meaning": [
+      "podłoga",
+      "piętro",
+      "dno",
+      "załamywać kogoś"
+    ]
+  },
+  {
+    "id": "f-floorboard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "floorboard",
+    "pronunciation": "ˈflɔ:bɔ:d",
+    "meaning": [
+      "deska podłogowa"
+    ]
+  },
+  {
+    "id": "f-flop",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flop",
+    "pronunciation": "flɒp",
+    "meaning": [
+      "opadać ciężko",
+      "opadać",
+      "klapnąć",
+      "padać",
+      "robić klapę",
+      "klapa",
+      "fiasko"
+    ]
+  },
+  {
+    "id": "f-floppy",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "floppy",
+    "pronunciation": "ˈflɒpɪ",
+    "meaning": [
+      "miękki",
+      "giętki",
+      "dyskietka",
+      "dysk elastyczny"
+    ]
+  },
+  {
+    "id": "f-flora",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flora",
+    "pronunciation": "ˈflɔ:rə",
+    "meaning": [
+      "flora"
+    ]
+  },
+  {
+    "id": "f-floral",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "floral",
+    "pronunciation": "ˈflɔ:rəl",
+    "meaning": [
+      "kwiecisty",
+      "ukwiecony"
+    ]
+  },
+  {
+    "id": "f-florid",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "florid",
+    "pronunciation": "ˈflɒrɪd",
+    "meaning": [
+      "kwiecisty",
+      "kwitnący",
+      "rumiany"
+    ]
+  },
+  {
+    "id": "f-Florida",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Florida",
+    "pronunciation": "ˈflɒrɪdə",
+    "meaning": [
+      "Floryda"
+    ]
+  },
+  {
+    "id": "f-Floridan",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "Floridan",
+    "pronunciation": "ˈflɒrɪdən",
+    "meaning": [
+      "florydzki"
+    ]
+  },
+  {
+    "id": "f-Floridian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Floridian",
+    "pronunciation": "flɒˈrɪdɪən",
+    "meaning": [
+      "florydzki"
+    ]
+  },
+  {
+    "id": "f-florist",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "florist",
+    "pronunciation": "ˈflɒrɪst",
+    "meaning": [
+      "kwiaciarz",
+      "kwiaciarka"
+    ]
+  },
+  {
+    "id": "f-flounce",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "flounce",
+    "pronunciation": "flaʊns",
+    "meaning": [
+      "rzucać się"
+    ]
+  },
+  {
+    "id": "f-flounder",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "flounder",
+    "pronunciation": "ˈflaʊndə",
+    "meaning": [
+      "szarpać się",
+      "miotać się",
+      "nie wiedzieć",
+      "co powiedzieć"
+    ]
+  },
+  {
+    "id": "f-flour",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "flour",
+    "pronunciation": "ˈflaʊə",
+    "meaning": [
+      "mąka"
+    ]
+  },
+  {
+    "id": "f-flourish",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flourish",
+    "pronunciation": "ˈflʌrɪʃ",
+    "meaning": [
+      "rozkwitać",
+      "znakomicie się rozwijać",
+      "wymachiwać",
+      "wywijas",
+      "szeroki gest"
+    ]
+  },
+  {
+    "id": "f-flout",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "flout",
+    "pronunciation": "flaʊt",
+    "meaning": [
+      "łamać",
+      "lekceważyć"
+    ]
+  },
+  {
+    "id": "f-flow",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flow",
+    "pronunciation": "fləʊ",
+    "meaning": [
+      "płynąć",
+      "spływać",
+      "potok",
+      "przepływ",
+      "wylew"
+    ]
+  },
+  {
+    "id": "f-flowchart",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flowchart",
+    "pronunciation": "ˈfləʊʧɑ:t",
+    "meaning": [
+      "schemat blokowy",
+      "sieć działań"
+    ]
+  },
+  {
+    "id": "f-flower",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flower",
+    "pronunciation": "ˈflaʊə",
+    "meaning": [
+      "kwiat",
+      "kwitnąć",
+      "rozkwitać"
+    ]
+  },
+  {
+    "id": "f-flowerbed",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flowerbed",
+    "pronunciation": "ˈflaʊəbed",
+    "meaning": [
+      "klomb"
+    ]
+  },
+  {
+    "id": "f-flowered",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "flowered",
+    "pronunciation": "ˈflaʊəd",
+    "meaning": [
+      "kwiecisty"
+    ]
+  },
+  {
+    "id": "f-flowering",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "flowering",
+    "pronunciation": "ˈflaʊərɪŋ",
+    "meaning": [
+      "kwietny",
+      "kwiatowy"
+    ]
+  },
+  {
+    "id": "f-flowerpot",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flowerpot",
+    "pronunciation": "ˈflaʊəpɒt",
+    "meaning": [
+      "doniczka"
+    ]
+  },
+  {
+    "id": "f-flowery",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "flowery",
+    "pronunciation": "ˈflaʊərɪ",
+    "meaning": [
+      "kwiatowy",
+      "kwiecisty"
+    ]
+  },
+  {
+    "id": "f-flu",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flu",
+    "pronunciation": "flu:",
+    "meaning": [
+      "grypa"
+    ]
+  },
+  {
+    "id": "f-fluctuate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fluctuate",
+    "pronunciation": "ˈflʌktjʊeɪt",
+    "meaning": [
+      "fluktuować"
+    ]
+  },
+  {
+    "id": "f-fluctuation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fluctuation",
+    "pronunciation": "ˌflʌktjʊˈeɪʃən",
+    "meaning": [
+      "fluktuacja"
+    ]
+  },
+  {
+    "id": "f-flue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flue",
+    "pronunciation": "flu:",
+    "meaning": [
+      "przewód kominowy",
+      "przewód"
+    ]
+  },
+  {
+    "id": "f-fluency",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fluency",
+    "pronunciation": "ˈflu:ənsɪ",
+    "meaning": [
+      "płynność",
+      "biegłość"
+    ]
+  },
+  {
+    "id": "f-fluent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fluent",
+    "pronunciation": "ˈflu:ənt",
+    "meaning": [
+      "płynny"
+    ]
+  },
+  {
+    "id": "f-fluff",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fluff",
+    "pronunciation": "flʌf",
+    "meaning": [
+      "kłaczki",
+      "koty",
+      "puch",
+      "napuszać",
+      "chrzanić"
+    ]
+  },
+  {
+    "id": "f-fluffy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fluffy",
+    "pronunciation": "ˈflʌfɪ",
+    "meaning": [
+      "puchaty"
+    ]
+  },
+  {
+    "id": "f-fluid",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fluid",
+    "pronunciation": "flu:ɪd",
+    "meaning": [
+      "ciecz",
+      "płyn",
+      "płynny",
+      "uncja płynu"
+    ]
+  },
+  {
+    "id": "f-fluke",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fluke",
+    "pronunciation": "flu:k",
+    "meaning": [
+      "fuks",
+      "łut szczęścia"
+    ]
+  },
+  {
+    "id": "f-fluorescent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fluorescent",
+    "pronunciation": "ˌflʊəˈresənt",
+    "meaning": [
+      "fluorescencyjny",
+      "jarzeniowy"
+    ]
+  },
+  {
+    "id": "f-fluoride",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fluoride",
+    "pronunciation": "ˈflʊəraɪd",
+    "meaning": [
+      "fluorek"
+    ]
+  },
+  {
+    "id": "f-flurry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flurry",
+    "pronunciation": "ˈflʌrɪ",
+    "meaning": [
+      "poruszenie",
+      "zamieszanie",
+      "burza",
+      "podmuch"
+    ]
+  },
+  {
+    "id": "f-flush",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "flush",
+    "pronunciation": "flʌʃ",
+    "meaning": [
+      "rumienić się",
+      "spłukiwać",
+      "wypłaszać",
+      "równo",
+      "rumieniec"
+    ]
+  },
+  {
+    "id": "f-fluster",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fluster",
+    "pronunciation": "ˈflʌstə",
+    "meaning": [
+      "płoszyć",
+      "popłoch"
+    ]
+  },
+  {
+    "id": "f-flute",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "flute",
+    "pronunciation": "flu:t",
+    "meaning": [
+      "flet"
+    ]
+  },
+  {
+    "id": "f-fluted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fluted",
+    "pronunciation": "ˈflu:tɪd",
+    "meaning": [
+      "żłobkowany"
+    ]
+  },
+  {
+    "id": "f-flutter",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "flutter",
+    "pronunciation": "ˈflʌtə",
+    "meaning": [
+      "trzepotać",
+      "podlatywać",
+      "dygotać",
+      "trzepot",
+      "drżenie",
+      "dygotanie"
+    ]
+  },
+  {
+    "id": "f-flux",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flux",
+    "pronunciation": "flʌks",
+    "meaning": [
+      "płynność",
+      "niepewny stan"
+    ]
+  },
+  {
+    "id": "f-fly",
+    "level": "A1",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "fly",
+    "pronunciation": "flaɪ",
+    "meaning": [
+      "latać",
+      "fruwać",
+      "pilotować",
+      "wysyłać",
+      "powiewać",
+      "rzucać się",
+      "mucha",
+      "rozporek",
+      "wpadać w"
+    ]
+  },
+  {
+    "id": "f-flyer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "flyer",
+    "pronunciation": "ˈflaɪə",
+    "meaning": [
+      "lotnik"
+    ]
+  },
+  {
+    "id": "f-flying",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "flying",
+    "pronunciation": "ˈflaɪɪŋ",
+    "meaning": [
+      "latający",
+      "z rozbiegiem",
+      "przelotny"
+    ]
+  },
+  {
+    "id": "f-flyover",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "flyover",
+    "pronunciation": "ˈflaɪəʊvə",
+    "meaning": [
+      "estakada",
+      "wiadukt"
+    ]
+  },
+  {
+    "id": "f-FM",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "FM",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "pasmo FM UKF",
+      "pasmo FM"
+    ]
+  },
+  {
+    "id": "f-fn.",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fn.",
+    "pronunciation": "/ˌefˈen/",
+    "meaning": [
+      "przypis"
+    ]
+  },
+  {
+    "id": "f-FO",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "FO",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "MSZ",
+      "Ministerstwo Spraw Zagranicznych"
+    ]
+  },
+  {
+    "id": "f-foal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foal",
+    "pronunciation": "fəʊl",
+    "meaning": [
+      "źrebak"
+    ]
+  },
+  {
+    "id": "f-foam",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "foam",
+    "pronunciation": "fəʊm",
+    "meaning": [
+      "piana",
+      "gąbka",
+      "tworzywo sztuczne piankowe",
+      "pienić się"
+    ]
+  },
+  {
+    "id": "f-f.o.b.",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "f.o.b.",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "włączone w cenę biletu za przejazd"
+    ]
+  },
+  {
+    "id": "f-fob_off",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fob off",
+    "pronunciation": "fɒb ˈɒf",
+    "meaning": [
+      "odprawić",
+      "potraktować na odczepnego"
+    ]
+  },
+  {
+    "id": "f-focal_point",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "focal point",
+    "pronunciation": "ˈfəʊkəl pɔɪnt",
+    "meaning": [
+      "centralny punkt"
+    ]
+  },
+  {
+    "id": "f-focus",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "focus",
+    "pronunciation": "ˈfəʊkəs",
+    "meaning": [
+      "ognisko",
+      "centrum zainteresowania",
+      "nacisk",
+      "nastawiać ostrość",
+      "łapać ostrość",
+      "ogniskować",
+      "skupiać"
+    ]
+  },
+  {
+    "id": "f-fodder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fodder",
+    "pronunciation": "ˈfɒdə",
+    "meaning": [
+      "pasza",
+      "pastewny"
+    ]
+  },
+  {
+    "id": "f-foe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foe",
+    "pronunciation": "fəʊ",
+    "meaning": [
+      "wróg"
+    ]
+  },
+  {
+    "id": "f-foetus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foetus",
+    "pronunciation": "ˈfi:təs",
+    "meaning": [
+      "płód"
+    ]
+  },
+  {
+    "id": "f-fog",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "fog",
+    "pronunciation": "fɒg",
+    "meaning": [
+      "mgła"
+    ]
+  },
+  {
+    "id": "f-foggy",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "foggy",
+    "pronunciation": "ˈfɒgɪ",
+    "meaning": [
+      "mglisty"
+    ]
+  },
+  {
+    "id": "f-foible",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foible",
+    "pronunciation": "ˈfɔɪbəl",
+    "meaning": [
+      "słabostka",
+      "dziwactwo"
+    ]
+  },
+  {
+    "id": "f-foil",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "foil",
+    "pronunciation": "fɔɪl",
+    "meaning": [
+      "folia",
+      "tło kontrastowe",
+      "tło",
+      "floret",
+      "niweczyć",
+      "udaremniać"
+    ]
+  },
+  {
+    "id": "f-foist",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "foist",
+    "pronunciation": "fɔɪst",
+    "meaning": [
+      "narzucać"
+    ]
+  },
+  {
+    "id": "f-folder",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "folder",
+    "pronunciation": "ˈfəʊldə",
+    "meaning": [
+      "teczka aktowa",
+      "teczka"
+    ]
+  },
+  {
+    "id": "f-folding",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "folding",
+    "pronunciation": "ˈfəʊldɪŋ",
+    "meaning": [
+      "składany"
+    ]
+  },
+  {
+    "id": "f-foliage",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foliage",
+    "pronunciation": "ˈfəʊlɪʤ",
+    "meaning": [
+      "liście",
+      "listowie"
+    ]
+  },
+  {
+    "id": "f-folk",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "folk",
+    "pronunciation": "fəʊlk",
+    "meaning": [
+      "lud",
+      "ludowy"
+    ]
+  },
+  {
+    "id": "f-folklore",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "folklore",
+    "pronunciation": "ˈfəʊlklɔ:",
+    "meaning": [
+      "folklor"
+    ]
+  },
+  {
+    "id": "f-folks",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "folks",
+    "pronunciation": "fəʊlks",
+    "meaning": [
+      "ludzie",
+      "rodzina",
+      "krewni",
+      "ludziska",
+      "kochani"
+    ]
+  },
+  {
+    "id": "f-follow",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "follow",
+    "pronunciation": "ˈfɒləʊ",
+    "meaning": [
+      "podążać za",
+      "podążać",
+      "iść za",
+      "iść",
+      "następować",
+      "wynikać",
+      "wędrować",
+      "stosować się do",
+      "orientować się",
+      "śledzić",
+      "badać",
+      "dołożyć"
+    ]
+  },
+  {
+    "id": "f-follower",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "follower",
+    "pronunciation": "ˈfɒləʊə",
+    "meaning": [
+      "zwolennik",
+      "uczeń"
+    ]
+  },
+  {
+    "id": "f-following",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective",
+      "preposition"
+    ],
+    "word": "following",
+    "pronunciation": "ˈfɒləʊɪŋ",
+    "meaning": [
+      "następny",
+      "następujący",
+      "poparcie",
+      "zwolennicy",
+      "co następuje",
+      "poniższe",
+      "dalszy ciąg"
+    ]
+  },
+  {
+    "id": "f-follow-up",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "follow-up",
+    "pronunciation": "ˈfɒləʊ ʌp",
+    "meaning": [
+      "uzupełniający",
+      "dalszy",
+      "kontynuacja"
+    ]
+  },
+  {
+    "id": "f-folly",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "folly",
+    "pronunciation": "ˈfɒlɪ",
+    "meaning": [
+      "szaleństwo"
+    ]
+  },
+  {
+    "id": "f-fond",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fond",
+    "pronunciation": "fɒnd",
+    "meaning": [
+      "kochający",
+      "czuły",
+      "głęboki"
+    ]
+  },
+  {
+    "id": "f-fondle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fondle",
+    "pronunciation": "ˈfɒndəl",
+    "meaning": [
+      "pieścić"
+    ]
+  },
+  {
+    "id": "f-font",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "font",
+    "pronunciation": "fɒnt",
+    "meaning": [
+      "chrzcielnica",
+      "krój czcionki",
+      "typ czcionki",
+      "font"
+    ]
+  },
+  {
+    "id": "f-food",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "food",
+    "pronunciation": "fu:d",
+    "meaning": [
+      "jedzenie",
+      "pożywienie",
+      "żywność"
+    ]
+  },
+  {
+    "id": "f-foodstuff",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foodstuff",
+    "pronunciation": "ˈfu:dstʌf",
+    "meaning": [
+      "artykuł żywnościowy"
+    ]
+  },
+  {
+    "id": "f-foolhardy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "foolhardy",
+    "pronunciation": "ˈfu:lhɑ:dɪ",
+    "meaning": [
+      "ryzykowny"
+    ]
+  },
+  {
+    "id": "f-foolish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "foolish",
+    "pronunciation": "ˈfu:lɪʃ",
+    "meaning": [
+      "głupi",
+      "niemądry",
+      "głupkowaty"
+    ]
+  },
+  {
+    "id": "f-foolproof",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "foolproof",
+    "pronunciation": "ˈfʊ:lpru:f",
+    "meaning": [
+      "niezawodny",
+      "nie do zepsucia"
+    ]
+  },
+  {
+    "id": "f-foot",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "foot",
+    "pronunciation": "fʊt",
+    "meaning": [
+      "stopa",
+      "podnóże",
+      "podstawa",
+      "nożny"
+    ]
+  },
+  {
+    "id": "f-football",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "football",
+    "pronunciation": "ˈfʊtbɔ:l",
+    "meaning": [
+      "piłka nożna"
+    ]
+  },
+  {
+    "id": "f-footballer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "footballer",
+    "pronunciation": "ˈfʊtbɔ:lə",
+    "meaning": [
+      "piłkarz"
+    ]
+  },
+  {
+    "id": "f-footbrake",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "footbrake",
+    "pronunciation": "ˈfʊtbreɪk",
+    "meaning": [
+      "hamulec nożny"
+    ]
+  },
+  {
+    "id": "f-footbridge",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "footbridge",
+    "pronunciation": "ˈfʊtbrɪʤ",
+    "meaning": [
+      "kładka"
+    ]
+  },
+  {
+    "id": "f-foothills",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foothills",
+    "pronunciation": "ˈfʊthɪlz",
+    "meaning": [
+      "podnóże"
+    ]
+  },
+  {
+    "id": "f-foothold",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foothold",
+    "pronunciation": "ˈfʊthəʊld",
+    "meaning": [
+      "oparcie dla stóp",
+      "oparcie",
+      "pozycja",
+      "mocna pozycja"
+    ]
+  },
+  {
+    "id": "f-footing",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "footing",
+    "pronunciation": "ˈfʊtɪŋ",
+    "meaning": [
+      "oparcie",
+      "płaszczyzna"
+    ]
+  },
+  {
+    "id": "f-footlights",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "footlights",
+    "pronunciation": "ˈfʊtlaɪts",
+    "meaning": [
+      "światła rampy",
+      "rampa"
+    ]
+  },
+  {
+    "id": "f-footman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "footman",
+    "pronunciation": "ˈfʊtmən",
+    "meaning": [
+      "lokaj"
+    ]
+  },
+  {
+    "id": "f-footnote",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "footnote",
+    "pronunciation": "ˈfʊtnəʊt",
+    "meaning": [
+      "przypis"
+    ]
+  },
+  {
+    "id": "f-footpath",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "footpath",
+    "pronunciation": "ˈfʊtpa:θ",
+    "meaning": [
+      "ścieżka"
+    ]
+  },
+  {
+    "id": "f-footprint",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "footprint",
+    "pronunciation": "ˈfʊtprɪnt",
+    "meaning": [
+      "ślad"
+    ]
+  },
+  {
+    "id": "f-footstep",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "footstep",
+    "pronunciation": "ˈfʊtstep",
+    "meaning": [
+      "krok"
+    ]
+  },
+  {
+    "id": "f-footwear",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "footwear",
+    "pronunciation": "ˈfʊtweə",
+    "meaning": [
+      "obuwie"
+    ]
+  },
+  {
+    "id": "f-for",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "for",
+    "pronunciation": "/fɔː/",
+    "meaning": [
+      "dla",
+      "na",
+      "w",
+      "do",
+      "z",
+      "jak na",
+      "przez",
+      "za",
+      "pomimo",
+      "jako że",
+      "ponieważ"
+    ]
+  },
+  {
+    "id": "f-for.",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "for.",
+    "pronunciation": "/fɔː/",
+    "meaning": [
+      "zagraniczny"
+    ]
+  },
+  {
+    "id": "f-forage",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "forage",
+    "pronunciation": "ˈfɒrɪʤ",
+    "meaning": [
+      "żerować",
+      "szperać"
+    ]
+  },
+  {
+    "id": "f-foray",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foray",
+    "pronunciation": "ˈfɒreɪ",
+    "meaning": [
+      "wypad",
+      "wyprawa"
+    ]
+  },
+  {
+    "id": "f-forbearance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "forbearance",
+    "pronunciation": "fɔ:ˈbeərəns",
+    "meaning": [
+      "cierpliwość",
+      "pobłażliwość"
+    ]
+  },
+  {
+    "id": "f-forbearing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forbearing",
+    "pronunciation": "fɔ:ˈbeərɪŋ",
+    "meaning": [
+      "pobłażliwy"
+    ]
+  },
+  {
+    "id": "f-forbid",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "forbid",
+    "pronunciation": "fəˈbɪd",
+    "meaning": [
+      "zakazywać",
+      "nie pozwalać na",
+      "powstrzymywać"
+    ]
+  },
+  {
+    "id": "f-forbidden",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "forbidden",
+    "pronunciation": "fəˈbɪdən",
+    "meaning": [
+      "zakazany",
+      "wzbroniony"
+    ]
+  },
+  {
+    "id": "f-forbidding",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forbidding",
+    "pronunciation": "fəˈbɪdɪŋ",
+    "meaning": [
+      "odstręczający"
+    ]
+  },
+  {
+    "id": "f-force",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "force",
+    "pronunciation": "fɔ:s",
+    "meaning": [
+      "siła",
+      "potęga",
+      "siły zbrojne",
+      "siły",
+      "zmuszać",
+      "wymuszać",
+      "pchać",
+      "przesuwać",
+      "forsować"
+    ]
+  },
+  {
+    "id": "f-forced",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "forced",
+    "pronunciation": "ˈfɔ:st",
+    "meaning": [
+      "wymuszony",
+      "niewolniczy"
+    ]
+  },
+  {
+    "id": "f-forceful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forceful",
+    "pronunciation": "ˈfɔ:sfʊl",
+    "meaning": [
+      "stanowczy",
+      "mocny",
+      "przekonywający"
+    ]
+  },
+  {
+    "id": "f-forceps",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "forceps",
+    "pronunciation": "ˈfɔ:sɪps",
+    "meaning": [
+      "kleszcze"
+    ]
+  },
+  {
+    "id": "f-forcible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forcible",
+    "pronunciation": "ˈfɔ:səbəl",
+    "meaning": [
+      "siłowy",
+      "mocny"
+    ]
+  },
+  {
+    "id": "f-ford",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ford",
+    "pronunciation": "fɔ:d",
+    "meaning": [
+      "bród"
+    ]
+  },
+  {
+    "id": "f-fore",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb",
+      "exclamation"
+    ],
+    "word": "fore",
+    "pronunciation": "fɔ:",
+    "meaning": []
+  },
+  {
+    "id": "f-forearm",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "forearm",
+    "pronunciation": "ˈfɔ:rɑ:m",
+    "meaning": [
+      "przedramię"
+    ]
+  },
+  {
+    "id": "f-foreboding",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foreboding",
+    "pronunciation": "fɔ:ˈbəʊdɪŋ",
+    "meaning": [
+      "złe przeczucie"
+    ]
+  },
+  {
+    "id": "f-forecast",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "forecast",
+    "pronunciation": "ˈfɔ:kɑ:st",
+    "meaning": [
+      "przewidywać",
+      "prognozować",
+      "prognoza"
+    ]
+  },
+  {
+    "id": "f-forecourt",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "forecourt",
+    "pronunciation": "ˈfɔ:kɔ:t",
+    "meaning": [
+      "przeddziedziniec",
+      "wjazd"
+    ]
+  },
+  {
+    "id": "f-forefather",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "forefather",
+    "pronunciation": "ˈfɔ:fɑ:ðə",
+    "meaning": [
+      "przodek"
+    ]
+  },
+  {
+    "id": "f-forefinger",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "forefinger",
+    "pronunciation": "ˈfɔ:fɪŋgə",
+    "meaning": [
+      "palec wskazujący"
+    ]
+  },
+  {
+    "id": "f-forefront",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "forefront",
+    "pronunciation": "ˈfɔ:frʌnt",
+    "meaning": []
+  },
+  {
+    "id": "f-forego",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "forego",
+    "pronunciation": "fɔ:ˈgəʊ",
+    "meaning": [
+      "zrzekać się"
+    ]
+  },
+  {
+    "id": "f-foregoing",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "foregoing",
+    "pronunciation": "fɔ:ˈgəʊɪŋ",
+    "meaning": [
+      "poprzedzająca partia tekstu",
+      "poprzedzająca partia",
+      "poprzedzający"
+    ]
+  },
+  {
+    "id": "f-foregone",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "foregone",
+    "pronunciation": "ˈfɔ:gɒn",
+    "meaning": []
+  },
+  {
+    "id": "f-foreground",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foreground",
+    "pronunciation": "ˈfɔ:graʊnd",
+    "meaning": [
+      "pierwszy plan"
+    ]
+  },
+  {
+    "id": "f-forehand",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "forehand",
+    "pronunciation": "ˈfɔ:hænd",
+    "meaning": [
+      "forhend"
+    ]
+  },
+  {
+    "id": "f-forehead",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "forehead",
+    "pronunciation": "ˈfɒrɪd",
+    "meaning": [
+      "czoło"
+    ]
+  },
+  {
+    "id": "f-foreign",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "foreign",
+    "pronunciation": "ˈfɒrɪn",
+    "meaning": [
+      "zagraniczny",
+      "obcy",
+      "spraw zagranicznych",
+      "nieswoisty"
+    ]
+  },
+  {
+    "id": "f-foreigner",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foreigner",
+    "pronunciation": "ˈfɒrɪnə",
+    "meaning": [
+      "obcokrajowiec",
+      "cudzoziemiec"
+    ]
+  },
+  {
+    "id": "f-foreman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foreman",
+    "pronunciation": "ˈfɔ:mən",
+    "meaning": [
+      "majster"
+    ]
+  },
+  {
+    "id": "f-foremost",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "foremost",
+    "pronunciation": "ˈfɔ:məʊst",
+    "meaning": [
+      "czołowy",
+      "główny"
+    ]
+  },
+  {
+    "id": "f-forename",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "forename",
+    "pronunciation": "ˈfɔ:neɪm",
+    "meaning": [
+      "imię"
+    ]
+  },
+  {
+    "id": "f-forensic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forensic",
+    "pronunciation": "fəˈrensɪk",
+    "meaning": [
+      "sądowy",
+      "kryminalny"
+    ]
+  },
+  {
+    "id": "f-forerunner",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "forerunner",
+    "pronunciation": "ˈfɔ:rʌnə",
+    "meaning": [
+      "prekursor"
+    ]
+  },
+  {
+    "id": "f-foresee",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "foresee",
+    "pronunciation": "fɔ:ˈsi:",
+    "meaning": [
+      "przewidywać"
+    ]
+  },
+  {
+    "id": "f-foreseeable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "foreseeable",
+    "pronunciation": "fɔ:ˈsi:əbəl",
+    "meaning": [
+      "dający się przewidzieć"
+    ]
+  },
+  {
+    "id": "f-foreshadow",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "foreshadow",
+    "pronunciation": "fɔ:ˈʃædəʊ",
+    "meaning": [
+      "zapowiadać",
+      "zwiastować"
+    ]
+  },
+  {
+    "id": "f-foresight",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foresight",
+    "pronunciation": "ˈfɔ:saɪt",
+    "meaning": [
+      "przezorność"
+    ]
+  },
+  {
+    "id": "f-forest",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "forest",
+    "pronunciation": "ˈfɒrəst",
+    "meaning": [
+      "las"
+    ]
+  },
+  {
+    "id": "f-forestall",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "forestall",
+    "pronunciation": "fɔ:ˈstɔ:l",
+    "meaning": [
+      "uprzedzać",
+      "wyprzedzać"
+    ]
+  },
+  {
+    "id": "f-forestry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "forestry",
+    "pronunciation": "ˈfɒrɪstrɪ",
+    "meaning": [
+      "leśnictwo",
+      "gospodarka leśna"
+    ]
+  },
+  {
+    "id": "f-foretaste",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foretaste",
+    "pronunciation": "ˈfɔ:teɪst",
+    "meaning": [
+      "przedsmak"
+    ]
+  },
+  {
+    "id": "f-foretell",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "foretell",
+    "pronunciation": "fɔ:ˈtel",
+    "meaning": [
+      "przewidywać"
+    ]
+  },
+  {
+    "id": "f-forewarn",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "forewarn",
+    "pronunciation": "fɔ:ˈwɔ:n",
+    "meaning": [
+      "przestrzegać"
+    ]
+  },
+  {
+    "id": "f-foreword",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foreword",
+    "pronunciation": "ˈfɔ:wɜ:d",
+    "meaning": [
+      "przedmowa"
+    ]
+  },
+  {
+    "id": "f-forfeit",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "forfeit",
+    "pronunciation": "ˈfɔ:fɪt",
+    "meaning": [
+      "tracić prawo"
+    ]
+  },
+  {
+    "id": "f-forge",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "forge",
+    "pronunciation": "fɔ:ʤ",
+    "meaning": [
+      "fałszować",
+      "podrabiać",
+      "formować",
+      "tworzyć",
+      "kuźnia",
+      "iść do przodu"
+    ]
+  },
+  {
+    "id": "f-forger",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "forger",
+    "pronunciation": "ˈfɔ:ʤə",
+    "meaning": [
+      "fałszerz"
+    ]
+  },
+  {
+    "id": "f-forgery",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "forgery",
+    "pronunciation": "ˈfɔ:ʤerɪ",
+    "meaning": [
+      "fałszerstwo"
+    ]
+  },
+  {
+    "id": "f-forgetful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "forgetful",
+    "pronunciation": "fəˈgetfʊl",
+    "meaning": [
+      "zapominalski",
+      "nie zważający"
+    ]
+  },
+  {
+    "id": "f-forgettable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forgettable",
+    "pronunciation": "fəˈgetəbəl",
+    "meaning": [
+      "nieznaczny"
+    ]
+  },
+  {
+    "id": "f-forgivable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forgivable",
+    "pronunciation": "fəˈgɪvəbəl",
+    "meaning": [
+      "wybaczalny"
+    ]
+  },
+  {
+    "id": "f-forgive",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "forgive",
+    "pronunciation": "fəˈgɪv",
+    "meaning": [
+      "wybaczać"
+    ]
+  },
+  {
+    "id": "f-forgiveness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "forgiveness",
+    "pronunciation": "fəˈgɪvnɪs",
+    "meaning": [
+      "wybaczenie"
+    ]
+  },
+  {
+    "id": "f-forgiving",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "forgiving",
+    "pronunciation": "fəˈgɪvɪŋ",
+    "meaning": [
+      "wybaczający",
+      "pobłażliwy"
+    ]
+  },
+  {
+    "id": "f-fork",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fork",
+    "pronunciation": "fɔ:k",
+    "meaning": [
+      "widelec",
+      "widły",
+      "rozwidlenie",
+      "rozwidlać się",
+      "bulić",
+      "wykładać"
+    ]
+  },
+  {
+    "id": "f-forked",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "forked",
+    "pronunciation": "fɔ:kt",
+    "meaning": [
+      "rozwidlony"
+    ]
+  },
+  {
+    "id": "f-forlorn",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forlorn",
+    "pronunciation": "fəˈlɔ:n",
+    "meaning": [
+      "samotny",
+      "opuszczony",
+      "zapomniany",
+      "beznadziejny",
+      "nieziszczalny"
+    ]
+  },
+  {
+    "id": "f-form",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "form",
+    "pronunciation": "fɔ:m",
+    "meaning": [
+      "forma",
+      "postać",
+      "kształt",
+      "formularz",
+      "druk",
+      "klasa",
+      "formować się",
+      "formować",
+      "tworzyć",
+      "stanowić",
+      "wytwarzać",
+      "ustanawiać",
+      "przesunięcie o arkusz"
+    ]
+  },
+  {
+    "id": "f-formal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "formal",
+    "pronunciation": "ˈfɔ:məl",
+    "meaning": [
+      "formalny",
+      "oficjalny",
+      "uroczysty",
+      "odświętny",
+      "regularny"
+    ]
+  },
+  {
+    "id": "f-formality",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "formality",
+    "pronunciation": "fəˈmælɪtɪ",
+    "meaning": [
+      "formalność",
+      "oficjalność",
+      "ceremonialność"
+    ]
+  },
+  {
+    "id": "f-formalization",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "formalization",
+    "pronunciation": "ˌfɔ:məlaɪˈzeɪʃən",
+    "meaning": [
+      "formalizacja"
+    ]
+  },
+  {
+    "id": "f-formalize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "formalize",
+    "pronunciation": "ˈfɔ:məlaɪz",
+    "meaning": [
+      "formalizować"
+    ]
+  },
+  {
+    "id": "f-format",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "format",
+    "pronunciation": "ˈfɔ:mæt",
+    "meaning": [
+      "format",
+      "formatować"
+    ]
+  },
+  {
+    "id": "f-formation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "formation",
+    "pronunciation": "fəˈmeɪʃən",
+    "meaning": [
+      "tworzenie się",
+      "tworzenie",
+      "formowanie się",
+      "formowanie",
+      "formacja",
+      "utwór skalny",
+      "utwór",
+      "struktura",
+      "formacja chmur",
+      "struktura chmur"
+    ]
+  },
+  {
+    "id": "f-formative",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "formative",
+    "pronunciation": "ˈfɔ:mətɪv",
+    "meaning": [
+      "formujący",
+      "kształtujący",
+      "lata kształtujące charakter"
+    ]
+  },
+  {
+    "id": "f-former",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "pronoun"
+    ],
+    "word": "former",
+    "pronunciation": "ˈfɔ:mə",
+    "meaning": [
+      "były",
+      "dawny",
+      "uprzedni"
+    ]
+  },
+  {
+    "id": "f-formerly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "formerly",
+    "pronunciation": "ˈfɔ:məlɪ",
+    "meaning": [
+      "poprzednio"
+    ]
+  },
+  {
+    "id": "f-formidable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "formidable",
+    "pronunciation": "ˈfɔ:mɪdəbəl",
+    "meaning": [
+      "groźny",
+      "trudny",
+      "niebywały"
+    ]
+  },
+  {
+    "id": "f-formless",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "formless",
+    "pronunciation": "ˈfɔ:mlɪs",
+    "meaning": [
+      "bezkształtny"
+    ]
+  },
+  {
+    "id": "f-formula",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "formula",
+    "pronunciation": "ˈfɔ:mjələ",
+    "meaning": [
+      "formuła",
+      "wzór",
+      "recepta",
+      "przepis",
+      "propozycja",
+      "mieszanka mleczna",
+      "mieszanka"
+    ]
+  },
+  {
+    "id": "f-formulate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "formulate",
+    "pronunciation": "ˈfɔ:mjəleɪt",
+    "meaning": [
+      "formułować"
+    ]
+  },
+  {
+    "id": "f-forsake",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "forsake",
+    "pronunciation": "fəˈseɪk",
+    "meaning": [
+      "opuszczać",
+      "porzucać"
+    ]
+  },
+  {
+    "id": "f-fort",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fort",
+    "pronunciation": "fɔ:t",
+    "meaning": [
+      "fort"
+    ]
+  },
+  {
+    "id": "f-forte",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "forte",
+    "pronunciation": "ˈfɔ:teɪ",
+    "meaning": [
+      "forte",
+      "mocna strona"
+    ]
+  },
+  {
+    "id": "f-forth",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "forth",
+    "pronunciation": "fɔ:θ",
+    "meaning": [
+      "na zewnątrz",
+      "na widok"
+    ]
+  },
+  {
+    "id": "f-forthcoming",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forthcoming",
+    "pronunciation": "ˈfɔ:θkʌmɪŋ",
+    "meaning": [
+      "nadchodzący",
+      "szczery",
+      "wylewny"
+    ]
+  },
+  {
+    "id": "f-forthright",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "forthright",
+    "pronunciation": "ˈfɔ:θraɪt",
+    "meaning": [
+      "dobitny",
+      "zdecydowany"
+    ]
+  },
+  {
+    "id": "f-forthwith",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "forthwith",
+    "pronunciation": "ˌfɔ:θˈwɪθ",
+    "meaning": [
+      "bezzwłocznie"
+    ]
+  },
+  {
+    "id": "f-fortieth",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fortieth",
+    "pronunciation": "ˈfɔ:tɪəθ",
+    "meaning": [
+      "czterdziesty"
+    ]
+  },
+  {
+    "id": "f-fortification",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fortification",
+    "pronunciation": "ˌfɔ:tɪfɪˈkeɪʃən",
+    "meaning": [
+      "fortyfikacja"
+    ]
+  },
+  {
+    "id": "f-fortify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "fortify",
+    "pronunciation": "ˈfɔ:tɪfaɪ",
+    "meaning": [
+      "fortyfikować",
+      "wzmacniać"
+    ]
+  },
+  {
+    "id": "f-fortitude",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "fortitude",
+    "pronunciation": "ˈfɔ:tɪtju:d",
+    "meaning": [
+      "hart ducha",
+      "męstwo"
+    ]
+  },
+  {
+    "id": "f-fortnight",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fortnight",
+    "pronunciation": "ˈfɔ:tnaɪt",
+    "meaning": [
+      "dwa tygodnie"
+    ]
+  },
+  {
+    "id": "f-fortnightly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "fortnightly",
+    "pronunciation": "ˈfɔ:tnaɪtlɪ",
+    "meaning": [
+      "dwutygodniowo",
+      "co dwa tygodnie"
+    ]
+  },
+  {
+    "id": "f-fortress",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fortress",
+    "pronunciation": "ˈfɔ:trɪs",
+    "meaning": [
+      "forteca"
+    ]
+  },
+  {
+    "id": "f-fortuitous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fortuitous",
+    "pronunciation": "fəˈtju:ɪtəs",
+    "meaning": [
+      "przypadkowy"
+    ]
+  },
+  {
+    "id": "f-fortunate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fortunate",
+    "pronunciation": "ˈfɔ:ʧənət",
+    "meaning": [
+      "mający szczęście",
+      "pomyślny"
+    ]
+  },
+  {
+    "id": "f-fortune",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fortune",
+    "pronunciation": "ˈfɔ:ʧən",
+    "meaning": [
+      "pomyślność",
+      "los",
+      "fortuna"
+    ]
+  },
+  {
+    "id": "f-fortune-teller",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fortune-teller",
+    "pronunciation": "ˈfɔ:ʧəntelə",
+    "meaning": [
+      "wróżka"
+    ]
+  },
+  {
+    "id": "f-forty",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "forty",
+    "pronunciation": "ˈfɔ:tɪ",
+    "meaning": [
+      "czterdzieści"
+    ]
+  },
+  {
+    "id": "f-forum",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "forum",
+    "pronunciation": "ˈfɔ:rəm",
+    "meaning": [
+      "forum",
+      "płaszczyzna"
+    ]
+  },
+  {
+    "id": "f-forward",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb",
+      "verb"
+    ],
+    "word": "forward",
+    "pronunciation": "ˈfɔ:wəd",
+    "meaning": [
+      "naprzód",
+      "do przodu",
+      "w przód",
+      "przesyłać",
+      "ekspediować"
+    ]
+  },
+  {
+    "id": "f-forwarding",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "forwarding",
+    "pronunciation": "ˈfɔ:wədɪŋ",
+    "meaning": [
+      "wysyłkowy",
+      "ekspedycyjny"
+    ]
+  },
+  {
+    "id": "f-fossil",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fossil",
+    "pronunciation": "ˈfɒsɪl",
+    "meaning": [
+      "skamieniałość"
+    ]
+  },
+  {
+    "id": "f-fossilize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fossilize",
+    "pronunciation": "ˈfɒsɪlaɪz",
+    "meaning": [
+      "kamienieć",
+      "zamieniać się w kopalinę",
+      "zamieniać w kopalinę"
+    ]
+  },
+  {
+    "id": "f-foster",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "foster",
+    "pronunciation": "ˈfɒstə",
+    "meaning": [
+      "przybrany",
+      "przysposabiać",
+      "wychowywać",
+      "popierać",
+      "pielęgnować"
+    ]
+  },
+  {
+    "id": "f-foul",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "foul",
+    "pronunciation": "faʊl",
+    "meaning": [
+      "brudny",
+      "obrzydliwy",
+      "plugawy",
+      "paskudny",
+      "plugawić",
+      "paskudzić",
+      "faulować",
+      "faul",
+      "nieczysta gra",
+      "przestępstwo",
+      "spaprać"
+    ]
+  },
+  {
+    "id": "f-found",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "found",
+    "pronunciation": "ˈfaʊnd",
+    "meaning": [
+      "fundować",
+      "zakładać",
+      "opierać"
+    ]
+  },
+  {
+    "id": "f-foundation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foundation",
+    "pronunciation": "faʊnˈdeɪʃən",
+    "meaning": [
+      "fundament",
+      "fundacja",
+      "założenie",
+      "podstawa"
+    ]
+  },
+  {
+    "id": "f-founder",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "founder",
+    "pronunciation": "ˈfaʊndə",
+    "meaning": [
+      "fundator",
+      "założyciel",
+      "zawodzić",
+      "nie powodzić się",
+      "tonąć",
+      "iść pod wodę"
+    ]
+  },
+  {
+    "id": "f-foundry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "foundry",
+    "pronunciation": "ˈfaʊndrɪ",
+    "meaning": [
+      "huta"
+    ]
+  },
+  {
+    "id": "f-fount",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fount",
+    "pronunciation": "faʊnt",
+    "meaning": [
+      "źródło",
+      "krynica"
+    ]
+  },
+  {
+    "id": "f-fountain",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fountain",
+    "pronunciation": "ˈfaʊntɪn",
+    "meaning": [
+      "fontanna",
+      "pióro wieczne"
+    ]
+  },
+  {
+    "id": "f-four",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "four",
+    "pronunciation": "fɔ:",
+    "meaning": [
+      "cztery"
+    ]
+  },
+  {
+    "id": "f-foursome",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "foursome",
+    "pronunciation": "ˈfɔ:səm",
+    "meaning": [
+      "czwórka"
+    ]
+  },
+  {
+    "id": "f-fourteen",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fourteen",
+    "pronunciation": "ˌfɔ:ˈti:n",
+    "meaning": [
+      "czternaście"
+    ]
+  },
+  {
+    "id": "f-fourteenth",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fourteenth",
+    "pronunciation": "ˌfɔ:ˈti:nθ",
+    "meaning": [
+      "czternasty"
+    ]
+  },
+  {
+    "id": "f-fourth",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "fourth",
+    "pronunciation": "fɔ:θ",
+    "meaning": [
+      "czwarty"
+    ]
+  },
+  {
+    "id": "f-fowl",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fowl",
+    "pronunciation": "faʊl",
+    "meaning": [
+      "ptak łowny",
+      "ptak"
+    ]
+  },
+  {
+    "id": "f-fox",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fox",
+    "pronunciation": "fɒks",
+    "meaning": [
+      "lis",
+      "wpuszczać w maliny"
+    ]
+  },
+  {
+    "id": "f-Fr.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Fr.",
+    "pronunciation": "/ˌef ˈɑː/",
+    "meaning": [
+      "ojciec",
+      "Francja",
+      "francuski",
+      "piątek"
+    ]
+  },
+  {
+    "id": "f-fracas",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fracas",
+    "pronunciation": "ˈfrækɑ:",
+    "meaning": [
+      "burda"
+    ]
+  },
+  {
+    "id": "f-fraction",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fraction",
+    "pronunciation": "ˈfrækʃən",
+    "meaning": [
+      "ułamek",
+      "odrobina"
+    ]
+  },
+  {
+    "id": "f-fractionally",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "fractionally",
+    "pronunciation": "ˈfrækʃənəlɪ",
+    "meaning": [
+      "o ułamki"
+    ]
+  },
+  {
+    "id": "f-fracture",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fracture",
+    "pronunciation": "ˈfrækʧə",
+    "meaning": [
+      "złamanie",
+      "łamać się"
+    ]
+  },
+  {
+    "id": "f-fragile",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "fragile",
+    "pronunciation": "ˈfræʤaɪl",
+    "meaning": [
+      "kruchy",
+      "wątły"
+    ]
+  },
+  {
+    "id": "f-fragment",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fragment",
+    "pronunciation": "/ˈfræɡmənt/",
+    "meaning": [
+      "fragment",
+      "rozpadać się na kawałki"
+    ]
+  },
+  {
+    "id": "f-fragmentary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fragmentary",
+    "pronunciation": "ˈfrægməntərɪ",
+    "meaning": [
+      "fragmentaryczny"
+    ]
+  },
+  {
+    "id": "f-fragmentation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fragmentation",
+    "pronunciation": "ˌfrægmənˈteɪʃən",
+    "meaning": [
+      "odłamkowy"
+    ]
+  },
+  {
+    "id": "f-fragrance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fragrance",
+    "pronunciation": "ˈfreɪgrəns",
+    "meaning": [
+      "aromat"
+    ]
+  },
+  {
+    "id": "f-fragrant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fragrant",
+    "pronunciation": "ˈfreɪgrənt",
+    "meaning": [
+      "aromatyczny"
+    ]
+  },
+  {
+    "id": "f-frail",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frail",
+    "pronunciation": "freɪl",
+    "meaning": [
+      "kruchy",
+      "wątł"
+    ]
+  },
+  {
+    "id": "f-frailty",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frailty",
+    "pronunciation": "ˈfreɪltɪ",
+    "meaning": [
+      "słabość",
+      "słabostka",
+      "wątłość"
+    ]
+  },
+  {
+    "id": "f-frame",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "frame",
+    "pronunciation": "freɪm",
+    "meaning": [
+      "rama",
+      "oprawa",
+      "ciało",
+      "postura",
+      "oprawiać",
+      "stanowić oprawę",
+      "ujmować",
+      "przypisywać winę",
+      "montować oskarżenie",
+      "usposobienie"
+    ]
+  },
+  {
+    "id": "f-framework",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "framework",
+    "pronunciation": "ˈfreɪmwɜ:k",
+    "meaning": [
+      "obramowanie",
+      "konstrukcja",
+      "ramy",
+      "struktura"
+    ]
+  },
+  {
+    "id": "f-France",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "France",
+    "pronunciation": "frɑ:ns",
+    "meaning": [
+      "Francja"
+    ]
+  },
+  {
+    "id": "f-franchise",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "franchise",
+    "pronunciation": "ˈfrænʧaɪz",
+    "meaning": [
+      "prawo wyborcze",
+      "licencja",
+      "koncesja",
+      "zezwolenie"
+    ]
+  },
+  {
+    "id": "f-frank",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frank",
+    "pronunciation": "fræŋk",
+    "meaning": [
+      "szczery"
+    ]
+  },
+  {
+    "id": "f-frankly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "frankly",
+    "pronunciation": "ˈfræŋklɪ",
+    "meaning": [
+      "szczerze",
+      "szczerze mówiąc"
+    ]
+  },
+  {
+    "id": "f-frantic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frantic",
+    "pronunciation": "ˈfræntɪk",
+    "meaning": [
+      "szaleńczy"
+    ]
+  },
+  {
+    "id": "f-fraternal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fraternal",
+    "pronunciation": "frəˈtɜ:nəl",
+    "meaning": [
+      "braterski"
+    ]
+  },
+  {
+    "id": "f-fraternity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fraternity",
+    "pronunciation": "frəˈtɜ:nɪtɪ",
+    "meaning": [
+      "braterstwo",
+      "bractwo"
+    ]
+  },
+  {
+    "id": "f-fraud",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fraud",
+    "pronunciation": "frɔ:d",
+    "meaning": [
+      "defraudacja",
+      "oszustwo",
+      "hochsztapler"
+    ]
+  },
+  {
+    "id": "f-fraudulent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fraudulent",
+    "pronunciation": "ˈfrɔ:djʊlənt",
+    "meaning": [
+      "oszukańczy"
+    ]
+  },
+  {
+    "id": "f-fraught",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fraught",
+    "pronunciation": "frɔ:t",
+    "meaning": [
+      "brzemienny",
+      "spięty",
+      "przejęty"
+    ]
+  },
+  {
+    "id": "f-fray",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fray",
+    "pronunciation": "freɪ",
+    "meaning": [
+      "strzępić się",
+      "strzępić",
+      "nie dopisywać",
+      "pierwsza linia boju",
+      "pierwsza linia",
+      "walka"
+    ]
+  },
+  {
+    "id": "f-freak",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "freak",
+    "pronunciation": "fri:k",
+    "meaning": [
+      "dziwadło",
+      "wybryk natury",
+      "przedziwny"
+    ]
+  },
+  {
+    "id": "f-freakish",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "freakish",
+    "pronunciation": "ˈfri:kɪʃ",
+    "meaning": [
+      "cudaczny",
+      "dziwaczny"
+    ]
+  },
+  {
+    "id": "f-freckle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "freckle",
+    "pronunciation": "ˈfrekəl",
+    "meaning": [
+      "pieg"
+    ]
+  },
+  {
+    "id": "f-freckled",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "freckled",
+    "pronunciation": "ˈfrekəld",
+    "meaning": [
+      "piegowaty"
+    ]
+  },
+  {
+    "id": "f-free",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "verb",
+      "adverb"
+    ],
+    "word": "free",
+    "pronunciation": "fri:",
+    "meaning": [
+      "wolny",
+      "darmowy",
+      "uwalniać",
+      "zwalniać",
+      "wolno",
+      "swobodnie",
+      "wolna inicjatywa",
+      "rzut wolny",
+      "wolna wola"
+    ]
+  },
+  {
+    "id": "f-free-and-easy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "free-and-easy",
+    "pronunciation": "ˌfrɪ: ənˈi:zɪ",
+    "meaning": [
+      "bezproblemowy",
+      "luźny"
+    ]
+  },
+  {
+    "id": "f-freebie",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "freebie",
+    "pronunciation": "ˈfri:bɪ",
+    "meaning": [
+      "darmocha"
+    ]
+  },
+  {
+    "id": "f-freedom",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "freedom",
+    "pronunciation": "ˈfri:dəm",
+    "meaning": [
+      "wolność",
+      "swoboda",
+      "uwolnienie",
+      "bojownik o wolność"
+    ]
+  },
+  {
+    "id": "f-free-for-all",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "free-for-all",
+    "pronunciation": "ˈfri:fərɔ:l",
+    "meaning": [
+      "wolna amerykanka"
+    ]
+  },
+  {
+    "id": "f-freelance",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "freelance",
+    "pronunciation": "ˈfri:lɑ:ns",
+    "meaning": [
+      "niezależny",
+      "niezależnie",
+      "niezależny współpracownik"
+    ]
+  },
+  {
+    "id": "f-freely",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "freely",
+    "pronunciation": "ˈfri:lɪ",
+    "meaning": [
+      "często",
+      "obficie",
+      "swobodnie",
+      "bez przeszkód",
+      "szczodrze"
+    ]
+  },
+  {
+    "id": "f-free-range",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "free-range",
+    "pronunciation": "ˌfri: ˈreɪnʤ",
+    "meaning": [
+      "wiejski"
+    ]
+  },
+  {
+    "id": "f-freestyle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "freestyle",
+    "pronunciation": "ˈfri:staɪl",
+    "meaning": [
+      "styl dowolny"
+    ]
+  },
+  {
+    "id": "f-freeway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "freeway",
+    "pronunciation": "ˈfri:weɪ",
+    "meaning": [
+      "autostrada bezpłatna",
+      "autostrada"
+    ]
+  },
+  {
+    "id": "f-freeze",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "freeze",
+    "pronunciation": "fri:z",
+    "meaning": [
+      "zamarzać",
+      "zamrażać",
+      "zastygać",
+      "mroźna pogoda",
+      "zamrożenie"
+    ]
+  },
+  {
+    "id": "f-freezer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "freezer",
+    "pronunciation": "ˈfri:zə",
+    "meaning": [
+      "zamrażarka",
+      "zamrażalnik"
+    ]
+  },
+  {
+    "id": "f-freezing",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "freezing",
+    "pronunciation": "ˈfri:zɪŋ",
+    "meaning": [
+      "lodowaty",
+      "zero stopni",
+      "zero",
+      "punkt zamarzania"
+    ]
+  },
+  {
+    "id": "f-freight",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "freight",
+    "pronunciation": "freɪt",
+    "meaning": [
+      "fracht",
+      "ładunek",
+      "przesyłka",
+      "pociąg towarowy"
+    ]
+  },
+  {
+    "id": "f-freighter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "freighter",
+    "pronunciation": "ˈfreɪtə",
+    "meaning": [
+      "frachtowiec"
+    ]
+  },
+  {
+    "id": "f-French",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "French",
+    "pronunciation": "frenʧ",
+    "meaning": [
+      "francuski",
+      "frytki",
+      "drzwi balkonowe",
+      "drzwi przeszklone"
+    ]
+  },
+  {
+    "id": "f-Frenchman",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Frenchman",
+    "pronunciation": "ˈfrenʧmən",
+    "meaning": [
+      "Francuz"
+    ]
+  },
+  {
+    "id": "f-Frenchwoman",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Frenchwoman",
+    "pronunciation": "ˈfrenʧwʊmən",
+    "meaning": [
+      "Francuzka"
+    ]
+  },
+  {
+    "id": "f-frenetic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "frenetic",
+    "pronunciation": "frəˈnetɪk",
+    "meaning": [
+      "frenetyczny",
+      "entuzjastyczny"
+    ]
+  },
+  {
+    "id": "f-frenzy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frenzy",
+    "pronunciation": "ˈfrenzɪ",
+    "meaning": [
+      "szał"
+    ]
+  },
+  {
+    "id": "f-frequency",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frequency",
+    "pronunciation": "ˈfri:kwənsɪ",
+    "meaning": [
+      "częstość",
+      "frekwencja"
+    ]
+  },
+  {
+    "id": "f-frequent",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "frequent",
+    "pronunciation": "/ˈfriːkwənt/",
+    "meaning": [
+      "częsty",
+      "uczęszczać do",
+      "uczęszczać",
+      "bywać w",
+      "bywać"
+    ]
+  },
+  {
+    "id": "f-fresco",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fresco",
+    "pronunciation": "ˈfreskəʊ",
+    "meaning": [
+      "fresk"
+    ]
+  },
+  {
+    "id": "f-fresh",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "fresh",
+    "pronunciation": "freʃ",
+    "meaning": [
+      "nowy",
+      "świeży",
+      "słodki",
+      "odświeżający",
+      "rześki"
+    ]
+  },
+  {
+    "id": "f-freshen",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "freshen",
+    "pronunciation": "ˈfreʃən",
+    "meaning": [
+      "odświeżać się",
+      "odświeżać",
+      "wzmagać się"
+    ]
+  },
+  {
+    "id": "f-fresher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fresher",
+    "pronunciation": "ˈfreʃə",
+    "meaning": [
+      "nowy student",
+      "nowy"
+    ]
+  },
+  {
+    "id": "f-freshly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "freshly",
+    "pronunciation": "ˈfreʃlɪ",
+    "meaning": [
+      "świeżo"
+    ]
+  },
+  {
+    "id": "f-freshman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "freshman",
+    "pronunciation": "ˈfreʃmən",
+    "meaning": [
+      "nowy student",
+      "nowy"
+    ]
+  },
+  {
+    "id": "f-freshness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "freshness",
+    "pronunciation": "ˈfreʃnɪs",
+    "meaning": [
+      "świeżość"
+    ]
+  },
+  {
+    "id": "f-freshwater",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "freshwater",
+    "pronunciation": "ˈfreʃwɔ:tə",
+    "meaning": [
+      "słodka woda",
+      "słodkowodny"
+    ]
+  },
+  {
+    "id": "f-fret",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "fret",
+    "pronunciation": "fret",
+    "meaning": [
+      "gryźć się"
+    ]
+  },
+  {
+    "id": "f-fretful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fretful",
+    "pronunciation": "ˈfretfʊl",
+    "meaning": [
+      "niespokojny",
+      "strapiony"
+    ]
+  },
+  {
+    "id": "f-Fri.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Fri.",
+    "pronunciation": "/ˌɛf ˈaɪ/",
+    "meaning": [
+      "piątek"
+    ]
+  },
+  {
+    "id": "f-friar",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "friar",
+    "pronunciation": "ˈfraɪə",
+    "meaning": [
+      "zakonnik żebrzący",
+      "zakonnik"
+    ]
+  },
+  {
+    "id": "f-friction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "friction",
+    "pronunciation": "ˈfrɪkʃən",
+    "meaning": [
+      "tarcie",
+      "tarcia",
+      "nieporozumienia"
+    ]
+  },
+  {
+    "id": "f-Friday",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Friday",
+    "pronunciation": "ˈfraɪdə",
+    "meaning": [
+      "piątek"
+    ]
+  },
+  {
+    "id": "f-fridge",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "fridge",
+    "pronunciation": "frɪʤ",
+    "meaning": [
+      "lodówka"
+    ]
+  },
+  {
+    "id": "f-friend",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "friend",
+    "pronunciation": "frend",
+    "meaning": [
+      "przyjaciel",
+      "dobry kolega",
+      "kolega"
+    ]
+  },
+  {
+    "id": "f-friendly",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "friendly",
+    "pronunciation": "ˈfrendlɪ",
+    "meaning": [
+      "przyjazny",
+      "zaprzyjaźniony",
+      "przytulny",
+      "przyjacielski",
+      "spotkanie towarzyskie"
+    ]
+  },
+  {
+    "id": "f-friendship",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "friendship",
+    "pronunciation": "ˈfrendʃɪp",
+    "meaning": [
+      "przyjaźń",
+      "bliskie koleżeństwo",
+      "koleżeństwo"
+    ]
+  },
+  {
+    "id": "f-frieze",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frieze",
+    "pronunciation": "fri:z",
+    "meaning": [
+      "fryz"
+    ]
+  },
+  {
+    "id": "f-frigate",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frigate",
+    "pronunciation": "ˈfrɪgɪt",
+    "meaning": [
+      "fregata"
+    ]
+  },
+  {
+    "id": "f-fright",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fright",
+    "pronunciation": "fraɪt",
+    "meaning": [
+      "strach",
+      "przestrach"
+    ]
+  },
+  {
+    "id": "f-frighten",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "frighten",
+    "pronunciation": "ˈfraɪtən",
+    "meaning": [
+      "straszyć",
+      "odstraszać"
+    ]
+  },
+  {
+    "id": "f-frightened",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "frightened",
+    "pronunciation": "ˈfraɪtənd",
+    "meaning": [
+      "wystraszony"
+    ]
+  },
+  {
+    "id": "f-frightful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frightful",
+    "pronunciation": "ˈfraɪtfʊl",
+    "meaning": [
+      "okropny"
+    ]
+  },
+  {
+    "id": "f-frigid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "frigid",
+    "pronunciation": "ˈfrɪʤɪd",
+    "meaning": [
+      "oziębły"
+    ]
+  },
+  {
+    "id": "f-frill",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frill",
+    "pronunciation": "frɪl",
+    "meaning": [
+      "falbanka",
+      "ozdóbki"
+    ]
+  },
+  {
+    "id": "f-frilly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frilly",
+    "pronunciation": "ˈfrɪlɪ",
+    "meaning": [
+      "z falbankami"
+    ]
+  },
+  {
+    "id": "f-fringe",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fringe",
+    "pronunciation": "ˈfrɪnʤ",
+    "meaning": [
+      "grzywka",
+      "frędzle",
+      "peryferie",
+      "kraniec",
+      "ubocze"
+    ]
+  },
+  {
+    "id": "f-fringed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fringed",
+    "pronunciation": "ˈfrɪnʤd",
+    "meaning": [
+      "ozdobiony frędzlami",
+      "obramowany"
+    ]
+  },
+  {
+    "id": "f-frisk",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "frisk",
+    "pronunciation": "frɪsk",
+    "meaning": [
+      "przeszukiwać",
+      "przetrzepywać",
+      "brykać",
+      "hasać"
+    ]
+  },
+  {
+    "id": "f-frisky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frisky",
+    "pronunciation": "ˈfrɪskɪ",
+    "meaning": [
+      "żywy",
+      "rozbawiony"
+    ]
+  },
+  {
+    "id": "f-frivolity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frivolity",
+    "pronunciation": "frɪˈvɒlɪtɪ",
+    "meaning": [
+      "płochość",
+      "pustota"
+    ]
+  },
+  {
+    "id": "f-frivolous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "frivolous",
+    "pronunciation": "ˈfrɪvələs",
+    "meaning": [
+      "płochy",
+      "pusty",
+      "bezsensowny",
+      "niepotrzebny"
+    ]
+  },
+  {
+    "id": "f-frizzy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frizzy",
+    "pronunciation": "ˈfrɪzɪ",
+    "meaning": [
+      "kędzierzawy"
+    ]
+  },
+  {
+    "id": "f-fro",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "word": "fro",
+    "pronunciation": "frəʊ",
+    "meaning": []
+  },
+  {
+    "id": "f-frock",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frock",
+    "pronunciation": "frɒk",
+    "meaning": [
+      "sukienka"
+    ]
+  },
+  {
+    "id": "f-frogman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frogman",
+    "pronunciation": "ˈfrɒgmən",
+    "meaning": [
+      "płetwonurek"
+    ]
+  },
+  {
+    "id": "f-frogmarch",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "frogmarch",
+    "pronunciation": "ˈfrɒgmɑ:ʧ",
+    "meaning": [
+      "doprowadzać siłą",
+      "doprowadzać"
+    ]
+  },
+  {
+    "id": "f-frolic",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "frolic",
+    "pronunciation": "ˈfrɒlɪk",
+    "meaning": [
+      "baraszkować",
+      "zabawiać się",
+      "baraszkowanie",
+      "zabawa"
+    ]
+  },
+  {
+    "id": "f-from",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "from",
+    "pronunciation": "/frɒm/",
+    "meaning": [
+      "z",
+      "od"
+    ]
+  },
+  {
+    "id": "f-frond",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frond",
+    "pronunciation": "frɒnd",
+    "meaning": [
+      "liść"
+    ]
+  },
+  {
+    "id": "f-frontage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frontage",
+    "pronunciation": "ˈfrʌntɪʤ",
+    "meaning": [
+      "fasada"
+    ]
+  },
+  {
+    "id": "f-frontal",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "frontal",
+    "pronunciation": "ˈfrʌntəl",
+    "meaning": [
+      "frontalny",
+      "przedni",
+      "z przodu"
+    ]
+  },
+  {
+    "id": "f-frontier",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frontier",
+    "pronunciation": "ˈfrʌntɪə",
+    "meaning": [
+      "granica"
+    ]
+  },
+  {
+    "id": "f-front-page",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "front-page",
+    "pronunciation": "ˌfrʌntˈpeɪʤ",
+    "meaning": [
+      "pierwszostronicowy",
+      "najważniejszy"
+    ]
+  },
+  {
+    "id": "f-frost",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "frost",
+    "pronunciation": "frɒst",
+    "meaning": [
+      "mróz",
+      "szron"
+    ]
+  },
+  {
+    "id": "f-frostbite",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frostbite",
+    "pronunciation": "ˈfrɒstbaɪt",
+    "meaning": [
+      "odmrożenie"
+    ]
+  },
+  {
+    "id": "f-frosted",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frosted",
+    "pronunciation": "ˈfrɒstɪd",
+    "meaning": [
+      "mleczny"
+    ]
+  },
+  {
+    "id": "f-frosty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frosty",
+    "pronunciation": "ˈfrɒstɪ",
+    "meaning": [
+      "mroźny"
+    ]
+  },
+  {
+    "id": "f-froth",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "froth",
+    "pronunciation": "frɒθ",
+    "meaning": [
+      "piana",
+      "pienić się"
+    ]
+  },
+  {
+    "id": "f-frothy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frothy",
+    "pronunciation": "ˈfrɒθɪ",
+    "meaning": [
+      "spieniony",
+      "pienisty"
+    ]
+  },
+  {
+    "id": "f-frozen",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frozen",
+    "pronunciation": "ˈfrəʊzən",
+    "meaning": [
+      "zamarznięty",
+      "mrożony",
+      "przemarzły",
+      "zmrożony"
+    ]
+  },
+  {
+    "id": "f-frugal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "frugal",
+    "pronunciation": "ˈfru:gəl",
+    "meaning": [
+      "oszczędny",
+      "skromny"
+    ]
+  },
+  {
+    "id": "f-fruit",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "fruit",
+    "pronunciation": "fru:t",
+    "meaning": [
+      "owoc",
+      "automat do gry"
+    ]
+  },
+  {
+    "id": "f-fridge",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "fridge",
+    "pronunciation": "frɪʤ",
+    "meaning": [
+      "lodówka"
+    ]
+  },
+  {
+    "id": "f-friend",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "friend",
+    "pronunciation": "frend",
+    "meaning": [
+      "przyjaciel",
+      "dobry kolega",
+      "kolega"
+    ]
+  },
+  {
+    "id": "f-friendly",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "friendly",
+    "pronunciation": "ˈfrendlɪ",
+    "meaning": [
+      "przyjazny",
+      "zaprzyjaźniony",
+      "przytulny",
+      "przyjacielski",
+      "spotkanie towarzyskie"
+    ]
+  },
+  {
+    "id": "f-friendship",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "friendship",
+    "pronunciation": "ˈfrendʃɪp",
+    "meaning": [
+      "przyjaźń",
+      "bliskie koleżeństwo",
+      "koleżeństwo"
+    ]
+  },
+  {
+    "id": "f-frieze",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frieze",
+    "pronunciation": "fri:z",
+    "meaning": [
+      "fryz"
+    ]
+  },
+  {
+    "id": "f-frigate",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frigate",
+    "pronunciation": "ˈfrɪgɪt",
+    "meaning": [
+      "fregata"
+    ]
+  },
+  {
+    "id": "f-fright",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fright",
+    "pronunciation": "fraɪt",
+    "meaning": [
+      "strach",
+      "przestrach"
+    ]
+  },
+  {
+    "id": "f-frighten",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "frighten",
+    "pronunciation": "ˈfraɪtən",
+    "meaning": [
+      "straszyć",
+      "odstraszać"
+    ]
+  },
+  {
+    "id": "f-frightened",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "frightened",
+    "pronunciation": "ˈfraɪtənd",
+    "meaning": [
+      "wystraszony"
+    ]
+  },
+  {
+    "id": "f-frightful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frightful",
+    "pronunciation": "ˈfraɪtfʊl",
+    "meaning": [
+      "okropny"
+    ]
+  },
+  {
+    "id": "f-frigid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "frigid",
+    "pronunciation": "ˈfrɪʤɪd",
+    "meaning": [
+      "oziębły"
+    ]
+  },
+  {
+    "id": "f-frill",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frill",
+    "pronunciation": "frɪl",
+    "meaning": [
+      "falbanka",
+      "ozdóbki"
+    ]
+  },
+  {
+    "id": "f-frilly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frilly",
+    "pronunciation": "ˈfrɪlɪ",
+    "meaning": [
+      "z falbankami"
+    ]
+  },
+  {
+    "id": "f-fringe",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fringe",
+    "pronunciation": "ˈfrɪnʤ",
+    "meaning": [
+      "grzywka",
+      "frędzle",
+      "peryferie",
+      "kraniec",
+      "ubocze"
+    ]
+  },
+  {
+    "id": "f-fringed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fringed",
+    "pronunciation": "ˈfrɪnʤd",
+    "meaning": [
+      "ozdobiony frędzlami",
+      "obramowany"
+    ]
+  },
+  {
+    "id": "f-frisk",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "frisk",
+    "pronunciation": "frɪsk",
+    "meaning": [
+      "przeszukiwać",
+      "przetrzepywać",
+      "brykać",
+      "hasać"
+    ]
+  },
+  {
+    "id": "f-frisky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frisky",
+    "pronunciation": "ˈfrɪskɪ",
+    "meaning": [
+      "żywy",
+      "rozbawiony"
+    ]
+  },
+  {
+    "id": "f-frivolity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frivolity",
+    "pronunciation": "frɪˈvɒlɪtɪ",
+    "meaning": [
+      "płochość",
+      "pustota"
+    ]
+  },
+  {
+    "id": "f-frivolous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "frivolous",
+    "pronunciation": "ˈfrɪvələs",
+    "meaning": [
+      "płochy",
+      "pusty",
+      "bezsensowny",
+      "niepotrzebny"
+    ]
+  },
+  {
+    "id": "f-frizzy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frizzy",
+    "pronunciation": "ˈfrɪzɪ",
+    "meaning": [
+      "kędzierzawy"
+    ]
+  },
+  {
+    "id": "f-fro",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "word": "fro",
+    "pronunciation": "frəʊ",
+    "meaning": []
+  },
+  {
+    "id": "f-frock",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frock",
+    "pronunciation": "frɒk",
+    "meaning": [
+      "sukienka"
+    ]
+  },
+  {
+    "id": "f-frogman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frogman",
+    "pronunciation": "ˈfrɒgmən",
+    "meaning": [
+      "płetwonurek"
+    ]
+  },
+  {
+    "id": "f-frogmarch",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "frogmarch",
+    "pronunciation": "ˈfrɒgmɑ:ʧ",
+    "meaning": [
+      "doprowadzać siłą",
+      "doprowadzać"
+    ]
+  },
+  {
+    "id": "f-frolic",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "frolic",
+    "pronunciation": "ˈfrɒlɪk",
+    "meaning": [
+      "baraszkować",
+      "zabawiać się",
+      "baraszkowanie",
+      "zabawa"
+    ]
+  },
+  {
+    "id": "f-from",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "from",
+    "pronunciation": "/frɒm/",
+    "meaning": [
+      "z",
+      "od"
+    ]
+  },
+  {
+    "id": "f-frond",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frond",
+    "pronunciation": "frɒnd",
+    "meaning": [
+      "liść"
+    ]
+  },
+  {
+    "id": "f-frontage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "frontage",
+    "pronunciation": "ˈfrʌntɪʤ",
+    "meaning": [
+      "fasada"
+    ]
+  },
+  {
+    "id": "f-frontal",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "frontal",
+    "pronunciation": "ˈfrʌntəl",
+    "meaning": [
+      "frontalny",
+      "przedni",
+      "z przodu"
+    ]
+  },
+  {
+    "id": "f-frontier",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frontier",
+    "pronunciation": "ˈfrʌntɪə",
+    "meaning": [
+      "granica"
+    ]
+  },
+  {
+    "id": "f-front-page",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "front-page",
+    "pronunciation": "ˌfrʌntˈpeɪʤ",
+    "meaning": [
+      "pierwszostronicowy",
+      "najważniejszy"
+    ]
+  },
+  {
+    "id": "f-frost",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "frost",
+    "pronunciation": "frɒst",
+    "meaning": [
+      "mróz",
+      "szron"
+    ]
+  },
+  {
+    "id": "f-frostbite",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frostbite",
+    "pronunciation": "ˈfrɒstbaɪt",
+    "meaning": [
+      "odmrożenie"
+    ]
+  },
+  {
+    "id": "f-frosted",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frosted",
+    "pronunciation": "ˈfrɒstɪd",
+    "meaning": [
+      "mleczny"
+    ]
+  },
+  {
+    "id": "f-frosty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frosty",
+    "pronunciation": "ˈfrɒstɪ",
+    "meaning": [
+      "mroźny"
+    ]
+  },
+  {
+    "id": "f-froth",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "froth",
+    "pronunciation": "frɒθ",
+    "meaning": [
+      "piana",
+      "pienić się"
+    ]
+  },
+  {
+    "id": "f-frothy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "frothy",
+    "pronunciation": "ˈfrɒθɪ",
+    "meaning": [
+      "spieniony",
+      "pienisty"
+    ]
+  },
+  {
+    "id": "f-frozen",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "frozen",
+    "pronunciation": "ˈfrəʊzən",
+    "meaning": [
+      "zamarznięty",
+      "mrożony",
+      "przemarzły",
+      "zmrożony"
+    ]
+  },
+  {
+    "id": "f-frugal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "frugal",
+    "pronunciation": "ˈfru:gəl",
+    "meaning": [
+      "oszczędny",
+      "skromny"
+    ]
+  },
+  {
+    "id": "f-fruit",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "fruit",
+    "pronunciation": "fru:t",
+    "meaning": [
+      "owoc",
+      "automat do gry"
+    ]
+  },
+  {
+    "id": "f-fruitcake",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fruitcake",
+    "pronunciation": "ˈfru:tkeɪk",
+    "meaning": [
+      "keks"
+    ]
+  },
+  {
+    "id": "f-fruitful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fruitful",
+    "pronunciation": "ˈfru:tfʊl",
+    "meaning": [
+      "owocny"
+    ]
+  },
+  {
+    "id": "f-fruition",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "fruition",
+    "pronunciation": "fru:ˈɪʃən",
+    "meaning": []
+  },
+  {
+    "id": "f-fruitless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fruitless",
+    "pronunciation": "ˈfru:tlɪs",
+    "meaning": [
+      "bezowocny"
+    ]
+  },
+  {
+    "id": "f-fruity",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fruity",
+    "pronunciation": "ˈfru:tɪ",
+    "meaning": [
+      "owocowy",
+      "pełny",
+      "jędrny"
+    ]
+  },
+  {
+    "id": "f-frustrate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "frustrate",
+    "pronunciation": "frʌˈstreɪt",
+    "meaning": [
+      "frustrować",
+      "przygnębiać",
+      "niweczyć"
+    ]
+  },
+  {
+    "id": "f-frustration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "frustration",
+    "pronunciation": "frʌˈstreɪʃən",
+    "meaning": [
+      "frustracja"
+    ]
+  },
+  {
+    "id": "f-fry",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "fry",
+    "pronunciation": "fraɪ",
+    "meaning": [
+      "smażyć się",
+      "smażyć"
+    ]
+  },
+  {
+    "id": "f-frying_pan",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "frying pan",
+    "pronunciation": "ˈfraɪɪŋpæn",
+    "meaning": [
+      "patelnia"
+    ]
+  },
+  {
+    "id": "f-ft.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ft.",
+    "pronunciation": "/ˌef ˈtiː/",
+    "meaning": [
+      "stopa",
+      "stopy"
+    ]
+  },
+  {
+    "id": "f-fuck",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "exclamation",
+      "noun"
+    ],
+    "word": "fuck",
+    "pronunciation": "ˈfɑ:t",
+    "meaning": [
+      "pierdolić",
+      "kurwa",
+      "cholera"
+    ]
+  },
+  {
+    "id": "f-fudge",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fudge",
+    "pronunciation": "fʌʤ",
+    "meaning": [
+      "krówka"
+    ]
+  },
+  {
+    "id": "f-fuel",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fuel",
+    "pronunciation": "ˈfjʊəl",
+    "meaning": [
+      "paliwo",
+      "tankować",
+      "zaopatrywać w paliwo",
+      "podsycać"
+    ]
+  },
+  {
+    "id": "f-fugitive",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fugitive",
+    "pronunciation": "ˈfju:ʤɪtɪv",
+    "meaning": [
+      "uciekinier",
+      "zbiegły",
+      "uciekający",
+      "ulotny"
+    ]
+  },
+  {
+    "id": "f-full",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "full",
+    "pronunciation": "fʊl",
+    "meaning": [
+      "pełny",
+      "wypełniony",
+      "prosto",
+      "pełnia",
+      "nabity",
+      "zapchany"
+    ]
+  },
+  {
+    "id": "f-full-length",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "full-length",
+    "pronunciation": "ˌfʊlˈleŋθ",
+    "meaning": [
+      "całkowity",
+      "obejmujący pełną postać",
+      "na całą długość"
+    ]
+  },
+  {
+    "id": "f-fullness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fullness",
+    "pronunciation": "ˈfʊlnɪs",
+    "meaning": [
+      "pełnia"
+    ]
+  },
+  {
+    "id": "f-full-time",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb",
+      "noun"
+    ],
+    "word": "full-time",
+    "pronunciation": "ˌfʊlˈtaɪm",
+    "meaning": [
+      "pełnowymiarowy",
+      "w pełnym wymiarze godzin",
+      "koniec gry"
+    ]
+  },
+  {
+    "id": "f-fully",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "fully",
+    "pronunciation": "ˈfʊlɪ",
+    "meaning": [
+      "w pełni",
+      "całkowicie",
+      "co najmniej",
+      "przynajmniej"
+    ]
+  },
+  {
+    "id": "f-fully-fledged",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "fully-fledged",
+    "pronunciation": "ˌfʊlɪˈfleʤd",
+    "meaning": [
+      "opierzony",
+      "dojrzały",
+      "pełnouprawniony"
+    ]
+  },
+  {
+    "id": "f-fulsome",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "fulsome",
+    "pronunciation": "ˈfʊlsəm",
+    "meaning": [
+      "wylewny",
+      "przesadny"
+    ]
+  },
+  {
+    "id": "f-fumble",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "fumble",
+    "pronunciation": "ˈfʌmbəl",
+    "meaning": [
+      "grzebać się",
+      "grzebać"
+    ]
+  },
+  {
+    "id": "f-fume",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fume",
+    "pronunciation": "fju:m",
+    "meaning": [
+      "wyziewy",
+      "opary",
+      "szaleć"
+    ]
+  },
+  {
+    "id": "f-fun",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "fun",
+    "pronunciation": "fʌn",
+    "meaning": [
+      "zabawa",
+      "radość",
+      "fajny"
+    ]
+  },
+  {
+    "id": "f-function",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "function",
+    "pronunciation": "ˈfʌŋkʃən",
+    "meaning": [
+      "funkcja",
+      "zadanie",
+      "uroczystość",
+      "ceremonia",
+      "działać",
+      "pracować",
+      "funkcjonować"
+    ]
+  },
+  {
+    "id": "f-functional",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "functional",
+    "pronunciation": "ˈfʌŋkʃənəl",
+    "meaning": [
+      "funkcjonalny",
+      "działający",
+      "pracujący"
+    ]
+  },
+  {
+    "id": "f-functionary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "functionary",
+    "pronunciation": "ˈfʌŋkʃənərɪ",
+    "meaning": [
+      "urzędnik",
+      "funkcjonariusz"
+    ]
+  },
+  {
+    "id": "f-fund",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fund",
+    "pronunciation": "fʌnd",
+    "meaning": [
+      "fundusze",
+      "fundusz",
+      "środki pieniężne",
+      "zasób",
+      "finansować"
+    ]
+  },
+  {
+    "id": "f-fundamental",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "fundamental",
+    "pronunciation": "ˌfʌndəˈmentəl",
+    "meaning": [
+      "fundamentalny",
+      "podstawowy",
+      "podstawy"
+    ]
+  },
+  {
+    "id": "f-funeral",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "funeral",
+    "pronunciation": "ˈfju:nərəl",
+    "meaning": [
+      "pogrzeb"
+    ]
+  },
+  {
+    "id": "f-funereal",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "funereal",
+    "pronunciation": "fju:ˈnɪərɪəl",
+    "meaning": [
+      "pogrzebowy"
+    ]
+  },
+  {
+    "id": "f-fungus",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "fungus",
+    "pronunciation": "ˈfʌŋgəs",
+    "meaning": [
+      "grzyb"
+    ]
+  },
+  {
+    "id": "f-funicular",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "funicular",
+    "pronunciation": "fjʊˈnɪkjʊlə",
+    "meaning": [
+      "kolejka linowa"
+    ]
+  },
+  {
+    "id": "f-funnel",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "funnel",
+    "pronunciation": "ˈfʌnəl",
+    "meaning": [
+      "lejek",
+      "komin",
+      "przeciskać się",
+      "przeciskać",
+      "przekazywać"
+    ]
+  },
+  {
+    "id": "f-funnily",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "funnily",
+    "pronunciation": "ˈfʌnɪlɪ",
+    "meaning": [
+      "dziwnie",
+      "pociesznie"
+    ]
+  },
+  {
+    "id": "f-funny",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "funny",
+    "pronunciation": "ˈfʌnɪ",
+    "meaning": [
+      "pocieszny",
+      "komiczny",
+      "śmieszny",
+      "dziwny",
+      "podejrzany"
+    ]
+  },
+  {
+    "id": "f-fur",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "fur",
+    "pronunciation": "fɜ:",
+    "meaning": [
+      "sierść",
+      "futro",
+      "osad",
+      "kamień",
+      "nalot"
+    ]
+  },
+  {
+    "id": "f-furious",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "furious",
+    "pronunciation": "ˈfjʊərɪəs",
+    "meaning": [
+      "wściekły",
+      "zażarty",
+      "rozszalały"
+    ]
+  },
+  {
+    "id": "f-furled",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "furled",
+    "pronunciation": "fɜ:ld",
+    "meaning": [
+      "złożony"
+    ]
+  },
+  {
+    "id": "f-furn.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "furn.",
+    "pronunciation": "/fɜːn/",
+    "meaning": [
+      "umeblowany"
+    ]
+  },
+  {
+    "id": "f-furnace",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "furnace",
+    "pronunciation": "ˈfɜ:nɪs",
+    "meaning": [
+      "piec"
+    ]
+  },
+  {
+    "id": "f-furnish",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "furnish",
+    "pronunciation": "ˈfɜ:nɪʃ",
+    "meaning": [
+      "wyposażać",
+      "meblować",
+      "dostarczać"
+    ]
+  },
+  {
+    "id": "f-furnishings",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "furnishings",
+    "pronunciation": "ˈfɜ:nɪʃɪŋs",
+    "meaning": [
+      "wyposażenie",
+      "umeblowanie"
+    ]
+  },
+  {
+    "id": "f-furniture",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "furniture",
+    "pronunciation": "ˈfɜ:nɪʧə",
+    "meaning": [
+      "meble",
+      "wyposażenie",
+      "umeblowanie"
+    ]
+  },
+  {
+    "id": "f-furore",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "furore",
+    "pronunciation": "fjʊəˈrɔ:rɪ",
+    "meaning": [
+      "furora",
+      "poruszenie"
+    ]
+  },
+  {
+    "id": "f-furrow",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "furrow",
+    "pronunciation": "ˈfʌ:rəʊ",
+    "meaning": [
+      "bruzda",
+      "zmarszczka",
+      "marszczyć się",
+      "marszczyć"
+    ]
+  },
+  {
+    "id": "f-furry",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "furry",
+    "pronunciation": "ˈfɜ:rɪ",
+    "meaning": [
+      "kosmaty",
+      "futrzany"
+    ]
+  },
+  {
+    "id": "f-furtherance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "furtherance",
+    "pronunciation": "ˈfɜ:ðərəns",
+    "meaning": [
+      "poparcie",
+      "wsparcie"
+    ]
+  },
+  {
+    "id": "f-furthermore",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "furthermore",
+    "pronunciation": "ˌfɜ:ðəˈmɔ:",
+    "meaning": [
+      "co więcej",
+      "a przy tym"
+    ]
+  },
+  {
+    "id": "f-furtive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "furtive",
+    "pronunciation": "ˈfɜ:tɪv",
+    "meaning": [
+      "skryty",
+      "ukradkiem"
+    ]
+  },
+  {
+    "id": "f-fury",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fury",
+    "pronunciation": "ˈfjʊərɪ",
+    "meaning": [
+      "wściekłość",
+      "furia"
+    ]
+  },
+  {
+    "id": "f-fuse",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fuse",
+    "pronunciation": "fju:z",
+    "meaning": [
+      "bezpiecznik",
+      "zapalnik",
+      "lont",
+      "spalić bezpiecznik",
+      "spalić bezpieczniki",
+      "zespalać się",
+      "zespalać",
+      "stapiać się",
+      "stapiać"
+    ]
+  },
+  {
+    "id": "f-fuselage",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "fuselage",
+    "pronunciation": "ˈfju:zɪlɑ:ʒ",
+    "meaning": [
+      "kadłub"
+    ]
+  },
+  {
+    "id": "f-fusion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "fusion",
+    "pronunciation": "ˈfju:ʒən",
+    "meaning": [
+      "zespolenie",
+      "połączenie",
+      "synteza termojądrowa"
+    ]
+  },
+  {
+    "id": "f-fuss",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "fuss",
+    "pronunciation": "fʌs",
+    "meaning": [
+      "zamieszanie",
+      "zawracanie głowy",
+      "histeria",
+      "histeryzować",
+      "robić dużo zamieszania",
+      "zamartwiać się o",
+      "strasznie się przejmować"
+    ]
+  },
+  {
+    "id": "f-fussy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fussy",
+    "pronunciation": "ˈfʌsɪ",
+    "meaning": [
+      "wybredny",
+      "przesadny",
+      "afektowany"
+    ]
+  },
+  {
+    "id": "f-futile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "futile",
+    "pronunciation": "ˈfju:taɪl",
+    "meaning": [
+      "jałowy"
+    ]
+  },
+  {
+    "id": "f-future",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "future",
+    "pronunciation": "ˈfju:ʧə",
+    "meaning": [
+      "przyszłość",
+      "przyszły"
+    ]
+  },
+  {
+    "id": "f-futuristic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "futuristic",
+    "pronunciation": "fju:ʧəˈrɪstɪk",
+    "meaning": [
+      "futurystyczny",
+      "zbyt nowoczesny"
+    ]
+  },
+  {
+    "id": "f-fuzzy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "fuzzy",
+    "pronunciation": "ˈfʌzɪ",
+    "meaning": [
+      "puszysty",
+      "kędzierzawy",
+      "nieostry",
+      "rozmazany"
+    ]
+  }
+]
