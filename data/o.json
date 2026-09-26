@@ -1,0 +1,4536 @@
+[
+  {
+    "id": "o-o",
+    "level": "A1",
+    "partOfSpeech": "interjection",
+    "word": "o",
+    "pronunciation": "əʊ",
+    "meaning": [
+      "och",
+      "ach",
+      "zero"
+    ]
+  },
+  {
+    "id": "o-oaf",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "oaf",
+    "pronunciation": "əʊf",
+    "meaning": [
+      "bęcwał"
+    ]
+  },
+  {
+    "id": "o-oak",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "oak",
+    "pronunciation": "əʊk",
+    "meaning": [
+      "dąb"
+    ]
+  },
+  {
+    "id": "o-OAP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "OAP",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "emeryt",
+      "emerytura"
+    ]
+  },
+  {
+    "id": "o-oar",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "oar",
+    "pronunciation": "ɔ:",
+    "meaning": [
+      "wiosło"
+    ]
+  },
+  {
+    "id": "o-OAS",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "OAS",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Organizacja Państwa Amerykańskich"
+    ]
+  },
+  {
+    "id": "o-oasis",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "oasis",
+    "pronunciation": "əʊˈeɪsɪs",
+    "meaning": [
+      "oaza"
+    ]
+  },
+  {
+    "id": "o-oath",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "oath",
+    "pronunciation": "əʊθ",
+    "meaning": [
+      "przysięga"
+    ]
+  },
+  {
+    "id": "o-oatmeal",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "oatmeal",
+    "pronunciation": "ˈəʊtmi:l",
+    "meaning": [
+      "kasza owsiana",
+      "jasnobeżowy"
+    ]
+  },
+  {
+    "id": "o-OAU",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "OAU",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Organizacja Jedności Afrykańskiej"
+    ]
+  },
+  {
+    "id": "o-OBE",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "OBE",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Order Imperium Brytyjskiego"
+    ]
+  },
+  {
+    "id": "o-obedient",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "obedient",
+    "pronunciation": "əˈbi:dɪənt",
+    "meaning": [
+      "posłuszny"
+    ]
+  },
+  {
+    "id": "o-obese",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "obese",
+    "pronunciation": "əʊˈbi:s",
+    "meaning": [
+      "otyły"
+    ]
+  },
+  {
+    "id": "o-obey",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "obey",
+    "pronunciation": "əˈbeɪ",
+    "meaning": [
+      "być posłusznym",
+      "stosować się"
+    ]
+  },
+  {
+    "id": "o-obituary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "obituary",
+    "pronunciation": "əˈbɪtjʊərɪ",
+    "meaning": [
+      "nekrolog"
+    ]
+  },
+  {
+    "id": "o-object",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "object",
+    "pronunciation": "/ˈɒbdʒɪkt/",
+    "meaning": [
+      "przedmiot",
+      "obiekt",
+      "cel",
+      "zadanie",
+      "dopełnienie",
+      "mieć coś do zarzucenia",
+      "mieć obiekcje",
+      "sprzeciwiać się"
+    ]
+  },
+  {
+    "id": "o-objection",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "objection",
+    "pronunciation": "əbˈʤekʃən",
+    "meaning": [
+      "wątpliwość",
+      "zarzut"
+    ]
+  },
+  {
+    "id": "o-objectionable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "objectionable",
+    "pronunciation": "əbˈʤekʃənəbəl",
+    "meaning": [
+      "niewłaściwy",
+      "niestosowny"
+    ]
+  },
+  {
+    "id": "o-objective",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "objective",
+    "pronunciation": "əbˈʤektɪv",
+    "meaning": [
+      "cel",
+      "obiektywny"
+    ]
+  },
+  {
+    "id": "o-obligation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "obligation",
+    "pronunciation": "ˌɒblɪˈgeɪʃən",
+    "meaning": [
+      "zobowiązanie",
+      "obowiązek"
+    ]
+  },
+  {
+    "id": "o-obligatory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obligatory",
+    "pronunciation": "əˈblɪgətərɪ",
+    "meaning": [
+      "obowiązkowy"
+    ]
+  },
+  {
+    "id": "o-oblige",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "oblige",
+    "pronunciation": "əˈblaɪʤ",
+    "meaning": [
+      "zobowiązywać",
+      "wyświadczać przysługę"
+    ]
+  },
+  {
+    "id": "o-obliging",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obliging",
+    "pronunciation": "əˈblaɪʤɪŋ",
+    "meaning": [
+      "uczynny"
+    ]
+  },
+  {
+    "id": "o-oblique",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "oblique",
+    "pronunciation": "əˈbli:k",
+    "meaning": [
+      "pośredni",
+      "wymijający",
+      "ukośny",
+      "skośny"
+    ]
+  },
+  {
+    "id": "o-obliterate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "obliterate",
+    "pronunciation": "əˈblɪtəreɪt",
+    "meaning": [
+      "unicestwiać"
+    ]
+  },
+  {
+    "id": "o-oblivion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "oblivion",
+    "pronunciation": "əˈblɪvɪən",
+    "meaning": [
+      "nieświadomość",
+      "zapomnienie"
+    ]
+  },
+  {
+    "id": "o-oblivious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "oblivious",
+    "pronunciation": "əˈblɪvɪəs",
+    "meaning": [
+      "nieświadomy"
+    ]
+  },
+  {
+    "id": "o-oblong",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "oblong",
+    "pronunciation": "ˈɒblɒŋ",
+    "meaning": [
+      "prostokąt",
+      "prostokątny",
+      "podłużny"
+    ]
+  },
+  {
+    "id": "o-obnoxious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obnoxious",
+    "pronunciation": "əbˈnɒkʃəs",
+    "meaning": [
+      "przykry",
+      "nieznośny"
+    ]
+  },
+  {
+    "id": "o-oboe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "oboe",
+    "pronunciation": "ˈəʊbəʊ",
+    "meaning": [
+      "obój"
+    ]
+  },
+  {
+    "id": "o-obscene",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obscene",
+    "pronunciation": "əˈbsi:n",
+    "meaning": [
+      "obsceniczny",
+      "nieprzyzwoity"
+    ]
+  },
+  {
+    "id": "o-obscenity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "obscenity",
+    "pronunciation": "əˈbsenɪtɪ",
+    "meaning": [
+      "nieprzyzwoitość",
+      "nieprzywoity wyraz"
+    ]
+  },
+  {
+    "id": "o-obscure",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obscure",
+    "pronunciation": "əbˈskjʊə",
+    "meaning": [
+      "mało znany",
+      "zawiły",
+      "niejasny",
+      "zamazany",
+      "niewyraźny",
+      "zaciemniać"
+    ]
+  },
+  {
+    "id": "o-obsequious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "obsequious",
+    "pronunciation": "əbˈsi:kwɪəs",
+    "meaning": [
+      "służalczy"
+    ]
+  },
+  {
+    "id": "o-observable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "observable",
+    "pronunciation": "əbˈzɜ:vəbəl",
+    "meaning": [
+      "dostrzegalny"
+    ]
+  },
+  {
+    "id": "o-observance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "observance",
+    "pronunciation": "əbˈzɜ:vəns",
+    "meaning": [
+      "przestrzeganie"
+    ]
+  },
+  {
+    "id": "o-observant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "observant",
+    "pronunciation": "əbˈzɜ:vənt",
+    "meaning": [
+      "spostrzegawczy"
+    ]
+  },
+  {
+    "id": "o-observation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "observation",
+    "pronunciation": "ˌɒbzəˈveɪʃən",
+    "meaning": [
+      "obserwacja",
+      "spostrzeżenie",
+      "spostrzegawczość"
+    ]
+  },
+  {
+    "id": "o-observatory",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "observatory",
+    "pronunciation": "əbˈzɜ:vətərɪ",
+    "meaning": [
+      "obserwatorium"
+    ]
+  },
+  {
+    "id": "o-observe",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "observe",
+    "pronunciation": "əbˈzɜ:v",
+    "meaning": [
+      "obserwować",
+      "dostrzegać",
+      "zauważać",
+      "przestrzegać"
+    ]
+  },
+  {
+    "id": "o-observer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "observer",
+    "pronunciation": "əbˈzɜ:və",
+    "meaning": [
+      "obserwator",
+      "komentator polityczny",
+      "komentator"
+    ]
+  },
+  {
+    "id": "o-obsess",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "obsess",
+    "pronunciation": "əbˈses",
+    "meaning": [
+      "nie dawać spokoju"
+    ]
+  },
+  {
+    "id": "o-obsession",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "obsession",
+    "pronunciation": "əbˈseʃən",
+    "meaning": [
+      "obsesja"
+    ]
+  },
+  {
+    "id": "o-obsessional",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "obsessional",
+    "pronunciation": "əbˈseʃənəl",
+    "meaning": [
+      "obsesyjny"
+    ]
+  },
+  {
+    "id": "o-obsessive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obsessive",
+    "pronunciation": "əbˈsesɪv",
+    "meaning": [
+      "obsesyjny"
+    ]
+  },
+  {
+    "id": "o-obsolete",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obsolete",
+    "pronunciation": "ˈɒbsəli:t",
+    "meaning": [
+      "przestarzały"
+    ]
+  },
+  {
+    "id": "o-obstacle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "obstacle",
+    "pronunciation": "ˈɒbstəkəl",
+    "meaning": [
+      "przeszkoda"
+    ]
+  },
+  {
+    "id": "o-obstetrics",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "obstetrics",
+    "pronunciation": "əbˈstetrɪks",
+    "meaning": [
+      "położnictwo"
+    ]
+  },
+  {
+    "id": "o-obstinate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obstinate",
+    "pronunciation": "ˈɒbstɪnət",
+    "meaning": [
+      "uparty"
+    ]
+  },
+  {
+    "id": "o-obstruct",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "obstruct",
+    "pronunciation": "əbˈstrʌkt",
+    "meaning": [
+      "tarasować",
+      "blokować"
+    ]
+  },
+  {
+    "id": "o-obstruction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "obstruction",
+    "pronunciation": "əbˈstrʌkʃən",
+    "meaning": [
+      "przeszkoda",
+      "zator",
+      "obstrukcja"
+    ]
+  },
+  {
+    "id": "o-obtain",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "obtain",
+    "pronunciation": "əbˈteɪn",
+    "meaning": [
+      "osiągać",
+      "uzyskiwać"
+    ]
+  },
+  {
+    "id": "o-obtainable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obtainable",
+    "pronunciation": "əbˈteɪnəbəl",
+    "meaning": [
+      "osiągalny"
+    ]
+  },
+  {
+    "id": "o-obtrusive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obtrusive",
+    "pronunciation": "əbˈtru:sɪv",
+    "meaning": [
+      "natrętny",
+      "narzucający się"
+    ]
+  },
+  {
+    "id": "o-obtuse",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "obtuse",
+    "pronunciation": "əbˈtju:s",
+    "meaning": [
+      "tępy",
+      "rozwarty"
+    ]
+  },
+  {
+    "id": "o-obvious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "obvious",
+    "pronunciation": "ˈɒbvɪəs",
+    "meaning": [
+      "oczywisty"
+    ]
+  },
+  {
+    "id": "o-obviously",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "obviously",
+    "pronunciation": "ˈɒbvɪəslɪ",
+    "meaning": [
+      "oczywiście",
+      "w sposób oczywisty"
+    ]
+  },
+  {
+    "id": "o-occasion",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "occasion",
+    "pronunciation": "əˈkeɪʒən",
+    "meaning": [
+      "okazja",
+      "sposobność",
+      "specjalne wydarzenie",
+      "wydarzenie",
+      "powodować",
+      "wywoływać"
+    ]
+  },
+  {
+    "id": "o-occasional",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "occasional",
+    "pronunciation": "əˈkeɪʒənəl",
+    "meaning": [
+      "okresowy",
+      "okazjonalny"
+    ]
+  },
+  {
+    "id": "o-occult",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "occult",
+    "pronunciation": "ˈɒkʌlt",
+    "meaning": [
+      "sekretny",
+      "magiczny"
+    ]
+  },
+  {
+    "id": "o-occupant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "occupant",
+    "pronunciation": "ˈɒkjəpənt",
+    "meaning": [
+      "mieszkaniec",
+      "osoba wewnątrz pomieszczenia",
+      "osoba"
+    ]
+  },
+  {
+    "id": "o-occupation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "occupation",
+    "pronunciation": "ˌɒkjəˈpeɪʃən",
+    "meaning": [
+      "zawód",
+      "zajęcie",
+      "okupacja"
+    ]
+  },
+  {
+    "id": "o-occupational",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "occupational",
+    "pronunciation": "ˌɒkjəˈpeɪʃənəl",
+    "meaning": [
+      "zawodowy"
+    ]
+  },
+  {
+    "id": "o-occupier",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "occupier",
+    "pronunciation": "ˈɒkjəpaɪə",
+    "meaning": [
+      "mieszkaniec",
+      "posiadacz"
+    ]
+  },
+  {
+    "id": "o-occupy",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "occupy",
+    "pronunciation": "ˈɒkjəpaɪ",
+    "meaning": [
+      "zajmować",
+      "okupować",
+      "trwać"
+    ]
+  },
+  {
+    "id": "o-occur",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "occur",
+    "pronunciation": "əˈkɜ:",
+    "meaning": [
+      "zdarzać się",
+      "następować",
+      "występować",
+      "przychodzić"
+    ]
+  },
+  {
+    "id": "o-occurrence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "occurrence",
+    "pronunciation": "əˈkʌrəns",
+    "meaning": [
+      "wydarzenie",
+      "występowanie"
+    ]
+  },
+  {
+    "id": "o-ocean",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ocean",
+    "pronunciation": "ˈəʊʃən",
+    "meaning": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "o-OCR",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "OCR",
+    "pronunciation": "/ˌəʊsiːˈɑː/",
+    "meaning": [
+      "optyczne rozpoznawianie znaków"
+    ]
+  },
+  {
+    "id": "o-Oct.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Oct.",
+    "pronunciation": "/ɒkt/",
+    "meaning": [
+      "październik"
+    ]
+  },
+  {
+    "id": "o-octagon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "octagon",
+    "pronunciation": "ˈɒktəgən",
+    "meaning": [
+      "ośmiokąt"
+    ]
+  },
+  {
+    "id": "o-octave",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "octave",
+    "pronunciation": "ˈɒktɪv",
+    "meaning": [
+      "oktawa"
+    ]
+  },
+  {
+    "id": "o-October",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "October",
+    "pronunciation": "ɒkˈtəʊbə",
+    "meaning": [
+      "październik"
+    ]
+  },
+  {
+    "id": "o-octopus",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "octopus",
+    "pronunciation": "ˈɒktəpəs",
+    "meaning": [
+      "ośmiornica"
+    ]
+  },
+  {
+    "id": "o-oculist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "oculist",
+    "pronunciation": "ˈɒkjəlɪst",
+    "meaning": [
+      "okulista"
+    ]
+  },
+  {
+    "id": "o-odd",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "odd",
+    "pronunciation": "ɒd",
+    "meaning": [
+      "dziwny",
+      "niedobrany",
+      "nie do pary",
+      "różny",
+      "nieparzysty",
+      "kilkadziesiąt",
+      "szanse",
+      "różności",
+      "klamoty"
+    ]
+  },
+  {
+    "id": "o-oddity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "oddity",
+    "pronunciation": "ˈɒdɪtɪ",
+    "meaning": [
+      "dziwactwo",
+      "dziwaczność"
+    ]
+  },
+  {
+    "id": "o-oddments",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "oddments",
+    "pronunciation": "ˈɒdmənts",
+    "meaning": [
+      "różności"
+    ]
+  },
+  {
+    "id": "o-odds-on",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "odds-on",
+    "pronunciation": "ədzˈɒn",
+    "meaning": [
+      "prawie pewne"
+    ]
+  },
+  {
+    "id": "o-Oder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Oder",
+    "pronunciation": "ˈəʊdə",
+    "meaning": []
+  },
+  {
+    "id": "o-odious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "odious",
+    "pronunciation": "ˈəʊdɪəs",
+    "meaning": [
+      "nienawistny",
+      "wstrętny"
+    ]
+  },
+  {
+    "id": "o-odour",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "odour",
+    "pronunciation": "ˈəʊdə",
+    "meaning": [
+      "zapach"
+    ]
+  },
+  {
+    "id": "o-OECD",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "OECD",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "Organizacja Współpracy Ekonomicznej i Rozwoju"
+    ]
+  },
+  {
+    "id": "o-of",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "of",
+    "pronunciation": "/əv/",
+    "meaning": [
+      "z",
+      "ze strony",
+      "na",
+      "o",
+      "w",
+      "w wieku lat",
+      "w wieku"
+    ]
+  },
+  {
+    "id": "o-offal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "offal",
+    "pronunciation": "ˈɒfəl",
+    "meaning": [
+      "podroby"
+    ]
+  },
+  {
+    "id": "o-off-colour",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "off-colour",
+    "pronunciation": "ˌɒfˈkʌlə",
+    "meaning": [
+      "niezdrowy"
+    ]
+  },
+  {
+    "id": "o-offence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "offence",
+    "pronunciation": "əˈfens",
+    "meaning": [
+      "wykroczenie",
+      "przestępstwo"
+    ]
+  },
+  {
+    "id": "o-offend",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "offend",
+    "pronunciation": "əˈfend",
+    "meaning": [
+      "obrażać",
+      "naruszać",
+      "wykraczać",
+      "popełniać"
+    ]
+  },
+  {
+    "id": "o-offender",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "offender",
+    "pronunciation": "əˈfendə",
+    "meaning": [
+      "przestępca",
+      "sprawca wykroczenia",
+      "winowajca"
+    ]
+  },
+  {
+    "id": "o-offensive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "offensive",
+    "pronunciation": "əˈfensɪv",
+    "meaning": [
+      "obraźliwy",
+      "ofensywny",
+      "ofensywa"
+    ]
+  },
+  {
+    "id": "o-offering",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "offering",
+    "pronunciation": "ˈɒfərɪŋ",
+    "meaning": [
+      "propozycja",
+      "oferta",
+      "ofiara"
+    ]
+  },
+  {
+    "id": "o-off-hand",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "off-hand",
+    "pronunciation": "ɒfˈhænd",
+    "meaning": [
+      "bezceremonialny",
+      "od ręki",
+      "od razu"
+    ]
+  },
+  {
+    "id": "o-office",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "office",
+    "pronunciation": "ˈɒfɪs",
+    "meaning": [
+      "biuro",
+      "urząd"
+    ]
+  },
+  {
+    "id": "o-officer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "officer",
+    "pronunciation": "ˈɒfɪsə",
+    "meaning": [
+      "oficer",
+      "wyższy urzędnik",
+      "urzędnik"
+    ]
+  },
+  {
+    "id": "o-official",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "official",
+    "pronunciation": "əˈfɪʃəl",
+    "meaning": [
+      "oficjalny",
+      "urzędowy",
+      "wyższy urzędnik",
+      "urzędnik"
+    ]
+  },
+  {
+    "id": "o-officious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "officious",
+    "pronunciation": "əˈfɪʃəs",
+    "meaning": [
+      "nadgorliwy"
+    ]
+  },
+  {
+    "id": "o-offing",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "offing",
+    "pronunciation": "ˈɒfɪŋ",
+    "meaning": []
+  },
+  {
+    "id": "o-off-licence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "off-licence",
+    "pronunciation": "ˈɒflaɪsəns",
+    "meaning": [
+      "sklep monopolowy"
+    ]
+  },
+  {
+    "id": "o-off-line",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "off-line",
+    "pronunciation": "ˈɒfˌlaɪn",
+    "meaning": [
+      "tryb rozłączny",
+      "rozłączny",
+      "pośredni",
+      "nie podlegający systemowi komputerowemu",
+      "nie podlegający systemowi operacyjnemu"
+    ]
+  },
+  {
+    "id": "o-offload",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "offload",
+    "pronunciation": "ˌɒfˈləʊd",
+    "meaning": [
+      "przerzucać"
+    ]
+  },
+  {
+    "id": "o-off-peak",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "off-peak",
+    "pronunciation": "ˌɒfˈpi:k",
+    "meaning": [
+      "pozaszczytowy"
+    ]
+  },
+  {
+    "id": "o-off-putting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "off-putting",
+    "pronunciation": "ˈɒfpʊtɪŋ",
+    "meaning": [
+      "odstręczający"
+    ]
+  },
+  {
+    "id": "o-offset",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "offset",
+    "pronunciation": "ˈɒfset",
+    "meaning": [
+      "wyrównywać",
+      "równoważyć",
+      "druk offsetowy"
+    ]
+  },
+  {
+    "id": "o-offshoot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "offshoot",
+    "pronunciation": "ˈɒfʃu:t",
+    "meaning": [
+      "odrośl"
+    ]
+  },
+  {
+    "id": "o-offshore",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "offshore",
+    "pronunciation": "ˌɒfˈʃɔ:",
+    "meaning": [
+      "odbrzegowy",
+      "od brzegu"
+    ]
+  },
+  {
+    "id": "o-offside",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "offside",
+    "pronunciation": "ˌɒfˈsaɪd",
+    "meaning": [
+      "strona zewnętrzna pojazdu",
+      "strona zewnętrzna",
+      "spalony",
+      "na spalonym"
+    ]
+  },
+  {
+    "id": "o-offspring",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "offspring",
+    "pronunciation": "ˈɒfsprɪŋ",
+    "meaning": [
+      "potomstwo"
+    ]
+  },
+  {
+    "id": "o-often",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "often",
+    "pronunciation": "ˈɒfən",
+    "meaning": [
+      "często"
+    ]
+  },
+  {
+    "id": "o-ogle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ogle",
+    "pronunciation": "ˈəʊgəl",
+    "meaning": [
+      "przypatrywać się lubieżnie"
+    ]
+  },
+  {
+    "id": "o-ogre",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ogre",
+    "pronunciation": "ˈəʊgə",
+    "meaning": [
+      "ogr",
+      "potwór"
+    ]
+  },
+  {
+    "id": "o-oh",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "oh",
+    "pronunciation": "əʊ",
+    "meaning": [
+      "o",
+      "no",
+      "och",
+      "ach"
+    ]
+  },
+  {
+    "id": "o-Ohio",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Ohio",
+    "pronunciation": "əˈhaɪəʊ",
+    "meaning": [
+      "Ohio"
+    ]
+  },
+  {
+    "id": "o-OHMS",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "OHMS",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "w służbie państwa"
+    ]
+  },
+  {
+    "id": "o-oil",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "oil",
+    "pronunciation": "ɔɪl",
+    "meaning": [
+      "ropa naftowa",
+      "olej napędowy",
+      "ropa",
+      "olej",
+      "oliwa",
+      "olejek",
+      "obraz olejny",
+      "oliwić",
+      "nakładać olejek",
+      "nakładać krem",
+      "platforma wiertnicza",
+      "plama ropy naftowej na wodzie",
+      "plama ropy naftowej",
+      "szyb naftowy"
+    ]
+  },
+  {
+    "id": "o-oilfield",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "oilfield",
+    "pronunciation": "ˈɔɪlfi:ld",
+    "meaning": [
+      "złoże ropy"
+    ]
+  },
+  {
+    "id": "o-oily",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "oily",
+    "pronunciation": "ˈɔɪlɪ",
+    "meaning": [
+      "zatłuszczony",
+      "natłuszczony",
+      "oleisty",
+      "oślizły"
+    ]
+  },
+  {
+    "id": "o-ointment",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ointment",
+    "pronunciation": "ˈɔɪntmənt",
+    "meaning": [
+      "maść",
+      "krem"
+    ]
+  },
+  {
+    "id": "o-okay",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "okay",
+    "pronunciation": "ˌəʊˈkeɪ",
+    "meaning": [
+      "okej",
+      "dobra",
+      "no dobra",
+      "dobrze",
+      "w porządku",
+      "aprobować",
+      "aprobata"
+    ]
+  },
+  {
+    "id": "o-Oklahoma",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Oklahoma",
+    "pronunciation": "ˌəʊkləˈhəʊmə",
+    "meaning": [
+      "Oklahoma"
+    ]
+  },
+  {
+    "id": "o-old",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "old",
+    "pronunciation": "əʊld",
+    "meaning": [
+      "stary",
+      "dawny",
+      "stara panna"
+    ]
+  },
+  {
+    "id": "o-old-fashioned",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "old-fashioned",
+    "pronunciation": "ˌəʊldˈfæʃənd",
+    "meaning": [
+      "staromodny",
+      "staroświecki"
+    ]
+  },
+  {
+    "id": "o-O-level",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "O-level",
+    "pronunciation": "ˈəʊˌlevəl",
+    "meaning": [
+      "mała matura"
+    ]
+  },
+  {
+    "id": "o-olive",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "olive",
+    "pronunciation": "ˈɒlɪv",
+    "meaning": [
+      "oliwka",
+      "oliwkowy"
+    ]
+  },
+  {
+    "id": "o-Olympic",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Olympic",
+    "pronunciation": "əˈlɪmpɪk",
+    "meaning": [
+      "olimpijski",
+      "igrzyska olimpijskie",
+      "olimpiada"
+    ]
+  },
+  {
+    "id": "o-omelette",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "omelette",
+    "pronunciation": "ˈɒmlɪt",
+    "meaning": [
+      "omlet"
+    ]
+  },
+  {
+    "id": "o-omen",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "omen",
+    "pronunciation": "ˈəʊmən",
+    "meaning": [
+      "omen"
+    ]
+  },
+  {
+    "id": "o-ominous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ominous",
+    "pronunciation": "ˈɒmɪnəs",
+    "meaning": [
+      "złowieszczy",
+      "przerażający"
+    ]
+  },
+  {
+    "id": "o-omission",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "omission",
+    "pronunciation": "əˈmɪʃən",
+    "meaning": [
+      "opuszczenie",
+      "luka",
+      "pominięcie"
+    ]
+  },
+  {
+    "id": "o-omit",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "omit",
+    "pronunciation": "əˈmɪt",
+    "meaning": [
+      "pomijać",
+      "nie robić",
+      "zaniedbywać"
+    ]
+  },
+  {
+    "id": "o-omnibus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "omnibus",
+    "pronunciation": "ˈɒmnɪbəs",
+    "meaning": [
+      "zbiór",
+      "antologia"
+    ]
+  },
+  {
+    "id": "o-once",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "once",
+    "pronunciation": "wʌns",
+    "meaning": [
+      "raz",
+      "kiedyś",
+      "gdy już",
+      "już",
+      "po"
+    ]
+  },
+  {
+    "id": "o-oncoming",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "oncoming",
+    "pronunciation": "ˈɒnkʌmɪŋ",
+    "meaning": [
+      "nadchodzący",
+      "nadciągający"
+    ]
+  },
+  {
+    "id": "o-one",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "one",
+    "pronunciation": "wʌn",
+    "meaning": [
+      "jeden",
+      "jedyny",
+      "pewien"
+    ]
+  },
+  {
+    "id": "o-one-man",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "one-man",
+    "pronunciation": "wʌnˈmæn",
+    "meaning": [
+      "jednoosobowy"
+    ]
+  },
+  {
+    "id": "o-one-off",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "one-off",
+    "pronunciation": "wʌnˈɒf",
+    "meaning": [
+      "unikalny egzemplarz",
+      "jedyny w swoim rodzaju"
+    ]
+  },
+  {
+    "id": "o-onerous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "onerous",
+    "pronunciation": "ˈɒnərəs",
+    "meaning": [
+      "ciężki",
+      "uciążliwy"
+    ]
+  },
+  {
+    "id": "o-oneself",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "oneself",
+    "pronunciation": "wʌnˈself",
+    "meaning": [
+      "siebie",
+      "się",
+      "sam"
+    ]
+  },
+  {
+    "id": "o-ones",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "one's",
+    "pronunciation": "wʌnzˈ",
+    "meaning": [
+      "czyjś",
+      "swój",
+      "własny"
+    ]
+  },
+  {
+    "id": "o-one-sided",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "one-sided",
+    "pronunciation": "wʌnˈsaɪdɪd",
+    "meaning": [
+      "jednostronny"
+    ]
+  },
+  {
+    "id": "o-one-time",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "one-time",
+    "pronunciation": "wʌnˈtaɪm",
+    "meaning": [
+      "niegdyś",
+      "niegdysiejszy"
+    ]
+  },
+  {
+    "id": "o-one-way",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "one-way",
+    "pronunciation": "wʌnˈweɪ",
+    "meaning": [
+      "jednokierunkowy",
+      "w jedną stronę"
+    ]
+  },
+  {
+    "id": "o-ongoing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ongoing",
+    "pronunciation": "ˈɒngəʊɪŋ",
+    "meaning": [
+      "zachodzący",
+      "trwający"
+    ]
+  },
+  {
+    "id": "o-onion",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "onion",
+    "pronunciation": "ˈʌnjən",
+    "meaning": [
+      "cebula"
+    ]
+  },
+  {
+    "id": "o-on-line",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "on-line",
+    "pronunciation": "ˈɒnˌlaɪn",
+    "meaning": [
+      "tryb bezpośredni",
+      "bezpośredni",
+      "podległy systemowi komputerowemu",
+      "podległy systemowi operacyjnemu"
+    ]
+  },
+  {
+    "id": "o-onlooker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "onlooker",
+    "pronunciation": "ˈɒnlʊkə",
+    "meaning": [
+      "widz"
+    ]
+  },
+  {
+    "id": "o-only",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "only",
+    "pronunciation": "ˈəʊnlɪ",
+    "meaning": [
+      "tylko",
+      "jedynie",
+      "jedyny"
+    ]
+  },
+  {
+    "id": "o-o.n.o.",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "o.n.o.",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "lub oferta najbliższa"
+    ]
+  },
+  {
+    "id": "o-onrush",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "onrush",
+    "pronunciation": "ˈɒnrʌʃ",
+    "meaning": [
+      "przypływ"
+    ]
+  },
+  {
+    "id": "o-onset",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "onset",
+    "pronunciation": "ˈɒnset",
+    "meaning": [
+      "początek"
+    ]
+  },
+  {
+    "id": "o-onshore",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "onshore",
+    "pronunciation": "ˌɒnˈʃɔ:",
+    "meaning": [
+      "dobrzegowy",
+      "do brzegu"
+    ]
+  },
+  {
+    "id": "o-onslaught",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "onslaught",
+    "pronunciation": "ˈɒnslɔ:t",
+    "meaning": [
+      "atak"
+    ]
+  },
+  {
+    "id": "o-onto",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "onto",
+    "pronunciation": "ˈɒntʊ",
+    "meaning": [
+      "na",
+      "do"
+    ]
+  },
+  {
+    "id": "o-onus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "onus",
+    "pronunciation": "ˈəʊnəs",
+    "meaning": [
+      "ciężar",
+      "obowiązek"
+    ]
+  },
+  {
+    "id": "o-onward",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "onward",
+    "pronunciation": "ˈɒnwəd",
+    "meaning": [
+      "do dzisiaj",
+      "do chwili obecnej",
+      "naprzód",
+      "wprzód",
+      "dalej"
+    ]
+  },
+  {
+    "id": "o-oops",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "oops",
+    "pronunciation": "ʊ(:)ps",
+    "meaning": [
+      "tego",
+      "no",
+      "bam",
+      "bęc"
+    ]
+  },
+  {
+    "id": "o-ooze",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ooze",
+    "pronunciation": "u:z",
+    "meaning": [
+      "ciec",
+      "wyciekać",
+      "wydzielać",
+      "ociekać",
+      "błocko",
+      "szlam"
+    ]
+  },
+  {
+    "id": "o-op.",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "op.",
+    "pronunciation": "/ˌɒp/",
+    "meaning": [
+      "dzieło",
+      "działanie"
+    ]
+  },
+  {
+    "id": "o-opal",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "opal",
+    "pronunciation": "ˈəʊpəl",
+    "meaning": [
+      "opal"
+    ]
+  },
+  {
+    "id": "o-opaque",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "opaque",
+    "pronunciation": "əʊˈpeɪk",
+    "meaning": [
+      "nieprzezroczysty",
+      "mętny",
+      "nieprzenikniony"
+    ]
+  },
+  {
+    "id": "o-OPEC",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "OPEC",
+    "pronunciation": "ˈəʊpek",
+    "meaning": [
+      "Organizacja Państw Eksportujących Ropę Naftową"
+    ]
+  },
+  {
+    "id": "o-open",
+    "level": "A1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "open",
+    "pronunciation": "ˈəʊpən",
+    "meaning": [
+      "otwierać się",
+      "otwierać",
+      "zaczynać się",
+      "wychodzić",
+      "otwarty",
+      "podatny",
+      "stwarzać",
+      "powstawać"
+    ]
+  },
+  {
+    "id": "o-open-ended",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "open-ended",
+    "pronunciation": "ˌəʊpənˈendɪd",
+    "meaning": [
+      "otwarty na wszystko",
+      "otwarty"
+    ]
+  },
+  {
+    "id": "o-opener",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "opener",
+    "pronunciation": "ˈəʊpənə",
+    "meaning": [
+      "otwieracz"
+    ]
+  },
+  {
+    "id": "o-opening",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "opening",
+    "pronunciation": "ˈəʊpənɪŋ",
+    "meaning": [
+      "początkowy",
+      "otwarcie",
+      "początek",
+      "przejście",
+      "luka",
+      "możliwość",
+      "szansa",
+      "miejsce pracy",
+      "miejsce",
+      "praca",
+      "godziny otwarcia",
+      "godziny pracy"
+    ]
+  },
+  {
+    "id": "o-openly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "openly",
+    "pronunciation": "ˈəʊpənlɪ",
+    "meaning": [
+      "otwarcie"
+    ]
+  },
+  {
+    "id": "o-open-minded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "open-minded",
+    "pronunciation": "ˌəʊpənˈmaɪndɪd",
+    "meaning": [
+      "światły",
+      "o otwartym umyśle"
+    ]
+  },
+  {
+    "id": "o-opera",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "opera",
+    "pronunciation": "ˈɒpərə",
+    "meaning": [
+      "opera"
+    ]
+  },
+  {
+    "id": "o-operate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "operate",
+    "pronunciation": "ˈɒpəreɪt",
+    "meaning": [
+      "działać",
+      "obsługiwać",
+      "operować",
+      "przeprowadzać operację"
+    ]
+  },
+  {
+    "id": "o-operatic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "operatic",
+    "pronunciation": "ˌɒpəˈrætɪk",
+    "meaning": [
+      "operowy"
+    ]
+  },
+  {
+    "id": "o-operating_system",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "operating system",
+    "pronunciation": "ˈɒpəˌreɪtɪŋ ˌsɪstəm",
+    "meaning": [
+      "system operacyjny"
+    ]
+  },
+  {
+    "id": "o-operation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "operation",
+    "pronunciation": "ˌɒpəˈreɪʃən",
+    "meaning": [
+      "operacja",
+      "działanie",
+      "firma"
+    ]
+  },
+  {
+    "id": "o-operational",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "operational",
+    "pronunciation": "ˌɒpəˈreɪʃənəl",
+    "meaning": [
+      "działający",
+      "do użycia",
+      "do zastosowania"
+    ]
+  },
+  {
+    "id": "o-operative",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "operative",
+    "pronunciation": "ˈɒpərətɪv",
+    "meaning": [
+      "działający",
+      "pracownik"
+    ]
+  },
+  {
+    "id": "o-operator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "operator",
+    "pronunciation": "ˈɒpəreɪtə",
+    "meaning": [
+      "operator",
+      "telefonista",
+      "telefonistka",
+      "przedsiębiorca"
+    ]
+  },
+  {
+    "id": "o-operetta",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "operetta",
+    "pronunciation": "ˌɒpəˈretə",
+    "meaning": [
+      "operetka"
+    ]
+  },
+  {
+    "id": "o-opinion",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "opinion",
+    "pronunciation": "əˈpɪnjən",
+    "meaning": [
+      "opinia",
+      "pogląd"
+    ]
+  },
+  {
+    "id": "o-opinionated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "opinionated",
+    "pronunciation": "əˈpɪnjəneɪtɪd",
+    "meaning": [
+      "lepiej wiedzący"
+    ]
+  },
+  {
+    "id": "o-opium",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "opium",
+    "pronunciation": "ˈəʊpɪəm",
+    "meaning": [
+      "opium"
+    ]
+  },
+  {
+    "id": "o-opp.",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "opp.",
+    "pronunciation": "/əˈpɒzɪt/",
+    "meaning": [
+      "naprzeciw"
+    ]
+  },
+  {
+    "id": "o-opponent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "opponent",
+    "pronunciation": "əˈpəʊnənt",
+    "meaning": [
+      "przeciwnik",
+      "oponent"
+    ]
+  },
+  {
+    "id": "o-opportune",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "opportune",
+    "pronunciation": "ˈɒpətju:n",
+    "meaning": [
+      "zbawczy",
+      "w samą porę"
+    ]
+  },
+  {
+    "id": "o-opportunism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "opportunism",
+    "pronunciation": "ˈɒpətju:nɪzəm",
+    "meaning": [
+      "oportunizm"
+    ]
+  },
+  {
+    "id": "o-opportunity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "opportunity",
+    "pronunciation": "ˌɒpəˈtju:nɪtɪ",
+    "meaning": [
+      "sposobność"
+    ]
+  },
+  {
+    "id": "o-oppose",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "oppose",
+    "pronunciation": "əˈpəʊz",
+    "meaning": [
+      "sprzeciwiać się"
+    ]
+  },
+  {
+    "id": "o-opposed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "opposed",
+    "pronunciation": "əˈpəʊzd",
+    "meaning": [
+      "przeciwny",
+      "przeciwstawny"
+    ]
+  },
+  {
+    "id": "o-opposing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "opposing",
+    "pronunciation": "əˈpəʊzɪŋ",
+    "meaning": [
+      "przeciwstawny"
+    ]
+  },
+  {
+    "id": "o-opposite",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "opposite",
+    "pronunciation": "ˈɒpəzɪt",
+    "meaning": [
+      "naprzeciwko",
+      "przeciwległy",
+      "przeciwny",
+      "przeciwieństwo"
+    ]
+  },
+  {
+    "id": "o-opposition",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "opposition",
+    "pronunciation": "ˌɒpəˈzɪʃən",
+    "meaning": [
+      "opozycja",
+      "przeciwnik"
+    ]
+  },
+  {
+    "id": "o-oppress",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "oppress",
+    "pronunciation": "əˈpres",
+    "meaning": [
+      "prześladować",
+      "uciskać",
+      "działać opresyjnie",
+      "przygniatać"
+    ]
+  },
+  {
+    "id": "o-oppression",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "oppression",
+    "pronunciation": "əˈpreʃən",
+    "meaning": [
+      "prześladowanie",
+      "ucisk",
+      "opresja"
+    ]
+  },
+  {
+    "id": "o-oppressive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "oppressive",
+    "pronunciation": "əˈpresɪv",
+    "meaning": [
+      "przygniatający",
+      "uciskający"
+    ]
+  },
+  {
+    "id": "o-opt",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "opt",
+    "pronunciation": "ɒpt",
+    "meaning": [
+      "optować",
+      "wybierać",
+      "rezygnować",
+      "nie udzielać się"
+    ]
+  },
+  {
+    "id": "o-optical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "optical",
+    "pronunciation": "ˈɒptɪkəl",
+    "meaning": [
+      "optyczny",
+      "wzrokowy",
+      "optyczne rozpoznawianie znaków"
+    ]
+  },
+  {
+    "id": "o-optician",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "optician",
+    "pronunciation": "ɒpˈtɪʃən",
+    "meaning": [
+      "optyk"
+    ]
+  },
+  {
+    "id": "o-optimism",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "optimism",
+    "pronunciation": "ˈɒptɪmɪzəm",
+    "meaning": [
+      "optymizm"
+    ]
+  },
+  {
+    "id": "o-optimistic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "optimistic",
+    "pronunciation": "ˌɒptɪˈmɪstɪk",
+    "meaning": [
+      "optymistyczny"
+    ]
+  },
+  {
+    "id": "o-optimum",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "optimum",
+    "pronunciation": "ˈɒptɪməm",
+    "meaning": [
+      "optymalny"
+    ]
+  },
+  {
+    "id": "o-option",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "option",
+    "pronunciation": "ˈɒpʃən",
+    "meaning": [
+      "możliwość",
+      "opcja"
+    ]
+  },
+  {
+    "id": "o-optional",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "optional",
+    "pronunciation": "ˈɒpʃənəl",
+    "meaning": [
+      "opcjonalny",
+      "do wyboru"
+    ]
+  },
+  {
+    "id": "o-opulent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "opulent",
+    "pronunciation": "ˈɒpjələnt",
+    "meaning": [
+      "bogaty"
+    ]
+  },
+  {
+    "id": "o-or",
+    "level": "A1",
+    "partOfSpeech": "conjunction",
+    "word": "or",
+    "pronunciation": "ɔ:",
+    "meaning": [
+      "lub",
+      "albo",
+      "czy",
+      "ponieważ",
+      "inaczej"
+    ]
+  },
+  {
+    "id": "o-oracle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "oracle",
+    "pronunciation": "ˈɔ:rəkəl",
+    "meaning": [
+      "wyrocznia"
+    ]
+  },
+  {
+    "id": "o-oral",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "oral",
+    "pronunciation": "ˈɔ:rəl",
+    "meaning": [
+      "ustny",
+      "oralny",
+      "doustny",
+      "egzamin ustny"
+    ]
+  },
+  {
+    "id": "o-orange",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "orange",
+    "pronunciation": "ˈɒrɪnʤ",
+    "meaning": [
+      "pomarańcza",
+      "pomarańczowy",
+      "sok pomarańczowy"
+    ]
+  },
+  {
+    "id": "o-orangutan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "orangutan",
+    "pronunciation": "ɔ:ˌræŋu:ˈtæn",
+    "meaning": [
+      "orangutan"
+    ]
+  },
+  {
+    "id": "o-oration",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "oration",
+    "pronunciation": "ɔ:ˈreɪʃən",
+    "meaning": [
+      "oracja",
+      "przemówienie"
+    ]
+  },
+  {
+    "id": "o-orbit",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "orbit",
+    "pronunciation": "ˈɔ:bɪt",
+    "meaning": [
+      "orbita",
+      "krążyć wokół czegoś",
+      "krążyć"
+    ]
+  },
+  {
+    "id": "o-orch.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "orch.",
+    "pronunciation": "/ˈɔːkɪstrə/",
+    "meaning": [
+      "orkiestra"
+    ]
+  },
+  {
+    "id": "o-orchard",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "orchard",
+    "pronunciation": "ˈɔ:ʧəd",
+    "meaning": [
+      "sad"
+    ]
+  },
+  {
+    "id": "o-orchestra",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "orchestra",
+    "pronunciation": "ˈɔ:kɪstrə",
+    "meaning": [
+      "orkiestra"
+    ]
+  },
+  {
+    "id": "o-orchestrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "orchestrate",
+    "pronunciation": "ˈɔ:kɪstreɪt",
+    "meaning": [
+      "aranżować",
+      "organizować",
+      "zorkiestrować",
+      "orkiestrować"
+    ]
+  },
+  {
+    "id": "o-orchid",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "orchid",
+    "pronunciation": "ˈɔ:kɪd",
+    "meaning": [
+      "orchidea"
+    ]
+  },
+  {
+    "id": "o-ordain",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ordain",
+    "pronunciation": "ɔ:ˈdeɪn",
+    "meaning": [
+      "wyświęcać",
+      "postanawiać"
+    ]
+  },
+  {
+    "id": "o-ordeal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ordeal",
+    "pronunciation": "ɔ:ˈdi:l",
+    "meaning": [
+      "ciężkie przeżycie"
+    ]
+  },
+  {
+    "id": "o-orderly",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "orderly",
+    "pronunciation": "ˈɔ:dəlɪ",
+    "meaning": [
+      "porządny",
+      "sanitariusz",
+      "ordynans"
+    ]
+  },
+  {
+    "id": "o-ordinarily",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "ordinarily",
+    "pronunciation": "ˈɔ:dənərɪlɪ",
+    "meaning": [
+      "zwykle"
+    ]
+  },
+  {
+    "id": "o-ordinary",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "ordinary",
+    "pronunciation": "ˈɔ:dɪnərɪ",
+    "meaning": [
+      "zwykły"
+    ]
+  },
+  {
+    "id": "o-ordination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ordination",
+    "pronunciation": "ˌɔ:dɪˈneɪʃən",
+    "meaning": [
+      "wyświęcenie"
+    ]
+  },
+  {
+    "id": "o-ore",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ore",
+    "pronunciation": "ɔ:",
+    "meaning": [
+      "ruda"
+    ]
+  },
+  {
+    "id": "o-Oregon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Oregon",
+    "pronunciation": "ˈɒrɪgən",
+    "meaning": [
+      "Oregon"
+    ]
+  },
+  {
+    "id": "o-organ",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "organ",
+    "pronunciation": "ˈɔ:gən",
+    "meaning": [
+      "organ",
+      "narząd",
+      "organy"
+    ]
+  },
+  {
+    "id": "o-organic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "organic",
+    "pronunciation": "ɔ:ˈgænɪk",
+    "meaning": [
+      "organiczny",
+      "naturalny"
+    ]
+  },
+  {
+    "id": "o-organism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "organism",
+    "pronunciation": "ˈɔ:gənɪzəm",
+    "meaning": [
+      "organizm"
+    ]
+  },
+  {
+    "id": "o-organist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "organist",
+    "pronunciation": "ˈɔ:gənɪst",
+    "meaning": [
+      "organista"
+    ]
+  },
+  {
+    "id": "o-organization",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "organization",
+    "pronunciation": "ˌɔ:gənaɪˈzeɪʃən",
+    "meaning": [
+      "organizacja",
+      "uorganizowanie"
+    ]
+  },
+  {
+    "id": "o-organizational",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "organizational",
+    "pronunciation": "ˌɔ:gənaɪˈzeɪʃənəl",
+    "meaning": [
+      "organizacyjny"
+    ]
+  },
+  {
+    "id": "o-organize",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "organize",
+    "pronunciation": "ˈɔ:gənaɪz",
+    "meaning": [
+      "organizować",
+      "porządkować",
+      "organizować się",
+      "zrzeszać się"
+    ]
+  },
+  {
+    "id": "o-orgasm",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "orgasm",
+    "pronunciation": "ˈɔ:gəzəm",
+    "meaning": [
+      "orgazm",
+      "szczytowanie"
+    ]
+  },
+  {
+    "id": "o-orgy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "orgy",
+    "pronunciation": "ˈɔ:ʤɪ",
+    "meaning": [
+      "orgia",
+      "rozpasanie"
+    ]
+  },
+  {
+    "id": "o-oriental",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "oriental",
+    "pronunciation": "ˌɔ:rɪˈentəl",
+    "meaning": [
+      "orientalny",
+      "wschodni"
+    ]
+  },
+  {
+    "id": "o-orientate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "orientate",
+    "pronunciation": "ˈɔ:rɪenteɪt",
+    "meaning": []
+  },
+  {
+    "id": "o-origin",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "origin",
+    "pronunciation": "ˈɒrɪʤɪn(z)",
+    "meaning": [
+      "pochodzenie"
+    ]
+  },
+  {
+    "id": "o-original",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "original",
+    "pronunciation": "əˈrɪʤɪnəl",
+    "meaning": [
+      "oryginalny",
+      "początkowy",
+      "oryginał"
+    ]
+  },
+  {
+    "id": "o-originate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "originate",
+    "pronunciation": "əˈrɪʤɪneɪt",
+    "meaning": [
+      "brać początek"
+    ]
+  },
+  {
+    "id": "o-originator",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "originator",
+    "pronunciation": "əˈrɪʤɪneɪtə",
+    "meaning": [
+      "autor",
+      "twórca"
+    ]
+  },
+  {
+    "id": "o-ornament",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ornament",
+    "pronunciation": "ˈɔ:nəmənt",
+    "meaning": [
+      "ozdoba",
+      "ornament",
+      "ornamentacja",
+      "ornamentować"
+    ]
+  },
+  {
+    "id": "o-ornamental",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ornamental",
+    "pronunciation": "ˌɔ:nəˈmentəl",
+    "meaning": [
+      "ozdobny",
+      "ornamentalny"
+    ]
+  },
+  {
+    "id": "o-ornate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ornate",
+    "pronunciation": "ɔ:ˈneɪt",
+    "meaning": [
+      "ozdobny"
+    ]
+  },
+  {
+    "id": "o-ornithology",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ornithology",
+    "pronunciation": "ˌɔ:nɪˈθɒləʤɪ",
+    "meaning": [
+      "ornitologia"
+    ]
+  },
+  {
+    "id": "o-orphan",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "orphan",
+    "pronunciation": "ˈɔ:fən",
+    "meaning": [
+      "sierota"
+    ]
+  },
+  {
+    "id": "o-orphanage",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "orphanage",
+    "pronunciation": "ˈɔ:fənɪʤ",
+    "meaning": [
+      "sierociniec"
+    ]
+  },
+  {
+    "id": "o-orthodox",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "orthodox",
+    "pronunciation": "ˈɔ:θədɒks",
+    "meaning": [
+      "konwencjonalny",
+      "ortodoksyjny",
+      "prawosławny"
+    ]
+  },
+  {
+    "id": "o-orthodoxy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "orthodoxy",
+    "pronunciation": "ˈɔ:θədɒksɪ",
+    "meaning": [
+      "konwencjonalny pogląd",
+      "ortodoksja",
+      "prawosławie"
+    ]
+  },
+  {
+    "id": "o-orthopaedic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "orthopaedic",
+    "pronunciation": "ˌɔ:θəˈpi:dɪk",
+    "meaning": [
+      "ortopedyczny",
+      "ortopedia"
+    ]
+  },
+  {
+    "id": "o-OS",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "OS",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "majtek",
+      "system operacyjny"
+    ]
+  },
+  {
+    "id": "o-oscillate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "oscillate",
+    "pronunciation": "ˈɒsɪleɪt",
+    "meaning": [
+      "oscylować"
+    ]
+  },
+  {
+    "id": "o-ostensible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ostensible",
+    "pronunciation": "ɒsˈtensɪbəl",
+    "meaning": [
+      "rzekomy"
+    ]
+  },
+  {
+    "id": "o-ostentation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ostentation",
+    "pronunciation": "ˌɒstənˈteɪʃən",
+    "meaning": [
+      "ostentacja"
+    ]
+  },
+  {
+    "id": "o-ostentatious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ostentatious",
+    "pronunciation": "ˌɒstənˈteɪʃəs",
+    "meaning": [
+      "wystawny na pokaz",
+      "wystawny",
+      "bogaty na pokaz",
+      "bogaty",
+      "ostentacyjny"
+    ]
+  },
+  {
+    "id": "o-ostracize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ostracize",
+    "pronunciation": "ˈɒstrəsaɪz",
+    "meaning": []
+  },
+  {
+    "id": "o-ostrich",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ostrich",
+    "pronunciation": "ˈɒstrɪʧ",
+    "meaning": [
+      "struś"
+    ]
+  },
+  {
+    "id": "o-OT",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "OT",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Stary Testament"
+    ]
+  },
+  {
+    "id": "o-other",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "other",
+    "pronunciation": "ˈʌðə",
+    "meaning": [
+      "drugi",
+      "pozostały",
+      "inny"
+    ]
+  },
+  {
+    "id": "o-otherwise",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "otherwise",
+    "pronunciation": "ˈʌðəwaɪz",
+    "meaning": [
+      "inaczej",
+      "w innym razie",
+      "poza tym",
+      "całkiem"
+    ]
+  },
+  {
+    "id": "o-otter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "otter",
+    "pronunciation": "ˈɒtə",
+    "meaning": [
+      "wydra"
+    ]
+  },
+  {
+    "id": "o-ouch",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "ouch",
+    "pronunciation": "aʊʧ",
+    "meaning": [
+      "au"
+    ]
+  },
+  {
+    "id": "o-ought",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "ought",
+    "pronunciation": "ɔ:t",
+    "meaning": []
+  },
+  {
+    "id": "o-ounce",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ounce",
+    "pronunciation": "aʊns",
+    "meaning": [
+      "uncja",
+      "odrobina"
+    ]
+  },
+  {
+    "id": "o-our",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "our",
+    "pronunciation": "/ˈaʊə/",
+    "meaning": [
+      "nasz"
+    ]
+  },
+  {
+    "id": "o-ours",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "ours",
+    "pronunciation": "ˈaʊəz",
+    "meaning": [
+      "nasz"
+    ]
+  },
+  {
+    "id": "o-ourselves",
+    "level": "B1",
+    "partOfSpeech": "pronoun",
+    "word": "ourselves",
+    "pronunciation": "aʊəˈselvz",
+    "meaning": [
+      "się",
+      "siebie",
+      "sobie",
+      "sami"
+    ]
+  },
+  {
+    "id": "o-oust",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "oust",
+    "pronunciation": "aʊst",
+    "meaning": [
+      "usuwać",
+      "wypierać"
+    ]
+  },
+  {
+    "id": "o-out-and-out",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "out-and-out",
+    "pronunciation": "ˌaʊtənˈaʊt",
+    "meaning": [
+      "kompletny",
+      "zupełny"
+    ]
+  },
+  {
+    "id": "o-outback",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outback",
+    "pronunciation": "ˈaʊtbæk",
+    "meaning": [
+      "głusza",
+      "pustkowie"
+    ]
+  },
+  {
+    "id": "o-outbreak",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outbreak",
+    "pronunciation": "ˈaʊtbreɪk",
+    "meaning": [
+      "wybuch"
+    ]
+  },
+  {
+    "id": "o-outbuilding",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outbuilding",
+    "pronunciation": "ˈaʊtbɪldɪŋ",
+    "meaning": [
+      "dobudówka",
+      "budynek gospodarczy"
+    ]
+  },
+  {
+    "id": "o-outburst",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outburst",
+    "pronunciation": "ˈaʊtbɜ:st",
+    "meaning": [
+      "wybuch",
+      "eksplozja",
+      "przypływ"
+    ]
+  },
+  {
+    "id": "o-outcast",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outcast",
+    "pronunciation": "ˈaʊtkɑ:st",
+    "meaning": [
+      "wyrzutek"
+    ]
+  },
+  {
+    "id": "o-outclass",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outclass",
+    "pronunciation": "ˈaʊtklɑ:s",
+    "meaning": [
+      "przewyższać",
+      "deklasować"
+    ]
+  },
+  {
+    "id": "o-outcome",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outcome",
+    "pronunciation": "ˈaʊtkʌm",
+    "meaning": [
+      "wynik"
+    ]
+  },
+  {
+    "id": "o-outcry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outcry",
+    "pronunciation": "ˈaʊtkraɪ",
+    "meaning": [
+      "wrzawa",
+      "wybuch oburzenia"
+    ]
+  },
+  {
+    "id": "o-outdated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outdated",
+    "pronunciation": "ˌaʊtˈdeɪtɪd",
+    "meaning": [
+      "przestarzały"
+    ]
+  },
+  {
+    "id": "o-outdo",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outdo",
+    "pronunciation": "ˌaʊtˈdu:",
+    "meaning": [
+      "pokonywać",
+      "przewyższać"
+    ]
+  },
+  {
+    "id": "o-outdoor",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "outdoor",
+    "pronunciation": "ˌaʊtˈdɔ:",
+    "meaning": [
+      "wyjściowy",
+      "zewnętrzny",
+      "na wolnym powietrzu"
+    ]
+  },
+  {
+    "id": "o-outdoors",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "outdoors",
+    "pronunciation": "ˌaʊtˈdɔ:z",
+    "meaning": [
+      "na dworze",
+      "na dwór"
+    ]
+  },
+  {
+    "id": "o-outer",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "outer",
+    "pronunciation": "ˈaʊtə",
+    "meaning": [
+      "zewnętrzny",
+      "przestrzeń kosmiczna"
+    ]
+  },
+  {
+    "id": "o-outermost",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outermost",
+    "pronunciation": "ˈaʊtəməʊst",
+    "meaning": [
+      "najbardziej zewnętrzny"
+    ]
+  },
+  {
+    "id": "o-outfit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outfit",
+    "pronunciation": "ˈaʊtfɪt",
+    "meaning": [
+      "strój",
+      "agencja",
+      "placówka"
+    ]
+  },
+  {
+    "id": "o-outgoing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outgoing",
+    "pronunciation": "ˌaʊtˈgəʊɪŋ",
+    "meaning": [
+      "ustępujący",
+      "wychodzący",
+      "przyjazny",
+      "wydatki"
+    ]
+  },
+  {
+    "id": "o-outgrow",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "outgrow",
+    "pronunciation": "ˌaʊtˈgrəʊ",
+    "meaning": [
+      "wyrastać"
+    ]
+  },
+  {
+    "id": "o-outing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outing",
+    "pronunciation": "ˈaʊtɪŋ",
+    "meaning": [
+      "wycieczka",
+      "wyprawa"
+    ]
+  },
+  {
+    "id": "o-outlandish",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "outlandish",
+    "pronunciation": "aʊtˈlændɪʃ",
+    "meaning": [
+      "dziwaczny"
+    ]
+  },
+  {
+    "id": "o-outlast",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outlast",
+    "pronunciation": "ˌaʊtˈlɑ:st",
+    "meaning": [
+      "przetrwać",
+      "przeżyć"
+    ]
+  },
+  {
+    "id": "o-outlaw",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "outlaw",
+    "pronunciation": "ˈaʊtlɔ:",
+    "meaning": [
+      "zakazywać",
+      "wyjmować spod prawa",
+      "wyjęty spod prawa"
+    ]
+  },
+  {
+    "id": "o-outlay",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outlay",
+    "pronunciation": "ˈaʊtleɪ",
+    "meaning": [
+      "inwestycja"
+    ]
+  },
+  {
+    "id": "o-outlet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outlet",
+    "pronunciation": "ˈaʊtlɪt",
+    "meaning": [
+      "ujście",
+      "odpływ"
+    ]
+  },
+  {
+    "id": "o-outline",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "outline",
+    "pronunciation": "ˈaʊtlaɪn",
+    "meaning": [
+      "przedstawiać w zarysie",
+      "zarysowywać się",
+      "zarys",
+      "szkic"
+    ]
+  },
+  {
+    "id": "o-outlive",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outlive",
+    "pronunciation": "ˌaʊtˈlɪv",
+    "meaning": [
+      "przeżyć",
+      "przetrwać"
+    ]
+  },
+  {
+    "id": "o-outlook",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outlook",
+    "pronunciation": "ˈaʊtlʊk",
+    "meaning": [
+      "poglądy",
+      "światopogląd",
+      "prospekt"
+    ]
+  },
+  {
+    "id": "o-outlying",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "outlying",
+    "pronunciation": "ˈaʊtlaɪɪŋ",
+    "meaning": [
+      "odległy",
+      "prowincjonalny"
+    ]
+  },
+  {
+    "id": "o-outmoded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "outmoded",
+    "pronunciation": "ˌaʊtˈməʊdɪd",
+    "meaning": [
+      "przestarzały"
+    ]
+  },
+  {
+    "id": "o-outnumber",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outnumber",
+    "pronunciation": "ˌaʊtˈnʌmbə",
+    "meaning": [
+      "przewyższać liczebnie"
+    ]
+  },
+  {
+    "id": "o-out-of-the-way",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "out-of-the-way",
+    "pronunciation": "ˌaʊtəvðəˈweɪ",
+    "meaning": [
+      "odludny"
+    ]
+  },
+  {
+    "id": "o-out-patient",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "out-patient",
+    "pronunciation": "ˈaʊtpeɪʃənt",
+    "meaning": [
+      "pacjent ambulatoryjny"
+    ]
+  },
+  {
+    "id": "o-outpost",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outpost",
+    "pronunciation": "ˈaʊtpəʊst",
+    "meaning": [
+      "placówka"
+    ]
+  },
+  {
+    "id": "o-output",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "output",
+    "pronunciation": "ˈaʊtpʊt",
+    "meaning": [
+      "produkcja",
+      "wytwórczość",
+      "twórczość",
+      "dane wyjściowe",
+      "dane końcowe",
+      "wyjście"
+    ]
+  },
+  {
+    "id": "o-outrage",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "outrage",
+    "pronunciation": "ˈaʊtreɪʤ",
+    "meaning": [
+      "gniewać",
+      "szokować",
+      "rozgniewanie",
+      "szok",
+      "skandal",
+      "okrucieństwo",
+      "wypadek"
+    ]
+  },
+  {
+    "id": "o-outrageous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outrageous",
+    "pronunciation": "aʊtˈreɪʤəs",
+    "meaning": [
+      "szokujący",
+      "wzburzający"
+    ]
+  },
+  {
+    "id": "o-outright",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outright",
+    "pronunciation": "ˈaʊtraɪt",
+    "meaning": [
+      "otwarty",
+      "całkowity",
+      "otwarcie",
+      "całkowicie"
+    ]
+  },
+  {
+    "id": "o-outset",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outset",
+    "pronunciation": "ˈaʊtset",
+    "meaning": []
+  },
+  {
+    "id": "o-out-patient",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "out-patient",
+    "pronunciation": "ˈaʊtpeɪʃənt",
+    "meaning": [
+      "pacjent ambulatoryjny"
+    ]
+  },
+  {
+    "id": "o-outpost",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outpost",
+    "pronunciation": "ˈaʊtpəʊst",
+    "meaning": [
+      "placówka"
+    ]
+  },
+  {
+    "id": "o-output",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "output",
+    "pronunciation": "ˈaʊtpʊt",
+    "meaning": [
+      "produkcja",
+      "wytwórczość",
+      "twórczość",
+      "dane wyjściowe",
+      "dane końcowe",
+      "wyjście"
+    ]
+  },
+  {
+    "id": "o-outrage",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "outrage",
+    "pronunciation": "ˈaʊtreɪʤ",
+    "meaning": [
+      "gniewać",
+      "szokować",
+      "rozgniewanie",
+      "szok",
+      "skandal",
+      "okrucieństwo",
+      "wypadek"
+    ]
+  },
+  {
+    "id": "o-outrageous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outrageous",
+    "pronunciation": "aʊtˈreɪʤəs",
+    "meaning": [
+      "szokujący",
+      "wzburzający"
+    ]
+  },
+  {
+    "id": "o-outright",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outright",
+    "pronunciation": "ˈaʊtraɪt",
+    "meaning": [
+      "otwarty",
+      "całkowity",
+      "otwarcie",
+      "całkowicie"
+    ]
+  },
+  {
+    "id": "o-outset",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "outset",
+    "pronunciation": "ˈaʊtset",
+    "meaning": []
+  },
+  {
+    "id": "o-outside",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "outside",
+    "pronunciation": "ˌaʊtˈsaɪd",
+    "meaning": [
+      "zewnętrze",
+      "strona zewnętrzna",
+      "zewnętrzny",
+      "na zewnątrz",
+      "poza"
+    ]
+  },
+  {
+    "id": "o-outsider",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outsider",
+    "pronunciation": "ˌaʊtˈsaɪdə",
+    "meaning": [
+      "człowiek niezależny",
+      "człowiek nie związany z grupą",
+      "ktoś poza nawiasem"
+    ]
+  },
+  {
+    "id": "o-outsize",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outsize",
+    "pronunciation": "ˌaʊtˈsaɪz",
+    "meaning": [
+      "większy niż normalnie",
+      "o dużych rozmiarach"
+    ]
+  },
+  {
+    "id": "o-outskirts",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "outskirts",
+    "pronunciation": "ˈaʊtskɜ:ts",
+    "meaning": [
+      "przedmieścia"
+    ]
+  },
+  {
+    "id": "o-outsmart",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outsmart",
+    "pronunciation": "ˌaʊtˈsmɑ:t",
+    "meaning": [
+      "przechytrzać"
+    ]
+  },
+  {
+    "id": "o-outspoken",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outspoken",
+    "pronunciation": "ˌaʊtˈspəʊkən",
+    "meaning": [
+      "otwarty",
+      "szczery"
+    ]
+  },
+  {
+    "id": "o-outstanding",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outstanding",
+    "pronunciation": "ˌaʊtˈstændɪŋ",
+    "meaning": [
+      "wybitny",
+      "znakomity",
+      "rzucający się w oczy",
+      "zaległy"
+    ]
+  },
+  {
+    "id": "o-outstretched",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "outstretched",
+    "pronunciation": "ˌaʊtˈstreʧt",
+    "meaning": [
+      "wyciągnięty"
+    ]
+  },
+  {
+    "id": "o-outstrip",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outstrip",
+    "pronunciation": "ˌaʊtˈstrɪp",
+    "meaning": [
+      "prześcignąć",
+      "przewyższyć"
+    ]
+  },
+  {
+    "id": "o-outward",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "outward",
+    "pronunciation": "ˈaʊtwəd(z)",
+    "meaning": [
+      "na zewnątrz",
+      "zewnętrzny"
+    ]
+  },
+  {
+    "id": "o-outweigh",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outweigh",
+    "pronunciation": "ˌaʊtˈweɪ",
+    "meaning": [
+      "przeważać"
+    ]
+  },
+  {
+    "id": "o-outwit",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "outwit",
+    "pronunciation": "ˌaʊtˈwɪt",
+    "meaning": [
+      "przechytrzać"
+    ]
+  },
+  {
+    "id": "o-outworn",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "outworn",
+    "pronunciation": "ˌaʊtˈwɔ:n",
+    "meaning": [
+      "zużyty"
+    ]
+  },
+  {
+    "id": "o-oval",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "oval",
+    "pronunciation": "ˈəʊvəl",
+    "meaning": [
+      "owal",
+      "owalny"
+    ]
+  },
+  {
+    "id": "o-ovary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ovary",
+    "pronunciation": "ˈəʊvərɪ",
+    "meaning": [
+      "jajnik"
+    ]
+  },
+  {
+    "id": "o-ovation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ovation",
+    "pronunciation": "əˈveɪʃən",
+    "meaning": [
+      "aplauz",
+      "oklaski"
+    ]
+  },
+  {
+    "id": "o-oven",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "oven",
+    "pronunciation": "ˈʌvən",
+    "meaning": [
+      "piekarnik",
+      "piecyk",
+      "kuchenka"
+    ]
+  },
+  {
+    "id": "o-over",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "over",
+    "pronunciation": "ˈəʊvə",
+    "meaning": [
+      "nad",
+      "ponad",
+      "na",
+      "po",
+      "przez",
+      "po drugiej stronie",
+      "przy",
+      "prze-",
+      "co do",
+      "o",
+      "podczas"
+    ]
+  },
+  {
+    "id": "o-overall",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "overall",
+    "pronunciation": "/ˌəʊvəˈrɔːl/",
+    "meaning": [
+      "ogólny",
+      "fartuch roboczy",
+      "fartuch",
+      "kombinezon",
+      "ogrodniczki"
+    ]
+  },
+  {
+    "id": "o-overawe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overawe",
+    "pronunciation": "ˌɒvərˈɔ:",
+    "meaning": [
+      "przerażać"
+    ]
+  },
+  {
+    "id": "o-overbalance",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overbalance",
+    "pronunciation": "ˌəʊvəˈbæləns",
+    "meaning": [
+      "przeważać"
+    ]
+  },
+  {
+    "id": "o-overbearing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "overbearing",
+    "pronunciation": "ˌəʊvəˈbeərɪŋ",
+    "meaning": [
+      "apodyktyczny"
+    ]
+  },
+  {
+    "id": "o-overboard",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "overboard",
+    "pronunciation": "ˈəʊvəbɔ:d",
+    "meaning": [
+      "za burtę"
+    ]
+  },
+  {
+    "id": "o-overcast",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "overcast",
+    "pronunciation": "ˈəʊvəkɑ:st",
+    "meaning": [
+      "zaciągnięty chmurami"
+    ]
+  },
+  {
+    "id": "o-overcharge",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overcharge",
+    "pronunciation": "ˌəʊvəˈʧɑ:ʤ",
+    "meaning": [
+      "liczyć za dużo",
+      "brać za dużo"
+    ]
+  },
+  {
+    "id": "o-overcoat",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "overcoat",
+    "pronunciation": "ˈəʊvəkəʊt",
+    "meaning": [
+      "gruby płaszcz",
+      "płaszcz"
+    ]
+  },
+  {
+    "id": "o-overcome",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overcome",
+    "pronunciation": "ˌəʊvəˈkʌm",
+    "meaning": [
+      "pokonywać"
+    ]
+  },
+  {
+    "id": "o-overcrowded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "overcrowded",
+    "pronunciation": "ˌəʊvəˈkraʊdɪd",
+    "meaning": [
+      "przeludniony",
+      "zatłoczony"
+    ]
+  },
+  {
+    "id": "o-overcrowding",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "overcrowding",
+    "pronunciation": "ˌəʊvəˈkraʊdɪŋ",
+    "meaning": [
+      "przeludnienie"
+    ]
+  },
+  {
+    "id": "o-overdo",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overdo",
+    "pronunciation": "ˌəʊvəˈdu:",
+    "meaning": [
+      "przesadzać"
+    ]
+  },
+  {
+    "id": "o-overdone",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "overdone",
+    "pronunciation": "ˌəʊvəˈdʌn",
+    "meaning": [
+      "za długo gotowany",
+      "za długo smażony"
+    ]
+  },
+  {
+    "id": "o-overdose",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "overdose",
+    "pronunciation": "ˈəʊvədəʊz",
+    "meaning": [
+      "zbyt duża dawka"
+    ]
+  },
+  {
+    "id": "o-overdraft",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "overdraft",
+    "pronunciation": "ˈəʊvədrɑ:ft",
+    "meaning": [
+      "przekroczenie salda"
+    ]
+  },
+  {
+    "id": "o-overdraw",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overdraw",
+    "pronunciation": "ˈəʊvədrɔ:",
+    "meaning": [
+      "przekroczyć saldo"
+    ]
+  },
+  {
+    "id": "o-overdue",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "overdue",
+    "pronunciation": "ˌəʊvəˈdju:",
+    "meaning": [
+      "opóźniony",
+      "zaległy"
+    ]
+  },
+  {
+    "id": "o-overestimate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overestimate",
+    "pronunciation": "ˌəʊvərˈestɪmeɪt",
+    "meaning": [
+      "przeceniać"
+    ]
+  },
+  {
+    "id": "o-overflow",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "overflow",
+    "pronunciation": "/ˌəʊvəˈfləʊ/",
+    "meaning": [
+      "przelewać się",
+      "przelewać",
+      "występować",
+      "zapełniać po brzegi",
+      "nie mieścić się",
+      "przepełniać",
+      "przelew"
+    ]
+  },
+  {
+    "id": "o-overgrown",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "overgrown",
+    "pronunciation": "ˌəʊvəˈgrəʊn",
+    "meaning": [
+      "zarosły"
+    ]
+  },
+  {
+    "id": "o-overhang",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overhang",
+    "pronunciation": "ˌəʊvəˈhæŋ",
+    "meaning": [
+      "zwieszać się",
+      "obwieszać"
+    ]
+  },
+  {
+    "id": "o-overhaul",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "overhaul",
+    "pronunciation": "ˌəʊvəˈhɔ:l",
+    "meaning": [
+      "poddawać przeglądowi",
+      "reformować",
+      "modernizować",
+      "reforma",
+      "modernizacja"
+    ]
+  },
+  {
+    "id": "o-overhead",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "overhead",
+    "pronunciation": "ˌəʊvəˈhed",
+    "meaning": [
+      "napowietrzny",
+      "nad głową",
+      "w górze",
+      "wydatki bieżące"
+    ]
+  },
+  {
+    "id": "o-overhear",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overhear",
+    "pronunciation": "ˌəʊvəˈhɪə",
+    "meaning": [
+      "podsłuchiwać"
+    ]
+  },
+  {
+    "id": "o-overheat",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overheat",
+    "pronunciation": "ˌəʊvəˈhi:t",
+    "meaning": [
+      "przegrzewać się"
+    ]
+  },
+  {
+    "id": "o-overjoyed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "overjoyed",
+    "pronunciation": "ˌəʊvəˈʤɔɪd",
+    "meaning": [
+      "zachwycony"
+    ]
+  },
+  {
+    "id": "o-overland",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "overland",
+    "pronunciation": "ˈəʊvəlænd",
+    "meaning": [
+      "naziemny",
+      "lądem"
+    ]
+  },
+  {
+    "id": "o-overlap",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "overlap",
+    "pronunciation": "/ˌəʊvəˈlæp/",
+    "meaning": [
+      "zachodzić na siebie",
+      "zachodzić",
+      "nakładać się",
+      "zachodzenie",
+      "część wspólna"
+    ]
+  },
+  {
+    "id": "o-overload",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overload",
+    "pronunciation": "ˌəʊvəˈləʊd",
+    "meaning": [
+      "przeciążać"
+    ]
+  },
+  {
+    "id": "o-overlook",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overlook",
+    "pronunciation": "ˌəʊvəˈlʊk",
+    "meaning": [
+      "wychodzić",
+      "nie dostrzegać",
+      "przeoczać",
+      "nie zwracać uwagi",
+      "ignorować"
+    ]
+  },
+  {
+    "id": "o-overnight",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "overnight",
+    "pronunciation": "ˌəʊvəˈnaɪt",
+    "meaning": [
+      "na noc",
+      "przez noc",
+      "natychmiast",
+      "nocny",
+      "na krótki pobyt"
+    ]
+  },
+  {
+    "id": "o-overpass",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "overpass",
+    "pronunciation": "ˈəʊvəpɑ:s",
+    "meaning": [
+      "wiadukt",
+      "przejazd"
+    ]
+  },
+  {
+    "id": "o-overpopulated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "overpopulated",
+    "pronunciation": "ˌəʊvəˈpɒpjəleɪtɪd",
+    "meaning": [
+      "przeludniony"
+    ]
+  },
+  {
+    "id": "o-overpower",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overpower",
+    "pronunciation": "ˌəʊvəˈpaʊə",
+    "meaning": [
+      "przemóc",
+      "owładnąć"
+    ]
+  },
+  {
+    "id": "o-overrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overrate",
+    "pronunciation": "ˌəʊvəˈreɪt",
+    "meaning": [
+      "przeceniać"
+    ]
+  },
+  {
+    "id": "o-override",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "override",
+    "pronunciation": "ˌəʊvəˈraɪd",
+    "meaning": [
+      "odsuwać na bok",
+      "przełamywać",
+      "nie stosować się do"
+    ]
+  },
+  {
+    "id": "o-overriding",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "overriding",
+    "pronunciation": "ˌəʊvəˈraɪdɪŋ",
+    "meaning": [
+      "naczelny",
+      "najważniejszy"
+    ]
+  },
+  {
+    "id": "o-overrule",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overrule",
+    "pronunciation": "ˌəʊvəˈru:l",
+    "meaning": [
+      "uchylać",
+      "przegłosowywać"
+    ]
+  },
+  {
+    "id": "o-overrun",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overrun",
+    "pronunciation": "ˌəʊvəˈrʌn",
+    "meaning": [
+      "przechwytywać",
+      "opanowywać",
+      "przekraczać czas",
+      "przekraczać"
+    ]
+  },
+  {
+    "id": "o-overseas",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "overseas",
+    "pronunciation": "ˌəʊvəˈsi:z",
+    "meaning": [
+      "zagraniczny",
+      "za granicę"
+    ]
+  },
+  {
+    "id": "o-oversee",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "oversee",
+    "pronunciation": "ˌəʊvəˈsi:",
+    "meaning": [
+      "nadzorować",
+      "mieć pieczę nad czymś",
+      "mieć pieczę"
+    ]
+  },
+  {
+    "id": "o-overseer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "overseer",
+    "pronunciation": "ˈəʊvəsi:ə",
+    "meaning": [
+      "nadzorca"
+    ]
+  },
+  {
+    "id": "o-overshadow",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overshadow",
+    "pronunciation": "ˌəʊvəˈʃædəʊ",
+    "meaning": [
+      "górować",
+      "przyćmiewać",
+      "rzucać cień"
+    ]
+  },
+  {
+    "id": "o-overshoot",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overshoot",
+    "pronunciation": "ˌəʊvəˈʃʊt",
+    "meaning": [
+      "przenosić",
+      "udawać się za daleko"
+    ]
+  },
+  {
+    "id": "o-oversight",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "oversight",
+    "pronunciation": "ˈəʊvəsaɪt",
+    "meaning": [
+      "niedopatrzenie"
+    ]
+  },
+  {
+    "id": "o-oversimplify",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "oversimplify",
+    "pronunciation": "ˌəʊvəˈsɪmplɪfaɪ",
+    "meaning": [
+      "upraszczać"
+    ]
+  },
+  {
+    "id": "o-oversize",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "oversize",
+    "pronunciation": "ˈəʊvəsaɪz(d)",
+    "meaning": [
+      "nadmiarowy",
+      "większy niż zwykle"
+    ]
+  },
+  {
+    "id": "o-oversleep",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "oversleep",
+    "pronunciation": "ˌəʊvəˈsli:p",
+    "meaning": [
+      "przesypiać",
+      "spać za długo"
+    ]
+  },
+  {
+    "id": "o-overstate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "overstate",
+    "pronunciation": "ˌəʊvəˈsteɪt",
+    "meaning": [
+      "przesadzać",
+      "wyolbrzymiać"
+    ]
+  },
+  {
+    "id": "o-overt",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "overt",
+    "pronunciation": "əʊˈvɜ:t",
+    "meaning": [
+      "otwarty"
+    ]
+  },
+  {
+    "id": "o-overtake",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overtake",
+    "pronunciation": "ˌəʊvəˈteɪk",
+    "meaning": [
+      "wyprzedzać",
+      "zostawiać w tyle",
+      "zaskakiwać"
+    ]
+  },
+  {
+    "id": "o-overthrow",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "overthrow",
+    "pronunciation": "/ˌəʊvəˈθrəʊ/",
+    "meaning": [
+      "obalać",
+      "zrzucać",
+      "porzucać",
+      "odrzucać",
+      "obalenie",
+      "przewrót"
+    ]
+  },
+  {
+    "id": "o-overtime",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "word": "overtime",
+    "pronunciation": "ˈəʊvətaɪm",
+    "meaning": [
+      "praca nadliczbowa",
+      "nadliczbowo"
+    ]
+  },
+  {
+    "id": "o-overtone",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "overtone",
+    "pronunciation": "ˈəʊvətəʊn",
+    "meaning": [
+      "nuta",
+      "sugestia"
+    ]
+  },
+  {
+    "id": "o-overture",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "overture",
+    "pronunciation": "ˈəʊvətjʊə",
+    "meaning": [
+      "uwertura"
+    ]
+  },
+  {
+    "id": "o-overturn",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overturn",
+    "pronunciation": "ˌəʊvəˈtɜ:n",
+    "meaning": [
+      "przewracać się",
+      "przewracać",
+      "unieważniać",
+      "obalać",
+      "pozbawiać władzy"
+    ]
+  },
+  {
+    "id": "o-overview",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "overview",
+    "pronunciation": "ˈəʊvəvju:",
+    "meaning": [
+      "przegląd"
+    ]
+  },
+  {
+    "id": "o-overweight",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "overweight",
+    "pronunciation": "ˈəʊvəweɪt",
+    "meaning": [
+      "nadwaga"
+    ]
+  },
+  {
+    "id": "o-overwhelm",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "overwhelm",
+    "pronunciation": "ˌəʊvəˈwelm",
+    "meaning": [
+      "przytłaczać",
+      "miażdżyć"
+    ]
+  },
+  {
+    "id": "o-overwhelming",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "overwhelming",
+    "pronunciation": "ˌəʊvəˈwelmɪŋ",
+    "meaning": [
+      "przygniatający"
+    ]
+  },
+  {
+    "id": "o-overwork",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "overwork",
+    "pronunciation": "ˌəʊvəˈwɜ:k",
+    "meaning": [
+      "przepracowywać się",
+      "zapracowywać się",
+      "zapracowywać",
+      "wyeksploatować",
+      "przepracowanie"
+    ]
+  },
+  {
+    "id": "o-overwrought",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "overwrought",
+    "pronunciation": "ˌəʊvəˈrɔ:t",
+    "meaning": [
+      "spięty",
+      "napięty"
+    ]
+  },
+  {
+    "id": "o-ow",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "ow",
+    "pronunciation": "aʊ",
+    "meaning": [
+      "au"
+    ]
+  },
+  {
+    "id": "o-owe",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "owe",
+    "pronunciation": "əʊ",
+    "meaning": [
+      "być winnym",
+      "zawdzięczać"
+    ]
+  },
+  {
+    "id": "o-owing_to",
+    "level": "B1",
+    "partOfSpeech": "preposition",
+    "word": "owing to",
+    "pronunciation": "ˈəʊɪŋtʊ",
+    "meaning": [
+      "dzięki",
+      "z powodu"
+    ]
+  },
+  {
+    "id": "o-owl",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "owl",
+    "pronunciation": "aʊl",
+    "meaning": [
+      "sowa"
+    ]
+  },
+  {
+    "id": "o-own",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "own",
+    "pronunciation": "ˈəʊn",
+    "meaning": [
+      "posiadać",
+      "mieć",
+      "własny"
+    ]
+  },
+  {
+    "id": "o-owner",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "owner",
+    "pronunciation": "ˈəʊnɚ",
+    "meaning": [
+      "właściciel"
+    ]
+  },
+  {
+    "id": "o-ownership",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ownership",
+    "pronunciation": "ˈəʊnəʃɪp",
+    "meaning": [
+      "własność"
+    ]
+  },
+  {
+    "id": "o-ox",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ox",
+    "pronunciation": "ɒks",
+    "meaning": [
+      "wół"
+    ]
+  },
+  {
+    "id": "o-Oxford",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Oxford",
+    "pronunciation": "ˈɒksfəd",
+    "meaning": [
+      "Oksford"
+    ]
+  },
+  {
+    "id": "o-oxide",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "oxide",
+    "pronunciation": "ˈɒksaɪd",
+    "meaning": [
+      "tlenek"
+    ]
+  },
+  {
+    "id": "o-oxygen",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "oxygen",
+    "pronunciation": "ˈɒksɪʤən",
+    "meaning": [
+      "tlen"
+    ]
+  },
+  {
+    "id": "o-oyster",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "oyster",
+    "pronunciation": "ˈɔɪstə",
+    "meaning": [
+      "ostryga"
+    ]
+  },
+  {
+    "id": "o-oz.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "oz.",
+    "pronunciation": "/ˈɒz/",
+    "meaning": [
+      "uncja"
+    ]
+  }
+]
