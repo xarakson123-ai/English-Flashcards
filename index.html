@@ -55,7 +55,7 @@ function chapterDone(l,c){return completed.includes(key(l,c))}
 function chapterProgress(l,c){return progress[key(l,c)]||0}
 function renderMenu(){
  const ls=document.getElementById("levels");
- ls.innerHTML=LEVELS.map(l=>'<div class="level '+(unlocked(l)?'active':'locked')+'">'+l+(unlocked(l)?' 🔓':' 🔒')+'</div>').join("");
+ ls.innerHTML=LEVELS.map(l=>'<button class="level '+(l===level?'active ':'')+(unlocked(l)?'':' locked')+'" onclick="chooseLevel(\''+l+'\')">'+l+(unlocked(l)?' 🔓':' 🔒')+'</button>').join("");
  const groups=words.filter(w=>w.level===level);
  const max=Math.max(1,Math.ceil(groups.length/400));
  const ch=document.getElementById("chapters");
