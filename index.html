@@ -99,11 +99,25 @@ async function startChapter(l,c){
   document.getElementById("err").textContent="Nie udało się wczytać rozdziału. Odśwież stronę.";
  }
 }
-function retry(){if(current&&current.level!=="REVIEW"){progress[key(current.level,current.chapter)]={index:0,score:0};save();startChapter(current.level,current.chapter)}}
+function retry(){if(current&&current.level!=="REVIEW"&&current.mode!=="daily"){progress[key(current.level,current.chapter)]={index:0,score:0};save();startChapter(current.level,current.chapter)}}
 function leaveChapter(){save();current=null;combo=0;menu()}
 function showUnknown(){renderLibrary();screen("library")}
 function startReview(){if(!unknownWords.length){alert("🎉 Nie masz teraz trudnych słów!");return}current={level:"REVIEW",chapter:0};deck=shuffle(unknownWords.map(x=>({en:x.en,pl:x.pl}))).slice(0,30);index=0;score=0;combo=0;document.getElementById("chapterText").textContent="🧠 Powtórka trudnych słów";screen("game");render()}
-function dailyChallenge(){const all=[];for(let c=1;c<=20;c++)all.push(c);const c=((new Date().getDate()-1)%20)+1;level="A1";startChapter(level,c)}
+async function dailyChallenge(){
+ try{
+  const c=((new Date().getDate()-1)%20)+1;
+  const r=await fetch("data/generated/A1-"+String(c).padStart(2,"0")+".json");
+  if(!r.ok)throw Error();
+  const pool=await r.json();
+  current={level:"DAILY",chapter:c,mode:"daily"};
+  deck=shuffle(pool).slice(0,20);
+  index=0;score=0;combo=0;
+  screen("game");render();
+  document.getElementById("chapterText").textContent="⚡ Wyzwanie dnia • "+c+"/20";
+ }catch(e){
+  document.getElementById("err").textContent="Nie udało się uruchomić wyzwania dnia. Odśwież stronę.";
+ }
+}
 function showAchievements(){alert("🏆 Osiągnięcia\n\n"+(completed.length?"✓ Ukończone rozdziały: "+completed.length:"• Ukończ pierwszy rozdział")+"\n⭐ XP: "+xp+"\n🔥 Seria: "+streak+" dni\n🧠 Do powtórki: "+unknownWords.length)}
 
 function continueToTest(){
@@ -204,6 +218,16 @@ function answer(ok){
  else if(w)unknownWords.push({en:w.en,pl:w.pl,level:current.level,chapter:current.chapter});
  syncUnknown();
  index++;
+ if(current.mode==="daily"){
+  if(index>=deck.length){
+   document.getElementById("finalScore").textContent=score+" / "+deck.length;
+   document.getElementById("resultTitle").textContent=score>=16?"⚡ Wyzwanie ukończone!":"💪 Spróbuj pobić swój wynik!";
+   document.getElementById("finalText").textContent="Wyzwanie dnia: "+score+" / "+deck.length+" poprawnych. "+(score>=16?"Zdobywasz bonus 150 XP!":"Powtórz je, aby poprawić wynik.");
+   if(score>=16)gain(150);
+   screen("result");
+  }else render();
+  return;
+ }
  progress[key(current.level,current.chapter)]={index,score};
  save();
  if(index>=deck.length){
