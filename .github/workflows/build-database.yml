@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "data/**"
+      - "data/*.json"
       - ".github/workflows/build-database.yml"
 permissions:
   contents: write
@@ -96,7 +96,14 @@ jobs:
           if len(selected)!=40000:
               raise SystemExit(f"Database contains only {len(selected)} entries")
           Path("words.json").write_text(json.dumps(selected,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
-          print(f"Built {len(selected)} words")
+          outdir=Path("data/generated")
+          outdir.mkdir(parents=True,exist_ok=True)
+          for level in levels:
+              group=[w for w in selected if w["level"]==level]
+              for c in range(1,21):
+                  chunk=group[(c-1)*400:c*400]
+                  (outdir/f"{level}-{c:02d}.json").write_text(json.dumps(chunk,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+          print(f"Built {len(selected)} words and 100 offline chapter files")
       - name: Commit database
         run: |
           git config user.name "github-actions[bot]"
