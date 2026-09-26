@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>English Flashcards</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;background:radial-gradient(circle at top,#29204d,#0c0a13 58%);color:#fff;min-height:100vh}.app{max-width:1100px;margin:auto;padding:28px 18px}.top{display:flex;justify-content:space-between;align-items:center;gap:16px}.brand{font-size:30px;font-weight:900}.muted{color:#aaa7b7}.pill{padding:9px 14px;border:1px solid #3b3650;border-radius:999px;background:#181522}.panel{margin-top:24px;background:#15121e;border:1px solid #302b40;border-radius:24px;padding:24px;box-shadow:0 20px 60px #0008}.stats{display:flex;gap:10px;flex-wrap:wrap}.progress{height:10px;background:#2a2635;border-radius:99px;overflow:hidden;margin:20px 0}.bar{height:100%;background:linear-gradient(90deg,#9b6cff,#d26cff);width:0}.card{height:390px;perspective:1200px;cursor:pointer}.inner{position:relative;width:100%;height:100%;transition:transform .5s;transform-style:preserve-3d}.card.flipped .inner{transform:rotateY(180deg)}.face{position:absolute;inset:0;backface-visibility:hidden;border-radius:24px;display:flex;align-items:center;justify-content:center;text-align:center;padding:30px;border:1px solid #4b405f;background:linear-gradient(145deg,#302548,#171321)}.back{transform:rotateY(180deg);background:linear-gradient(145deg,#422d5d,#181321)}.word{font-size:clamp(40px,8vw,78px);font-weight:900}.translation{font-size:clamp(30px,6vw,56px);font-weight:800}.hint{position:absolute;bottom:22px;font-size:14px;color:#aaa}.actions{display:flex;gap:12px;margin-top:16px}.btn{flex:1;border:0;border-radius:15px;padding:15px;font-size:17px;font-weight:800;cursor:pointer;color:#fff;background:#29233a}.btn:hover{filter:brightness(1.15)}.know{background:#287d58}.dont{background:#a13e56}.secondary{margin-top:12px;background:#201b2c}.screen{display:none}.screen.active{display:block}.menu-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}.menu-btn{padding:22px;border:1px solid #3b344b;background:#1a1624;color:#fff;border-radius:18px;font-size:18px;font-weight:800;cursor:pointer}.menu-btn:hover{background:#241d32}.result{text-align:center;padding:35px}.score{font-size:64px;font-weight:900}.library{margin-top:18px;display:flex;gap:10px}.library input{flex:1;padding:14px;border-radius:12px;border:1px solid #40384f;background:#0e0b14;color:#fff}.list{max-height:300px;overflow:auto;margin-top:12px}.row{display:flex;justify-content:space-between;padding:11px;border-bottom:1px solid #2c2735}.small{font-size:13px}.error{color:#ff8fa7;text-align:center;padding:20px}@media(max-width:600px){.app{padding:16px}.card{height:330px}.actions{flex-direction:column}.top{align-items:flex-start;flex-direction:column}}
+</style>
+</head>
+<body>
+<div class="app">
+<div class="top"><div><div class="brand">English Flashcards</div><div class="muted">Fiszki do nauki angielskiego</div></div><div class="pill" id="count">Ładowanie…</div></div>
+<div id="menu" class="screen active panel">
+<h2>Wybierz tryb</h2>
+<div class="menu-grid">
+<button class="menu-btn" onclick="start()">🎴 Nauka fiszek</button>
+<button class="menu-btn" onclick="single()">⚡ Losowe słówko</button>
+<button class="menu-btn" onclick="showLibrary()">📚 Baza słówek</button>
+</div>
+</div>
+<div id="game" class="screen panel">
+<div class="stats"><div class="pill" id="progressText"></div><div class="pill" id="scoreText"></div></div>
+<div class="progress"><div class="bar" id="bar"></div></div>
+<div class="card" id="card" onclick="flip()"><div class="inner"><div class="face"><div class="word" id="en"></div><div class="hint">Kliknij kartę, aby zobaczyć tłumaczenie</div></div><div class="face back"><div class="translation" id="pl"></div></div></div></div>
+<div class="actions"><button class="btn dont" onclick="answer(false)">✕ Nie znam</button><button class="btn know" onclick="answer(true)">✓ Znam</button></div>
+<button class="btn secondary" onclick="menu()">← Menu</button>
+</div>
+<div id="result" class="screen panel result"><h2>Sesja zakończona 🎉</h2><div class="score" id="finalScore"></div><p class="muted" id="finalText"></p><button class="btn" onclick="start()">Jeszcze raz</button><button class="btn secondary" onclick="menu()">Menu</button></div>
+<div id="library" class="screen panel"><h2>📚 Baza słówek</h2><div class="library"><input id="search" placeholder="Szukaj po angielsku lub polsku" oninput="renderLibrary()"></div><div class="list" id="list"></div><button class="btn secondary" onclick="menu()">← Menu</button></div>
+<div id="err" class="error"></div>
+</div>
+<script>
+let words=[],deck=[],index=0,score=0;
+async function load(){try{const r=await fetch('words.json');if(!r.ok)throw Error();words=await r.json();document.getElementById('count').textContent=words.length.toLocaleString('pl-PL')+' słówek';}catch(e){document.getElementById('err').textContent='Nie udało się wczytać words.json.'}}
+function screen(id){document.querySelectorAll('.screen').forEach(x=>x.classList.remove('active'));document.getElementById(id).classList.add('active')}
+function menu(){screen('menu')}
+function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
+function start(){deck=shuffle(words).slice(0,20);index=0;score=0;screen('game');render()}
+function single(){deck=shuffle(words).slice(0,1);index=0;score=0;screen('game');render()}
+function render(){let w=deck[index];document.getElementById('en').textContent=w.en;document.getElementById('pl').textContent=w.pl;document.getElementById('card').classList.remove('flipped');document.getElementById('progressText').textContent=(index+1)+' / '+deck.length;document.getElementById('scoreText').textContent='Wynik: '+score;document.getElementById('bar').style.width=((index)/deck.length*100)+'%'}
+function flip(){document.getElementById('card').classList.toggle('flipped')}
+function answer(ok){if(ok)score++;index++;if(index>=deck.length){document.getElementById('finalScore').textContent=score+' / '+deck.length;document.getElementById('finalText').textContent='Poprawne odpowiedzi: '+Math.round(score/deck.length*100)+'%';screen('result')}else render()}
+function showLibrary(){screen('library');renderLibrary()}
+function renderLibrary(){let q=(document.getElementById('search').value||'').toLowerCase();let arr=words.filter(w=>(w.en+' '+w.pl).toLowerCase().includes(q)).slice(0,300);document.getElementById('list').innerHTML=arr.map(w=>'<div class="row"><b>'+esc(w.en)+'</b><span>'+esc(w.pl)+'</span></div>').join('')||'<div class="muted">Brak wyników</div>'}
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+load();
+</script>
+</body>
+</html>
