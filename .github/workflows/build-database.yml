@@ -17,11 +17,7 @@ jobs:
         shell: python
         run: |
           import json
-          import subprocess
-          import sys
           from pathlib import Path
-          subprocess.check_call([sys.executable,"-m","pip","install","-q","wordfreq"])
-          from wordfreq import zipf_frequency
           levels=["A1","A2","B1","B2","C1"]
           quota=8000
           rows=[]
@@ -66,7 +62,7 @@ jobs:
               except Exception as e:
                   print("External dictionary error:",e)
           ranked=[w for w in rows if not w["sourceLevel"]]
-          ranked.sort(key=lambda w:zipf_frequency(w["en"],"en"),reverse=True)
+          ranked.sort(key=lambda w:(len(w["en"]),w["en"].lower()))
           by={x:[] for x in levels}
           for w in rows:
               if w["sourceLevel"]:
