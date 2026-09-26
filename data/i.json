@@ -1,0 +1,10032 @@
+[
+  {
+    "id": "i-I",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "I",
+    "pronunciation": "aɪ",
+    "meaning": [
+      "ja"
+    ]
+  },
+  {
+    "id": "i-Iberian",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "Iberian",
+    "pronunciation": "aɪˈbɪərɪən",
+    "meaning": [
+      "iberyjski"
+    ]
+  },
+  {
+    "id": "i-ICBM",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ICBM",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "międzykontynentalny pocisk rakietowy"
+    ]
+  },
+  {
+    "id": "i-ice",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ice",
+    "pronunciation": "aɪs",
+    "meaning": [
+      "lód",
+      "lody",
+      "zamrażać",
+      "lukrować",
+      "pokrywać polewą",
+      "obladzać się"
+    ]
+  },
+  {
+    "id": "i-ice-box",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ice-box",
+    "pronunciation": "ˈaɪsbɒks",
+    "meaning": [
+      "lodówka"
+    ]
+  },
+  {
+    "id": "i-ice-cold",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "ice-cold",
+    "pronunciation": "ˈaɪskəʊld",
+    "meaning": [
+      "lodowaty"
+    ]
+  },
+  {
+    "id": "i-ice-cream",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ice-cream",
+    "pronunciation": "ˌaɪsˈkri:m",
+    "meaning": [
+      "lody"
+    ]
+  },
+  {
+    "id": "i-Iceland",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Iceland",
+    "pronunciation": "ˈaɪslənd",
+    "meaning": [
+      "Islandia"
+    ]
+  },
+  {
+    "id": "i-Icelandic",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Icelandic",
+    "pronunciation": "ˌaɪsˈlændɪk",
+    "meaning": [
+      "islandzki"
+    ]
+  },
+  {
+    "id": "i-icicle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "icicle",
+    "pronunciation": "ˈaɪsɪkəl",
+    "meaning": [
+      "sopel"
+    ]
+  },
+  {
+    "id": "i-icing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "icing",
+    "pronunciation": "ˈaɪsɪŋ",
+    "meaning": [
+      "polewa",
+      "lukier"
+    ]
+  },
+  {
+    "id": "i-icon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "icon",
+    "pronunciation": "ˈaɪkən",
+    "meaning": [
+      "ikona",
+      "piktogram"
+    ]
+  },
+  {
+    "id": "i-icy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "icy",
+    "pronunciation": "ˈaɪsɪ",
+    "meaning": [
+      "lodowaty",
+      "oblodzony"
+    ]
+  },
+  {
+    "id": "i-Idaho",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Idaho",
+    "pronunciation": "ˈaɪdəhəʊ",
+    "meaning": [
+      "Idaho"
+    ]
+  },
+  {
+    "id": "i-idea",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "idea",
+    "pronunciation": "aɪˈdɪə",
+    "meaning": [
+      "pomysł",
+      "idea",
+      "pojęcie",
+      "wrażenie"
+    ]
+  },
+  {
+    "id": "i-ideal",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "ideal",
+    "pronunciation": "aɪˈdɪəl",
+    "meaning": [
+      "ideał",
+      "idealny"
+    ]
+  },
+  {
+    "id": "i-idealization",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "idealization",
+    "pronunciation": "aɪˌdɪəlaɪˈzeɪʃən",
+    "meaning": [
+      "idealizacja"
+    ]
+  },
+  {
+    "id": "i-idealize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "idealize",
+    "pronunciation": "aɪˈdɪəlaɪz",
+    "meaning": [
+      "idealizować"
+    ]
+  },
+  {
+    "id": "i-ideally",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "ideally",
+    "pronunciation": "aɪˈdɪəlɪ",
+    "meaning": [
+      "w ideale",
+      "idealnie"
+    ]
+  },
+  {
+    "id": "i-identical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "identical",
+    "pronunciation": "aɪˈdentɪkəl",
+    "meaning": [
+      "identyczny",
+      "jednakowy"
+    ]
+  },
+  {
+    "id": "i-identification",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "identification",
+    "pronunciation": "aɪˌdentɪfɪˈkeɪʃən",
+    "meaning": [
+      "identyfikacja",
+      "zaświadczenie tożsamości",
+      "utożsamianie się"
+    ]
+  },
+  {
+    "id": "i-identify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "identify",
+    "pronunciation": "aɪˈdentɪfaɪ",
+    "meaning": [
+      "identyfikować",
+      "wyróżniać",
+      "dostrzegać",
+      "utożsamiać"
+    ]
+  },
+  {
+    "id": "i-identity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "identity",
+    "pronunciation": "aɪˈdentɪtɪ",
+    "meaning": [
+      "tożsamość",
+      "dowód tożsamości"
+    ]
+  },
+  {
+    "id": "i-ideological",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ideological",
+    "pronunciation": "ˌaɪdɪəˈlɒʤɪkəl",
+    "meaning": [
+      "ideologiczny"
+    ]
+  },
+  {
+    "id": "i-ideology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ideology",
+    "pronunciation": "ˌaɪdɪˈɒlɒʤɪ",
+    "meaning": [
+      "ideologia"
+    ]
+  },
+  {
+    "id": "i-idiocy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "idiocy",
+    "pronunciation": "ˈɪdɪəsɪ",
+    "meaning": [
+      "idiotyzm"
+    ]
+  },
+  {
+    "id": "i-idiom",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "idiom",
+    "pronunciation": "ˈɪdɪəm",
+    "meaning": [
+      "idiom",
+      "idiomatyzm",
+      "styl"
+    ]
+  },
+  {
+    "id": "i-idiomatic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "idiomatic",
+    "pronunciation": "ˌɪdɪəˈmætɪk",
+    "meaning": [
+      "idiomatyczny"
+    ]
+  },
+  {
+    "id": "i-idiosyncrasy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "idiosyncrasy",
+    "pronunciation": "ˌɪdɪəˈsɪŋkrəsɪ",
+    "meaning": [
+      "osobliwość"
+    ]
+  },
+  {
+    "id": "i-idiosyncratic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "idiosyncratic",
+    "pronunciation": "ˌɪdɪəsɪŋˈkrætɪk",
+    "meaning": [
+      "osobliwy",
+      "jedyny w swoim rodzaju"
+    ]
+  },
+  {
+    "id": "i-idiot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "idiot",
+    "pronunciation": "ˈɪdɪət",
+    "meaning": [
+      "idiota"
+    ]
+  },
+  {
+    "id": "i-idiotic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "idiotic",
+    "pronunciation": "ˌɪdɪˈɒtɪk",
+    "meaning": [
+      "idiotyczny",
+      "kretyński"
+    ]
+  },
+  {
+    "id": "i-idle",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "idle",
+    "pronunciation": "ˈaɪdəl",
+    "meaning": [
+      "bezczynny",
+      "bezrobotny",
+      "pusty",
+      "czczy",
+      "zabijać czas"
+    ]
+  },
+  {
+    "id": "i-idler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "idler",
+    "pronunciation": "ˈaɪdlə",
+    "meaning": [
+      "próżniak"
+    ]
+  },
+  {
+    "id": "i-idol",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "idol",
+    "pronunciation": "ˈaɪdəl",
+    "meaning": [
+      "idol",
+      "bałwan",
+      "bożek"
+    ]
+  },
+  {
+    "id": "i-idolatry",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "idolatry",
+    "pronunciation": "aɪˈdɒlətrɪ",
+    "meaning": [
+      "bałwochwalstwo"
+    ]
+  },
+  {
+    "id": "i-idolize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "idolize",
+    "pronunciation": "ˈaɪdəlaɪz",
+    "meaning": [
+      "ubóstwiać"
+    ]
+  },
+  {
+    "id": "i-idyll",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "idyll",
+    "pronunciation": "ˈɪdɪl",
+    "meaning": [
+      "idylla"
+    ]
+  },
+  {
+    "id": "i-idyllic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "idyllic",
+    "pronunciation": "aɪˈdɪlɪk",
+    "meaning": [
+      "idylliczny"
+    ]
+  },
+  {
+    "id": "i-i.e.",
+    "level": "B1",
+    "partOfSpeech": "conjunction",
+    "word": "i.e.",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "tj.",
+      "to jest"
+    ]
+  },
+  {
+    "id": "i-igloo",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "igloo",
+    "pronunciation": "ˈɪglu:",
+    "meaning": [
+      "igloo"
+    ]
+  },
+  {
+    "id": "i-ignite",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "ignite",
+    "pronunciation": "ɪgˈnaɪt",
+    "meaning": [
+      "zapalać się",
+      "zapalać"
+    ]
+  },
+  {
+    "id": "i-ignition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ignition",
+    "pronunciation": "ɪgˈnɪʃən",
+    "meaning": [
+      "zapłon"
+    ]
+  },
+  {
+    "id": "i-ignoble",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ignoble",
+    "pronunciation": "ɪgˈnəʊbəl",
+    "meaning": [
+      "niegodny"
+    ]
+  },
+  {
+    "id": "i-ignominious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ignominious",
+    "pronunciation": "ˌɪgnəˈmɪnɪəs",
+    "meaning": [
+      "haniebny",
+      "niegodny"
+    ]
+  },
+  {
+    "id": "i-ignoramus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ignoramus",
+    "pronunciation": "ˌɪgnəˈreɪməs",
+    "meaning": [
+      "ignorant"
+    ]
+  },
+  {
+    "id": "i-ignorance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ignorance",
+    "pronunciation": "ˈɪgnərəns",
+    "meaning": [
+      "nieświadomość",
+      "ignorancja"
+    ]
+  },
+  {
+    "id": "i-ignorant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ignorant",
+    "pronunciation": "ˈɪgnərənt",
+    "meaning": [
+      "nieświadomy",
+      "ignorancki"
+    ]
+  },
+  {
+    "id": "i-ignore",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "ignore",
+    "pronunciation": "ɪgˈnɔ:",
+    "meaning": [
+      "ignorować",
+      "pomijać"
+    ]
+  },
+  {
+    "id": "i-ikon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ikon",
+    "pronunciation": "ˈaɪkən",
+    "meaning": [
+      "ikona"
+    ]
+  },
+  {
+    "id": "i-ill",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "ill",
+    "pronunciation": "ɪl",
+    "meaning": [
+      "chory",
+      "niedobry",
+      "szkodliwy",
+      "źle",
+      "niedobrze",
+      "zło",
+      "złe strony"
+    ]
+  },
+  {
+    "id": "i-illegal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "illegal",
+    "pronunciation": "ɪˈli:gəl",
+    "meaning": [
+      "nielegalny",
+      "bezprawny"
+    ]
+  },
+  {
+    "id": "i-illegible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "illegible",
+    "pronunciation": "ɪˈleʤɪbəl",
+    "meaning": [
+      "nieczytelny"
+    ]
+  },
+  {
+    "id": "i-illegitimate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "illegitimate",
+    "pronunciation": "ˌɪlɪˈʤɪtɪmɪt",
+    "meaning": [
+      "nieślubny",
+      "bezprawny",
+      "bez mocy prawnej"
+    ]
+  },
+  {
+    "id": "i-ill-fated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ill-fated",
+    "pronunciation": "ˌɪlˈfeɪtɪd",
+    "meaning": [
+      "niepomyślny",
+      "dramatyczny"
+    ]
+  },
+  {
+    "id": "i-illicit",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "illicit",
+    "pronunciation": "ɪˈlɪsɪt",
+    "meaning": [
+      "nielegalny"
+    ]
+  },
+  {
+    "id": "i-Illinois",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Illinois",
+    "pronunciation": "ɪləˈnɔɪ",
+    "meaning": [
+      "Illinois"
+    ]
+  },
+  {
+    "id": "i-Illinoisan",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Illinoisan",
+    "pronunciation": "ɪləˈnɔɪən",
+    "meaning": [
+      "illinojski"
+    ]
+  },
+  {
+    "id": "i-illiteracy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "illiteracy",
+    "pronunciation": "ɪˈlɪtərəsɪ",
+    "meaning": [
+      "analfabetyzm"
+    ]
+  },
+  {
+    "id": "i-illiterate",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "illiterate",
+    "pronunciation": "ɪˈlɪtərət",
+    "meaning": [
+      "niepiśmienny",
+      "analfabeta"
+    ]
+  },
+  {
+    "id": "i-illness",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "illness",
+    "pronunciation": "ˈɪlnɪs",
+    "meaning": [
+      "choroba"
+    ]
+  },
+  {
+    "id": "i-illogical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "illogical",
+    "pronunciation": "ɪˈlɒʤɪkəl",
+    "meaning": [
+      "nielogiczny"
+    ]
+  },
+  {
+    "id": "i-ill-treat",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ill-treat",
+    "pronunciation": "ˌɪlˈtri:t",
+    "meaning": [
+      "maltretować",
+      "znęcać się"
+    ]
+  },
+  {
+    "id": "i-illuminate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "illuminate",
+    "pronunciation": "ɪˈlu:mɪneɪt",
+    "meaning": [
+      "oświetlać",
+      "rozjaśniać"
+    ]
+  },
+  {
+    "id": "i-illumination",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "illumination",
+    "pronunciation": "ɪˌlu:mɪˈneɪʃən",
+    "meaning": [
+      "oświetlenie",
+      "iluminacja"
+    ]
+  },
+  {
+    "id": "i-illusion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "illusion",
+    "pronunciation": "ɪˈlu:ʒən",
+    "meaning": [
+      "złudzenie",
+      "iluzja"
+    ]
+  },
+  {
+    "id": "i-illusory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "illusory",
+    "pronunciation": "ɪˈlu:sərɪ",
+    "meaning": [
+      "iluzoryczny",
+      "złudny"
+    ]
+  },
+  {
+    "id": "i-illustrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "illustrate",
+    "pronunciation": "ˈɪləstreɪt",
+    "meaning": [
+      "ilustrować",
+      "unaoczniać",
+      "obrazować"
+    ]
+  },
+  {
+    "id": "i-illustration",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "illustration",
+    "pronunciation": "ˌɪləˈstreɪʃən",
+    "meaning": [
+      "ilustracja",
+      "zobrazowanie"
+    ]
+  },
+  {
+    "id": "i-illustrative",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "illustrative",
+    "pronunciation": "ˈɪləstrətɪv",
+    "meaning": [
+      "poglądowy"
+    ]
+  },
+  {
+    "id": "i-illustrious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "illustrious",
+    "pronunciation": "ɪˈlʌstrɪəs",
+    "meaning": [
+      "znamienity"
+    ]
+  },
+  {
+    "id": "i-ill-will",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ill-will",
+    "pronunciation": "ˌɪlˈwɪl",
+    "meaning": [
+      "wrogość"
+    ]
+  },
+  {
+    "id": "i-ILO",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ILO",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "MOP",
+      "Międzynarodowa Organizacja Pracy"
+    ]
+  },
+  {
+    "id": "i-image",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "image",
+    "pronunciation": "ˈɪmɪʤ",
+    "meaning": [
+      "obraz",
+      "opinia",
+      "odbiór"
+    ]
+  },
+  {
+    "id": "i-imagery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "imagery",
+    "pronunciation": "ˈɪmɪʤərɪ",
+    "meaning": [
+      "obrazowanie",
+      "motywy"
+    ]
+  },
+  {
+    "id": "i-imaginable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imaginable",
+    "pronunciation": "ɪˈmæʤɪnəbəl",
+    "meaning": [
+      "wyobrażalny"
+    ]
+  },
+  {
+    "id": "i-imaginary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "imaginary",
+    "pronunciation": "ɪˈmæʤɪnərɪ",
+    "meaning": [
+      "wyimaginowany"
+    ]
+  },
+  {
+    "id": "i-imagination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "imagination",
+    "pronunciation": "ɪˌmæʤɪˈneɪʃən",
+    "meaning": [
+      "wyobraźnia"
+    ]
+  },
+  {
+    "id": "i-imaginative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imaginative",
+    "pronunciation": "ɪˈmæʤɪnətɪv",
+    "meaning": [
+      "pełen wyobraźni"
+    ]
+  },
+  {
+    "id": "i-imagine",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "imagine",
+    "pronunciation": "ɪˈmæʤɪn",
+    "meaning": [
+      "wyobrażać sobie"
+    ]
+  },
+  {
+    "id": "i-imbalance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "imbalance",
+    "pronunciation": "ˌɪmˈbæləns",
+    "meaning": [
+      "nierównowaga"
+    ]
+  },
+  {
+    "id": "i-imbecile",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "imbecile",
+    "pronunciation": "ˈɪmbɪsi:l",
+    "meaning": [
+      "imbecyl",
+      "imbecylny"
+    ]
+  },
+  {
+    "id": "i-imbue",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "imbue",
+    "pronunciation": "ɪmˈbju:",
+    "meaning": [
+      "przesycać",
+      "nasycać"
+    ]
+  },
+  {
+    "id": "i-IMF",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "IMF",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Międzynarodowy Fundusz Walutowy"
+    ]
+  },
+  {
+    "id": "i-imitate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "imitate",
+    "pronunciation": "ˈɪmɪteɪt",
+    "meaning": [
+      "imitować",
+      "naśladować"
+    ]
+  },
+  {
+    "id": "i-imitation",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "imitation",
+    "pronunciation": "ˌɪmɪˈteɪʃən",
+    "meaning": [
+      "imitacja",
+      "naśladowanie",
+      "sztuczny"
+    ]
+  },
+  {
+    "id": "i-imitative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imitative",
+    "pronunciation": "ˈɪmɪtətɪv",
+    "meaning": [
+      "naśladowczy"
+    ]
+  },
+  {
+    "id": "i-imitator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "imitator",
+    "pronunciation": "ˈɪmɪteɪtə",
+    "meaning": [
+      "naśladowca"
+    ]
+  },
+  {
+    "id": "i-immaculate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "immaculate",
+    "pronunciation": "ɪˈmækjələt",
+    "meaning": [
+      "nieskazitelny",
+      "bezbłędny",
+      "bez zarzutu"
+    ]
+  },
+  {
+    "id": "i-immaterial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "immaterial",
+    "pronunciation": "ˌɪməˈtɪərɪəl",
+    "meaning": [
+      "bez znaczenia"
+    ]
+  },
+  {
+    "id": "i-immature",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "immature",
+    "pronunciation": "ˌɪməˈtjʊə",
+    "meaning": [
+      "niedojrzały"
+    ]
+  },
+  {
+    "id": "i-immeasurable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "immeasurable",
+    "pronunciation": "ɪˈmeʒərəbəl",
+    "meaning": [
+      "niezmierny",
+      "bezmierny"
+    ]
+  },
+  {
+    "id": "i-immediacy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "immediacy",
+    "pronunciation": "ɪˈmi:dɪəsɪ",
+    "meaning": [
+      "naoczność",
+      "bezpośredniość"
+    ]
+  },
+  {
+    "id": "i-immediate",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "immediate",
+    "pronunciation": "ɪˈmi:dɪət",
+    "meaning": [
+      "natychmiastowy",
+      "naglący",
+      "najbliższy",
+      "bezpośredni"
+    ]
+  },
+  {
+    "id": "i-immediately",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "immediately",
+    "pronunciation": "ɪˈmi:dɪətlɪ",
+    "meaning": [
+      "natychmiast",
+      "od razu jak",
+      "od razu",
+      "bezpośrednio"
+    ]
+  },
+  {
+    "id": "i-immemorial",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "immemorial",
+    "pronunciation": "ˌɪmɪˈmɒrɪəl",
+    "meaning": [
+      "odwieczny"
+    ]
+  },
+  {
+    "id": "i-immense",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "immense",
+    "pronunciation": "ɪˈmens",
+    "meaning": [
+      "ogromny",
+      "gigantyczny"
+    ]
+  },
+  {
+    "id": "i-immensely",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "immensely",
+    "pronunciation": "ɪˈmenslɪ",
+    "meaning": [
+      "niezwykle"
+    ]
+  },
+  {
+    "id": "i-immensity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "immensity",
+    "pronunciation": "ɪˈmensɪtɪ",
+    "meaning": [
+      "ogrom"
+    ]
+  },
+  {
+    "id": "i-immerse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "immerse",
+    "pronunciation": "ɪˈmɜ:s",
+    "meaning": [
+      "zanurzać się",
+      "zanurzać"
+    ]
+  },
+  {
+    "id": "i-immersion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "immersion",
+    "pronunciation": "ɪˈmɜ:ʃən",
+    "meaning": [
+      "zanurzenie",
+      "grzałka do wody",
+      "grzałka"
+    ]
+  },
+  {
+    "id": "i-immigrant",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "immigrant",
+    "pronunciation": "ˈɪmɪgrənt",
+    "meaning": [
+      "imigrant"
+    ]
+  },
+  {
+    "id": "i-immigration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "immigration",
+    "pronunciation": "ˌɪmɪˈgreɪʃən",
+    "meaning": [
+      "imigracja"
+    ]
+  },
+  {
+    "id": "i-imminent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imminent",
+    "pronunciation": "ˈɪmɪnent",
+    "meaning": [
+      "bliski",
+      "nadciągający"
+    ]
+  },
+  {
+    "id": "i-immobile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "immobile",
+    "pronunciation": "ɪˈməʊbaɪl",
+    "meaning": [
+      "nieruchomy"
+    ]
+  },
+  {
+    "id": "i-immobilize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "immobilize",
+    "pronunciation": "ɪˈməʊbɪlaɪz",
+    "meaning": [
+      "unieruchamiać",
+      "krępować"
+    ]
+  },
+  {
+    "id": "i-immodest",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "immodest",
+    "pronunciation": "ɪˈmɒdɪst",
+    "meaning": [
+      "nieskromny"
+    ]
+  },
+  {
+    "id": "i-immoral",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "immoral",
+    "pronunciation": "ɪˈmɒrəl",
+    "meaning": [
+      "niemoralny"
+    ]
+  },
+  {
+    "id": "i-immortal",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "immortal",
+    "pronunciation": "ɪˈmɔ:təl",
+    "meaning": [
+      "nieśmiertelny"
+    ]
+  },
+  {
+    "id": "i-immortalize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "immortalize",
+    "pronunciation": "ɪˈmɔ:təlaɪz",
+    "meaning": [
+      "uwieczniać"
+    ]
+  },
+  {
+    "id": "i-immovable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "immovable",
+    "pronunciation": "ɪˈmu:vəbəl",
+    "meaning": [
+      "nieprzenośny",
+      "nieruchomy",
+      "niewzruszony",
+      "nieugięty"
+    ]
+  },
+  {
+    "id": "i-immune",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "immune",
+    "pronunciation": "ɪˈmju:n",
+    "meaning": [
+      "odporny"
+    ]
+  },
+  {
+    "id": "i-immunity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "immunity",
+    "pronunciation": "ɪˈmju:nɪtɪ",
+    "meaning": [
+      "odporność",
+      "immunitet",
+      "nietykalność"
+    ]
+  },
+  {
+    "id": "i-immunize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "immunize",
+    "pronunciation": "ˈɪmjʊnaɪz",
+    "meaning": [
+      "uodparniać się",
+      "uodparniać"
+    ]
+  },
+  {
+    "id": "i-immutable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "immutable",
+    "pronunciation": "ɪˈmju:təbəl",
+    "meaning": [
+      "niezmienny"
+    ]
+  },
+  {
+    "id": "i-imp",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "imp",
+    "pronunciation": "ɪmp",
+    "meaning": [
+      "chochlik"
+    ]
+  },
+  {
+    "id": "i-impact",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "impact",
+    "pronunciation": "ˈɪmpækt",
+    "meaning": [
+      "uderzenie",
+      "wpływ",
+      "wrażenie"
+    ]
+  },
+  {
+    "id": "i-impair",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "impair",
+    "pronunciation": "ɪmˈpeə",
+    "meaning": [
+      "osłabiać",
+      "nadwerężać"
+    ]
+  },
+  {
+    "id": "i-impale",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "impale",
+    "pronunciation": "ɪmˈpeɪl",
+    "meaning": [
+      "nabijać",
+      "nasadzać"
+    ]
+  },
+  {
+    "id": "i-impart",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "impart",
+    "pronunciation": "ɪmˈpɑ:t",
+    "meaning": [
+      "przekazywać",
+      "dodawać"
+    ]
+  },
+  {
+    "id": "i-impartial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impartial",
+    "pronunciation": "ɪmˈpɑ:ʃəl",
+    "meaning": [
+      "obiektywny"
+    ]
+  },
+  {
+    "id": "i-impassable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impassable",
+    "pronunciation": "ɪmˈpɑ:səbəl",
+    "meaning": [
+      "nieprzejezdny",
+      "nie do przebycia"
+    ]
+  },
+  {
+    "id": "i-impasse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "impasse",
+    "pronunciation": "ˈɒmpæs",
+    "meaning": [
+      "impas",
+      "pat"
+    ]
+  },
+  {
+    "id": "i-impassioned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impassioned",
+    "pronunciation": "ɪmˈpæʃənd",
+    "meaning": [
+      "roznamiętniony"
+    ]
+  },
+  {
+    "id": "i-impassive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impassive",
+    "pronunciation": "ɪmˈpæsɪv",
+    "meaning": [
+      "obojętny",
+      "spokojny"
+    ]
+  },
+  {
+    "id": "i-impatience",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "impatience",
+    "pronunciation": "ɪmˈpeɪʃəns",
+    "meaning": [
+      "niecierpliwość",
+      "brak cierpliwości"
+    ]
+  },
+  {
+    "id": "i-impatient",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "impatient",
+    "pronunciation": "ɪmˈpeɪʃənt",
+    "meaning": [
+      "niecierpliwy"
+    ]
+  },
+  {
+    "id": "i-impeccable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impeccable",
+    "pronunciation": "ɪmˈpekəbəl",
+    "meaning": [
+      "nieskazitelny",
+      "doskonały"
+    ]
+  },
+  {
+    "id": "i-impede",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "impede",
+    "pronunciation": "ɪmˈpi:d",
+    "meaning": [
+      "hamować",
+      "zakłócać"
+    ]
+  },
+  {
+    "id": "i-impediment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "impediment",
+    "pronunciation": "ɪmˈpedɪmənt",
+    "meaning": [
+      "czynnik hamujący",
+      "zakłócający"
+    ]
+  },
+  {
+    "id": "i-impending",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impending",
+    "pronunciation": "ɪmˈpendɪŋ",
+    "meaning": [
+      "nadciągający"
+    ]
+  },
+  {
+    "id": "i-impenetrable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impenetrable",
+    "pronunciation": "ɪmˈpenɪtrəbəl",
+    "meaning": [
+      "nieprzenikniony",
+      "niedostępny"
+    ]
+  },
+  {
+    "id": "i-imperative",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "imperative",
+    "pronunciation": "ɪmˈperətɪv",
+    "meaning": [
+      "niezbędny",
+      "naglący",
+      "tryb rozkazujący",
+      "rozkazujący",
+      "nakaz",
+      "imperatyw"
+    ]
+  },
+  {
+    "id": "i-imperceptible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "imperceptible",
+    "pronunciation": "ˌɪmpəˈseptɪbəl",
+    "meaning": [
+      "niedostrzegalny"
+    ]
+  },
+  {
+    "id": "i-imperfect",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "imperfect",
+    "pronunciation": "ɪmˈpɜ:fɪkt",
+    "meaning": [
+      "niedoskonały",
+      "aspekt niedokonany",
+      "niedokonany"
+    ]
+  },
+  {
+    "id": "i-imperfection",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "imperfection",
+    "pronunciation": "ˌɪmpəˈfekʃən",
+    "meaning": [
+      "niedoskonałość",
+      "skaza"
+    ]
+  },
+  {
+    "id": "i-imperial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imperial",
+    "pronunciation": "ɪmˈpɪərɪəl",
+    "meaning": [
+      "imperialny",
+      "cesarski",
+      "anglosaski"
+    ]
+  },
+  {
+    "id": "i-imperialism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "imperialism",
+    "pronunciation": "ɪmˈpɪərɪəlɪzəm",
+    "meaning": [
+      "imperializm"
+    ]
+  },
+  {
+    "id": "i-imperialist",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "imperialist",
+    "pronunciation": "ɪmˈpɪərɪəlɪst",
+    "meaning": [
+      "imperialista",
+      "imperialistyczny"
+    ]
+  },
+  {
+    "id": "i-imperil",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "imperil",
+    "pronunciation": "ɪmˈperɪl",
+    "meaning": [
+      "zagrażać"
+    ]
+  },
+  {
+    "id": "i-imperious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imperious",
+    "pronunciation": "ɪmˈpɪərɪəs",
+    "meaning": [
+      "władczy"
+    ]
+  },
+  {
+    "id": "i-impersonal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impersonal",
+    "pronunciation": "ɪmˈpɜ:sənəl",
+    "meaning": [
+      "bezosobowy",
+      "nieosobowy"
+    ]
+  },
+  {
+    "id": "i-impersonate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "impersonate",
+    "pronunciation": "ɪmˈpɜ:səneɪt",
+    "meaning": [
+      "podszywać się",
+      "udawać",
+      "imitować"
+    ]
+  },
+  {
+    "id": "i-impersonation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "impersonation",
+    "pronunciation": "ɪmˌpɜ:səˈneɪʃən",
+    "meaning": [
+      "personifikacja",
+      "uosobianie"
+    ]
+  },
+  {
+    "id": "i-impertinent",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "impertinent",
+    "pronunciation": "ɪmˈpɜ:tɪnənt",
+    "meaning": [
+      "impertynencki"
+    ]
+  },
+  {
+    "id": "i-imperturbable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "imperturbable",
+    "pronunciation": "ɪmpəˈtɜ:bəbəl",
+    "meaning": [
+      "niewzruszony"
+    ]
+  },
+  {
+    "id": "i-impervious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "impervious",
+    "pronunciation": "ɪmˈpɜ:vɪəs",
+    "meaning": [
+      "niepodatny",
+      "nieprzenikliwy",
+      "nieprzesiąkliwy"
+    ]
+  },
+  {
+    "id": "i-impetuous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "impetuous",
+    "pronunciation": "ɪmˈpetjʊəs",
+    "meaning": [
+      "porywczy"
+    ]
+  },
+  {
+    "id": "i-impetus",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "impetus",
+    "pronunciation": "ˈɪmpɪtəs",
+    "meaning": [
+      "impet",
+      "impuls"
+    ]
+  },
+  {
+    "id": "i-impinge",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "impinge",
+    "pronunciation": "ɪmˈpɪnʤ",
+    "meaning": [
+      "oddziaływać",
+      "wdzierać się"
+    ]
+  },
+  {
+    "id": "i-implacable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "implacable",
+    "pronunciation": "ɪmˈplækəbəl",
+    "meaning": [
+      "nieubłagany",
+      "nieprzejednany"
+    ]
+  },
+  {
+    "id": "i-implant",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "implant",
+    "pronunciation": "/ˈɪmplɑːnt/",
+    "meaning": [
+      "wszczepiać",
+      "przeszczepiać",
+      "przeszczep"
+    ]
+  },
+  {
+    "id": "i-implausible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "implausible",
+    "pronunciation": "ɪmˈplɔ:zəbəl",
+    "meaning": [
+      "niewiarygodny"
+    ]
+  },
+  {
+    "id": "i-implement",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "implement",
+    "pronunciation": "ˈɪmplɪmənt",
+    "meaning": [
+      "urzeczywistniać",
+      "przeprowadzać",
+      "narzędzie"
+    ]
+  },
+  {
+    "id": "i-implementation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "implementation",
+    "pronunciation": "ˌɪmplɪmənˈteɪʃən",
+    "meaning": [
+      "przeprowadzenie",
+      "urzeczywistnienie",
+      "implementacja",
+      "wdrożenie"
+    ]
+  },
+  {
+    "id": "i-implicate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "implicate",
+    "pronunciation": "ˈɪmplɪkeɪt",
+    "meaning": [
+      "wplątywać",
+      "wmieszać",
+      "dawać do zrozumienia"
+    ]
+  },
+  {
+    "id": "i-implication",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "implication",
+    "pronunciation": "ˌɪmplɪˈkeɪʃən",
+    "meaning": [
+      "implikacja",
+      "domniemanie",
+      "skojarzenie",
+      "aluzja"
+    ]
+  },
+  {
+    "id": "i-implicit",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "implicit",
+    "pronunciation": "ɪmˈplɪsɪt",
+    "meaning": [
+      "implicytny",
+      "domniemany",
+      "sugerujący",
+      "absolutny",
+      "bez zastrzeżeń"
+    ]
+  },
+  {
+    "id": "i-implore",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "implore",
+    "pronunciation": "ɪmˈplɔ:",
+    "meaning": [
+      "błagać",
+      "ubłagiwać"
+    ]
+  },
+  {
+    "id": "i-imply",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "imply",
+    "pronunciation": "ɪmˈplaɪ",
+    "meaning": [
+      "sugerować",
+      "oznaczać",
+      "implikować",
+      "pociągać za sobą"
+    ]
+  },
+  {
+    "id": "i-impolite",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "impolite",
+    "pronunciation": "ˌɪmpəˈlaɪt",
+    "meaning": [
+      "niegrzeczny"
+    ]
+  },
+  {
+    "id": "i-impolitic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "impolitic",
+    "pronunciation": "ɪmˈpɒlɪtɪk",
+    "meaning": [
+      "niedyplomatyczny"
+    ]
+  },
+  {
+    "id": "i-imponderable",
+    "level": "C2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "imponderable",
+    "pronunciation": "ɪmˈpɒndərəbəl",
+    "meaning": [
+      "nie dający się oszacować"
+    ]
+  },
+  {
+    "id": "i-import",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "import",
+    "pronunciation": "/ˈɪmpɔːt/",
+    "meaning": [
+      "importować",
+      "import",
+      "importowany produkt"
+    ]
+  },
+  {
+    "id": "i-importance",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "importance",
+    "pronunciation": "ɪmˈpɔ:təns",
+    "meaning": [
+      "ważność",
+      "znaczenie",
+      "waga"
+    ]
+  },
+  {
+    "id": "i-important",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "important",
+    "pronunciation": "ɪmˈpɔ:tənt",
+    "meaning": [
+      "ważny",
+      "znaczący"
+    ]
+  },
+  {
+    "id": "i-importer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "importer",
+    "pronunciation": "ɪmˈpɔ:tə",
+    "meaning": [
+      "importer"
+    ]
+  },
+  {
+    "id": "i-impose",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "impose",
+    "pronunciation": "ɪmˈpəʊz",
+    "meaning": [
+      "narzucać",
+      "nakładać",
+      "wymierzać",
+      "powodować",
+      "narzucać się"
+    ]
+  },
+  {
+    "id": "i-imposing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imposing",
+    "pronunciation": "ɪmˈpəʊzɪŋ",
+    "meaning": [
+      "imponujący"
+    ]
+  },
+  {
+    "id": "i-imposition",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "imposition",
+    "pronunciation": "ˌɪmpəˈzɪʃən",
+    "meaning": [
+      "narzucenie",
+      "narzucanie się",
+      "nałożenie"
+    ]
+  },
+  {
+    "id": "i-impossible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "impossible",
+    "pronunciation": "ɪmˈpɒsəbəl",
+    "meaning": [
+      "niemożliwy",
+      "beznadziejny"
+    ]
+  },
+  {
+    "id": "i-impostor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "impostor",
+    "pronunciation": "ɪmˈpəʊstə",
+    "meaning": [
+      "oszust"
+    ]
+  },
+  {
+    "id": "i-impotence",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "impotence",
+    "pronunciation": "ˈɪmpətəns",
+    "meaning": [
+      "impotencja"
+    ]
+  },
+  {
+    "id": "i-impotent",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "impotent",
+    "pronunciation": "ˈɪmpətənt",
+    "meaning": [
+      "bezsilny",
+      "impotentny"
+    ]
+  },
+  {
+    "id": "i-impound",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "impound",
+    "pronunciation": "ɪmˈpaʊnd",
+    "meaning": [
+      "rekwirować",
+      "konfiskować",
+      "zajmować"
+    ]
+  },
+  {
+    "id": "i-impoverish",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "impoverish",
+    "pronunciation": "ɪmˈpɒvərɪʃ",
+    "meaning": [
+      "zubażać"
+    ]
+  },
+  {
+    "id": "i-impracticable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "impracticable",
+    "pronunciation": "ɪmˈpræktɪkəbəl",
+    "meaning": [
+      "niewykonalny"
+    ]
+  },
+  {
+    "id": "i-impractical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impractical",
+    "pronunciation": "ɪmˈpræktɪkəl",
+    "meaning": [
+      "niepraktyczny"
+    ]
+  },
+  {
+    "id": "i-imprecise",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "imprecise",
+    "pronunciation": "ˌɪmprɪˈsaɪz",
+    "meaning": [
+      "niedokładny"
+    ]
+  },
+  {
+    "id": "i-impregnable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "impregnable",
+    "pronunciation": "ɪmˈpregnəbəl",
+    "meaning": [
+      "nie do zdobycia",
+      "nieprzenikniony"
+    ]
+  },
+  {
+    "id": "i-impregnate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "impregnate",
+    "pronunciation": "ˈɪmpregneɪt",
+    "meaning": [
+      "impregnować"
+    ]
+  },
+  {
+    "id": "i-impresario",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "impresario",
+    "pronunciation": "ˌɪmprɪˈsɑ:rɪəʊ",
+    "meaning": [
+      "impresario"
+    ]
+  },
+  {
+    "id": "i-impress",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "impress",
+    "pronunciation": "ɪmˈpress",
+    "meaning": [
+      "wywierać wrażenie",
+      "dawać do zrozumienia"
+    ]
+  },
+  {
+    "id": "i-impression",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "impression",
+    "pronunciation": "ɪmˈpreʃən",
+    "meaning": [
+      "wrażenie",
+      "satyryczne przedstawienie"
+    ]
+  },
+  {
+    "id": "i-impressionable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impressionable",
+    "pronunciation": "ɪmˈpreʃənəbəl",
+    "meaning": [
+      "łatwo ulegający wpływom"
+    ]
+  },
+  {
+    "id": "i-impressive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "impressive",
+    "pronunciation": "ɪmˈpresɪv",
+    "meaning": [
+      "robiący wrażenie"
+    ]
+  },
+  {
+    "id": "i-imprint",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "imprint",
+    "pronunciation": "/ˈɪmprɪnt/",
+    "meaning": [
+      "znamię",
+      "odcisk",
+      "wrywać się",
+      "odciskać"
+    ]
+  },
+  {
+    "id": "i-imprison",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "imprison",
+    "pronunciation": "ɪmˈprɪzən",
+    "meaning": [
+      "uwięzić"
+    ]
+  },
+  {
+    "id": "i-imprisonment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "imprisonment",
+    "pronunciation": "ɪmˈprɪzənmənt",
+    "meaning": [
+      "uwięzienie",
+      "więzienie"
+    ]
+  },
+  {
+    "id": "i-improbable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "improbable",
+    "pronunciation": "ɪmˈprɒbəbəl",
+    "meaning": [
+      "nieprawdopodobny"
+    ]
+  },
+  {
+    "id": "i-impromptu",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "impromptu",
+    "pronunciation": "ɪmˈprɒmtju:",
+    "meaning": [
+      "improwizowany"
+    ]
+  },
+  {
+    "id": "i-improper",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "improper",
+    "pronunciation": "ˌɪmˈprɒpə",
+    "meaning": [
+      "niewłaściwy"
+    ]
+  },
+  {
+    "id": "i-improve",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "improve",
+    "pronunciation": "ɪmˈpru:v",
+    "meaning": [
+      "poprawiać się",
+      "poprawiać",
+      "polepszać się",
+      "polepszać",
+      "doskonalić",
+      "ulepszać"
+    ]
+  },
+  {
+    "id": "i-improvement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "improvement",
+    "pronunciation": "ɪmˈpru:vmənt",
+    "meaning": [
+      "polepszenie",
+      "ulepszenie"
+    ]
+  },
+  {
+    "id": "i-improvisation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "improvisation",
+    "pronunciation": "ˌɪmprəvaɪˈzeɪʃən",
+    "meaning": [
+      "improwizacja"
+    ]
+  },
+  {
+    "id": "i-improvise",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "improvise",
+    "pronunciation": "ˈɪmprəvaɪz",
+    "meaning": [
+      "improwizować"
+    ]
+  },
+  {
+    "id": "i-imprudent",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "imprudent",
+    "pronunciation": "ˌɪmˈpru:dənt",
+    "meaning": [
+      "nierozważny"
+    ]
+  },
+  {
+    "id": "i-impudence",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "impudence",
+    "pronunciation": "ˈɪmpjədəns",
+    "meaning": [
+      "bezczelność"
+    ]
+  },
+  {
+    "id": "i-impudent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impudent",
+    "pronunciation": "ˈɪmpjədənt",
+    "meaning": [
+      "bezczelny"
+    ]
+  },
+  {
+    "id": "i-impulse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "impulse",
+    "pronunciation": "ˈɪmpʌls",
+    "meaning": [
+      "impuls"
+    ]
+  },
+  {
+    "id": "i-impulsive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "impulsive",
+    "pronunciation": "ɪmˈpʌlsɪv",
+    "meaning": [
+      "impulsywny",
+      "żywiołowy"
+    ]
+  },
+  {
+    "id": "i-impunity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "impunity",
+    "pronunciation": "ɪmˈpju:nɪty",
+    "meaning": [
+      "bezkarność"
+    ]
+  },
+  {
+    "id": "i-impure",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "impure",
+    "pronunciation": "ɪmˈpjʊə",
+    "meaning": [
+      "nieczysty"
+    ]
+  },
+  {
+    "id": "i-impurity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "impurity",
+    "pronunciation": "ɪmˈpjʊərɪtɪ",
+    "meaning": [
+      "zanieczyszczenie"
+    ]
+  },
+  {
+    "id": "i-inability",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inability",
+    "pronunciation": "ˌɪnəˈbɪlɪtɪ",
+    "meaning": [
+      "niemożność"
+    ]
+  },
+  {
+    "id": "i-inaccessible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inaccessible",
+    "pronunciation": "ˌɪnəˈksesəbəl",
+    "meaning": [
+      "niedostępny"
+    ]
+  },
+  {
+    "id": "i-inaccuracy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inaccuracy",
+    "pronunciation": "ɪnˈækjərəsɪ",
+    "meaning": [
+      "niedokładność",
+      "nieścisłość"
+    ]
+  },
+  {
+    "id": "i-inaccurate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inaccurate",
+    "pronunciation": "ɪnˈækjərət",
+    "meaning": [
+      "niedokładny",
+      "nieścisły"
+    ]
+  },
+  {
+    "id": "i-inaction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inaction",
+    "pronunciation": "ɪnˈækʃən",
+    "meaning": [
+      "bezczynność"
+    ]
+  },
+  {
+    "id": "i-inactive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inactive",
+    "pronunciation": "ɪnˈæktɪv",
+    "meaning": [
+      "bezczynny"
+    ]
+  },
+  {
+    "id": "i-inadequacy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inadequacy",
+    "pronunciation": "ɪnˈædɪkwəsɪ",
+    "meaning": [
+      "niski poziom",
+      "nieudolność",
+      "brak"
+    ]
+  },
+  {
+    "id": "i-inadequate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inadequate",
+    "pronunciation": "ɪnˈædɪkwət",
+    "meaning": [
+      "nieodpowiedni",
+      "niewystarczający"
+    ]
+  },
+  {
+    "id": "i-inadvertent",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inadvertent",
+    "pronunciation": "ˌɪnədˈvɜ:tənt(lɪ)",
+    "meaning": [
+      "niechcący"
+    ]
+  },
+  {
+    "id": "i-inadvertently",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "inadvertently",
+    "pronunciation": "ˌɪnədˈvɜ:tənt(lɪ)",
+    "meaning": [
+      "niechcący"
+    ]
+  },
+  {
+    "id": "i-inadvisable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inadvisable",
+    "pronunciation": "ˌɪnədˈvaɪzəbəl",
+    "meaning": [
+      "nierozsądny"
+    ]
+  },
+  {
+    "id": "i-inalienable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inalienable",
+    "pronunciation": "ɪnˈeɪljənəbəl",
+    "meaning": [
+      "niezbywalny"
+    ]
+  },
+  {
+    "id": "i-inane",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inane",
+    "pronunciation": "ɪnˈeɪn",
+    "meaning": [
+      "niemądry",
+      "bezmyślny"
+    ]
+  },
+  {
+    "id": "i-inanimate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inanimate",
+    "pronunciation": "ɪnˈænɪmət",
+    "meaning": [
+      "nieżywotny"
+    ]
+  },
+  {
+    "id": "i-inapplicable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inapplicable",
+    "pronunciation": "ˌɪnˈæplɪkəbəl",
+    "meaning": [
+      "nieodpowiedni"
+    ]
+  },
+  {
+    "id": "i-inappropriate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inappropriate",
+    "pronunciation": "ˌɪnəˈprəʊprɪət",
+    "meaning": [
+      "nieodpowiedni"
+    ]
+  },
+  {
+    "id": "i-inarticulate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inarticulate",
+    "pronunciation": "ˌɪnɑ:ˈtɪkjələt",
+    "meaning": [
+      "nieartykułowany"
+    ]
+  },
+  {
+    "id": "i-inasmuch_as",
+    "level": "C1",
+    "partOfSpeech": "conjunction",
+    "word": "inasmuch as",
+    "pronunciation": "ˌɪnəzˈmʌʧ",
+    "meaning": [
+      "na tyle, na ile",
+      "jako że"
+    ]
+  },
+  {
+    "id": "i-inattention",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inattention",
+    "pronunciation": "ˌɪnəˈtenʃən",
+    "meaning": [
+      "nieuwaga"
+    ]
+  },
+  {
+    "id": "i-inattentive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inattentive",
+    "pronunciation": "ˌɪnəˈtentɪv",
+    "meaning": [
+      "nieuważny"
+    ]
+  },
+  {
+    "id": "i-inaudible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inaudible",
+    "pronunciation": "ɪnˈɔ:dəbəl",
+    "meaning": [
+      "niesłyszalny"
+    ]
+  },
+  {
+    "id": "i-inaugural",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "inaugural",
+    "pronunciation": "ɪnˈɔ:gjərəl",
+    "meaning": [
+      "inauguracyjny"
+    ]
+  },
+  {
+    "id": "i-inaugurate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "inaugurate",
+    "pronunciation": "ɪnˈɔ:gjəreɪt",
+    "meaning": [
+      "inaugurować",
+      "wprowadzać na stanowisko",
+      "wprowadzać"
+    ]
+  },
+  {
+    "id": "i-inauguration",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "inauguration",
+    "pronunciation": "ɪnˌɔ:gjəˈreɪʃən",
+    "meaning": [
+      "inauguracja",
+      "wprowadzenie na stanowisko",
+      "wprowadzenie"
+    ]
+  },
+  {
+    "id": "i-inborn",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inborn",
+    "pronunciation": "ˌɪmˈbɔ:n",
+    "meaning": [
+      "wrodzony"
+    ]
+  },
+  {
+    "id": "i-inbred",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "inbred",
+    "pronunciation": "ˌɪmˈbred",
+    "meaning": [
+      "wrodzony",
+      "zakorzeniony",
+      "blisko spokrewniony"
+    ]
+  },
+  {
+    "id": "i-inbuilt",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inbuilt",
+    "pronunciation": "ˌɪmˈbɪlt",
+    "meaning": [
+      "wszczepiony",
+      "wbudowany"
+    ]
+  },
+  {
+    "id": "i-inc.",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inc.",
+    "pronunciation": "/ˌɪnˈkɒrpəreɪtɪd/",
+    "meaning": [
+      "o osobowości prawnej"
+    ]
+  },
+  {
+    "id": "i-incalculable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "incalculable",
+    "pronunciation": "ɪŋˈkælkjələbəl",
+    "meaning": [
+      "nieobliczalny"
+    ]
+  },
+  {
+    "id": "i-incapable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "incapable",
+    "pronunciation": "ɪŋˈkeɪpəbəl",
+    "meaning": [
+      "niezdolny",
+      "niezdatny do niczego",
+      "niezdatny"
+    ]
+  },
+  {
+    "id": "i-incapacitate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "incapacitate",
+    "pronunciation": "ˌɪŋkəˈpæsɪteɪt",
+    "meaning": [
+      "obezwładniać",
+      "uniemożliwiać"
+    ]
+  },
+  {
+    "id": "i-incapacity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "incapacity",
+    "pronunciation": "ˌɪŋkəˈpæsɪtɪ",
+    "meaning": [
+      "niezdolność"
+    ]
+  },
+  {
+    "id": "i-incarcerate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "incarcerate",
+    "pronunciation": "ɪŋˈkɑ:səreɪt",
+    "meaning": [
+      "uwięzić"
+    ]
+  },
+  {
+    "id": "i-incarnation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "incarnation",
+    "pronunciation": "ˌɪŋkɑ:ˈneɪʃən",
+    "meaning": [
+      "wcielenie"
+    ]
+  },
+  {
+    "id": "i-incautious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incautious",
+    "pronunciation": "ɪŋˈkɔ:ʃəs",
+    "meaning": [
+      "nieostrożny"
+    ]
+  },
+  {
+    "id": "i-incendiary",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "incendiary",
+    "pronunciation": "ɪnˈsendjərɪ",
+    "meaning": [
+      "zapalający"
+    ]
+  },
+  {
+    "id": "i-incense",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "incense",
+    "pronunciation": "/ˈɪnsens/",
+    "meaning": [
+      "kadzidło",
+      "rozjuszać"
+    ]
+  },
+  {
+    "id": "i-incentive",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "incentive",
+    "pronunciation": "ɪnˈsentɪv",
+    "meaning": [
+      "bodziec"
+    ]
+  },
+  {
+    "id": "i-incessant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incessant",
+    "pronunciation": "ɪnˈsesənt",
+    "meaning": [
+      "nieustanny"
+    ]
+  },
+  {
+    "id": "i-incest",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "incest",
+    "pronunciation": "ˈɪnsest",
+    "meaning": [
+      "kazirodztwo"
+    ]
+  },
+  {
+    "id": "i-incestuous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "incestuous",
+    "pronunciation": "ɪnˈsestʊəs",
+    "meaning": [
+      "kazirodczy"
+    ]
+  },
+  {
+    "id": "i-inch",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "inch",
+    "pronunciation": "ɪnʧ",
+    "meaning": [
+      "cal",
+      "posuwać się ostrożnie",
+      "posuwać się"
+    ]
+  },
+  {
+    "id": "i-incidence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "incidence",
+    "pronunciation": "ˈɪnsɪdəns",
+    "meaning": [
+      "zasięg występowania",
+      "zasięg"
+    ]
+  },
+  {
+    "id": "i-incident",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "incident",
+    "pronunciation": "ˈɪnsɪdənt",
+    "meaning": [
+      "incydent"
+    ]
+  },
+  {
+    "id": "i-incidental",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incidental",
+    "pronunciation": "ɪnsɪˈdentəl",
+    "meaning": [
+      "uboczny",
+      "towarzyszący"
+    ]
+  },
+  {
+    "id": "i-incidentally",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "incidentally",
+    "pronunciation": "ˌɪnsɪˈdentəlɪ",
+    "meaning": [
+      "przypadkowo",
+      "tak w ogóle"
+    ]
+  },
+  {
+    "id": "i-incinerator",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "incinerator",
+    "pronunciation": "ɪnˈsɪnəreɪtə",
+    "meaning": [
+      "piec do spalania śmieci"
+    ]
+  },
+  {
+    "id": "i-incision",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "incision",
+    "pronunciation": "ɪnˈsɪʒən",
+    "meaning": [
+      "nacięcie"
+    ]
+  },
+  {
+    "id": "i-incisive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incisive",
+    "pronunciation": "ɪnˈsaɪsɪv",
+    "meaning": [
+      "cięty"
+    ]
+  },
+  {
+    "id": "i-incite",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "incite",
+    "pronunciation": "ɪnˈsaɪt",
+    "meaning": [
+      "pobudzać",
+      "podżegać"
+    ]
+  },
+  {
+    "id": "i-inclination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inclination",
+    "pronunciation": "ˌɪŋklɪˈneɪʃən",
+    "meaning": [
+      "inklinacja",
+      "skłonność"
+    ]
+  },
+  {
+    "id": "i-incline",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "incline",
+    "pronunciation": "/ɪnˈklaɪn/",
+    "meaning": [
+      "stok",
+      "pochyłość",
+      "skłaniać",
+      "pochylać"
+    ]
+  },
+  {
+    "id": "i-inclined",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inclined",
+    "pronunciation": "ɪŋˈklaɪnd",
+    "meaning": [
+      "skłonny",
+      "nachylony",
+      "opadający"
+    ]
+  },
+  {
+    "id": "i-include",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "include",
+    "pronunciation": "ɪŋˈklu:d",
+    "meaning": [
+      "zawierać",
+      "włączać"
+    ]
+  },
+  {
+    "id": "i-included",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "included",
+    "pronunciation": "ɪŋˈklu:dɪd",
+    "meaning": [
+      "włączając",
+      "włącznie"
+    ]
+  },
+  {
+    "id": "i-including",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "including",
+    "pronunciation": "ɪŋˈklu:dɪŋ",
+    "meaning": [
+      "włączając",
+      "włącznie"
+    ]
+  },
+  {
+    "id": "i-inclusion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inclusion",
+    "pronunciation": "ɪŋˈklu:ʒən",
+    "meaning": [
+      "włączenie"
+    ]
+  },
+  {
+    "id": "i-inclusive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inclusive",
+    "pronunciation": "ɪŋˈklu:sɪv",
+    "meaning": [
+      "włącznie",
+      "globalny",
+      "ryczałtowy"
+    ]
+  },
+  {
+    "id": "i-incoherent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incoherent",
+    "pronunciation": "ˌɪŋkəʊˈhɪərənt",
+    "meaning": [
+      "niespójny"
+    ]
+  },
+  {
+    "id": "i-income",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "income",
+    "pronunciation": "ˈɪŋkʌm",
+    "meaning": [
+      "dochód",
+      "dochody"
+    ]
+  },
+  {
+    "id": "i-incoming",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "incoming",
+    "pronunciation": "ˈɪŋkʌmɪŋ",
+    "meaning": [
+      "nadchodzący",
+      "przybywający",
+      "wstępujący",
+      "następujący",
+      "przypływ"
+    ]
+  },
+  {
+    "id": "i-incomparable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incomparable",
+    "pronunciation": "ɪŋˈkɒmpərəbəl",
+    "meaning": [
+      "niezrównany"
+    ]
+  },
+  {
+    "id": "i-incompatible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incompatible",
+    "pronunciation": "ˌɪŋkəmˈpætəbəl",
+    "meaning": [
+      "niezgodny",
+      "niekompatybilny"
+    ]
+  },
+  {
+    "id": "i-incompetent",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "incompetent",
+    "pronunciation": "ɪŋˈkɒmpɪtənt",
+    "meaning": [
+      "niesprawny"
+    ]
+  },
+  {
+    "id": "i-incomplete",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "incomplete",
+    "pronunciation": "ˌɪŋkəmˈpli:t",
+    "meaning": [
+      "niekompletny",
+      "niepełny"
+    ]
+  },
+  {
+    "id": "i-incomprehensible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "incomprehensible",
+    "pronunciation": "ˌɪŋkəmprɪˈhensəbəl",
+    "meaning": [
+      "niepojęty"
+    ]
+  },
+  {
+    "id": "i-incomprehension",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "incomprehension",
+    "pronunciation": "ˌɪŋkəmprɪˈhenʃən",
+    "meaning": [
+      "niezrozumienie",
+      "niepojmowanie"
+    ]
+  },
+  {
+    "id": "i-inconceivable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inconceivable",
+    "pronunciation": "ˈɪŋkənˈsi:vəbəl",
+    "meaning": [
+      "niewyobrażalny"
+    ]
+  },
+  {
+    "id": "i-inconclusive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inconclusive",
+    "pronunciation": "ˌɪŋkənˈklu:sɪv",
+    "meaning": [
+      "nie rozstrzygnięty",
+      "niezakończony",
+      "nie rozstrzygający"
+    ]
+  },
+  {
+    "id": "i-incongruity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "incongruity",
+    "pronunciation": "ˌɪŋkɒŋˈgru:ɪtɪ",
+    "meaning": [
+      "niedostosowanie się",
+      "niedostosowanie",
+      "niedopasowanie"
+    ]
+  },
+  {
+    "id": "i-incongruous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incongruous",
+    "pronunciation": "ɪŋˈkɒŋgru:əs",
+    "meaning": [
+      "nie pasujący",
+      "wyróżniający się"
+    ]
+  },
+  {
+    "id": "i-inconsequential",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inconsequential",
+    "pronunciation": "ˌɪŋkɒnsɪˈkwenʃəl",
+    "meaning": [
+      "bez znaczenia"
+    ]
+  },
+  {
+    "id": "i-inconsiderable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inconsiderable",
+    "pronunciation": "ˌɪŋkənˈsɪdərəbəl",
+    "meaning": [
+      "niepokaźny",
+      "nieznaczny"
+    ]
+  },
+  {
+    "id": "i-inconsiderate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inconsiderate",
+    "pronunciation": "ˌɪŋkenˈsɪdərət",
+    "meaning": [
+      "bezceremonialny",
+      "bez względów"
+    ]
+  },
+  {
+    "id": "i-inconsistency",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inconsistency",
+    "pronunciation": "ˌɪŋkənˈsɪstənsɪ",
+    "meaning": [
+      "niezgodność",
+      "niespójność"
+    ]
+  },
+  {
+    "id": "i-inconsistent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inconsistent",
+    "pronunciation": "ˌɪŋkənˈsɪstənt",
+    "meaning": [
+      "niekonsekwentny",
+      "sprzeczny ze sobą",
+      "sprzeczny",
+      "niespójny",
+      "niezgodny"
+    ]
+  },
+  {
+    "id": "i-inconspicuous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inconspicuous",
+    "pronunciation": "ˌɪŋkənˈspɪkju:əs",
+    "meaning": [
+      "niezauważalny",
+      "nie rzucający się w oczy"
+    ]
+  },
+  {
+    "id": "i-incontinence",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "incontinence",
+    "pronunciation": "ɪŋˈkɒntɪnens",
+    "meaning": [
+      "nieutrzymywanie"
+    ]
+  },
+  {
+    "id": "i-inconvenience",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "inconvenience",
+    "pronunciation": "ˌɪŋkənˈvi:njəns",
+    "meaning": [
+      "niedogodność",
+      "niewygoda",
+      "kłopot",
+      "przysparzać niewygód",
+      "przydawać kłopotów"
+    ]
+  },
+  {
+    "id": "i-inconvenient",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inconvenient",
+    "pronunciation": "ˌɪŋkənˈvi:njənt",
+    "meaning": [
+      "niewygodny",
+      "niedogodny"
+    ]
+  },
+  {
+    "id": "i-incorporate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "incorporate",
+    "pronunciation": "ɪŋˈkɔ:pəreɪt",
+    "meaning": [
+      "wcielać",
+      "włączać",
+      "posiadać"
+    ]
+  },
+  {
+    "id": "i-incorporated",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "incorporated",
+    "pronunciation": "ɪŋˈkɔ:pəreɪtɪd",
+    "meaning": [
+      "o osobowości prawnej"
+    ]
+  },
+  {
+    "id": "i-incorrect",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "incorrect",
+    "pronunciation": "ˌɪŋkəˈrekt",
+    "meaning": [
+      "niepoprawny",
+      "niewłaściwy"
+    ]
+  },
+  {
+    "id": "i-incorrigible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incorrigible",
+    "pronunciation": "ɪŋˈkɒrɪʤəbəl",
+    "meaning": [
+      "niepoprawny"
+    ]
+  },
+  {
+    "id": "i-incorruptible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "incorruptible",
+    "pronunciation": "ɪŋkəˈrʌptəbəl",
+    "meaning": [
+      "nieprzekupny"
+    ]
+  },
+  {
+    "id": "i-increase",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "increase",
+    "pronunciation": "/ɪnˈkriːs/",
+    "meaning": [
+      "wzrastać",
+      "zwiększać się",
+      "zwiększać",
+      "wzrost",
+      "hossa"
+    ]
+  },
+  {
+    "id": "i-increasingly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "increasingly",
+    "pronunciation": "ɪŋˈkri:sɪŋlɪ",
+    "meaning": [
+      "coraz bardziej"
+    ]
+  },
+  {
+    "id": "i-incredible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "incredible",
+    "pronunciation": "ɪŋˈkredəbəl",
+    "meaning": [
+      "niewiarygodny",
+      "niebywały",
+      "nieprawdopodobny"
+    ]
+  },
+  {
+    "id": "i-incredulous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incredulous",
+    "pronunciation": "ɪŋˈkredjələs",
+    "meaning": [
+      "niedowierzający",
+      "sceptyczny"
+    ]
+  },
+  {
+    "id": "i-increment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "increment",
+    "pronunciation": "ˈɪŋkrəmənt",
+    "meaning": [
+      "premia",
+      "dodatek płacowy",
+      "dodatek"
+    ]
+  },
+  {
+    "id": "i-incriminate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "incriminate",
+    "pronunciation": "ɪŋˈkrɪmɪneɪt",
+    "meaning": [
+      "inkryminować",
+      "obciążać"
+    ]
+  },
+  {
+    "id": "i-incubate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "incubate",
+    "pronunciation": "ˈɪŋkjʊbeɪt",
+    "meaning": [
+      "wysiadywać",
+      "inkubować się",
+      "inkubować"
+    ]
+  },
+  {
+    "id": "i-incubator",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "incubator",
+    "pronunciation": "ˈɪŋkjʊbeɪtə",
+    "meaning": [
+      "inkubator"
+    ]
+  },
+  {
+    "id": "i-incur",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "incur",
+    "pronunciation": "ɪŋˈkɜ:",
+    "meaning": [
+      "zaciągać",
+      "robić",
+      "narażać się"
+    ]
+  },
+  {
+    "id": "i-incurable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "incurable",
+    "pronunciation": "ɪŋˈkjʊərəbəl",
+    "meaning": [
+      "nieuleczalny",
+      "niepoprawny"
+    ]
+  },
+  {
+    "id": "i-incursion",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "incursion",
+    "pronunciation": "ɪŋˈkɜ:ʃən",
+    "meaning": [
+      "wypad",
+      "wtargnięcie"
+    ]
+  },
+  {
+    "id": "i-indebted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indebted",
+    "pronunciation": "ɪnˈdetɪd",
+    "meaning": [
+      "zobowiązany",
+      "zadłużony"
+    ]
+  },
+  {
+    "id": "i-indecency",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "indecency",
+    "pronunciation": "ɪnˈdi:sənsɪ",
+    "meaning": [
+      "nieprzyzwoitość"
+    ]
+  },
+  {
+    "id": "i-indecent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indecent",
+    "pronunciation": "ɪnˈdi:sənt",
+    "meaning": [
+      "nieprzywoity",
+      "niegodny",
+      "uwłaczający"
+    ]
+  },
+  {
+    "id": "i-indecision",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "indecision",
+    "pronunciation": "ɪndɪˈsɪʒən",
+    "meaning": [
+      "niezdecydowanie",
+      "niepewność"
+    ]
+  },
+  {
+    "id": "i-indecisive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "indecisive",
+    "pronunciation": "ˌɪndɪˈsaɪsɪv",
+    "meaning": [
+      "niezdecydowany"
+    ]
+  },
+  {
+    "id": "i-indeed",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "indeed",
+    "pronunciation": "ɪnˈdi:d",
+    "meaning": [
+      "faktycznie",
+      "naprawdę",
+      "doprawdy"
+    ]
+  },
+  {
+    "id": "i-indefinable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "indefinable",
+    "pronunciation": "ˌɪndɪˈfaɪnəbəl",
+    "meaning": [
+      "nieuchwytny",
+      "nieokreślony"
+    ]
+  },
+  {
+    "id": "i-indefinite",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indefinite",
+    "pronunciation": "ɪnˈdefɪnɪt",
+    "meaning": [
+      "nieokreślony",
+      "przedimek nieokreślony"
+    ]
+  },
+  {
+    "id": "i-indefinitely",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "indefinitely",
+    "pronunciation": "ɪnˈdefɪnɪtlɪ",
+    "meaning": [
+      "aż do odwołania"
+    ]
+  },
+  {
+    "id": "i-indelible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indelible",
+    "pronunciation": "ɪnˈdeləbəl",
+    "meaning": [
+      "niezmywalny",
+      "niezatarty"
+    ]
+  },
+  {
+    "id": "i-indemnify",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "indemnify",
+    "pronunciation": "ɪnˈdemnɪfaɪ",
+    "meaning": [
+      "płacić odszkodowanie"
+    ]
+  },
+  {
+    "id": "i-indent",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "indent",
+    "pronunciation": "ɪnˈdent",
+    "meaning": [
+      "obijać",
+      "robić wgłębienie",
+      "wcinać"
+    ]
+  },
+  {
+    "id": "i-independence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "independence",
+    "pronunciation": "ˌɪndɪˈpendəns",
+    "meaning": [
+      "niezależność",
+      "niepodległość"
+    ]
+  },
+  {
+    "id": "i-independent",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "independent",
+    "pronunciation": "ˌɪndɪˈpendənt",
+    "meaning": [
+      "niezależny",
+      "niepodległy",
+      "prywatny"
+    ]
+  },
+  {
+    "id": "i-indescribable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indescribable",
+    "pronunciation": "ˌɪndɪˈskraɪbəbəl",
+    "meaning": [
+      "nieopisany"
+    ]
+  },
+  {
+    "id": "i-indestructible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indestructible",
+    "pronunciation": "ˌɪndɪˈstrʌktəbəl",
+    "meaning": [
+      "niezniszczalny"
+    ]
+  },
+  {
+    "id": "i-indeterminate",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "indeterminate",
+    "pronunciation": "ˌɪndɪˈtɜ:mɪnət",
+    "meaning": [
+      "nieokreślony"
+    ]
+  },
+  {
+    "id": "i-index",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "index",
+    "pronunciation": "ˈɪndeks",
+    "meaning": [
+      "indeks",
+      "indeksować",
+      "palec wskazujący"
+    ]
+  },
+  {
+    "id": "i-India",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "India",
+    "pronunciation": "ˈɪndɪə",
+    "meaning": [
+      "Indie"
+    ]
+  },
+  {
+    "id": "i-Indian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Indian",
+    "pronunciation": "ˈɪndɪən",
+    "meaning": [
+      "indyjski",
+      "indiański",
+      "Hindus",
+      "Indianin"
+    ]
+  },
+  {
+    "id": "i-Indiana",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Indiana",
+    "pronunciation": "ɪndɪˈænə",
+    "meaning": [
+      "Indiana"
+    ]
+  },
+  {
+    "id": "i-Indianian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Indianian",
+    "pronunciation": "ɪndɪˈænən",
+    "meaning": [
+      "ze stanu Indiana"
+    ]
+  },
+  {
+    "id": "i-indicate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "indicate",
+    "pronunciation": "ˈɪndɪkeɪt",
+    "meaning": [
+      "wskazywać",
+      "nadmieniać",
+      "sygnalizować"
+    ]
+  },
+  {
+    "id": "i-indication",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "indication",
+    "pronunciation": "ˌɪndɪˈkeɪʃən",
+    "meaning": [
+      "znak"
+    ]
+  },
+  {
+    "id": "i-indicative",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "indicative",
+    "pronunciation": "ɪnˈdɪkətɪv",
+    "meaning": [
+      "wskazujący",
+      "tryb oznajmujący"
+    ]
+  },
+  {
+    "id": "i-indicator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "indicator",
+    "pronunciation": "ˈɪndɪkeɪtə",
+    "meaning": [
+      "wskaźnik",
+      "kierunkowskaz"
+    ]
+  },
+  {
+    "id": "i-indict",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "indict",
+    "pronunciation": "ɪnˈdaɪt",
+    "meaning": [
+      "postawić w stan oskarżenia"
+    ]
+  },
+  {
+    "id": "i-indictment",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "indictment",
+    "pronunciation": "ɪnˈdaɪtmənt",
+    "meaning": [
+      "oskarżenie"
+    ]
+  },
+  {
+    "id": "i-indifferent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indifferent",
+    "pronunciation": "ɪnˈdɪfərənt",
+    "meaning": [
+      "obojętny",
+      "mierny",
+      "przeciętny"
+    ]
+  },
+  {
+    "id": "i-indigenous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indigenous",
+    "pronunciation": "ɪnˈdɪʤənəs",
+    "meaning": [
+      "rodzimy",
+      "miejscowy"
+    ]
+  },
+  {
+    "id": "i-indigestible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "indigestible",
+    "pronunciation": "ˌɪndɪˈʤestəbəl",
+    "meaning": [
+      "niestrawny"
+    ]
+  },
+  {
+    "id": "i-indigestion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "indigestion",
+    "pronunciation": "ˌɪndɪˈʤesʧən",
+    "meaning": [
+      "niestrawność"
+    ]
+  },
+  {
+    "id": "i-indignant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indignant",
+    "pronunciation": "ɪnˈdɪgnənt",
+    "meaning": [
+      "oburzony",
+      "wzburzony"
+    ]
+  },
+  {
+    "id": "i-indignation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "indignation",
+    "pronunciation": "/ˌɪndɪɡˈneɪʃn/",
+    "meaning": [
+      "oburzenie",
+      "wzburzenie"
+    ]
+  },
+  {
+    "id": "i-indignity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "indignity",
+    "pronunciation": "ɪnˈdɪgnɪtɪ",
+    "meaning": [
+      "zniewaga",
+      "obraza"
+    ]
+  },
+  {
+    "id": "i-indirect",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "indirect",
+    "pronunciation": "ˌɪndəˈrekt",
+    "meaning": [
+      "pośredni",
+      "okrężny",
+      "nie bezpośredni",
+      "dopełnienie dalsze"
+    ]
+  },
+  {
+    "id": "i-indiscreet",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "indiscreet",
+    "pronunciation": "ˌɪndɪˈskri:t",
+    "meaning": [
+      "niedyskretny"
+    ]
+  },
+  {
+    "id": "i-indiscretion",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "indiscretion",
+    "pronunciation": "ˌɪndɪˈskreʃən",
+    "meaning": [
+      "niedyskrecja"
+    ]
+  },
+  {
+    "id": "i-indiscriminate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indiscriminate",
+    "pronunciation": "ˌɪndɪˈskrɪmɪnət",
+    "meaning": [
+      "niewybredny",
+      "ogólny",
+      "bez wyboru"
+    ]
+  },
+  {
+    "id": "i-indispensable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indispensable",
+    "pronunciation": "ˌɪndɪˈspensəbəl",
+    "meaning": [
+      "nieodzowny"
+    ]
+  },
+  {
+    "id": "i-indisputable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indisputable",
+    "pronunciation": "ˌɪndɪˈspju:təbəl",
+    "meaning": [
+      "niezaprzeczalny"
+    ]
+  },
+  {
+    "id": "i-indistinct",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indistinct",
+    "pronunciation": "ˌɪndɪˈstɪŋkt",
+    "meaning": [
+      "niewyraźny"
+    ]
+  },
+  {
+    "id": "i-indistinguishable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "indistinguishable",
+    "pronunciation": "ˌɪndɪˈstɪŋgwɪʃəbəl",
+    "meaning": [
+      "nieodróżnialny"
+    ]
+  },
+  {
+    "id": "i-individual",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "individual",
+    "pronunciation": "ˌɪndɪˈvɪʤʊəl",
+    "meaning": [
+      "indywidualny",
+      "osobisty",
+      "jednostka",
+      "osobnik",
+      "jednostkowy",
+      "osobniczy"
+    ]
+  },
+  {
+    "id": "i-individualist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "individualist",
+    "pronunciation": "ˌɪndɪˈvɪʤʊəlɪst",
+    "meaning": [
+      "indywidualista"
+    ]
+  },
+  {
+    "id": "i-individuality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "individuality",
+    "pronunciation": "ˌɪndɪvɪʤu:ˈælɪtɪ",
+    "meaning": [
+      "indywidualność"
+    ]
+  },
+  {
+    "id": "i-individually",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "individually",
+    "pronunciation": "ˌɪndɪˈvɪʤʊəlɪ",
+    "meaning": [
+      "indywidualnie",
+      "pojedynczo"
+    ]
+  },
+  {
+    "id": "i-indivisible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indivisible",
+    "pronunciation": "ˌɪndɪˈvɪzəbəl",
+    "meaning": [
+      "niepodzielny"
+    ]
+  },
+  {
+    "id": "i-indoctrinate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "indoctrinate",
+    "pronunciation": "ɪnˈdɒktrɪneɪt",
+    "meaning": [
+      "indoktrynować"
+    ]
+  },
+  {
+    "id": "i-indolent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indolent",
+    "pronunciation": "ˈɪndələnt",
+    "meaning": [
+      "leniwy"
+    ]
+  },
+  {
+    "id": "i-Indonesia",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Indonesia",
+    "pronunciation": "ˌɪndəˈni:zɪə",
+    "meaning": [
+      "Indonezja"
+    ]
+  },
+  {
+    "id": "i-Indonesian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Indonesian",
+    "pronunciation": "ˌɪndəˈni:zɪən",
+    "meaning": [
+      "indonezyjski",
+      "Indonezyjczyk"
+    ]
+  },
+  {
+    "id": "i-indoor",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "indoor",
+    "pronunciation": "ˈɪndɔ:",
+    "meaning": [
+      "pokojowy",
+      "domowy",
+      "pod przykryciem"
+    ]
+  },
+  {
+    "id": "i-indoors",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "indoors",
+    "pronunciation": "ˌɪnˈdɔ:z",
+    "meaning": [
+      "wewnątrz"
+    ]
+  },
+  {
+    "id": "i-indubitable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "indubitable",
+    "pronunciation": "ɪnˈdju:bɪtəbəl",
+    "meaning": [
+      "niezaprzeczalny"
+    ]
+  },
+  {
+    "id": "i-induce",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "induce",
+    "pronunciation": "ɪnˈdju:s",
+    "meaning": [
+      "wywoływać",
+      "zachęcać",
+      "skłaniać"
+    ]
+  },
+  {
+    "id": "i-inducement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inducement",
+    "pronunciation": "ɪnˈdju:səmənt",
+    "meaning": [
+      "zachęta"
+    ]
+  },
+  {
+    "id": "i-indulge",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "indulge",
+    "pronunciation": "ɪnˈdʌlʤ",
+    "meaning": [
+      "oddawać się",
+      "dogadzać",
+      "spełniać"
+    ]
+  },
+  {
+    "id": "i-indulgence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "indulgence",
+    "pronunciation": "ɪnˈdʌlʤəns",
+    "meaning": [
+      "pobłażliwość",
+      "dogadzanie sobie",
+      "dogadzanie",
+      "słabość",
+      "luksus",
+      "oddanie",
+      "zaangażowanie"
+    ]
+  },
+  {
+    "id": "i-indulgent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "indulgent",
+    "pronunciation": "ɪnˈdʌlʤənt",
+    "meaning": [
+      "pobłażliwy"
+    ]
+  },
+  {
+    "id": "i-industrial",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "industrial",
+    "pronunciation": "ɪnˈdʌstrɪəl",
+    "meaning": [
+      "przemysłowy",
+      "zindustrializowany",
+      "robotniczy"
+    ]
+  },
+  {
+    "id": "i-industrialist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "industrialist",
+    "pronunciation": "ɪnˈdʌstrɪəlɪst",
+    "meaning": [
+      "przemysłowiec"
+    ]
+  },
+  {
+    "id": "i-industrialization",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "industrialization",
+    "pronunciation": "ɪnˌdʌstrɪəlaɪˈzeɪʃən",
+    "meaning": [
+      "industrializacja"
+    ]
+  },
+  {
+    "id": "i-industrialize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "industrialize",
+    "pronunciation": "ɪnˈdʌstrɪəlaɪz",
+    "meaning": [
+      "industrializować",
+      "uprzemysławiać"
+    ]
+  },
+  {
+    "id": "i-industrious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "industrious",
+    "pronunciation": "ɪnˈdʌstrɪəs",
+    "meaning": [
+      "pracowity"
+    ]
+  },
+  {
+    "id": "i-industry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "industry",
+    "pronunciation": "ˈɪndəstrɪ",
+    "meaning": [
+      "przemysł",
+      "pracowitość"
+    ]
+  },
+  {
+    "id": "i-inedible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inedible",
+    "pronunciation": "ɪnˈedɪbəl",
+    "meaning": [
+      "niejadalny"
+    ]
+  },
+  {
+    "id": "i-ineffective",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ineffective",
+    "pronunciation": "ˌɪnɪˈfektɪv",
+    "meaning": [
+      "nieskuteczny"
+    ]
+  },
+  {
+    "id": "i-ineffectual",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ineffectual",
+    "pronunciation": "ˌɪnɪˈfekʧʊəl",
+    "meaning": [
+      "nieefektywny"
+    ]
+  },
+  {
+    "id": "i-inefficiency",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inefficiency",
+    "pronunciation": "ˌɪnɪˈfɪʃənsɪ",
+    "meaning": [
+      "niesprawność",
+      "nieefektywność"
+    ]
+  },
+  {
+    "id": "i-inefficient",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inefficient",
+    "pronunciation": "ˌɪnɪˈfɪʃənt",
+    "meaning": [
+      "niewydajny",
+      "nieefektywny",
+      "energiochłonny"
+    ]
+  },
+  {
+    "id": "i-inelegant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inelegant",
+    "pronunciation": "ɪnˈelɪgənt",
+    "meaning": [
+      "nieelegancki"
+    ]
+  },
+  {
+    "id": "i-ineligible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ineligible",
+    "pronunciation": "ɪnˈelɪʤəbəl",
+    "meaning": [
+      "nie nadający się"
+    ]
+  },
+  {
+    "id": "i-inept",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inept",
+    "pronunciation": "ɪnˈept",
+    "meaning": [
+      "niedorzeczny",
+      "nieumiejętny"
+    ]
+  },
+  {
+    "id": "i-inequality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inequality",
+    "pronunciation": "ˌɪnɪˈkwɒlɪtɪ",
+    "meaning": [
+      "nierówność",
+      "niejednakowość",
+      "niedopasowanie"
+    ]
+  },
+  {
+    "id": "i-ineradicable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ineradicable",
+    "pronunciation": "ˌɪnɪˈrædɪkəbəl",
+    "meaning": [
+      "nie do wykorzenienia"
+    ]
+  },
+  {
+    "id": "i-inert",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inert",
+    "pronunciation": "ɪˈnɜ:t",
+    "meaning": [
+      "bezwładny"
+    ]
+  },
+  {
+    "id": "i-inertia",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "inertia",
+    "pronunciation": "ɪˈnɜ:ʃɪə",
+    "meaning": [
+      "apatia"
+    ]
+  },
+  {
+    "id": "i-inescapable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inescapable",
+    "pronunciation": "ˌɪnɪˈskeɪpəbəl",
+    "meaning": [
+      "nieunikniony"
+    ]
+  },
+  {
+    "id": "i-inessential",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inessential",
+    "pronunciation": "ˌɪnɪˈsenʃəl",
+    "meaning": [
+      "nieistotny"
+    ]
+  },
+  {
+    "id": "i-inestimable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inestimable",
+    "pronunciation": "ɪnˈestɪməbəl",
+    "meaning": [
+      "nieoszacowany"
+    ]
+  },
+  {
+    "id": "i-inevitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inevitable",
+    "pronunciation": "ɪnˈevɪtəbəl",
+    "meaning": [
+      "nieuchronny",
+      "nie do uniknięcia"
+    ]
+  },
+  {
+    "id": "i-inexact",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inexact",
+    "pronunciation": "ˌɪnɪgˈzækt",
+    "meaning": [
+      "niedokładny"
+    ]
+  },
+  {
+    "id": "i-inexcusable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inexcusable",
+    "pronunciation": "ˌɪnɪkˈskju:zəbəl",
+    "meaning": [
+      "niewybaczalny",
+      "nieusprawiedliwiony"
+    ]
+  },
+  {
+    "id": "i-inexhaustible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inexhaustible",
+    "pronunciation": "ˌɪnɪgˈzɔ:stəbəl",
+    "meaning": [
+      "niewyczerpany"
+    ]
+  },
+  {
+    "id": "i-inexorable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inexorable",
+    "pronunciation": "ɪnˈeksərəbəl",
+    "meaning": [
+      "nieubłagany"
+    ]
+  },
+  {
+    "id": "i-inexpensive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inexpensive",
+    "pronunciation": "ˌɪnɪkˈspensɪv",
+    "meaning": [
+      "niedrogi"
+    ]
+  },
+  {
+    "id": "i-inexperience",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inexperience",
+    "pronunciation": "ˌɪnɪkˈspɪərɪəns",
+    "meaning": [
+      "brak doświadczenia"
+    ]
+  },
+  {
+    "id": "i-inexperienced",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inexperienced",
+    "pronunciation": "ˌɪnɪkˈspɪərɪənst",
+    "meaning": [
+      "niedoświadczony"
+    ]
+  },
+  {
+    "id": "i-inexplicable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inexplicable",
+    "pronunciation": "ˌɪnɪksˈplɪkəbəl",
+    "meaning": [
+      "niewytłumaczalny"
+    ]
+  },
+  {
+    "id": "i-inexpressible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inexpressible",
+    "pronunciation": "ˌɪnɪksˈpresəbəl",
+    "meaning": [
+      "niewyrażalny"
+    ]
+  },
+  {
+    "id": "i-inextricable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inextricable",
+    "pronunciation": "ˌɪnɪksˈtrɪkəbəl",
+    "meaning": [
+      "nierozerwalny"
+    ]
+  },
+  {
+    "id": "i-infallible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "infallible",
+    "pronunciation": "ɪnˈfælɪbəl",
+    "meaning": [
+      "nieomylny"
+    ]
+  },
+  {
+    "id": "i-infamous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "infamous",
+    "pronunciation": "ˈɪnfəməs",
+    "meaning": [
+      "niesławny",
+      "o złej sławie"
+    ]
+  },
+  {
+    "id": "i-infamy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "infamy",
+    "pronunciation": "ˈɪnfəmɪ",
+    "meaning": [
+      "niesława"
+    ]
+  },
+  {
+    "id": "i-infancy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "infancy",
+    "pronunciation": "ˈɪnfənsɪ",
+    "meaning": [
+      "niemowlęctwo",
+      "dzieciństwo"
+    ]
+  },
+  {
+    "id": "i-infant",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "infant",
+    "pronunciation": "ˈɪnfənt",
+    "meaning": [
+      "dziecko małe",
+      "dziecko",
+      "niemowlę"
+    ]
+  },
+  {
+    "id": "i-infantile",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "infantile",
+    "pronunciation": "ˈɪnfəntaɪl",
+    "meaning": [
+      "dziecięcy",
+      "dziecinny"
+    ]
+  },
+  {
+    "id": "i-infantry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "infantry",
+    "pronunciation": "ˈɪnfəntrɪ",
+    "meaning": [
+      "piechota"
+    ]
+  },
+  {
+    "id": "i-infatuated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "infatuated",
+    "pronunciation": "ɪnˈfæʧʊeɪtɪd",
+    "meaning": [
+      "zadurzony"
+    ]
+  },
+  {
+    "id": "i-infatuation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "infatuation",
+    "pronunciation": "ɪnˌfæʧʊˈeɪʃən",
+    "meaning": [
+      "zadurzenie",
+      "zaślepienie"
+    ]
+  },
+  {
+    "id": "i-infect",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "infect",
+    "pronunciation": "ɪnˈfekt",
+    "meaning": [
+      "infekować",
+      "zarażać"
+    ]
+  },
+  {
+    "id": "i-infection",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "infection",
+    "pronunciation": "ɪnˈfekʃən",
+    "meaning": [
+      "zakażenie",
+      "infekcja"
+    ]
+  },
+  {
+    "id": "i-infectious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "infectious",
+    "pronunciation": "ɪnˈfekʃəs",
+    "meaning": [
+      "zaraźliwy",
+      "infekcyjny"
+    ]
+  },
+  {
+    "id": "i-infer",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "infer",
+    "pronunciation": "ɪnˈfɜ:",
+    "meaning": [
+      "wysnuć wnioski",
+      "wnioskować",
+      "sugerować"
+    ]
+  },
+  {
+    "id": "i-inference",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inference",
+    "pronunciation": "ˈɪnfərəns",
+    "meaning": [
+      "wniosek",
+      "wnioskowanie"
+    ]
+  },
+  {
+    "id": "i-inferior",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "inferior",
+    "pronunciation": "ɪnˈfɪərɪə",
+    "meaning": [
+      "gorszy",
+      "podwładny",
+      "osoba o niższym statusie"
+    ]
+  },
+  {
+    "id": "i-infernal",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "infernal",
+    "pronunciation": "ɪnˈfɜ:nəl",
+    "meaning": [
+      "piekielny"
+    ]
+  },
+  {
+    "id": "i-inferno",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inferno",
+    "pronunciation": "ɪnˈfɜ:nəʊ",
+    "meaning": [
+      "piekło",
+      "morze ognia"
+    ]
+  },
+  {
+    "id": "i-infertile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "infertile",
+    "pronunciation": "ɪnˈfɜ:taɪl",
+    "meaning": [
+      "niepłodny",
+      "bezpłodny",
+      "nieurodzajny"
+    ]
+  },
+  {
+    "id": "i-infertility",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "infertility",
+    "pronunciation": "ˌɪnfəˈtɪlətɪ",
+    "meaning": [
+      "bezpłodność",
+      "nieurodzajność"
+    ]
+  },
+  {
+    "id": "i-infested",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "infested",
+    "pronunciation": "ɪnˈfestɪd",
+    "meaning": [
+      "opanowany"
+    ]
+  },
+  {
+    "id": "i-infidel",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "infidel",
+    "pronunciation": "ˈɪnfɪdəl",
+    "meaning": [
+      "niewierny"
+    ]
+  },
+  {
+    "id": "i-infidelity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "infidelity",
+    "pronunciation": "ˌɪnfɪˈdelɪtɪ",
+    "meaning": [
+      "zdrada",
+      "niewierność"
+    ]
+  },
+  {
+    "id": "i-in-fighting",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "in-fighting",
+    "pronunciation": "ˈɪnfaɪtɪŋ",
+    "meaning": [
+      "wewnętrzne rozgrywki"
+    ]
+  },
+  {
+    "id": "i-infiltrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "infiltrate",
+    "pronunciation": "ˈɪnflɪtreɪt",
+    "meaning": [
+      "przenikać"
+    ]
+  },
+  {
+    "id": "i-infinite",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "infinite",
+    "pronunciation": "ˈɪnfɪnɪt",
+    "meaning": [
+      "nieskończony"
+    ]
+  },
+  {
+    "id": "i-infinitive",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "infinitive",
+    "pronunciation": "ɪnˈfɪnɪtɪv",
+    "meaning": [
+      "bezokolicznik"
+    ]
+  },
+  {
+    "id": "i-infinity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "infinity",
+    "pronunciation": "ɪnˈfɪnɪtɪ",
+    "meaning": [
+      "nieskończoność"
+    ]
+  },
+  {
+    "id": "i-infirm",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "infirm",
+    "pronunciation": "ɪnˈfɜ:m",
+    "meaning": [
+      "słaby",
+      "niedołężny"
+    ]
+  },
+  {
+    "id": "i-infirmary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "infirmary",
+    "pronunciation": "ɪnˈfɜ:mərɪ",
+    "meaning": [
+      "szpital"
+    ]
+  },
+  {
+    "id": "i-inflame",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "inflame",
+    "pronunciation": "ɪnˈfleɪm",
+    "meaning": [
+      "rozjuszać",
+      "rozogniać"
+    ]
+  },
+  {
+    "id": "i-inflamed",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "inflamed",
+    "pronunciation": "ɪnˈfleɪmd",
+    "meaning": [
+      "zaogniony",
+      "rozogniony"
+    ]
+  },
+  {
+    "id": "i-inflammable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inflammable",
+    "pronunciation": "ɪnˈflæməbəl",
+    "meaning": [
+      "łatwopalny"
+    ]
+  },
+  {
+    "id": "i-inflammation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inflammation",
+    "pronunciation": "ˌɪnfləˈmeɪʃən",
+    "meaning": [
+      "zapalenie"
+    ]
+  },
+  {
+    "id": "i-inflate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inflate",
+    "pronunciation": "ɪnˈfleɪt",
+    "meaning": [
+      "nadmuchiwać",
+      "nadymać się",
+      "nadymać"
+    ]
+  },
+  {
+    "id": "i-inflated",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "inflated",
+    "pronunciation": "ɪnˈfleɪtɪd",
+    "meaning": [
+      "nadmuchiwany",
+      "nadęty",
+      "rozdęty",
+      "zawyżony"
+    ]
+  },
+  {
+    "id": "i-inflation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inflation",
+    "pronunciation": "ɪnˈfleɪʃən",
+    "meaning": [
+      "inflacja"
+    ]
+  },
+  {
+    "id": "i-inflationary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inflationary",
+    "pronunciation": "ɪnˈfleɪʃənərɪ",
+    "meaning": [
+      "inflacyjny"
+    ]
+  },
+  {
+    "id": "i-inflect",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "inflect",
+    "pronunciation": "ɪnˈflekt",
+    "meaning": [
+      "odmieniać się",
+      "odmieniać",
+      "odmienny"
+    ]
+  },
+  {
+    "id": "i-inflexible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inflexible",
+    "pronunciation": "ɪnˈfleksɪbəl",
+    "meaning": [
+      "niezmienny",
+      "sztywny"
+    ]
+  },
+  {
+    "id": "i-inflict",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "inflict",
+    "pronunciation": "ɪnˈflɪkt",
+    "meaning": [
+      "wymierzać",
+      "narzucać"
+    ]
+  },
+  {
+    "id": "i-influence",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "influence",
+    "pronunciation": "ˈɪnflʊəns",
+    "meaning": [
+      "wpływ",
+      "czynnik",
+      "wpływać",
+      "mieć wpływ"
+    ]
+  },
+  {
+    "id": "i-influential",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "influential",
+    "pronunciation": "ˌɪnflʊˈenʃəl",
+    "meaning": [
+      "wpływowy"
+    ]
+  },
+  {
+    "id": "i-influenza",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "influenza",
+    "pronunciation": "ˌɪnflʊˈenzə",
+    "meaning": [
+      "grypa"
+    ]
+  },
+  {
+    "id": "i-influx",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "influx",
+    "pronunciation": "ˈɪnflʌks",
+    "meaning": [
+      "napływ"
+    ]
+  },
+  {
+    "id": "i-inform",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inform",
+    "pronunciation": "ɪnˈfɔ:m",
+    "meaning": [
+      "informować",
+      "zawiadamiać"
+    ]
+  },
+  {
+    "id": "i-informal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "informal",
+    "pronunciation": "ɪnˈfɔ:məl",
+    "meaning": [
+      "nieformalny",
+      "luźny",
+      "nieoficjalny"
+    ]
+  },
+  {
+    "id": "i-informant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "informant",
+    "pronunciation": "ɪnˈfɔ:mənt",
+    "meaning": [
+      "informator",
+      "donosiciel"
+    ]
+  },
+  {
+    "id": "i-information",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "information",
+    "pronunciation": "ˌɪnfəˈmeɪʃən",
+    "meaning": [
+      "informacja",
+      "wiadomości"
+    ]
+  },
+  {
+    "id": "i-informative",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "informative",
+    "pronunciation": "ɪnˈfɔ:mətɪv",
+    "meaning": [
+      "informacyjny",
+      "pouczający"
+    ]
+  },
+  {
+    "id": "i-informed",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "informed",
+    "pronunciation": "ɪnˈfɔ:md",
+    "meaning": [
+      "dobrze poinformowany",
+      "kompetentny"
+    ]
+  },
+  {
+    "id": "i-informer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "informer",
+    "pronunciation": "ɪnˈfɔ:mə",
+    "meaning": [
+      "donosiciel"
+    ]
+  },
+  {
+    "id": "i-infra-red",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "infra-red",
+    "pronunciation": "ˌɪnfrəˈred",
+    "meaning": [
+      "podczerwony"
+    ]
+  },
+  {
+    "id": "i-infrequent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "infrequent",
+    "pronunciation": "ɪnˈfri:kwent",
+    "meaning": [
+      "rzadki",
+      "nieczęsty"
+    ]
+  },
+  {
+    "id": "i-infringe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "infringe",
+    "pronunciation": "ɪnˈfrɪnʤ",
+    "meaning": [
+      "łamać",
+      "naruszać"
+    ]
+  },
+  {
+    "id": "i-infringement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "infringement",
+    "pronunciation": "ɪnˈfrɪnʤmənt",
+    "meaning": [
+      "naruszenie",
+      "złamanie"
+    ]
+  },
+  {
+    "id": "i-infuriate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "infuriate",
+    "pronunciation": "ɪnˈfjʊərɪeɪt",
+    "meaning": [
+      "rozwścieczać",
+      "doprowadzać do furii"
+    ]
+  },
+  {
+    "id": "i-ingenious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ingenious",
+    "pronunciation": "ɪnˈʤi:njəs",
+    "meaning": [
+      "przemyślny",
+      "pomysłowy"
+    ]
+  },
+  {
+    "id": "i-ingenuity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ingenuity",
+    "pronunciation": "ˌɪnʤɪˈnju:ɪtɪ",
+    "meaning": [
+      "pomysłowość"
+    ]
+  },
+  {
+    "id": "i-ingenuous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ingenuous",
+    "pronunciation": "ɪnˈʤenjʊəs",
+    "meaning": [
+      "niewinny",
+      "prostolinijny"
+    ]
+  },
+  {
+    "id": "i-ingratiate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "ingratiate",
+    "pronunciation": "ɪŋˈgreɪʃɪeɪt",
+    "meaning": []
+  },
+  {
+    "id": "i-ingratitude",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ingratitude",
+    "pronunciation": "ɪŋˈgrætɪtju:d",
+    "meaning": [
+      "niewdzięczność"
+    ]
+  },
+  {
+    "id": "i-ingredient",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ingredient",
+    "pronunciation": "ɪŋˈgri:dɪənt",
+    "meaning": [
+      "składnik"
+    ]
+  },
+  {
+    "id": "i-inhabit",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inhabit",
+    "pronunciation": "ɪnˈhæbɪt",
+    "meaning": [
+      "zamieszkiwać"
+    ]
+  },
+  {
+    "id": "i-inhabitant",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inhabitant",
+    "pronunciation": "ɪnˈhæbɪtənt",
+    "meaning": [
+      "mieszkaniec"
+    ]
+  },
+  {
+    "id": "i-inhale",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inhale",
+    "pronunciation": "ɪnˈheɪl",
+    "meaning": [
+      "wdychać"
+    ]
+  },
+  {
+    "id": "i-inherent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inherent",
+    "pronunciation": "ɪnˈhɪərənt",
+    "meaning": [
+      "nieodłączny",
+      "wrodzony"
+    ]
+  },
+  {
+    "id": "i-inherit",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inherit",
+    "pronunciation": "ɪnˈherɪt",
+    "meaning": [
+      "dziedziczyć"
+    ]
+  },
+  {
+    "id": "i-inheritance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inheritance",
+    "pronunciation": "ɪnˈherɪtəns",
+    "meaning": [
+      "dziedzictwo",
+      "dziedziczenie"
+    ]
+  },
+  {
+    "id": "i-inhibit",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "inhibit",
+    "pronunciation": "ɪnˈhɪbɪt",
+    "meaning": [
+      "powstrzymywać"
+    ]
+  },
+  {
+    "id": "i-inhibition",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inhibition",
+    "pronunciation": "ˌɪnhɪˈbɪʃən",
+    "meaning": [
+      "hamulec",
+      "zahamowanie"
+    ]
+  },
+  {
+    "id": "i-inhospitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inhospitable",
+    "pronunciation": "ˌɪnhɒˈspɪtəbəl",
+    "meaning": [
+      "niegościnny"
+    ]
+  },
+  {
+    "id": "i-inhuman",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inhuman",
+    "pronunciation": "ˌɪnˈhju:mən",
+    "meaning": [
+      "nieludzki"
+    ]
+  },
+  {
+    "id": "i-inhumane",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inhumane",
+    "pronunciation": "ˌɪnhju:ˈmeɪn",
+    "meaning": [
+      "nieludzki",
+      "niehumanitarny"
+    ]
+  },
+  {
+    "id": "i-inimitable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inimitable",
+    "pronunciation": "ɪˈnɪmɪtəbəl",
+    "meaning": [
+      "niepowtarzalny"
+    ]
+  },
+  {
+    "id": "i-iniquitous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "iniquitous",
+    "pronunciation": "ɪˈnɪkwɪtəs",
+    "meaning": [
+      "niegodziwy",
+      "krzywdzący"
+    ]
+  },
+  {
+    "id": "i-iniquity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "iniquity",
+    "pronunciation": "ɪˈnɪkwɪtɪ",
+    "meaning": [
+      "niegodziwość"
+    ]
+  },
+  {
+    "id": "i-initial",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "initial",
+    "pronunciation": "ɪˈnɪʃəl",
+    "meaning": [
+      "początkowy",
+      "inicjał",
+      "parafować"
+    ]
+  },
+  {
+    "id": "i-initiate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "initiate",
+    "pronunciation": "ɪˈnɪʃɪeɪt",
+    "meaning": [
+      "inicjować",
+      "zaczynać",
+      "wprowadzać"
+    ]
+  },
+  {
+    "id": "i-initiative",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "initiative",
+    "pronunciation": "ɪˈnɪʃətɪv",
+    "meaning": [
+      "inicjatywa",
+      "prowadzenie",
+      "przewaga",
+      "przedsięwzięcie",
+      "samodzielność",
+      "przedsiębiorczość"
+    ]
+  },
+  {
+    "id": "i-inject",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inject",
+    "pronunciation": "ɪnˈʤekt",
+    "meaning": [
+      "wstrzykiwać",
+      "wprowadzać"
+    ]
+  },
+  {
+    "id": "i-injection",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "injection",
+    "pronunciation": "ɪnˈʤekʃən",
+    "meaning": [
+      "zastrzyk"
+    ]
+  },
+  {
+    "id": "i-injunction",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "injunction",
+    "pronunciation": "ɪnˈʤʌŋkʃən",
+    "meaning": [
+      "zalecenie"
+    ]
+  },
+  {
+    "id": "i-injure",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "injure",
+    "pronunciation": "ˈɪnʤə",
+    "meaning": [
+      "ranić"
+    ]
+  },
+  {
+    "id": "i-injury",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "injury",
+    "pronunciation": "ˈɪnʤərɪ",
+    "meaning": [
+      "rana",
+      "obrażenie"
+    ]
+  },
+  {
+    "id": "i-injustice",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "injustice",
+    "pronunciation": "ɪnˈʤʌstɪs",
+    "meaning": [
+      "niesprawiedliwość"
+    ]
+  },
+  {
+    "id": "i-ink",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ink",
+    "pronunciation": "ɪŋk",
+    "meaning": [
+      "atrament"
+    ]
+  },
+  {
+    "id": "i-ink-jet",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ink-jet",
+    "pronunciation": "ˈɪŋk ʤet",
+    "meaning": [
+      "atramentowy"
+    ]
+  },
+  {
+    "id": "i-inkling",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inkling",
+    "pronunciation": "ˈɪŋklɪŋ",
+    "meaning": []
+  },
+  {
+    "id": "i-inlaid",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "inlaid",
+    "pronunciation": "ˌɪnˈleɪd",
+    "meaning": [
+      "wykładany"
+    ]
+  },
+  {
+    "id": "i-inland",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "inland",
+    "pronunciation": "ˈɪnlənd",
+    "meaning": [
+      "w głąb lądu",
+      "lądowy"
+    ]
+  },
+  {
+    "id": "i-in-laws",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "in-laws",
+    "pronunciation": "ˈɪnlɔ:z",
+    "meaning": [
+      "teściowie",
+      "rodzina teściów"
+    ]
+  },
+  {
+    "id": "i-inlet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inlet",
+    "pronunciation": "ˈɪnlet",
+    "meaning": [
+      "zatoka",
+      "odnoga morska",
+      "odnoga"
+    ]
+  },
+  {
+    "id": "i-inmate",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inmate",
+    "pronunciation": "ˈɪnmeɪt",
+    "meaning": [
+      "pensjonariusz",
+      "mieszkaniec"
+    ]
+  },
+  {
+    "id": "i-inn",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "inn",
+    "pronunciation": "ɪn",
+    "meaning": [
+      "zajazd",
+      "karczma"
+    ]
+  },
+  {
+    "id": "i-innate",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "innate",
+    "pronunciation": "ˌɪˈneɪt",
+    "meaning": [
+      "wrodzony"
+    ]
+  },
+  {
+    "id": "i-inner",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "inner",
+    "pronunciation": "ˈɪnə",
+    "meaning": [
+      "wewnętrzny"
+    ]
+  },
+  {
+    "id": "i-innocence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "innocence",
+    "pronunciation": "ˈɪnəsəns",
+    "meaning": [
+      "niewinność",
+      "naiwność"
+    ]
+  },
+  {
+    "id": "i-innocent",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "innocent",
+    "pronunciation": "ˈɪnəsənt",
+    "meaning": [
+      "niewinny",
+      "prostolinijny",
+      "naiwny",
+      "naiwna osoba"
+    ]
+  },
+  {
+    "id": "i-innocuous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "innocuous",
+    "pronunciation": "ɪnˈɒkjʊəs",
+    "meaning": [
+      "nieszkodliwy"
+    ]
+  },
+  {
+    "id": "i-innovation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "innovation",
+    "pronunciation": "ˌɪnəˈveɪʃən",
+    "meaning": [
+      "innowacja"
+    ]
+  },
+  {
+    "id": "i-innuendo",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "innuendo",
+    "pronunciation": "ˌɪnju:ˈendəʊ",
+    "meaning": [
+      "przytyk",
+      "aluzja"
+    ]
+  },
+  {
+    "id": "i-innumerable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "innumerable",
+    "pronunciation": "ɪˈnju:mərəbəl",
+    "meaning": [
+      "nieprzeliczony"
+    ]
+  },
+  {
+    "id": "i-inoculate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "inoculate",
+    "pronunciation": "ɪnˈɒkjəleɪt",
+    "meaning": [
+      "szczepić ochronnie",
+      "szczepić"
+    ]
+  },
+  {
+    "id": "i-inopportune",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inopportune",
+    "pronunciation": "ɪnˈɒpətju:n",
+    "meaning": [
+      "niestosowny"
+    ]
+  },
+  {
+    "id": "i-inordinate",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inordinate",
+    "pronunciation": "ɪnˈɔ:dɪnɪt",
+    "meaning": [
+      "nieumiarkowany",
+      "nadmierny"
+    ]
+  },
+  {
+    "id": "i-inorganic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "inorganic",
+    "pronunciation": "ˌɪnɔ:ˈgænɪk",
+    "meaning": [
+      "nieorganiczny"
+    ]
+  },
+  {
+    "id": "i-input",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "input",
+    "pronunciation": "ˈɪnpʊt",
+    "meaning": [
+      "wprowadzanie",
+      "wejście",
+      "wejściowy"
+    ]
+  },
+  {
+    "id": "i-inquest",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inquest",
+    "pronunciation": "ˈɪŋkwest",
+    "meaning": [
+      "śledztwo",
+      "badanie przyczyny zgonu",
+      "badanie"
+    ]
+  },
+  {
+    "id": "i-inquire",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inquire",
+    "pronunciation": "ɪnˈkwaɪə",
+    "meaning": [
+      "dowiadywać się",
+      "zasięgać informacji",
+      "pytać się o coś",
+      "pytać się",
+      "badać coś",
+      "badać",
+      "dociekać czegoś",
+      "dociekać"
+    ]
+  },
+  {
+    "id": "i-inquiring",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "inquiring",
+    "pronunciation": "ɪnˈkwaɪərɪŋ",
+    "meaning": [
+      "wnikliwy",
+      "dociekliwy",
+      "badawczy"
+    ]
+  },
+  {
+    "id": "i-inquiry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inquiry",
+    "pronunciation": "ɪnˈkwaɪərɪ",
+    "meaning": [
+      "zapytanie",
+      "dociekanie"
+    ]
+  },
+  {
+    "id": "i-inquisitive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inquisitive",
+    "pronunciation": "ɪŋˈkwɪzɪtɪv",
+    "meaning": [
+      "ciekawski",
+      "wścibski"
+    ]
+  },
+  {
+    "id": "i-inroads",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inroads",
+    "pronunciation": "ˈɪnrəʊdz",
+    "meaning": []
+  },
+  {
+    "id": "i-insane",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "insane",
+    "pronunciation": "ɪnˈseɪn",
+    "meaning": [
+      "szalony"
+    ]
+  },
+  {
+    "id": "i-insanitary",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "insanitary",
+    "pronunciation": "ɪnˈsænɪtərɪ",
+    "meaning": [
+      "niehigieniczny"
+    ]
+  },
+  {
+    "id": "i-insanity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "insanity",
+    "pronunciation": "ɪnˈsænɪtɪ",
+    "meaning": [
+      "szaleństwo"
+    ]
+  },
+  {
+    "id": "i-insatiable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insatiable",
+    "pronunciation": "ɪnˈseɪʃəbəl",
+    "meaning": [
+      "nieposkromiony",
+      "nienasycony"
+    ]
+  },
+  {
+    "id": "i-inscribe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "inscribe",
+    "pronunciation": "ɪnˈskraɪb",
+    "meaning": [
+      "ryć",
+      "grawerować"
+    ]
+  },
+  {
+    "id": "i-inscription",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inscription",
+    "pronunciation": "ɪnˈskrɪpʃən",
+    "meaning": [
+      "napis"
+    ]
+  },
+  {
+    "id": "i-inscrutable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "inscrutable",
+    "pronunciation": "ɪnˈskru:təbəl",
+    "meaning": [
+      "nieprzenikliwy"
+    ]
+  },
+  {
+    "id": "i-insect",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "insect",
+    "pronunciation": "ˈɪnsekt",
+    "meaning": [
+      "owad"
+    ]
+  },
+  {
+    "id": "i-insecticide",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "insecticide",
+    "pronunciation": "ɪnˈsektɪsaɪd",
+    "meaning": [
+      "środek owadobójczy"
+    ]
+  },
+  {
+    "id": "i-insecure",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "insecure",
+    "pronunciation": "ˌɪnsɪˈkjʊə",
+    "meaning": [
+      "niepewny"
+    ]
+  },
+  {
+    "id": "i-insecurity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "insecurity",
+    "pronunciation": "ˌɪnsɪˈkjʊərɪtɪ",
+    "meaning": [
+      "niepewność"
+    ]
+  },
+  {
+    "id": "i-insensitive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insensitive",
+    "pronunciation": "ɪnˈsensɪtɪv",
+    "meaning": [
+      "niewrażliwy"
+    ]
+  },
+  {
+    "id": "i-inseparable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inseparable",
+    "pronunciation": "ɪnˈsepərəbəl",
+    "meaning": [
+      "nieodłączny"
+    ]
+  },
+  {
+    "id": "i-insert",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "insert",
+    "pronunciation": "ɪnˈsɜ:t",
+    "meaning": [
+      "wsuwać",
+      "wkładać",
+      "wstawiać"
+    ]
+  },
+  {
+    "id": "i-insertion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "insertion",
+    "pronunciation": "ɪnˈsɜ:ʃən",
+    "meaning": [
+      "wstawka",
+      "wstawienie"
+    ]
+  },
+  {
+    "id": "i-inshore",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "inshore",
+    "pronunciation": "ˌɪnˈʃɔ:",
+    "meaning": [
+      "przybrzeżny",
+      "przy brzegu"
+    ]
+  },
+  {
+    "id": "i-insidious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "insidious",
+    "pronunciation": "ɪnˈsɪdɪəs",
+    "meaning": [
+      "podstępny",
+      "zdradliwy"
+    ]
+  },
+  {
+    "id": "i-insight",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "insight",
+    "pronunciation": "ˈɪnsaɪt",
+    "meaning": [
+      "wgląd",
+      "pojmowanie"
+    ]
+  },
+  {
+    "id": "i-insignificant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insignificant",
+    "pronunciation": "ˌɪnsɪˈgnɪfɪkənt",
+    "meaning": [
+      "nieważny",
+      "nie liczący się"
+    ]
+  },
+  {
+    "id": "i-insincere",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insincere",
+    "pronunciation": "ˌɪnsɪnˈsɪə",
+    "meaning": [
+      "nieszczery"
+    ]
+  },
+  {
+    "id": "i-insinuate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "insinuate",
+    "pronunciation": "ɪnˈsɪnju:eɪt",
+    "meaning": [
+      "insynuować"
+    ]
+  },
+  {
+    "id": "i-insipid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insipid",
+    "pronunciation": "ɪnˈsɪpɪd",
+    "meaning": [
+      "banalny",
+      "mdły"
+    ]
+  },
+  {
+    "id": "i-insist",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "insist",
+    "pronunciation": "ɪnˈsɪst",
+    "meaning": [
+      "upierać się",
+      "nalegać"
+    ]
+  },
+  {
+    "id": "i-insistence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "insistence",
+    "pronunciation": "ɪnˈsɪstəns",
+    "meaning": [
+      "naleganie",
+      "upieranie się"
+    ]
+  },
+  {
+    "id": "i-insistent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insistent",
+    "pronunciation": "ɪnˈsɪstənt",
+    "meaning": [
+      "uporczywy",
+      "nalegający",
+      "natarczywy"
+    ]
+  },
+  {
+    "id": "i-insofar_as",
+    "level": "C1",
+    "partOfSpeech": "conjunction",
+    "word": "insofar as",
+    "pronunciation": "ˌɪnsəˈfɑ:rəz",
+    "meaning": [
+      "na tyle",
+      "na ile"
+    ]
+  },
+  {
+    "id": "i-insolent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insolent",
+    "pronunciation": "ˈɪnsələnt",
+    "meaning": [
+      "bezczelny"
+    ]
+  },
+  {
+    "id": "i-insoluble",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insoluble",
+    "pronunciation": "ɪnˈsɒljəbəl",
+    "meaning": [
+      "nierozwiązalny"
+    ]
+  },
+  {
+    "id": "i-insolvent",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "insolvent",
+    "pronunciation": "ɪnˈsɒlvənt",
+    "meaning": [
+      "niewypłacalny"
+    ]
+  },
+  {
+    "id": "i-insomnia",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "insomnia",
+    "pronunciation": "ɪnˈsɒmnɪə",
+    "meaning": [
+      "bezsenność"
+    ]
+  },
+  {
+    "id": "i-inspect",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inspect",
+    "pronunciation": "ɪnˈspekt",
+    "meaning": [
+      "badać",
+      "oglądać",
+      "kontrolować",
+      "przeprowadzać inspekcję"
+    ]
+  },
+  {
+    "id": "i-inspection",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inspection",
+    "pronunciation": "ɪnˈspekʃən",
+    "meaning": [
+      "kontrola",
+      "inspekcja",
+      "badanie",
+      "oględziny"
+    ]
+  },
+  {
+    "id": "i-inspector",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inspector",
+    "pronunciation": "ɪnˈspektə",
+    "meaning": [
+      "inspektor",
+      "kontroler"
+    ]
+  },
+  {
+    "id": "i-inspiration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inspiration",
+    "pronunciation": "ˌɪnspɪˈreɪʃən",
+    "meaning": [
+      "inspiracja",
+      "natchnienie",
+      "pierwowzór",
+      "źródło pomysłów"
+    ]
+  },
+  {
+    "id": "i-inspire",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "inspire",
+    "pronunciation": "ɪnˈspaɪə",
+    "meaning": [
+      "pobudzać",
+      "skłaniać",
+      "natchnąć",
+      "budzić",
+      "inspirować"
+    ]
+  },
+  {
+    "id": "i-inspired",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "inspired",
+    "pronunciation": "ɪnˈspaɪəd",
+    "meaning": [
+      "natchniony",
+      "błyskotliwy"
+    ]
+  },
+  {
+    "id": "i-inst.",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "inst.",
+    "pronunciation": "/ˈɪnst/",
+    "meaning": [
+      "b.m.",
+      "bieżącego miesiąca",
+      "instytut"
+    ]
+  },
+  {
+    "id": "i-instability",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "instability",
+    "pronunciation": "ˌɪnstəˈbɪlɪtɪ",
+    "meaning": [
+      "niestabilność"
+    ]
+  },
+  {
+    "id": "i-install",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "install",
+    "pronunciation": "ɪnˈstɔ:l",
+    "meaning": [
+      "instalować",
+      "umieszczać"
+    ]
+  },
+  {
+    "id": "i-installation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "installation",
+    "pronunciation": "ˌɪnstəˈleɪʃən",
+    "meaning": [
+      "instalacja",
+      "zainstalowanie",
+      "podłączenie"
+    ]
+  },
+  {
+    "id": "i-instance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "instance",
+    "pronunciation": "ˈɪnstəns",
+    "meaning": [
+      "przypadek"
+    ]
+  },
+  {
+    "id": "i-instantaneous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "instantaneous",
+    "pronunciation": "ˌɪnstənˈteɪnɪəs",
+    "meaning": [
+      "natychmiastowy"
+    ]
+  },
+  {
+    "id": "i-instep",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "instep",
+    "pronunciation": "ˈɪnstep",
+    "meaning": [
+      "śródstopie",
+      "wnętrze stopy"
+    ]
+  },
+  {
+    "id": "i-instigate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "instigate",
+    "pronunciation": "ˈɪnstɪgeɪt",
+    "meaning": [
+      "podjudzać",
+      "poduszczać"
+    ]
+  },
+  {
+    "id": "i-instigation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "instigation",
+    "pronunciation": "ˌɪnstɪˈgeɪʃən",
+    "meaning": [
+      "poduszczenie"
+    ]
+  },
+  {
+    "id": "i-instigator",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "instigator",
+    "pronunciation": "ˈɪnstɪgeɪtə",
+    "meaning": [
+      "sprawca moralny",
+      "sprawca"
+    ]
+  },
+  {
+    "id": "i-instil",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "instil",
+    "pronunciation": "ɪnˈstɪl",
+    "meaning": [
+      "zaszczepiać",
+      "wywoływać"
+    ]
+  },
+  {
+    "id": "i-instinct",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "instinct",
+    "pronunciation": "ˈɪnstɪŋkt",
+    "meaning": [
+      "instynkt",
+      "reakcja"
+    ]
+  },
+  {
+    "id": "i-instinctive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "instinctive",
+    "pronunciation": "ɪnˈstɪŋktɪv",
+    "meaning": [
+      "instynktowny"
+    ]
+  },
+  {
+    "id": "i-institute",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "institute",
+    "pronunciation": "ˈɪnstɪtju:t",
+    "meaning": [
+      "instytut",
+      "wprowadzać"
+    ]
+  },
+  {
+    "id": "i-institution",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "institution",
+    "pronunciation": "ˌɪnstɪˈtju:ʃən",
+    "meaning": [
+      "instytucja",
+      "zakład"
+    ]
+  },
+  {
+    "id": "i-instruct",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "instruct",
+    "pronunciation": "ɪnˈstrʌkt",
+    "meaning": [
+      "instruować",
+      "nauczać"
+    ]
+  },
+  {
+    "id": "i-instruction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "instruction",
+    "pronunciation": "ɪnˈstrʌkʃən",
+    "meaning": [
+      "nauka",
+      "nauczanie",
+      "pouczenie",
+      "instrukcja"
+    ]
+  },
+  {
+    "id": "i-instructive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "instructive",
+    "pronunciation": "ɪnˈstrʌktɪv",
+    "meaning": [
+      "pouczający",
+      "kształcący"
+    ]
+  },
+  {
+    "id": "i-instructor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "instructor",
+    "pronunciation": "ɪnˈstrʌktə",
+    "meaning": [
+      "instruktor"
+    ]
+  },
+  {
+    "id": "i-instrument",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "instrument",
+    "pronunciation": "ˈɪnstrəmənt",
+    "meaning": [
+      "instrument",
+      "przyrząd",
+      "narzędzie"
+    ]
+  },
+  {
+    "id": "i-instrumental",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "instrumental",
+    "pronunciation": "ˌɪnstrəˈmentəl",
+    "meaning": [
+      "instrumentalny"
+    ]
+  },
+  {
+    "id": "i-insubordinate",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "insubordinate",
+    "pronunciation": "ˌɪnsəˈbɔ:dənɪt",
+    "meaning": [
+      "niesubordynowany"
+    ]
+  },
+  {
+    "id": "i-insubordination",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "insubordination",
+    "pronunciation": "ˌɪnsəbɔ:dɪˈneɪʃən",
+    "meaning": [
+      "niesubordynacja",
+      "nieposłuszeństwo"
+    ]
+  },
+  {
+    "id": "i-insufferable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insufferable",
+    "pronunciation": "ɪnˈsʌfərəbəl",
+    "meaning": [
+      "nieznośny",
+      "nie do wytrzymania"
+    ]
+  },
+  {
+    "id": "i-insufficient",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "insufficient",
+    "pronunciation": "ˌɪnsəˈfɪʃənt",
+    "meaning": [
+      "niewystarczający"
+    ]
+  },
+  {
+    "id": "i-insular",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "insular",
+    "pronunciation": "ˈɪnsjələ",
+    "meaning": [
+      "odizolowany",
+      "prowincjonalny"
+    ]
+  },
+  {
+    "id": "i-insulate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "insulate",
+    "pronunciation": "ˈɪnsjəleɪt",
+    "meaning": [
+      "izolować"
+    ]
+  },
+  {
+    "id": "i-insulation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "insulation",
+    "pronunciation": "ˌɪnsjəˈleɪʃən",
+    "meaning": [
+      "izolacja"
+    ]
+  },
+  {
+    "id": "i-insult",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "insult",
+    "pronunciation": "/ˈɪnsʌlt/",
+    "meaning": [
+      "obrażać",
+      "urażać",
+      "obraza",
+      "wyzwisko"
+    ]
+  },
+  {
+    "id": "i-insuperable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "insuperable",
+    "pronunciation": "ɪnˈsu:pərəbəl",
+    "meaning": [
+      "nieprzezwyciężalny"
+    ]
+  },
+  {
+    "id": "i-insurance",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "insurance",
+    "pronunciation": "ɪnˈʃʊɜ:rəns",
+    "meaning": [
+      "ubezpieczenie",
+      "zabezpieczenie",
+      "odszkodowanie"
+    ]
+  },
+  {
+    "id": "i-insure",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "insure",
+    "pronunciation": "ɪnˈʃʊə",
+    "meaning": [
+      "ubezpieczać",
+      "zabezpieczać się",
+      "zabezpieczać"
+    ]
+  },
+  {
+    "id": "i-insurgent",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "insurgent",
+    "pronunciation": "ɪnˈsɜ:ʤənt",
+    "meaning": [
+      "powstaniec"
+    ]
+  },
+  {
+    "id": "i-insurmountable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "insurmountable",
+    "pronunciation": "ˌɪnsəˈmaʊntəbəl",
+    "meaning": [
+      "niepokonany",
+      "nieprzezwyciężony"
+    ]
+  },
+  {
+    "id": "i-insurrection",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "insurrection",
+    "pronunciation": "ˌɪnsəˈrekʃən",
+    "meaning": [
+      "powstanie"
+    ]
+  },
+  {
+    "id": "i-int.",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "int.",
+    "pronunciation": "/ˌɪntəˈnæʃənəl/",
+    "meaning": [
+      "wnętrze",
+      "wewnętrzny",
+      "międzynarodowy",
+      "nieprzechodni"
+    ]
+  },
+  {
+    "id": "i-intact",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intact",
+    "pronunciation": "ɪnˈtækt",
+    "meaning": [
+      "nietknięty"
+    ]
+  },
+  {
+    "id": "i-intake",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intake",
+    "pronunciation": "ˈɪnteɪk",
+    "meaning": [
+      "zużycie",
+      "przyjmowanie",
+      "nabór"
+    ]
+  },
+  {
+    "id": "i-intangible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intangible",
+    "pronunciation": "ɪnˈtænʤɪbəl",
+    "meaning": [
+      "nieuchwytny",
+      "trudny do opisu"
+    ]
+  },
+  {
+    "id": "i-integer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "integer",
+    "pronunciation": "ˈɪntɪʤə",
+    "meaning": [
+      "liczba całkowita"
+    ]
+  },
+  {
+    "id": "i-integral",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "integral",
+    "pronunciation": "ˈɪntɪgrəl",
+    "meaning": [
+      "integralny"
+    ]
+  },
+  {
+    "id": "i-integrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "integrate",
+    "pronunciation": "ˈɪntɪgreɪt",
+    "meaning": [
+      "integrować",
+      "scalać"
+    ]
+  },
+  {
+    "id": "i-integrated",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "integrated",
+    "pronunciation": "ˈɪntɪgreɪtɪd",
+    "meaning": [
+      "zintegrowany",
+      "układ scalony"
+    ]
+  },
+  {
+    "id": "i-integrity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "integrity",
+    "pronunciation": "ɪnˈtegrɪtɪ",
+    "meaning": [
+      "prawość",
+      "integralność"
+    ]
+  },
+  {
+    "id": "i-intellect",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intellect",
+    "pronunciation": "ˈɪntəlekt",
+    "meaning": [
+      "intelekt",
+      "inteligencja"
+    ]
+  },
+  {
+    "id": "i-intellectual",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "intellectual",
+    "pronunciation": "ˌɪntəˈlekʧʊəl",
+    "meaning": [
+      "intelektualny",
+      "intelektualistyczny",
+      "intelektualista"
+    ]
+  },
+  {
+    "id": "i-intelligence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intelligence",
+    "pronunciation": "ɪnˈtelɪʤəns",
+    "meaning": [
+      "inteligencja",
+      "wywiad"
+    ]
+  },
+  {
+    "id": "i-intelligent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intelligent",
+    "pronunciation": "ɪnˈtelɪʤənt",
+    "meaning": [
+      "inteligentny"
+    ]
+  },
+  {
+    "id": "i-intelligible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intelligible",
+    "pronunciation": "ɪnˈtelɪʤəbəl",
+    "meaning": [
+      "zrozumiały"
+    ]
+  },
+  {
+    "id": "i-intend",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "intend",
+    "pronunciation": "ɪnˈtend",
+    "meaning": [
+      "zamierzać",
+      "planować",
+      "przeznaczać"
+    ]
+  },
+  {
+    "id": "i-intense",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intense",
+    "pronunciation": "ɪnˈtens",
+    "meaning": [
+      "gwałtowny",
+      "silny",
+      "poważny"
+    ]
+  },
+  {
+    "id": "i-intensify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "intensify",
+    "pronunciation": "ɪnˈtensɪfaɪ",
+    "meaning": [
+      "intensyfikować się",
+      "intensyfikować",
+      "wzmagać się",
+      "wzmagać"
+    ]
+  },
+  {
+    "id": "i-intensity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intensity",
+    "pronunciation": "ɪnˈtensɪtɪ",
+    "meaning": [
+      "intensywność"
+    ]
+  },
+  {
+    "id": "i-intensive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intensive",
+    "pronunciation": "ɪnˈtensɪv",
+    "meaning": [
+      "intensywny"
+    ]
+  },
+  {
+    "id": "i-intent",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "intent",
+    "pronunciation": "ɪnˈtent",
+    "meaning": [
+      "zamierzenie",
+      "uważny",
+      "zdecydowany"
+    ]
+  },
+  {
+    "id": "i-intention",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intention",
+    "pronunciation": "ɪnˈtenʃən",
+    "meaning": [
+      "zamiar"
+    ]
+  },
+  {
+    "id": "i-intentional",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intentional",
+    "pronunciation": "ɪnˈtenʃənəl",
+    "meaning": [
+      "intencjonalny",
+      "rozmyślny"
+    ]
+  },
+  {
+    "id": "i-interact",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "interact",
+    "pronunciation": "ˌɪntərˈækt",
+    "meaning": [
+      "oddziaływać"
+    ]
+  },
+  {
+    "id": "i-interactive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "interactive",
+    "pronunciation": "ˌɪntərˈæktɪv",
+    "meaning": [
+      "interakcyjny",
+      "wzajemny"
+    ]
+  },
+  {
+    "id": "i-intercede",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "intercede",
+    "pronunciation": "ˌɪntəˈsi:d",
+    "meaning": [
+      "interweniować",
+      "wstawiać się"
+    ]
+  },
+  {
+    "id": "i-intercept",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "intercept",
+    "pronunciation": "ˌɪntəˈsept",
+    "meaning": [
+      "zatrzymywać",
+      "przechwytywać"
+    ]
+  },
+  {
+    "id": "i-interchange",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "interchange",
+    "pronunciation": "ˈɪntəʧeɪnʤ",
+    "meaning": [
+      "wymiana",
+      "wjazd na autostradę",
+      "wjazd"
+    ]
+  },
+  {
+    "id": "i-interchangeable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "interchangeable",
+    "pronunciation": "ˌɪntəˈʧeɪnʤəbəl",
+    "meaning": [
+      "wymienny"
+    ]
+  },
+  {
+    "id": "i-intercom",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intercom",
+    "pronunciation": "ˈɪntəkɒm",
+    "meaning": [
+      "interkom",
+      "domofon"
+    ]
+  },
+  {
+    "id": "i-intercontinental",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intercontinental",
+    "pronunciation": "ˌɪntəkɒntɪˈnentəl",
+    "meaning": [
+      "międzykontynentalny"
+    ]
+  },
+  {
+    "id": "i-intercourse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intercourse",
+    "pronunciation": "ˈɪntəkɔ:s",
+    "meaning": [
+      "stosunek płciowy",
+      "stosunek"
+    ]
+  },
+  {
+    "id": "i-interdependent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "interdependent",
+    "pronunciation": "ˌɪntədɪˈpendənt",
+    "meaning": [
+      "współzależny"
+    ]
+  },
+  {
+    "id": "i-interest",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "interest",
+    "pronunciation": "ˈɪntrəst",
+    "meaning": [
+      "zainteresowanie",
+      "hobby",
+      "interes",
+      "udziały",
+      "oprocentowanie",
+      "odsetki",
+      "interesować",
+      "zainteresowywać"
+    ]
+  },
+  {
+    "id": "i-interesting",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "interesting",
+    "pronunciation": "ˈɪntrəstɪŋ",
+    "meaning": [
+      "interesujący"
+    ]
+  },
+  {
+    "id": "i-interface",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "interface",
+    "pronunciation": "ˈɪntəfeɪs",
+    "meaning": [
+      "interfejs",
+      "sprzęg"
+    ]
+  },
+  {
+    "id": "i-interfere",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "interfere",
+    "pronunciation": "ˌɪntəˈfɪə",
+    "meaning": [
+      "mieszać się",
+      "kolidować",
+      "przeszkadzać",
+      "brać się",
+      "tykać się"
+    ]
+  },
+  {
+    "id": "i-interference",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "interference",
+    "pronunciation": "ˌɪntəˈfɪərəns",
+    "meaning": [
+      "interwencja",
+      "mieszanie się",
+      "interferencja radiowa",
+      "interferencja"
+    ]
+  },
+  {
+    "id": "i-interim",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "interim",
+    "pronunciation": "ˈɪntərɪm",
+    "meaning": [
+      "tymczasowy",
+      "czasowy"
+    ]
+  },
+  {
+    "id": "i-interior",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "interior",
+    "pronunciation": "ɪnˈtɪərɪə",
+    "meaning": [
+      "wnętrze",
+      "wewnętrzny"
+    ]
+  },
+  {
+    "id": "i-interject",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "interject",
+    "pronunciation": "ˌɪntəˈʤekt",
+    "meaning": [
+      "wtrącać się",
+      "wtrącać"
+    ]
+  },
+  {
+    "id": "i-interjection",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "interjection",
+    "pronunciation": "ˌɪntəˈʤekʃən",
+    "meaning": [
+      "uwaga",
+      "wtrącenie się",
+      "wtrącenie",
+      "wykrzyknik"
+    ]
+  },
+  {
+    "id": "i-interlock",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "interlock",
+    "pronunciation": "ˌɪntəˈlɒk",
+    "meaning": [
+      "wiązać",
+      "zespalać się",
+      "zespalać",
+      "zaplatać"
+    ]
+  },
+  {
+    "id": "i-interloper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "interloper",
+    "pronunciation": "ˈɪntələʊpə",
+    "meaning": [
+      "intruz"
+    ]
+  },
+  {
+    "id": "i-interlude",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "interlude",
+    "pronunciation": "ˈɪntəlu:d",
+    "meaning": [
+      "przerwa",
+      "interludium"
+    ]
+  },
+  {
+    "id": "i-intermarriage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intermarriage",
+    "pronunciation": "ˌɪntəˈmærɪʤ",
+    "meaning": [
+      "małżeństwo mieszane"
+    ]
+  },
+  {
+    "id": "i-intermediary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intermediary",
+    "pronunciation": "ˌɪntəˈmi:djərɪ",
+    "meaning": [
+      "pośrednik"
+    ]
+  },
+  {
+    "id": "i-intermediate",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "intermediate",
+    "pronunciation": "ˌɪntəˈmi:dɪət",
+    "meaning": [
+      "pośredni",
+      "średni"
+    ]
+  },
+  {
+    "id": "i-interminable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "interminable",
+    "pronunciation": "ɪnˈtɜ:mɪnəbəl",
+    "meaning": [
+      "nie kończący się"
+    ]
+  },
+  {
+    "id": "i-intermission",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intermission",
+    "pronunciation": "ˌɪntəˈmɪʃən",
+    "meaning": [
+      "przerwa"
+    ]
+  },
+  {
+    "id": "i-intermittent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intermittent",
+    "pronunciation": "ˌɪntəˈmɪtənt",
+    "meaning": [
+      "okresowy",
+      "przerywany"
+    ]
+  },
+  {
+    "id": "i-intern",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "intern",
+    "pronunciation": "ɪnˈtɜ:n",
+    "meaning": [
+      "internować"
+    ]
+  },
+  {
+    "id": "i-internal",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "internal",
+    "pronunciation": "ɪnˈtɜ:nəl",
+    "meaning": [
+      "wewnętrzny"
+    ]
+  },
+  {
+    "id": "i-internally",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "internally",
+    "pronunciation": "ɪnˈtɜ:nəlɪ",
+    "meaning": [
+      "wewnątrz",
+      "wewnętrzny"
+    ]
+  },
+  {
+    "id": "i-international",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "international",
+    "pronunciation": "ˌɪntəˈnæʃenəl",
+    "meaning": [
+      "międzynarodowy",
+      "spotkanie międzynarodowe"
+    ]
+  },
+  {
+    "id": "i-internment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "internment",
+    "pronunciation": "ɪnˈtɜ:nmənt",
+    "meaning": [
+      "internowanie"
+    ]
+  },
+  {
+    "id": "i-interplay",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "interplay",
+    "pronunciation": "ˈɪntəpleɪ",
+    "meaning": [
+      "wzajemne oddziaływanie"
+    ]
+  },
+  {
+    "id": "i-interpret",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "interpret",
+    "pronunciation": "ɪnˈtɜ:prɪt",
+    "meaning": [
+      "interpretować",
+      "rozumieć",
+      "przekładać",
+      "tłumaczyć"
+    ]
+  },
+  {
+    "id": "i-interpretation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "interpretation",
+    "pronunciation": "ɪnˌtɜ:prɪˈteɪʃən",
+    "meaning": [
+      "interpretacja",
+      "przekład ustny",
+      "przekład"
+    ]
+  },
+  {
+    "id": "i-interpreter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "interpreter",
+    "pronunciation": "ɪnˈtɜ:prɪtə",
+    "meaning": [
+      "tłumacz ustny",
+      "tłumacz"
+    ]
+  },
+  {
+    "id": "i-interrelate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "interrelate",
+    "pronunciation": "ˌɪntərɪˈleɪt",
+    "meaning": [
+      "wiązać się",
+      "wiązać"
+    ]
+  },
+  {
+    "id": "i-interrogate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "interrogate",
+    "pronunciation": "ɪnˈterəgeɪt",
+    "meaning": [
+      "przesłuchiwać"
+    ]
+  },
+  {
+    "id": "i-interrogation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "interrogation",
+    "pronunciation": "ɪnˌterəˈgeɪʃən",
+    "meaning": [
+      "przesłuchanie"
+    ]
+  },
+  {
+    "id": "i-interrogative",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "interrogative",
+    "pronunciation": "ˌɪntəˈrɒgatɪv",
+    "meaning": [
+      "pytający"
+    ]
+  },
+  {
+    "id": "i-interrogator",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "interrogator",
+    "pronunciation": "ɪnˈterəgeɪtə",
+    "meaning": [
+      "śledczy",
+      "przesłuchujący"
+    ]
+  },
+  {
+    "id": "i-interrupt",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "interrupt",
+    "pronunciation": "ˌɪntəˈrʌpt",
+    "meaning": [
+      "przerywać"
+    ]
+  },
+  {
+    "id": "i-interruption",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "interruption",
+    "pronunciation": "ˌɪntəˈrʌpʃən",
+    "meaning": [
+      "przerwanie"
+    ]
+  },
+  {
+    "id": "i-intersect",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "intersect",
+    "pronunciation": "ˌɪntəˈsekt",
+    "meaning": [
+      "przecinać się",
+      "przecinać"
+    ]
+  },
+  {
+    "id": "i-intersection",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intersection",
+    "pronunciation": "ˌɪntəˈsekʃən",
+    "meaning": [
+      "skrzyżowanie",
+      "przecięcie",
+      "punkt przecięcia"
+    ]
+  },
+  {
+    "id": "i-intersperse",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "intersperse",
+    "pronunciation": "ˌɪntəˈspɜ:s",
+    "meaning": [
+      "przemieszać",
+      "przetykać"
+    ]
+  },
+  {
+    "id": "i-intertwine",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "intertwine",
+    "pronunciation": "ˌɪntəˈtwaɪn",
+    "meaning": [
+      "splatać się",
+      "splatać"
+    ]
+  },
+  {
+    "id": "i-interval",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "interval",
+    "pronunciation": "ˈɪntəvəl",
+    "meaning": [
+      "przerwa",
+      "interwał"
+    ]
+  },
+  {
+    "id": "i-intervene",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "intervene",
+    "pronunciation": "ˌɪntəˈvi:n",
+    "meaning": [
+      "interweniować",
+      "ingerować",
+      "wchodzić w słowo",
+      "przeszkadzać",
+      "przechodzić"
+    ]
+  },
+  {
+    "id": "i-intervening",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intervening",
+    "pronunciation": "ˌɪntəˈvi:nɪŋ",
+    "meaning": [
+      "pośredni",
+      "znajdujący się pośrodku"
+    ]
+  },
+  {
+    "id": "i-interview",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "interview",
+    "pronunciation": "ˈɪntəvju:",
+    "meaning": [
+      "wywiad",
+      "rozmowa kwalifikacyjna",
+      "przeprowadzać wywiad",
+      "przeprowadzać rozmowę kwalifikacyjną"
+    ]
+  },
+  {
+    "id": "i-intestinal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intestinal",
+    "pronunciation": "ɪnˈtestɪnəl",
+    "meaning": [
+      "jelitowy"
+    ]
+  },
+  {
+    "id": "i-intestine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intestine",
+    "pronunciation": "ɪnˈtestɪn",
+    "meaning": [
+      "jelito"
+    ]
+  },
+  {
+    "id": "i-intimacy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intimacy",
+    "pronunciation": "ˈɪntɪməsɪ",
+    "meaning": [
+      "intymność"
+    ]
+  },
+  {
+    "id": "i-intimate",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "word": "intimate",
+    "pronunciation": "/ˈɪntɪmət/",
+    "meaning": [
+      "intymny",
+      "serdeczny",
+      "bliski",
+      "ścisły",
+      "rozległy",
+      "bliski przyjaciel",
+      "przyjaciel",
+      "dawać do zrozumienia"
+    ]
+  },
+  {
+    "id": "i-intimidate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "intimidate",
+    "pronunciation": "ɪnˈtɪmɪdeɪt",
+    "meaning": [
+      "zastraszać"
+    ]
+  },
+  {
+    "id": "i-intimidation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intimidation",
+    "pronunciation": "ɪnˌtɪmɪˈdeɪʃən",
+    "meaning": [
+      "zastraszenie"
+    ]
+  },
+  {
+    "id": "i-into",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "into",
+    "pronunciation": "/ˈɪntuː/",
+    "meaning": [
+      "do",
+      "w",
+      "na"
+    ]
+  },
+  {
+    "id": "i-intolerable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intolerable",
+    "pronunciation": "ɪnˈtɒlərəbəl",
+    "meaning": [
+      "nieznośny",
+      "nie do wytrzymania"
+    ]
+  },
+  {
+    "id": "i-intolerant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intolerant",
+    "pronunciation": "ɪnˈtɒlərənt",
+    "meaning": [
+      "nietolerancyjny"
+    ]
+  },
+  {
+    "id": "i-intonation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intonation",
+    "pronunciation": "ˌɪntəˈneɪʃən",
+    "meaning": [
+      "intonacja"
+    ]
+  },
+  {
+    "id": "i-intone",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "intone",
+    "pronunciation": "ɪnˈtəʊn",
+    "meaning": [
+      "intonować",
+      "recytować"
+    ]
+  },
+  {
+    "id": "i-intoxicated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intoxicated",
+    "pronunciation": "ɪnˈtɒksɪkeɪtɪd",
+    "meaning": [
+      "pijany",
+      "upojony"
+    ]
+  },
+  {
+    "id": "i-intoxicating",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intoxicating",
+    "pronunciation": "ɪnˈtɒksɪkeɪtɪŋ",
+    "meaning": [
+      "alkoholowy",
+      "oszałamiający"
+    ]
+  },
+  {
+    "id": "i-intoxication",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intoxication",
+    "pronunciation": "ɪnˌtɒksɪˈkeɪʃən",
+    "meaning": [
+      "upojenie alkoholowe",
+      "upojenie się",
+      "oszołomienie"
+    ]
+  },
+  {
+    "id": "i-intr.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intr.",
+    "pronunciation": "/ˈɪntrə/",
+    "meaning": [
+      "nieprzechodni"
+    ]
+  },
+  {
+    "id": "i-intractable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intractable",
+    "pronunciation": "ɪnˈtræktəbəl",
+    "meaning": [
+      "oporny",
+      "uparty",
+      "niepodatny"
+    ]
+  },
+  {
+    "id": "i-intransitive",
+    "level": "C2",
+    "partOfSpeech": "adjective",
+    "word": "intransitive",
+    "pronunciation": "ɪnˈtrænsɪtɪv",
+    "meaning": [
+      "nieprzechodni"
+    ]
+  },
+  {
+    "id": "i-intrepid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intrepid",
+    "pronunciation": "ɪnˈtrepɪd",
+    "meaning": [
+      "nieustraszony"
+    ]
+  },
+  {
+    "id": "i-intricacy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intricacy",
+    "pronunciation": "ˈɪntrɪkəsɪ",
+    "meaning": [
+      "skomplikowanie",
+      "zawiłość"
+    ]
+  },
+  {
+    "id": "i-intricate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intricate",
+    "pronunciation": "ˈɪntrɪkət",
+    "meaning": [
+      "zawiły"
+    ]
+  },
+  {
+    "id": "i-intrigue",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "intrigue",
+    "pronunciation": "/ɪnˈtriːɡ/",
+    "meaning": [
+      "intryga",
+      "intrygować"
+    ]
+  },
+  {
+    "id": "i-intrinsic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "intrinsic",
+    "pronunciation": "ɪnˈtrɪnsɪk",
+    "meaning": [
+      "zasadniczy",
+      "podstawowy"
+    ]
+  },
+  {
+    "id": "i-intro",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "intro",
+    "pronunciation": "ˈɪntrəʊ",
+    "meaning": [
+      "wstęp"
+    ]
+  },
+  {
+    "id": "i-introduce",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "introduce",
+    "pronunciation": "ˌɪntrəˈdju:s",
+    "meaning": [
+      "przedstawiać",
+      "wprowadzać"
+    ]
+  },
+  {
+    "id": "i-introduction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "introduction",
+    "pronunciation": "ˌɪntrəˈdʌkʃən",
+    "meaning": [
+      "wprowadzenie",
+      "przedmowa",
+      "wstęp",
+      "przedstawienie",
+      "prezentacja"
+    ]
+  },
+  {
+    "id": "i-introductory",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "introductory",
+    "pronunciation": "ˌɪntrəˈdʌktərɪ",
+    "meaning": [
+      "wstępny",
+      "wprowadzający"
+    ]
+  },
+  {
+    "id": "i-introspection",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "introspection",
+    "pronunciation": "ˌɪntrəˈspekʃən",
+    "meaning": [
+      "introspekcja"
+    ]
+  },
+  {
+    "id": "i-introspective",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "introspective",
+    "pronunciation": "ˌɪntrəˈspektɪv",
+    "meaning": [
+      "rozmyślający nad sobą",
+      "rozmyślający"
+    ]
+  },
+  {
+    "id": "i-introvert",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "introvert",
+    "pronunciation": "ˈɪntrəvɜ:t",
+    "meaning": [
+      "introwertyk"
+    ]
+  },
+  {
+    "id": "i-intrude",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "intrude",
+    "pronunciation": "ɪnˈtru:d",
+    "meaning": [
+      "przeszkadzać",
+      "mieszać się",
+      "naruszać",
+      "wdzierać się",
+      "nachodzić"
+    ]
+  },
+  {
+    "id": "i-intruder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intruder",
+    "pronunciation": "ɪnˈtru:də",
+    "meaning": [
+      "intruz",
+      "natręt"
+    ]
+  },
+  {
+    "id": "i-intrusion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "intrusion",
+    "pronunciation": "ɪnˈtru:ʒən",
+    "meaning": [
+      "najście",
+      "wdzieranie się"
+    ]
+  },
+  {
+    "id": "i-intrusive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "intrusive",
+    "pronunciation": "ɪnˈtru:sɪv",
+    "meaning": [
+      "natrętny"
+    ]
+  },
+  {
+    "id": "i-intuition",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "intuition",
+    "pronunciation": "ˌɪntjʊˈɪʃən",
+    "meaning": [
+      "intuicja"
+    ]
+  },
+  {
+    "id": "i-intuitive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "intuitive",
+    "pronunciation": "ɪnˈtju:ɪtɪv",
+    "meaning": [
+      "intuicyjny"
+    ]
+  },
+  {
+    "id": "i-inundate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "inundate",
+    "pronunciation": "ˈɪnʌndeɪt",
+    "meaning": [
+      "zatapiać",
+      "zasypywać"
+    ]
+  },
+  {
+    "id": "i-invade",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "invade",
+    "pronunciation": "ɪnˈveɪd",
+    "meaning": [
+      "najeżdżać",
+      "przeprowadzać inwazję",
+      "opanowywać",
+      "naruszać"
+    ]
+  },
+  {
+    "id": "i-invalid",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "invalid",
+    "pronunciation": "/ɪnˈvælɪd/",
+    "meaning": [
+      "inwalida",
+      "kaleka",
+      "inwalidzki",
+      "nieważny",
+      "nie wiążący",
+      "bezpodstawny"
+    ]
+  },
+  {
+    "id": "i-invalidate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "invalidate",
+    "pronunciation": "ɪnˈvælɪdeɪt",
+    "meaning": [
+      "unieważniać",
+      "znosić"
+    ]
+  },
+  {
+    "id": "i-invaluable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "invaluable",
+    "pronunciation": "ɪnˈvæljʊəbəl",
+    "meaning": [
+      "nieoceniony"
+    ]
+  },
+  {
+    "id": "i-invariable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "invariable",
+    "pronunciation": "ɪnˈveərɪəbəl",
+    "meaning": [
+      "niezmienny"
+    ]
+  },
+  {
+    "id": "i-invasion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "invasion",
+    "pronunciation": "ɪnˈveɪʒən",
+    "meaning": [
+      "inwazja",
+      "najście",
+      "najazd"
+    ]
+  },
+  {
+    "id": "i-invective",
+    "level": "C2",
+    "partOfSpeech": "noun",
+    "word": "invective",
+    "pronunciation": "ɪnˈvektɪv",
+    "meaning": [
+      "inwektywa",
+      "obelga"
+    ]
+  },
+  {
+    "id": "i-invent",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "invent",
+    "pronunciation": "ɪnˈvent",
+    "meaning": [
+      "wynajdować",
+      "wymyślać",
+      "wynaleźć"
+    ]
+  },
+  {
+    "id": "i-invention",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "invention",
+    "pronunciation": "ɪnˈvenʃən",
+    "meaning": [
+      "wynalazek",
+      "wynalezienie",
+      "wymysł",
+      "inwencja",
+      "fantazja"
+    ]
+  },
+  {
+    "id": "i-inventive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "inventive",
+    "pronunciation": "ɪnˈventɪv",
+    "meaning": [
+      "wynalazczy"
+    ]
+  },
+  {
+    "id": "i-inventor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inventor",
+    "pronunciation": "ɪnˈventə",
+    "meaning": [
+      "wynalazca"
+    ]
+  },
+  {
+    "id": "i-inventory",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "inventory",
+    "pronunciation": "ˈɪnvəntərɪ",
+    "meaning": [
+      "inwentarz",
+      "spis"
+    ]
+  },
+  {
+    "id": "i-inverse",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "inverse",
+    "pronunciation": "ˌɪnˈvɜ:s",
+    "meaning": [
+      "odwrotny",
+      "inwersja"
+    ]
+  },
+  {
+    "id": "i-invert",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "invert",
+    "pronunciation": "ɪnˈvɜ:t",
+    "meaning": [
+      "odwracać"
+    ]
+  },
+  {
+    "id": "i-invertebrate",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "invertebrate",
+    "pronunciation": "ɪnˈvɜ:tɪbrət",
+    "meaning": [
+      "bezkręgowiec"
+    ]
+  },
+  {
+    "id": "i-inverted_commas",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "inverted commas",
+    "pronunciation": "ɪnˌvɜ:tɪd ˈkɒməz",
+    "meaning": [
+      "cudzysłów"
+    ]
+  },
+  {
+    "id": "i-invest",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "invest",
+    "pronunciation": "ɪnˈvest",
+    "meaning": [
+      "inwestować",
+      "obdarzać",
+      "nakładać"
+    ]
+  },
+  {
+    "id": "i-investigate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "investigate",
+    "pronunciation": "ɪnˈvestɪgeɪt",
+    "meaning": [
+      "przeprowadzać dochodzenie"
+    ]
+  },
+  {
+    "id": "i-investigation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "investigation",
+    "pronunciation": "ɪnˌvestɪˈgeɪʃən",
+    "meaning": [
+      "dochodzenie"
+    ]
+  },
+  {
+    "id": "i-investigator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "investigator",
+    "pronunciation": "ɪnˈvestɪgeɪtə",
+    "meaning": [
+      "prowadzący dochodzenie"
+    ]
+  },
+  {
+    "id": "i-investment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "investment",
+    "pronunciation": "ɪnˈvestmənt",
+    "meaning": [
+      "inwestowanie",
+      "inwestycja"
+    ]
+  },
+  {
+    "id": "i-investor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "investor",
+    "pronunciation": "ɪnˈvestə",
+    "meaning": [
+      "inwestor"
+    ]
+  },
+  {
+    "id": "i-invidious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "invidious",
+    "pronunciation": "ɪnˈvɪdɪəs",
+    "meaning": [
+      "nienawistny",
+      "nierówny",
+      "niekorzystny"
+    ]
+  },
+  {
+    "id": "i-invigorating",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "invigorating",
+    "pronunciation": "ɪnˈvɪgəreɪtɪŋ",
+    "meaning": [
+      "pobudzający",
+      "ożywczy"
+    ]
+  },
+  {
+    "id": "i-invincible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "invincible",
+    "pronunciation": "ɪnˈvɪnsəbəl",
+    "meaning": [
+      "niepokonany",
+      "niezwyciężony"
+    ]
+  },
+  {
+    "id": "i-invisible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "invisible",
+    "pronunciation": "ɪnˈvɪzəbəl",
+    "meaning": [
+      "niewidoczny",
+      "niewidzialny",
+      "ukryty"
+    ]
+  },
+  {
+    "id": "i-invitation",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "invitation",
+    "pronunciation": "ˌɪnvɪˈteɪʃən",
+    "meaning": [
+      "zaproszenie"
+    ]
+  },
+  {
+    "id": "i-invite",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "invite",
+    "pronunciation": "ɪnˈvaɪt",
+    "meaning": [
+      "zapraszać",
+      "zachęcać",
+      "skłaniać",
+      "wyzywać",
+      "przyzywać"
+    ]
+  },
+  {
+    "id": "i-inviting",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "inviting",
+    "pronunciation": "ɪnˈvaɪtɪŋ",
+    "meaning": [
+      "zachęcający"
+    ]
+  },
+  {
+    "id": "i-invoice",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "invoice",
+    "pronunciation": "ˈɪnvɔɪs",
+    "meaning": [
+      "faktura"
+    ]
+  },
+  {
+    "id": "i-invoke",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "invoke",
+    "pronunciation": "ɪnˈvəʊk",
+    "meaning": [
+      "powoływać się na",
+      "przywoływać",
+      "wywoływać"
+    ]
+  },
+  {
+    "id": "i-involuntary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "involuntary",
+    "pronunciation": "ɪnˈvɒləntərɪ",
+    "meaning": [
+      "mimowolny"
+    ]
+  },
+  {
+    "id": "i-involve",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "involve",
+    "pronunciation": "ɪnˈvɒlv",
+    "meaning": [
+      "obejmować",
+      "wciągać",
+      "dotyczyć",
+      "pociągać za sobą",
+      "odnosić się",
+      "tyczyć się",
+      "wplątywać",
+      "wmieszywać"
+    ]
+  },
+  {
+    "id": "i-involved",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "involved",
+    "pronunciation": "ɪnˈvɒlvd",
+    "meaning": [
+      "zaabsorbowany",
+      "wciągnięty",
+      "wplątany",
+      "zawiły",
+      "pogmatwany",
+      "odnośny",
+      "zainteresowany",
+      "o który chodzi"
+    ]
+  },
+  {
+    "id": "i-involvement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "involvement",
+    "pronunciation": "ɪnˈvɒlvmənt",
+    "meaning": [
+      "zaangażowanie",
+      "wciągnięcie",
+      "wplątanie",
+      "odniesienie",
+      "stosunki",
+      "romans"
+    ]
+  },
+  {
+    "id": "i-invulnerable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "invulnerable",
+    "pronunciation": "ɪnˈvʌlnərəbəl",
+    "meaning": [
+      "niezniszczalny",
+      "nie do zranienia"
+    ]
+  },
+  {
+    "id": "i-inward",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "inward",
+    "pronunciation": "ˈɪnwəd",
+    "meaning": [
+      "wewnętrzny",
+      "do środka",
+      "do wewnątrz",
+      "dośrodkowy"
+    ]
+  },
+  {
+    "id": "i-inwards",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "inwards",
+    "pronunciation": "ˈɪnwədz",
+    "meaning": [
+      "do środka",
+      "do wewnątrz"
+    ]
+  },
+  {
+    "id": "i-iodine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "iodine",
+    "pronunciation": "ˈaɪədi:n",
+    "meaning": [
+      "jod",
+      "jodyna"
+    ]
+  },
+  {
+    "id": "i-ion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ion",
+    "pronunciation": "ˈaɪən",
+    "meaning": [
+      "jon"
+    ]
+  },
+  {
+    "id": "i-iota",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "iota",
+    "pronunciation": "aɪˈəʊtə",
+    "meaning": [
+      "jota"
+    ]
+  },
+  {
+    "id": "i-IOU",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "IOU",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "jestem winien"
+    ]
+  },
+  {
+    "id": "i-Iowa",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Iowa",
+    "pronunciation": "ˈaɪəʊə",
+    "meaning": [
+      "Iowa"
+    ]
+  },
+  {
+    "id": "i-IQ",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "IQ",
+    "pronunciation": "⋅ˈ⋅",
+    "meaning": [
+      "iloraz inteligencji"
+    ]
+  },
+  {
+    "id": "i-IRA",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "IRA",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Irlandzka Armia Republikańska"
+    ]
+  },
+  {
+    "id": "i-Iran",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Iran",
+    "pronunciation": "ɪˈrɑ:n",
+    "meaning": [
+      "Iran"
+    ]
+  },
+  {
+    "id": "i-Iranian",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Iranian",
+    "pronunciation": "ɪˈreɪnɪən",
+    "meaning": [
+      "irański",
+      "Irańczyk"
+    ]
+  },
+  {
+    "id": "i-Iraq",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Iraq",
+    "pronunciation": "ɪˈrɑ:k",
+    "meaning": [
+      "Irak"
+    ]
+  },
+  {
+    "id": "i-Iraqi",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Iraqi",
+    "pronunciation": "ɪˈrɑ:kɪ",
+    "meaning": [
+      "iracki"
+    ]
+  },
+  {
+    "id": "i-irascible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irascible",
+    "pronunciation": "ɪˈræsɪbəl",
+    "meaning": [
+      "drażliwy"
+    ]
+  },
+  {
+    "id": "i-irate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irate",
+    "pronunciation": "aɪˈreɪt",
+    "meaning": [
+      "rozgniewany"
+    ]
+  },
+  {
+    "id": "i-Ire.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Ire.",
+    "pronunciation": "/ˈaɪə/",
+    "meaning": [
+      "Irlandia"
+    ]
+  },
+  {
+    "id": "i-Ireland",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Ireland",
+    "pronunciation": "ˈaɪələnd",
+    "meaning": [
+      "Irlandia"
+    ]
+  },
+  {
+    "id": "i-iridescent",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "iridescent",
+    "pronunciation": "ˌɪrɪˈdesənt",
+    "meaning": [
+      "opalizujący"
+    ]
+  },
+  {
+    "id": "i-iris",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "iris",
+    "pronunciation": "ˈaɪrɪs",
+    "meaning": [
+      "tęczówka",
+      "irys",
+      "kosaciec"
+    ]
+  },
+  {
+    "id": "i-Irish",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Irish",
+    "pronunciation": "ˈaɪrɪʃ",
+    "meaning": [
+      "irlandzki"
+    ]
+  },
+  {
+    "id": "i-Irishman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Irishman",
+    "pronunciation": "ˈaɪrɪʃmən",
+    "meaning": [
+      "Irlandczyk"
+    ]
+  },
+  {
+    "id": "i-Irishwoman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Irishwoman",
+    "pronunciation": "ˈaɪrɪʃwʊmən",
+    "meaning": [
+      "Irlandka"
+    ]
+  },
+  {
+    "id": "i-irksome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irksome",
+    "pronunciation": "ˈɜ:ksəm",
+    "meaning": [
+      "dokuczliwy",
+      "uciążliwy"
+    ]
+  },
+  {
+    "id": "i-iron",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "iron",
+    "pronunciation": "ˈaɪən",
+    "meaning": [
+      "żelazo",
+      "żelazko",
+      "żelazny",
+      "nieugięty",
+      "prasować",
+      "wygładzać",
+      "pokonywać"
+    ]
+  },
+  {
+    "id": "i-ironic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ironic",
+    "pronunciation": "aɪˈrɒnɪk(əl)",
+    "meaning": [
+      "ironiczny"
+    ]
+  },
+  {
+    "id": "i-ironically",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "ironically",
+    "pronunciation": "aɪˈrɒnɪkəlɪ",
+    "meaning": [
+      "jak na ironię",
+      "ironicznie"
+    ]
+  },
+  {
+    "id": "i-ironing_board",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ironing board",
+    "pronunciation": "ˈaɪənɪŋ bɔ:d",
+    "meaning": [
+      "deska do prasowania"
+    ]
+  },
+  {
+    "id": "i-irony",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "irony",
+    "pronunciation": "ˈaɪrənɪ",
+    "meaning": [
+      "ironia"
+    ]
+  },
+  {
+    "id": "i-irrational",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irrational",
+    "pronunciation": "ɪˈræʃənəl",
+    "meaning": [
+      "irracjonalny",
+      "nielogiczny",
+      "nierozumny"
+    ]
+  },
+  {
+    "id": "i-irreconcilable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irreconcilable",
+    "pronunciation": "ɪˌrekənˈsaɪləbəl",
+    "meaning": [
+      "nie do pogodzenia",
+      "nieprzejednany"
+    ]
+  },
+  {
+    "id": "i-irreducible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irreducible",
+    "pronunciation": "ˌɪrɪˈdju:sɪbəl",
+    "meaning": [
+      "nieredukowalny",
+      "nieprzekazywalny"
+    ]
+  },
+  {
+    "id": "i-irrefutable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irrefutable",
+    "pronunciation": "ˌɪrɪˈfju:təbəl",
+    "meaning": [
+      "niezbity"
+    ]
+  },
+  {
+    "id": "i-irregular",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "irregular",
+    "pronunciation": "ɪˈregjələ",
+    "meaning": [
+      "nieregularny",
+      "nieprawidłowy",
+      "nieregulaminowy"
+    ]
+  },
+  {
+    "id": "i-irregularity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "irregularity",
+    "pronunciation": "ɪˌregjəˈlærɪtɪ",
+    "meaning": [
+      "nieregularność",
+      "nieprawidłowość"
+    ]
+  },
+  {
+    "id": "i-irrelevance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "irrelevance",
+    "pronunciation": "ɪˈreləvəns",
+    "meaning": [
+      "brak związku"
+    ]
+  },
+  {
+    "id": "i-irrelevant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irrelevant",
+    "pronunciation": "ɪˈreləvənt",
+    "meaning": [
+      "nieistotny",
+      "bez związku",
+      "zbyteczny"
+    ]
+  },
+  {
+    "id": "i-irreligious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreligious",
+    "pronunciation": "ˌɪrɪˈlɪʤəs",
+    "meaning": [
+      "niereligijny",
+      "nie wierzący"
+    ]
+  },
+  {
+    "id": "i-irreparable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreparable",
+    "pronunciation": "ɪˈrepərəbəl",
+    "meaning": [
+      "nieodwracalny",
+      "niepowetowany",
+      "nie do naprawienia"
+    ]
+  },
+  {
+    "id": "i-irreplaceable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreplaceable",
+    "pronunciation": "ˌɪrɪˈpleɪsəbəl",
+    "meaning": [
+      "niezastąpiony"
+    ]
+  },
+  {
+    "id": "i-irrepressible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irrepressible",
+    "pronunciation": "ˌɪrɪˈpresɪbəl",
+    "meaning": [
+      "nieokiełznany",
+      "nie do pognębienia"
+    ]
+  },
+  {
+    "id": "i-irreproachable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irreproachable",
+    "pronunciation": "ˌɪrɪˈprəʊʧəbəl",
+    "meaning": [
+      "nienaganny",
+      "bez zarzutu"
+    ]
+  },
+  {
+    "id": "i-irresistible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irresistible",
+    "pronunciation": "ˌɪrɪˈzɪstəbəl",
+    "meaning": [
+      "nieodparty",
+      "nieprzeparty",
+      "nie do odparcia"
+    ]
+  },
+  {
+    "id": "i-irresolute",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irresolute",
+    "pronunciation": "ɪˈrezəlu:t",
+    "meaning": [
+      "niezdecydowany"
+    ]
+  },
+  {
+    "id": "i-irrespective",
+    "level": "B2",
+    "partOfSpeech": "preposition",
+    "word": "irrespective",
+    "pronunciation": "ˌɪrɪˈspektɪv",
+    "meaning": [
+      "niezależnie"
+    ]
+  },
+  {
+    "id": "i-irresponsible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irresponsible",
+    "pronunciation": "ˌɪrɪˈspɒnsɪbəl",
+    "meaning": [
+      "nieodpowiedzialny"
+    ]
+  },
+  {
+    "id": "i-irretrievable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irretrievable",
+    "pronunciation": "ˌɪrɪˈtri:vəbəl",
+    "meaning": [
+      "nieodwracalny"
+    ]
+  },
+  {
+    "id": "i-irreverent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreverent",
+    "pronunciation": "ɪˈrevərənt",
+    "meaning": [
+      "lekceważący",
+      "bez szacunku"
+    ]
+  },
+  {
+    "id": "i-irrevocable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irrevocable",
+    "pronunciation": "ɪˈrevəkəbəl",
+    "meaning": [
+      "nieodwołalny"
+    ]
+  },
+  {
+    "id": "i-irrigate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "irrigate",
+    "pronunciation": "ˈɪrɪgeɪt",
+    "meaning": [
+      "irygować",
+      "nawadniać"
+    ]
+  },
+  {
+    "id": "i-irrigation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "irrigation",
+    "pronunciation": "ˌɪrɪgˈeɪʃən",
+    "meaning": [
+      "irygacja",
+      "nawodnienie"
+    ]
+  },
+  {
+    "id": "i-irritable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "irritable",
+    "pronunciation": "ˈɪrɪtəbəl",
+    "meaning": [
+      "nerwowy"
+    ]
+  },
+  {
+    "id": "i-irritant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "irritant",
+    "pronunciation": "ˈɪrɪtənt",
+    "meaning": [
+      "środek drażniący"
+    ]
+  },
+  {
+    "id": "i-irritate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "irritate",
+    "pronunciation": "ˈɪrɪteɪt",
+    "meaning": [
+      "irytować",
+      "podrażniać"
+    ]
+  },
+  {
+    "id": "i-irritation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "irritation",
+    "pronunciation": "ˌɪrɪˈteɪʃən",
+    "meaning": [
+      "irytacja",
+      "podrażnienie",
+      "środek drażniący"
+    ]
+  },
+  {
+    "id": "i-Islam",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Islam",
+    "pronunciation": "ˈɪzlɑ:m",
+    "meaning": [
+      "islam"
+    ]
+  },
+  {
+    "id": "i-Islamic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "Islamic",
+    "pronunciation": "ɪzˈlæmɪk",
+    "meaning": [
+      "muzułmański"
+    ]
+  },
+  {
+    "id": "i-island",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "island",
+    "pronunciation": "ˈaɪlənd",
+    "meaning": [
+      "wyspa"
+    ]
+  },
+  {
+    "id": "i-islander",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "islander",
+    "pronunciation": "ˈaɪləndə",
+    "meaning": [
+      "wyspiarz"
+    ]
+  },
+  {
+    "id": "i-isle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "isle",
+    "pronunciation": "aɪl",
+    "meaning": [
+      "wyspa",
+      "ostrów"
+    ]
+  },
+  {
+    "id": "i-isolate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "isolate",
+    "pronunciation": "ˈaɪsəleɪt",
+    "meaning": [
+      "izolować",
+      "wyobcowywać",
+      "wyodrębniać"
+    ]
+  },
+  {
+    "id": "i-isolation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "isolation",
+    "pronunciation": "ˌaɪsəˈleɪʃən",
+    "meaning": [
+      "odosobnienie",
+      "osamotnienie"
+    ]
+  },
+  {
+    "id": "i-Israel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Israel",
+    "pronunciation": "ˈɪzreɪl",
+    "meaning": [
+      "Izrael"
+    ]
+  },
+  {
+    "id": "i-Israeli",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Israeli",
+    "pronunciation": "ɪzˈreɪlɪ",
+    "meaning": [
+      "izraelski",
+      "Izraelczyk"
+    ]
+  },
+  {
+    "id": "i-issue",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "issue",
+    "pronunciation": "ˈɪʃu:",
+    "meaning": [
+      "zagadnienie",
+      "problem",
+      "sprawa",
+      "numer",
+      "wydawać",
+      "dobiegać",
+      "dochodzić"
+    ]
+  },
+  {
+    "id": "i-isthmus",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "isthmus",
+    "pronunciation": "ˈɪsθməs",
+    "meaning": [
+      "przesmyk"
+    ]
+  },
+  {
+    "id": "i-it",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "it",
+    "pronunciation": "ɪt",
+    "meaning": [
+      "to",
+      "on",
+      "ona",
+      "ono"
+    ]
+  },
+  {
+    "id": "i-Italian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Italian",
+    "pronunciation": "ɪˈtæljən",
+    "meaning": [
+      "włoski",
+      "Włoch"
+    ]
+  },
+  {
+    "id": "i-italics",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "italics",
+    "pronunciation": "ɪˈtælɪks",
+    "meaning": [
+      "kursywa"
+    ]
+  },
+  {
+    "id": "i-Italy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Italy",
+    "pronunciation": "ˈɪtəlɪ",
+    "meaning": [
+      "Włochy"
+    ]
+  },
+  {
+    "id": "i-itch",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "itch",
+    "pronunciation": "ˈɪʧ",
+    "meaning": [
+      "swędzieć",
+      "mieć chrapkę",
+      "swędzenie",
+      "chrapka",
+      "wielka ochota"
+    ]
+  },
+  {
+    "id": "i-itchy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "itchy",
+    "pronunciation": "ˈɪʧɪ",
+    "meaning": [
+      "swędzący"
+    ]
+  },
+  {
+    "id": "i-item",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "item",
+    "pronunciation": "ˈaɪtəm",
+    "meaning": [
+      "pozycja",
+      "sprawa",
+      "artykuł",
+      "wiadomość"
+    ]
+  },
+  {
+    "id": "i-itemize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "itemize",
+    "pronunciation": "ˈaɪtəmaɪz",
+    "meaning": [
+      "sporządzać listę"
+    ]
+  },
+  {
+    "id": "i-investigate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "investigate",
+    "pronunciation": "ɪnˈvestɪgeɪt",
+    "meaning": [
+      "przeprowadzać dochodzenie"
+    ]
+  },
+  {
+    "id": "i-investigation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "investigation",
+    "pronunciation": "ɪnˌvestɪˈgeɪʃən",
+    "meaning": [
+      "dochodzenie"
+    ]
+  },
+  {
+    "id": "i-investigator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "investigator",
+    "pronunciation": "ɪnˈvestɪgeɪtə",
+    "meaning": [
+      "prowadzący dochodzenie"
+    ]
+  },
+  {
+    "id": "i-investment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "investment",
+    "pronunciation": "ɪnˈvestmənt",
+    "meaning": [
+      "inwestowanie",
+      "inwestycja"
+    ]
+  },
+  {
+    "id": "i-investor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "investor",
+    "pronunciation": "ɪnˈvestə",
+    "meaning": [
+      "inwestor"
+    ]
+  },
+  {
+    "id": "i-invidious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "invidious",
+    "pronunciation": "ɪnˈvɪdɪəs",
+    "meaning": [
+      "nienawistny",
+      "nierówny",
+      "niekorzystny"
+    ]
+  },
+  {
+    "id": "i-invigorating",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "invigorating",
+    "pronunciation": "ɪnˈvɪgəreɪtɪŋ",
+    "meaning": [
+      "pobudzający",
+      "ożywczy"
+    ]
+  },
+  {
+    "id": "i-invincible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "invincible",
+    "pronunciation": "ɪnˈvɪnsəbəl",
+    "meaning": [
+      "niepokonany",
+      "niezwyciężony"
+    ]
+  },
+  {
+    "id": "i-invisible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "invisible",
+    "pronunciation": "ɪnˈvɪzəbəl",
+    "meaning": [
+      "niewidoczny",
+      "niewidzialny",
+      "ukryty"
+    ]
+  },
+  {
+    "id": "i-invitation",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "invitation",
+    "pronunciation": "ˌɪnvɪˈteɪʃən",
+    "meaning": [
+      "zaproszenie"
+    ]
+  },
+  {
+    "id": "i-invite",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "invite",
+    "pronunciation": "ɪnˈvaɪt",
+    "meaning": [
+      "zapraszać",
+      "zachęcać",
+      "skłaniać",
+      "wyzywać",
+      "przyzywać"
+    ]
+  },
+  {
+    "id": "i-inviting",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "inviting",
+    "pronunciation": "ɪnˈvaɪtɪŋ",
+    "meaning": [
+      "zachęcający"
+    ]
+  },
+  {
+    "id": "i-invoice",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "invoice",
+    "pronunciation": "ˈɪnvɔɪs",
+    "meaning": [
+      "faktura"
+    ]
+  },
+  {
+    "id": "i-invoke",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "invoke",
+    "pronunciation": "ɪnˈvəʊk",
+    "meaning": [
+      "powoływać się na",
+      "przywoływać",
+      "wywoływać"
+    ]
+  },
+  {
+    "id": "i-involuntary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "involuntary",
+    "pronunciation": "ɪnˈvɒləntərɪ",
+    "meaning": [
+      "mimowolny"
+    ]
+  },
+  {
+    "id": "i-involve",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "involve",
+    "pronunciation": "ɪnˈvɒlv",
+    "meaning": [
+      "obejmować",
+      "wciągać",
+      "dotyczyć",
+      "pociągać za sobą",
+      "odnosić się",
+      "tyczyć się",
+      "wplątywać",
+      "wmieszywać"
+    ]
+  },
+  {
+    "id": "i-involved",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "involved",
+    "pronunciation": "ɪnˈvɒlvd",
+    "meaning": [
+      "zaabsorbowany",
+      "wciągnięty",
+      "wplątany",
+      "zawiły",
+      "pogmatwany",
+      "odnośny",
+      "zainteresowany",
+      "o który chodzi"
+    ]
+  },
+  {
+    "id": "i-involvement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "involvement",
+    "pronunciation": "ɪnˈvɒlvmənt",
+    "meaning": [
+      "zaangażowanie",
+      "wciągnięcie",
+      "wplątanie",
+      "odniesienie",
+      "stosunki",
+      "romans"
+    ]
+  },
+  {
+    "id": "i-invulnerable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "invulnerable",
+    "pronunciation": "ɪnˈvʌlnərəbəl",
+    "meaning": [
+      "niezniszczalny",
+      "nie do zranienia"
+    ]
+  },
+  {
+    "id": "i-inward",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "inward",
+    "pronunciation": "ˈɪnwəd",
+    "meaning": [
+      "wewnętrzny",
+      "do środka",
+      "do wewnątrz",
+      "dośrodkowy"
+    ]
+  },
+  {
+    "id": "i-inwards",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "inwards",
+    "pronunciation": "ˈɪnwədz",
+    "meaning": [
+      "do środka",
+      "do wewnątrz"
+    ]
+  },
+  {
+    "id": "i-iodine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "iodine",
+    "pronunciation": "ˈaɪədi:n",
+    "meaning": [
+      "jod",
+      "jodyna"
+    ]
+  },
+  {
+    "id": "i-ion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ion",
+    "pronunciation": "ˈaɪən",
+    "meaning": [
+      "jon"
+    ]
+  },
+  {
+    "id": "i-iota",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "iota",
+    "pronunciation": "aɪˈəʊtə",
+    "meaning": [
+      "jota"
+    ]
+  },
+  {
+    "id": "i-IOU",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "IOU",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "jestem winien"
+    ]
+  },
+  {
+    "id": "i-Iowa",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Iowa",
+    "pronunciation": "ˈaɪəʊə",
+    "meaning": [
+      "Iowa"
+    ]
+  },
+  {
+    "id": "i-IQ",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "IQ",
+    "pronunciation": "⋅ˈ⋅",
+    "meaning": [
+      "iloraz inteligencji"
+    ]
+  },
+  {
+    "id": "i-IRA",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "IRA",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Irlandzka Armia Republikańska"
+    ]
+  },
+  {
+    "id": "i-Iran",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Iran",
+    "pronunciation": "ɪˈrɑ:n",
+    "meaning": [
+      "Iran"
+    ]
+  },
+  {
+    "id": "i-Iranian",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Iranian",
+    "pronunciation": "ɪˈreɪnɪən",
+    "meaning": [
+      "irański",
+      "Irańczyk"
+    ]
+  },
+  {
+    "id": "i-Iraq",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Iraq",
+    "pronunciation": "ɪˈrɑ:k",
+    "meaning": [
+      "Irak"
+    ]
+  },
+  {
+    "id": "i-Iraqi",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Iraqi",
+    "pronunciation": "ɪˈrɑ:kɪ",
+    "meaning": [
+      "iracki"
+    ]
+  },
+  {
+    "id": "i-irascible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irascible",
+    "pronunciation": "ɪˈræsɪbəl",
+    "meaning": [
+      "drażliwy"
+    ]
+  },
+  {
+    "id": "i-irate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irate",
+    "pronunciation": "aɪˈreɪt",
+    "meaning": [
+      "rozgniewany"
+    ]
+  },
+  {
+    "id": "i-Ire.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Ire.",
+    "pronunciation": "/ˈaɪə/",
+    "meaning": [
+      "Irlandia"
+    ]
+  },
+  {
+    "id": "i-Ireland",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Ireland",
+    "pronunciation": "ˈaɪələnd",
+    "meaning": [
+      "Irlandia"
+    ]
+  },
+  {
+    "id": "i-iridescent",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "iridescent",
+    "pronunciation": "ˌɪrɪˈdesənt",
+    "meaning": [
+      "opalizujący"
+    ]
+  },
+  {
+    "id": "i-iris",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "iris",
+    "pronunciation": "ˈaɪrɪs",
+    "meaning": [
+      "tęczówka",
+      "irys",
+      "kosaciec"
+    ]
+  },
+  {
+    "id": "i-Irish",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Irish",
+    "pronunciation": "ˈaɪrɪʃ",
+    "meaning": [
+      "irlandzki"
+    ]
+  },
+  {
+    "id": "i-Irishman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Irishman",
+    "pronunciation": "ˈaɪrɪʃmən",
+    "meaning": [
+      "Irlandczyk"
+    ]
+  },
+  {
+    "id": "i-Irishwoman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Irishwoman",
+    "pronunciation": "ˈaɪrɪʃwʊmən",
+    "meaning": [
+      "Irlandka"
+    ]
+  },
+  {
+    "id": "i-irksome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irksome",
+    "pronunciation": "ˈɜ:ksəm",
+    "meaning": [
+      "dokuczliwy",
+      "uciążliwy"
+    ]
+  },
+  {
+    "id": "i-iron",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "iron",
+    "pronunciation": "ˈaɪən",
+    "meaning": [
+      "żelazo",
+      "żelazko",
+      "żelazny",
+      "nieugięty",
+      "prasować",
+      "wygładzać",
+      "pokonywać"
+    ]
+  },
+  {
+    "id": "i-ironic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ironic",
+    "pronunciation": "aɪˈrɒnɪk(əl)",
+    "meaning": [
+      "ironiczny"
+    ]
+  },
+  {
+    "id": "i-ironically",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "ironically",
+    "pronunciation": "aɪˈrɒnɪkəlɪ",
+    "meaning": [
+      "jak na ironię",
+      "ironicznie"
+    ]
+  },
+  {
+    "id": "i-ironing_board",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ironing board",
+    "pronunciation": "ˈaɪənɪŋ bɔ:d",
+    "meaning": [
+      "deska do prasowania"
+    ]
+  },
+  {
+    "id": "i-irony",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "irony",
+    "pronunciation": "ˈaɪrənɪ",
+    "meaning": [
+      "ironia"
+    ]
+  },
+  {
+    "id": "i-irrational",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irrational",
+    "pronunciation": "ɪˈræʃənəl",
+    "meaning": [
+      "irracjonalny",
+      "nielogiczny",
+      "nierozumny"
+    ]
+  },
+  {
+    "id": "i-irreconcilable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irreconcilable",
+    "pronunciation": "ɪˌrekənˈsaɪləbəl",
+    "meaning": [
+      "nie do pogodzenia",
+      "nieprzejednany"
+    ]
+  },
+  {
+    "id": "i-irreducible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irreducible",
+    "pronunciation": "ˌɪrɪˈdju:sɪbəl",
+    "meaning": [
+      "nieredukowalny",
+      "nieprzekazywalny"
+    ]
+  },
+  {
+    "id": "i-irrefutable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irrefutable",
+    "pronunciation": "ˌɪrɪˈfju:təbəl",
+    "meaning": [
+      "niezbity"
+    ]
+  },
+  {
+    "id": "i-irregular",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "irregular",
+    "pronunciation": "ɪˈregjələ",
+    "meaning": [
+      "nieregularny",
+      "nieprawidłowy",
+      "nieregulaminowy"
+    ]
+  },
+  {
+    "id": "i-irregularity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "irregularity",
+    "pronunciation": "ɪˌregjəˈlærɪtɪ",
+    "meaning": [
+      "nieregularność",
+      "nieprawidłowość"
+    ]
+  },
+  {
+    "id": "i-irrelevance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "irrelevance",
+    "pronunciation": "ɪˈreləvəns",
+    "meaning": [
+      "brak związku"
+    ]
+  },
+  {
+    "id": "i-irrelevant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irrelevant",
+    "pronunciation": "ɪˈreləvənt",
+    "meaning": [
+      "nieistotny",
+      "bez związku",
+      "zbyteczny"
+    ]
+  },
+  {
+    "id": "i-irreligious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreligious",
+    "pronunciation": "ˌɪrɪˈlɪʤəs",
+    "meaning": [
+      "niereligijny",
+      "nie wierzący"
+    ]
+  },
+  {
+    "id": "i-irreparable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreparable",
+    "pronunciation": "ɪˈrepərəbəl",
+    "meaning": [
+      "nieodwracalny",
+      "niepowetowany",
+      "nie do naprawienia"
+    ]
+  },
+  {
+    "id": "i-irreplaceable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreplaceable",
+    "pronunciation": "ˌɪrɪˈpleɪsəbəl",
+    "meaning": [
+      "niezastąpiony"
+    ]
+  },
+  {
+    "id": "i-irrepressible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irrepressible",
+    "pronunciation": "ˌɪrɪˈpresɪbəl",
+    "meaning": [
+      "nieokiełznany",
+      "nie do pognębienia"
+    ]
+  },
+  {
+    "id": "i-irreproachable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irreproachable",
+    "pronunciation": "ˌɪrɪˈprəʊʧəbəl",
+    "meaning": [
+      "nienaganny",
+      "bez zarzutu"
+    ]
+  },
+  {
+    "id": "i-irresistible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irresistible",
+    "pronunciation": "ˌɪrɪˈzɪstəbəl",
+    "meaning": [
+      "nieodparty",
+      "nieprzeparty",
+      "nie do odparcia"
+    ]
+  },
+  {
+    "id": "i-irresolute",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irresolute",
+    "pronunciation": "ɪˈrezəlu:t",
+    "meaning": [
+      "niezdecydowany"
+    ]
+  },
+  {
+    "id": "i-irrespective",
+    "level": "B2",
+    "partOfSpeech": "preposition",
+    "word": "irrespective",
+    "pronunciation": "ˌɪrɪˈspektɪv",
+    "meaning": [
+      "niezależnie"
+    ]
+  },
+  {
+    "id": "i-irresponsible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irresponsible",
+    "pronunciation": "ˌɪrɪˈspɒnsɪbəl",
+    "meaning": [
+      "nieodpowiedzialny"
+    ]
+  },
+  {
+    "id": "i-irretrievable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "irretrievable",
+    "pronunciation": "ˌɪrɪˈtri:vəbəl",
+    "meaning": [
+      "nieodwracalny"
+    ]
+  },
+  {
+    "id": "i-irreverent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irreverent",
+    "pronunciation": "ɪˈrevərənt",
+    "meaning": [
+      "lekceważący",
+      "bez szacunku"
+    ]
+  },
+  {
+    "id": "i-irrevocable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "irrevocable",
+    "pronunciation": "ɪˈrevəkəbəl",
+    "meaning": [
+      "nieodwołalny"
+    ]
+  },
+  {
+    "id": "i-irrigate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "irrigate",
+    "pronunciation": "ˈɪrɪgeɪt",
+    "meaning": [
+      "irygować",
+      "nawadniać"
+    ]
+  },
+  {
+    "id": "i-irrigation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "irrigation",
+    "pronunciation": "ˌɪrɪgˈeɪʃən",
+    "meaning": [
+      "irygacja",
+      "nawodnienie"
+    ]
+  },
+  {
+    "id": "i-irritable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "irritable",
+    "pronunciation": "ˈɪrɪtəbəl",
+    "meaning": [
+      "nerwowy"
+    ]
+  },
+  {
+    "id": "i-irritant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "irritant",
+    "pronunciation": "ˈɪrɪtənt",
+    "meaning": [
+      "środek drażniący"
+    ]
+  },
+  {
+    "id": "i-irritate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "irritate",
+    "pronunciation": "ˈɪrɪteɪt",
+    "meaning": [
+      "irytować",
+      "podrażniać"
+    ]
+  },
+  {
+    "id": "i-irritation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "irritation",
+    "pronunciation": "ˌɪrɪˈteɪʃən",
+    "meaning": [
+      "irytacja",
+      "podrażnienie",
+      "środek drażniący"
+    ]
+  },
+  {
+    "id": "i-Islam",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Islam",
+    "pronunciation": "ˈɪzlɑ:m",
+    "meaning": [
+      "islam"
+    ]
+  },
+  {
+    "id": "i-Islamic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "Islamic",
+    "pronunciation": "ɪzˈlæmɪk",
+    "meaning": [
+      "muzułmański"
+    ]
+  },
+  {
+    "id": "i-island",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "island",
+    "pronunciation": "ˈaɪlənd",
+    "meaning": [
+      "wyspa"
+    ]
+  },
+  {
+    "id": "i-islander",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "islander",
+    "pronunciation": "ˈaɪləndə",
+    "meaning": [
+      "wyspiarz"
+    ]
+  },
+  {
+    "id": "i-isle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "isle",
+    "pronunciation": "aɪl",
+    "meaning": [
+      "wyspa",
+      "ostrów"
+    ]
+  },
+  {
+    "id": "i-isolate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "isolate",
+    "pronunciation": "ˈaɪsəleɪt",
+    "meaning": [
+      "izolować",
+      "wyobcowywać",
+      "wyodrębniać"
+    ]
+  },
+  {
+    "id": "i-isolation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "isolation",
+    "pronunciation": "ˌaɪsəˈleɪʃən",
+    "meaning": [
+      "odosobnienie",
+      "osamotnienie"
+    ]
+  },
+  {
+    "id": "i-Israel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Israel",
+    "pronunciation": "ˈɪzreɪl",
+    "meaning": [
+      "Izrael"
+    ]
+  },
+  {
+    "id": "i-Israeli",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Israeli",
+    "pronunciation": "ɪzˈreɪlɪ",
+    "meaning": [
+      "izraelski",
+      "Izraelczyk"
+    ]
+  },
+  {
+    "id": "i-issue",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "issue",
+    "pronunciation": "ˈɪʃu:",
+    "meaning": [
+      "zagadnienie",
+      "problem",
+      "sprawa",
+      "numer",
+      "wydawać",
+      "dobiegać",
+      "dochodzić"
+    ]
+  },
+  {
+    "id": "i-isthmus",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "isthmus",
+    "pronunciation": "ˈɪsθməs",
+    "meaning": [
+      "przesmyk"
+    ]
+  },
+  {
+    "id": "i-it",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "it",
+    "pronunciation": "ɪt",
+    "meaning": [
+      "to",
+      "on",
+      "ona",
+      "ono"
+    ]
+  },
+  {
+    "id": "i-Italian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Italian",
+    "pronunciation": "ɪˈtæljən",
+    "meaning": [
+      "włoski",
+      "Włoch"
+    ]
+  },
+  {
+    "id": "i-italics",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "italics",
+    "pronunciation": "ɪˈtælɪks",
+    "meaning": [
+      "kursywa"
+    ]
+  },
+  {
+    "id": "i-Italy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Italy",
+    "pronunciation": "ˈɪtəlɪ",
+    "meaning": [
+      "Włochy"
+    ]
+  },
+  {
+    "id": "i-itch",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "itch",
+    "pronunciation": "ˈɪʧ",
+    "meaning": [
+      "swędzieć",
+      "mieć chrapkę",
+      "swędzenie",
+      "chrapka",
+      "wielka ochota"
+    ]
+  },
+  {
+    "id": "i-itchy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "itchy",
+    "pronunciation": "ˈɪʧɪ",
+    "meaning": [
+      "swędzący"
+    ]
+  },
+  {
+    "id": "i-item",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "item",
+    "pronunciation": "ˈaɪtəm",
+    "meaning": [
+      "pozycja",
+      "sprawa",
+      "artykuł",
+      "wiadomość"
+    ]
+  },
+  {
+    "id": "i-itemize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "itemize",
+    "pronunciation": "ˈaɪtəmaɪz",
+    "meaning": [
+      "sporządzać listę"
+    ]
+  },
+  {
+    "id": "i-itinerant",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "itinerant",
+    "pronunciation": "ɪˈtɪnərənt",
+    "meaning": [
+      "wędrowny"
+    ]
+  },
+  {
+    "id": "i-itinerary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "itinerary",
+    "pronunciation": "ɪˈtɪnərərɪ",
+    "meaning": [
+      "plan podróży",
+      "marszruta"
+    ]
+  },
+  {
+    "id": "i-its",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "its",
+    "pronunciation": "ɪts",
+    "meaning": [
+      "jego",
+      "jej",
+      "ich",
+      "swój"
+    ]
+  },
+  {
+    "id": "i-itself",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "itself",
+    "pronunciation": "ɪtˈself",
+    "meaning": [
+      "się",
+      "siebie",
+      "sam"
+    ]
+  },
+  {
+    "id": "i-ITV",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ITV",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Telewizja Niezależna"
+    ]
+  },
+  {
+    "id": "i-ivory",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ivory",
+    "pronunciation": "ˈaɪvərɪ",
+    "meaning": [
+      "kość słoniowa"
+    ]
+  },
+  {
+    "id": "i-ivy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ivy",
+    "pronunciation": "ˈaɪvɪ",
+    "meaning": [
+      "bluszcz"
+    ]
+  }
+]
