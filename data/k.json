@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "k-kaleidoscope",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "kaleidoscope",
+    "pronunciation": "kəˈlaɪdəskəʊp",
+    "meaning": [
+      "kalejdoskop"
+    ]
+  },
+  {
+    "id": "k-kangaroo",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kangaroo",
+    "pronunciation": "ˌkæŋgəˈru:",
+    "meaning": [
+      "kangur"
+    ]
+  },
+  {
+    "id": "k-Kansas",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Kansas",
+    "pronunciation": "ˈkænzəs",
+    "meaning": [
+      "Kansas"
+    ]
+  },
+  {
+    "id": "k-karate",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "karate",
+    "pronunciation": "kəˈrɑ:tɪ",
+    "meaning": [
+      "karate"
+    ]
+  },
+  {
+    "id": "k-keel",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "keel",
+    "pronunciation": "ki:l",
+    "meaning": [
+      "kil",
+      "wywracać się"
+    ]
+  },
+  {
+    "id": "k-keen",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "keen",
+    "pronunciation": "ki:n",
+    "meaning": [
+      "chętny",
+      "zamiłowany",
+      "pełen zapału",
+      "ostry",
+      "wielki"
+    ]
+  },
+  {
+    "id": "k-keenly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "keenly",
+    "pronunciation": "ˈki:nlɪ",
+    "meaning": [
+      "bardzo",
+      "z uwagą",
+      "ostro"
+    ]
+  },
+  {
+    "id": "k-keeper",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "keeper",
+    "pronunciation": "ˈki:pə",
+    "meaning": [
+      "dozorca"
+    ]
+  },
+  {
+    "id": "k-keg",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "keg",
+    "pronunciation": "keg",
+    "meaning": [
+      "beczułka"
+    ]
+  },
+  {
+    "id": "k-kennel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kennel",
+    "pronunciation": "ˈkenəl",
+    "meaning": [
+      "buda",
+      "schronisko",
+      "hodowla psów"
+    ]
+  },
+  {
+    "id": "k-Kentucky",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Kentucky",
+    "pronunciation": "kenˈtʌkɪ",
+    "meaning": [
+      "Kentucky"
+    ]
+  },
+  {
+    "id": "k-Kenya",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Kenya",
+    "pronunciation": "ˈkenjə",
+    "meaning": [
+      "Kenia"
+    ]
+  },
+  {
+    "id": "k-Kenyan",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Kenyan",
+    "pronunciation": "ˈkenjən",
+    "meaning": [
+      "kenijski",
+      "Kenijczyk"
+    ]
+  },
+  {
+    "id": "k-kerb",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kerb",
+    "pronunciation": "kɜ:b",
+    "meaning": [
+      "krawężnik"
+    ]
+  },
+  {
+    "id": "k-kernel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kernel",
+    "pronunciation": "ˈkɜ:nəl",
+    "meaning": [
+      "jądro"
+    ]
+  },
+  {
+    "id": "k-kerosene",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kerosene",
+    "pronunciation": "ˈkerəsi:n",
+    "meaning": [
+      "nafta"
+    ]
+  },
+  {
+    "id": "k-kestrel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "kestrel",
+    "pronunciation": "ˈkestrəl",
+    "meaning": [
+      "pustułka"
+    ]
+  },
+  {
+    "id": "k-ketchup",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ketchup",
+    "pronunciation": "ˈkeʧʌp",
+    "meaning": [
+      "keczup"
+    ]
+  },
+  {
+    "id": "k-kettle",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "kettle",
+    "pronunciation": "ˈketəl",
+    "meaning": [
+      "czajnik"
+    ]
+  },
+  {
+    "id": "k-kettle-drum",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kettle-drum",
+    "pronunciation": "ˈketəldrʌm",
+    "meaning": [
+      "kocioł"
+    ]
+  },
+  {
+    "id": "k-key",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "key",
+    "pronunciation": "ki:",
+    "meaning": [
+      "klucz",
+      "klawisz",
+      "legenda",
+      "kluczowy"
+    ]
+  },
+  {
+    "id": "k-keyboard",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "keyboard",
+    "pronunciation": "ˈki:bɔ:d",
+    "meaning": [
+      "klawiatura"
+    ]
+  },
+  {
+    "id": "k-keyhole",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "keyhole",
+    "pronunciation": "ˈki:həʊl",
+    "meaning": [
+      "dziurka od klucza"
+    ]
+  },
+  {
+    "id": "k-keynote",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "keynote",
+    "pronunciation": "ˈki:nəʊt",
+    "meaning": [
+      "program",
+      "hasło"
+    ]
+  },
+  {
+    "id": "k-keyword",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "keyword",
+    "pronunciation": "ˈki:wɜ:d",
+    "meaning": [
+      "słowo kluczowe"
+    ]
+  },
+  {
+    "id": "k-khaki",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "khaki",
+    "pronunciation": "ˈkɑ:kɪ",
+    "meaning": [
+      "khaki"
+    ]
+  },
+  {
+    "id": "k-kick-off",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kick-off",
+    "pronunciation": "ˈkɪkɒf",
+    "meaning": [
+      "początek meczu piłkarskiego",
+      "początek"
+    ]
+  },
+  {
+    "id": "k-kid",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "kid",
+    "pronunciation": "kɪd",
+    "meaning": [
+      "dzieciak",
+      "koźlę",
+      "zamsz",
+      "ircha",
+      "młodszy",
+      "nabierać",
+      "nabijać się"
+    ]
+  },
+  {
+    "id": "k-kidnap",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "kidnap",
+    "pronunciation": "ˈkɪdnæp",
+    "meaning": [
+      "porywać",
+      "porwanie",
+      "kidnaping"
+    ]
+  },
+  {
+    "id": "k-kidney",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kidney",
+    "pronunciation": "ˈkɪdnɪ",
+    "meaning": [
+      "nerka"
+    ]
+  },
+  {
+    "id": "k-kill",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "kill",
+    "pronunciation": "kɪl",
+    "meaning": [
+      "zabijać",
+      "wykańczać",
+      "niszczyć",
+      "usuwać",
+      "zdobycz",
+      "zabijanie",
+      "załatwiać"
+    ]
+  },
+  {
+    "id": "k-killer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "killer",
+    "pronunciation": "ˈkɪlə",
+    "meaning": [
+      "zabójca"
+    ]
+  },
+  {
+    "id": "k-killing",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "killing",
+    "pronunciation": "ˈkɪlɪŋ",
+    "meaning": [
+      "zabójczy",
+      "zabójstwo"
+    ]
+  },
+  {
+    "id": "k-kiln",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "kiln",
+    "pronunciation": "kɪln",
+    "meaning": [
+      "piec garncarski",
+      "piec"
+    ]
+  },
+  {
+    "id": "k-kilo",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kilo",
+    "pronunciation": "ˈki:ləʊ",
+    "meaning": [
+      "kilogram",
+      "kilo"
+    ]
+  },
+  {
+    "id": "k-kilogram",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kilogram",
+    "pronunciation": "ˈkɪləgrəm",
+    "meaning": [
+      "kilogram"
+    ]
+  },
+  {
+    "id": "k-kilometre",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kilometre",
+    "pronunciation": "ˈkɪləmi:tə",
+    "meaning": [
+      "kilometr"
+    ]
+  },
+  {
+    "id": "k-kilt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kilt",
+    "pronunciation": "kɪlt",
+    "meaning": [
+      "kilt"
+    ]
+  },
+  {
+    "id": "k-kin",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kin",
+    "pronunciation": "kɪn",
+    "meaning": [
+      "krewni"
+    ]
+  },
+  {
+    "id": "k-kind",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "kind",
+    "pronunciation": "kaɪnd",
+    "meaning": [
+      "rodzaj",
+      "miły",
+      "uprzejmy",
+      "miło",
+      "uprzejmie"
+    ]
+  },
+  {
+    "id": "k-kindergarten",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kindergarten",
+    "pronunciation": "ˈkɪndəgɑ:tən",
+    "meaning": [
+      "przedszkole"
+    ]
+  },
+  {
+    "id": "k-kind-hearted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "kind-hearted",
+    "pronunciation": "ˌkaɪndˈhɑ:tɪd",
+    "meaning": [
+      "dobrotliwy",
+      "życzliwy"
+    ]
+  },
+  {
+    "id": "k-kindle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "kindle",
+    "pronunciation": "ˈkɪndəl",
+    "meaning": [
+      "rozniecać",
+      "rozpalać"
+    ]
+  },
+  {
+    "id": "k-kindling",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "kindling",
+    "pronunciation": "ˈkɪndlɪŋ",
+    "meaning": [
+      "drewno na rozpałkę"
+    ]
+  },
+  {
+    "id": "k-kindly",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "kindly",
+    "pronunciation": "ˈkaɪndlɪ",
+    "meaning": [
+      "uprzejmy",
+      "życzliwy",
+      "łaskawie",
+      "uprzejmie",
+      "życzliwie"
+    ]
+  },
+  {
+    "id": "k-kindness",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kindness",
+    "pronunciation": "ˈkaɪndnɪs",
+    "meaning": [
+      "życzliwość",
+      "uprzejmość",
+      "przysługa"
+    ]
+  },
+  {
+    "id": "k-kindred",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "kindred",
+    "pronunciation": "ˈkɪndrɪd",
+    "meaning": [
+      "pokrewny",
+      "braterski"
+    ]
+  },
+  {
+    "id": "k-king",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "king",
+    "pronunciation": "kɪŋ",
+    "meaning": [
+      "król"
+    ]
+  },
+  {
+    "id": "k-kingdom",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kingdom",
+    "pronunciation": "ˈkɪŋdəm",
+    "meaning": [
+      "królestwo"
+    ]
+  },
+  {
+    "id": "k-kingfisher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kingfisher",
+    "pronunciation": "ˈkɪŋfɪʃə",
+    "meaning": [
+      "zimorodek"
+    ]
+  },
+  {
+    "id": "k-kink",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "kink",
+    "pronunciation": "ˈkɪŋk",
+    "meaning": [
+      "skręt",
+      "zwój"
+    ]
+  },
+  {
+    "id": "k-kinky",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "kinky",
+    "pronunciation": "ˈkɪŋkɪ",
+    "meaning": [
+      "perwersyjny"
+    ]
+  },
+  {
+    "id": "k-kiosk",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kiosk",
+    "pronunciation": "ˈki:ɒsk",
+    "meaning": [
+      "kiosk",
+      "budka"
+    ]
+  },
+  {
+    "id": "k-kipper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "kipper",
+    "pronunciation": "ˈkɪpə",
+    "meaning": [
+      "wędzony śledź"
+    ]
+  },
+  {
+    "id": "k-kiss",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "kiss",
+    "pronunciation": "kɪs",
+    "meaning": [
+      "całować",
+      "pocałunek"
+    ]
+  },
+  {
+    "id": "k-kit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kit",
+    "pronunciation": "kɪt",
+    "meaning": [
+      "zestaw",
+      "ubiór sportowy",
+      "ubiór"
+    ]
+  },
+  {
+    "id": "k-kitchen",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "kitchen",
+    "pronunciation": "ˈkɪʧən",
+    "meaning": [
+      "kuchnia",
+      "kuchenny"
+    ]
+  },
+  {
+    "id": "k-kite",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kite",
+    "pronunciation": "kaɪt",
+    "meaning": [
+      "latawiec"
+    ]
+  },
+  {
+    "id": "k-kitten",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kitten",
+    "pronunciation": "ˈkɪtən",
+    "meaning": [
+      "kociak"
+    ]
+  },
+  {
+    "id": "k-kitty",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "kitty",
+    "pronunciation": "ˈkɪtɪ",
+    "meaning": [
+      "pula",
+      "wspólne pieniądze"
+    ]
+  },
+  {
+    "id": "k-kiwi",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "kiwi",
+    "pronunciation": "ˈki:wɪ",
+    "meaning": [
+      "kiwi"
+    ]
+  },
+  {
+    "id": "k-knack",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "knack",
+    "pronunciation": "næk",
+    "meaning": [
+      "talent"
+    ]
+  },
+  {
+    "id": "k-knave",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "knave",
+    "pronunciation": "neɪv",
+    "meaning": [
+      "szelma"
+    ]
+  },
+  {
+    "id": "k-knead",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "knead",
+    "pronunciation": "ni:d",
+    "meaning": [
+      "miesić"
+    ]
+  },
+  {
+    "id": "k-knee",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "knee",
+    "pronunciation": "ni:",
+    "meaning": [
+      "kolano"
+    ]
+  },
+  {
+    "id": "k-kneecap",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kneecap",
+    "pronunciation": "ˈni:kæp",
+    "meaning": [
+      "rzepka"
+    ]
+  },
+  {
+    "id": "k-knee-deep",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "knee-deep",
+    "pronunciation": "ˌnɪ:ˈdi:p",
+    "meaning": [
+      "po kolana"
+    ]
+  },
+  {
+    "id": "k-knickers",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "knickers",
+    "pronunciation": "ˈnɪkəz",
+    "meaning": [
+      "majtki luźniejsze",
+      "majtki"
+    ]
+  },
+  {
+    "id": "k-knicks-knacks",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "knicks-knacks",
+    "pronunciation": "ˈnɪksnæks",
+    "meaning": [
+      "ozdóbki"
+    ]
+  },
+  {
+    "id": "k-knight",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "knight",
+    "pronunciation": "naɪt",
+    "meaning": [
+      "rycerz",
+      "skoczek",
+      "konik",
+      "uszlachcać"
+    ]
+  },
+  {
+    "id": "k-knighthood",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "knighthood",
+    "pronunciation": "ˈnaɪthʊd",
+    "meaning": [
+      "szlachectwo"
+    ]
+  },
+  {
+    "id": "k-knit",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "knit",
+    "pronunciation": "nɪt",
+    "meaning": [
+      "dziergać",
+      "robić na drutach",
+      "zespolony",
+      "związany"
+    ]
+  },
+  {
+    "id": "k-knitting",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "knitting",
+    "pronunciation": "ˈnɪtɪŋ",
+    "meaning": [
+      "robótka",
+      "robienie na drutach",
+      "dzierganie"
+    ]
+  },
+  {
+    "id": "k-knitwear",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "knitwear",
+    "pronunciation": "ˈnɪtweə",
+    "meaning": [
+      "dzianina"
+    ]
+  },
+  {
+    "id": "k-knob",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "knob",
+    "pronunciation": "nɒb",
+    "meaning": [
+      "gałka",
+      "pokrętło"
+    ]
+  },
+  {
+    "id": "k-knobbly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "knobbly",
+    "pronunciation": "ˈnɒblɪ",
+    "meaning": [
+      "zwęźlony",
+      "guzowaty"
+    ]
+  },
+  {
+    "id": "k-knocker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "knocker",
+    "pronunciation": "ˈnɒkə",
+    "meaning": [
+      "kołatka"
+    ]
+  },
+  {
+    "id": "k-knock-out",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "knock-out",
+    "pronunciation": "ˈnɒkaʊt",
+    "meaning": [
+      "nokaut",
+      "eliminacyjny"
+    ]
+  },
+  {
+    "id": "k-knoll",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "knoll",
+    "pronunciation": "nəʊl",
+    "meaning": [
+      "wzgórek"
+    ]
+  },
+  {
+    "id": "k-knotty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "knotty",
+    "pronunciation": "ˈnɒtɪ",
+    "meaning": [
+      "poplątany",
+      "zawiły"
+    ]
+  },
+  {
+    "id": "k-know",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "know",
+    "pronunciation": "nəʊ",
+    "meaning": [
+      "znać",
+      "wiedzieć",
+      "słyszeć",
+      "odróżniać"
+    ]
+  },
+  {
+    "id": "k-know-how",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "know-how",
+    "pronunciation": "ˈnəʊhaʊ",
+    "meaning": [
+      "wiedza"
+    ]
+  },
+  {
+    "id": "k-knowing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "knowing",
+    "pronunciation": "ˈnəʊɪŋ",
+    "meaning": [
+      "porozumiewawczy"
+    ]
+  },
+  {
+    "id": "k-knowingly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "knowingly",
+    "pronunciation": "ˈnəʊɪŋlɪ",
+    "meaning": [
+      "z premedytacją",
+      "porozumiewawczo"
+    ]
+  },
+  {
+    "id": "k-knowledge",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "knowledge",
+    "pronunciation": "ˈnɒlɪʤ",
+    "meaning": [
+      "wiedza"
+    ]
+  },
+  {
+    "id": "k-knowledgeable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "knowledgeable",
+    "pronunciation": "ˈnɒlɪʤebəl",
+    "meaning": [
+      "dobrze poinformowany",
+      "poinformowany"
+    ]
+  },
+  {
+    "id": "k-Knt.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Knt.",
+    "pronunciation": "/ˌkeɪ en ˈtiː/",
+    "meaning": [
+      "rycerz",
+      "szlachcic"
+    ]
+  },
+  {
+    "id": "k-knuckle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "knuckle",
+    "pronunciation": "ˈnʌkəl",
+    "meaning": [
+      "kostka"
+    ]
+  },
+  {
+    "id": "k-ko",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ko",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "nokaut"
+    ]
+  },
+  {
+    "id": "k-Koran",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Koran",
+    "pronunciation": "kɔ:ˈrɑ:n",
+    "meaning": []
+  },
+  {
+    "id": "k-Korea",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Korea",
+    "pronunciation": "kəˈrɪə",
+    "meaning": [
+      "Korea"
+    ]
+  },
+  {
+    "id": "k-Korean",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Korean",
+    "pronunciation": "kəˈrɪən",
+    "meaning": [
+      "koreański",
+      "Koreańczyk"
+    ]
+  },
+  {
+    "id": "k-kosher",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "kosher",
+    "pronunciation": "ˈkəʊʃə",
+    "meaning": [
+      "koszerny"
+    ]
+  },
+  {
+    "id": "k-kph",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "kph",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "km/godz"
+    ]
+  },
+  {
+    "id": "k-Kt.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Kt.",
+    "pronunciation": "/keɪ ˈtiː/",
+    "meaning": [
+      "rycerz",
+      "szlachcic"
+    ]
+  },
+  {
+    "id": "k-kudos",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "kudos",
+    "pronunciation": "ˈkju:dəs",
+    "meaning": [
+      "sława"
+    ]
+  },
+  {
+    "id": "k-Kuwait",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Kuwait",
+    "pronunciation": "kʊˈweɪt",
+    "meaning": [
+      "Kuwejt"
+    ]
+  },
+  {
+    "id": "k-Kuwaiti",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Kuwaiti",
+    "pronunciation": "kʊˈweɪtɪ",
+    "meaning": [
+      "kuwejcki",
+      "Kuwejtczyk"
+    ]
+  }
+]
