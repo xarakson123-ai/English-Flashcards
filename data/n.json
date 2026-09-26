@@ -1,0 +1,4649 @@
+[
+  {
+    "id": "n-N",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "N",
+    "pronunciation": "",
+    "meaning": [
+      "północ",
+      "północny"
+    ]
+  },
+  {
+    "id": "n-nab",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "nab",
+    "pronunciation": "næb",
+    "meaning": [
+      "przyłapywać"
+    ]
+  },
+  {
+    "id": "n-nadir",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "nadir",
+    "pronunciation": "ˈneɪdɪə",
+    "meaning": [
+      "zenit"
+    ]
+  },
+  {
+    "id": "n-nag",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "nag",
+    "pronunciation": "næg",
+    "meaning": [
+      "nudzić",
+      "nagabywać",
+      "zanudzać gderaniem",
+      "dręczyć"
+    ]
+  },
+  {
+    "id": "n-nail",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nail",
+    "pronunciation": "neɪl",
+    "meaning": [
+      "gwóźdź",
+      "paznokieć",
+      "przybijać gwoździami",
+      "przybijać",
+      "przygważdżać",
+      "pilnik do paznokci"
+    ]
+  },
+  {
+    "id": "n-naïve",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "naïve",
+    "pronunciation": "naɪˈi:v",
+    "meaning": [
+      "naiwny"
+    ]
+  },
+  {
+    "id": "n-naked",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "naked",
+    "pronunciation": "ˈneɪkɪd",
+    "meaning": [
+      "nagi",
+      "goły",
+      "nieosłonięty",
+      "widoczny gołym okiem",
+      "odkryty"
+    ]
+  },
+  {
+    "id": "n-name-dropping",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "name-dropping",
+    "pronunciation": "ˈneɪmdrɒpɪŋ",
+    "meaning": [
+      "przerzucanie się nazwiskami sławnych ludzi"
+    ]
+  },
+  {
+    "id": "n-nameless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nameless",
+    "pronunciation": "ˈneɪmlɪs",
+    "meaning": [
+      "bezimienny",
+      "nienazwany",
+      "niewypowiedziany"
+    ]
+  },
+  {
+    "id": "n-namely",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "namely",
+    "pronunciation": "ˈneɪmlɪ",
+    "meaning": [
+      "mianowicie",
+      "to jest"
+    ]
+  },
+  {
+    "id": "n-namesake",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "namesake",
+    "pronunciation": "ˈneɪmseɪk",
+    "meaning": [
+      "imiennik"
+    ]
+  },
+  {
+    "id": "n-nanny",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nanny",
+    "pronunciation": "ˈnænɪ",
+    "meaning": [
+      "niania",
+      "koza"
+    ]
+  },
+  {
+    "id": "n-nap",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nap",
+    "pronunciation": "næp",
+    "meaning": [
+      "drzemka",
+      "drzemać"
+    ]
+  },
+  {
+    "id": "n-nape",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nape",
+    "pronunciation": "neɪp",
+    "meaning": [
+      "kark"
+    ]
+  },
+  {
+    "id": "n-napkin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "napkin",
+    "pronunciation": "ˈnæpkɪn",
+    "meaning": [
+      "serwetka"
+    ]
+  },
+  {
+    "id": "n-Naples",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Naples",
+    "pronunciation": "ˈneɪplz",
+    "meaning": [
+      "Neapol"
+    ]
+  },
+  {
+    "id": "n-napoleon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "napoleon",
+    "pronunciation": "nəˈpəʊlɪən",
+    "meaning": [
+      "napoleonka"
+    ]
+  },
+  {
+    "id": "n-nappy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nappy",
+    "pronunciation": "ˈnæpɪ",
+    "meaning": [
+      "pieluszka"
+    ]
+  },
+  {
+    "id": "n-narcissus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "narcissus",
+    "pronunciation": "nɑ:ˈsɪsəs",
+    "meaning": [
+      "narcyz"
+    ]
+  },
+  {
+    "id": "n-narcotic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "narcotic",
+    "pronunciation": "nɑ:ˈkɒtɪk",
+    "meaning": [
+      "narkotyk"
+    ]
+  },
+  {
+    "id": "n-narrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "narrate",
+    "pronunciation": "nəˈreɪt",
+    "meaning": [
+      "przedstawiać",
+      "opowiadać"
+    ]
+  },
+  {
+    "id": "n-narration",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "narration",
+    "pronunciation": "nəˈreɪʃən",
+    "meaning": [
+      "narracja",
+      "fabularyzacja"
+    ]
+  },
+  {
+    "id": "n-narrative",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "narrative",
+    "pronunciation": "ˈnærətɪv",
+    "meaning": [
+      "narracja",
+      "narracyjny"
+    ]
+  },
+  {
+    "id": "n-narrow",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "narrow",
+    "pronunciation": "ˈnærəʊ",
+    "meaning": [
+      "wąski",
+      "ciasny",
+      "ograniczony",
+      "nieznaczny",
+      "zwężać się",
+      "zwężać",
+      "zmniejszać się",
+      "przymykać",
+      "przymrużać",
+      "zawężać"
+    ]
+  },
+  {
+    "id": "n-narrow-minded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "narrow-minded",
+    "pronunciation": "ˌnærəʊˈmaɪndɪd",
+    "meaning": [
+      "ograniczony",
+      "o ciasnych horyzontach"
+    ]
+  },
+  {
+    "id": "n-nasal",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "nasal",
+    "pronunciation": "ˈneɪzəl",
+    "meaning": [
+      "nosowy"
+    ]
+  },
+  {
+    "id": "n-nasty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "nasty",
+    "pronunciation": "ˈnɑ:stɪ",
+    "meaning": [
+      "paskudny",
+      "nieprzyjemny",
+      "obrzydliwy",
+      "do niczego",
+      "ciężki"
+    ]
+  },
+  {
+    "id": "n-nat.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nat.",
+    "pronunciation": "/næt/",
+    "meaning": [
+      "narodowy",
+      "rodzimy",
+      "krajowy",
+      "naturalny"
+    ]
+  },
+  {
+    "id": "n-nation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nation",
+    "pronunciation": "ˈneɪʃən",
+    "meaning": [
+      "naród",
+      "kraj"
+    ]
+  },
+  {
+    "id": "n-national",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "national",
+    "pronunciation": "ˈnæʃənəl",
+    "meaning": [
+      "narodowy",
+      "państwowy",
+      "krajowy",
+      "obywatel",
+      "człowiek określonej narodowości",
+      "służba wojskowa"
+    ]
+  },
+  {
+    "id": "n-nationalise",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "nationalise",
+    "pronunciation": "ˈnæʃənəlaɪz",
+    "meaning": [
+      "nacjonalizować",
+      "upaństwawiać"
+    ]
+  },
+  {
+    "id": "n-nationalism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nationalism",
+    "pronunciation": "ˈnæʃənəlɪzəm",
+    "meaning": [
+      "nacjonalizm",
+      "patriotyzm"
+    ]
+  },
+  {
+    "id": "n-nationalist",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "nationalist",
+    "pronunciation": "ˈnæʃənəlɪst",
+    "meaning": [
+      "nacjonalistyczny",
+      "patriotyczny",
+      "niepodległościowy",
+      "nacjonalista",
+      "patriota",
+      "bojownik o niepodległość"
+    ]
+  },
+  {
+    "id": "n-nationalistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nationalistic",
+    "pronunciation": "ˌnæʃənəˈlɪstɪk",
+    "meaning": [
+      "nacjonalistyczny",
+      "patriotyczny"
+    ]
+  },
+  {
+    "id": "n-nationality",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nationality",
+    "pronunciation": "ˌnæʃəˈnælɪtɪ",
+    "meaning": [
+      "narodowość"
+    ]
+  },
+  {
+    "id": "n-nationalize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "nationalize",
+    "pronunciation": "ˈnæʃənəlaɪz",
+    "meaning": [
+      "nacjonalizować",
+      "upaństwawiać"
+    ]
+  },
+  {
+    "id": "n-nationwide",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "nationwide",
+    "pronunciation": "ˈneɪʃənwaɪd",
+    "meaning": [
+      "ogólnokrajowy",
+      "w całym kraju"
+    ]
+  },
+  {
+    "id": "n-native",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "native",
+    "pronunciation": "ˈneɪtɪv",
+    "meaning": [
+      "rodzinny",
+      "rodzimy",
+      "ojczysty",
+      "rodowity",
+      "krajowiec"
+    ]
+  },
+  {
+    "id": "n-NATO",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "NATO",
+    "pronunciation": "ˈneɪtəʊ",
+    "meaning": [
+      "Pakt Północnoatlantycki"
+    ]
+  },
+  {
+    "id": "n-natter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "natter",
+    "pronunciation": "ˈnætə",
+    "meaning": [
+      "pogadać"
+    ]
+  },
+  {
+    "id": "n-natural",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "natural",
+    "pronunciation": "ˈnæʧərəl",
+    "meaning": [
+      "naturalny",
+      "urodzony",
+      "podstawowy",
+      "urodzony mistrz"
+    ]
+  },
+  {
+    "id": "n-naturalist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "naturalist",
+    "pronunciation": "ˈnæʧərəlɪst",
+    "meaning": [
+      "przyrodnik"
+    ]
+  },
+  {
+    "id": "n-naturalized",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "naturalized",
+    "pronunciation": "ˈnæʧərəlaɪzd",
+    "meaning": [
+      "naturalizowany"
+    ]
+  },
+  {
+    "id": "n-naturally",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "naturally",
+    "pronunciation": "ˈnæʧərəlɪ",
+    "meaning": [
+      "naturalnie",
+      "oczywiście"
+    ]
+  },
+  {
+    "id": "n-nature",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nature",
+    "pronunciation": "ˈneɪʧə",
+    "meaning": [
+      "natura",
+      "przyroda",
+      "istota"
+    ]
+  },
+  {
+    "id": "n-naught",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "naught",
+    "pronunciation": "nɔ:t",
+    "meaning": [
+      "zero"
+    ]
+  },
+  {
+    "id": "n-naughty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "naughty",
+    "pronunciation": "ˈnɔ:tɪ",
+    "meaning": [
+      "niegrzeczny",
+      "nieładny"
+    ]
+  },
+  {
+    "id": "n-nausea",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nausea",
+    "pronunciation": "ˈnɔ:sɪə",
+    "meaning": [
+      "nudności"
+    ]
+  },
+  {
+    "id": "n-nauseate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "nauseate",
+    "pronunciation": "ˈnɔ:sɪeɪt",
+    "meaning": [
+      "przyprawiać o nudności"
+    ]
+  },
+  {
+    "id": "n-nautical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nautical",
+    "pronunciation": "ˈnɔ:tɪkəl",
+    "meaning": [
+      "żeglarski"
+    ]
+  },
+  {
+    "id": "n-naval",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "naval",
+    "pronunciation": "ˈneɪvəl",
+    "meaning": [
+      "morski"
+    ]
+  },
+  {
+    "id": "n-nave",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nave",
+    "pronunciation": "neɪv",
+    "meaning": [
+      "nawa"
+    ]
+  },
+  {
+    "id": "n-navel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "navel",
+    "pronunciation": "ˈneɪvəl",
+    "meaning": [
+      "pępek"
+    ]
+  },
+  {
+    "id": "n-navigable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "navigable",
+    "pronunciation": "ˈnævɪgəbəl",
+    "meaning": [
+      "żeglowny",
+      "spławny"
+    ]
+  },
+  {
+    "id": "n-navigate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "navigate",
+    "pronunciation": "ˈnævɪgeɪt",
+    "meaning": [
+      "żeglować",
+      "prowadzić",
+      "pilotować"
+    ]
+  },
+  {
+    "id": "n-navigation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "navigation",
+    "pronunciation": "ˌnævɪˈgeɪʃən",
+    "meaning": [
+      "żegluga",
+      "nawigacja"
+    ]
+  },
+  {
+    "id": "n-navigator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "navigator",
+    "pronunciation": "ˈnævɪgeɪtə",
+    "meaning": [
+      "nawigator"
+    ]
+  },
+  {
+    "id": "n-navy",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "navy",
+    "pronunciation": "ˈneɪvɪ",
+    "meaning": [
+      "marynarka wojenna",
+      "marynarka",
+      "granatowy"
+    ]
+  },
+  {
+    "id": "n-nay",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "nay",
+    "pronunciation": "neɪ",
+    "meaning": [
+      "a nie"
+    ]
+  },
+  {
+    "id": "n-n.b.",
+    "level": "C1",
+    "partOfSpeech": "interjection",
+    "word": "n.b.",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "notabene"
+    ]
+  },
+  {
+    "id": "n-NCO",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "NCO",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "podoficer"
+    ]
+  },
+  {
+    "id": "n-NE",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "NE",
+    "pronunciation": "/ˌenˈiː/",
+    "meaning": [
+      "płn.-wsch.",
+      "północno-wschodni"
+    ]
+  },
+  {
+    "id": "n-near",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "near",
+    "pronunciation": "nɪə",
+    "meaning": [
+      "bliski",
+      "blisko",
+      "prawie",
+      "zbliżać się",
+      "dochodzić",
+      "Bliski Wschód"
+    ]
+  },
+  {
+    "id": "n-nearby",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "nearby",
+    "pronunciation": "ˈnɪəbaɪ",
+    "meaning": [
+      "pobliski"
+    ]
+  },
+  {
+    "id": "n-nearly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "nearly",
+    "pronunciation": "ˈnɪəlɪ",
+    "meaning": [
+      "prawie"
+    ]
+  },
+  {
+    "id": "n-neat",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "neat",
+    "pronunciation": "ni:t",
+    "meaning": [
+      "elegancki",
+      "porządny",
+      "nierozcieńczony"
+    ]
+  },
+  {
+    "id": "n-Nebraska",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Nebraska",
+    "pronunciation": "nəˈbræskə",
+    "meaning": [
+      "Nebraska"
+    ]
+  },
+  {
+    "id": "n-nebulous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "nebulous",
+    "pronunciation": "ˈnebjələs",
+    "meaning": [
+      "mglisty"
+    ]
+  },
+  {
+    "id": "n-necessarily",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "necessarily",
+    "pronunciation": "ˈnesəsərɪlɪ",
+    "meaning": [
+      "nieod",
+      "-zownie"
+    ]
+  },
+  {
+    "id": "n-necessary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "necessary",
+    "pronunciation": "ˈnesəsərɪ",
+    "meaning": [
+      "potrzebny",
+      "niezbędny",
+      "konieczny"
+    ]
+  },
+  {
+    "id": "n-necessitate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "necessitate",
+    "pronunciation": "nɪˈsesɪteɪt",
+    "meaning": [
+      "czynić koniecznym"
+    ]
+  },
+  {
+    "id": "n-necessity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "necessity",
+    "pronunciation": "nɪˈsesɪtɪ",
+    "meaning": [
+      "konieczność",
+      "rzecz nieodzowna",
+      "rzecz niezbędna"
+    ]
+  },
+  {
+    "id": "n-necklace",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "necklace",
+    "pronunciation": "ˈneklɪs",
+    "meaning": [
+      "kolia",
+      "naszyjnik"
+    ]
+  },
+  {
+    "id": "n-neckline",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "neckline",
+    "pronunciation": "ˈneklaɪn",
+    "meaning": [
+      "wycięcie"
+    ]
+  },
+  {
+    "id": "n-necktie",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "necktie",
+    "pronunciation": "ˈnektaɪ",
+    "meaning": [
+      "krawat"
+    ]
+  },
+  {
+    "id": "n-nectar",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nectar",
+    "pronunciation": "ˈnektə",
+    "meaning": [
+      "nektar"
+    ]
+  },
+  {
+    "id": "n-nee",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "nee",
+    "pronunciation": "ˈniː",
+    "meaning": [
+      "z domu"
+    ]
+  },
+  {
+    "id": "n-need",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "need",
+    "pronunciation": "ni:d",
+    "meaning": [
+      "potrzebować",
+      "odczuwać potrzebę",
+      "musieć",
+      "wymagać",
+      "trzeba",
+      "potrzeba"
+    ]
+  },
+  {
+    "id": "n-needle",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "needle",
+    "pronunciation": "ˈni:dəl",
+    "meaning": [
+      "igła",
+      "drut",
+      "szydełko",
+      "przypiekać",
+      "wbijać szpilki"
+    ]
+  },
+  {
+    "id": "n-needless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "needless",
+    "pronunciation": "ˈni:dlɪs",
+    "meaning": [
+      "niepotrzebny"
+    ]
+  },
+  {
+    "id": "n-needlework",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "needlework",
+    "pronunciation": "ˈni:dəlwɜ:k",
+    "meaning": [
+      "robótki"
+    ]
+  },
+  {
+    "id": "n-needy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "needy",
+    "pronunciation": "ˈni:dɪ",
+    "meaning": [
+      "potrzebujący"
+    ]
+  },
+  {
+    "id": "n-negate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "negate",
+    "pronunciation": "nɪˈgeɪt",
+    "meaning": [
+      "negować"
+    ]
+  },
+  {
+    "id": "n-negation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "negation",
+    "pronunciation": "nɪˈgeɪʃən",
+    "meaning": [
+      "negacja"
+    ]
+  },
+  {
+    "id": "n-negative",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "negative",
+    "pronunciation": "ˈnegətɪv",
+    "meaning": [
+      "negatywny",
+      "ujemny",
+      "negatyw"
+    ]
+  },
+  {
+    "id": "n-neglect",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "neglect",
+    "pronunciation": "nɪˈglekt",
+    "meaning": [
+      "zaniedbywać",
+      "zapominać",
+      "zaniedbanie",
+      "niedopatrzenie"
+    ]
+  },
+  {
+    "id": "n-neglectful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "neglectful",
+    "pronunciation": "nɪˈglektfʊl",
+    "meaning": [
+      "niedbały"
+    ]
+  },
+  {
+    "id": "n-negligée",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "negligée",
+    "pronunciation": "ˈneglɪʒeɪ",
+    "meaning": [
+      "prześwitujący szlafrok",
+      "szlafrok",
+      "szlafroczek"
+    ]
+  },
+  {
+    "id": "n-negligent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "negligent",
+    "pronunciation": "ˈneglɪʤənt",
+    "meaning": [
+      "niedbały",
+      "opieszały"
+    ]
+  },
+  {
+    "id": "n-negligible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "negligible",
+    "pronunciation": "ˈneglɪʤəbəl",
+    "meaning": [
+      "nieistotny",
+      "mało znaczący"
+    ]
+  },
+  {
+    "id": "n-negotiable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "negotiable",
+    "pronunciation": "nɪˈgəʊʃəbəl",
+    "meaning": [
+      "możliwy do ustalenia",
+      "możliwy do zrealizowania"
+    ]
+  },
+  {
+    "id": "n-negotiate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "negotiate",
+    "pronunciation": "nɪˈgəʊʃɪeɪt",
+    "meaning": [
+      "negocjować",
+      "prowadzić negocjacje",
+      "pokonywać"
+    ]
+  },
+  {
+    "id": "n-negotiation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "negotiation",
+    "pronunciation": "nɪˌgəʊʃɪˈeɪʃən",
+    "meaning": [
+      "negocjacje"
+    ]
+  },
+  {
+    "id": "n-negotiator",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "negotiator",
+    "pronunciation": "nɪˈgəʊʃɪeɪtə",
+    "meaning": [
+      "negocjator"
+    ]
+  },
+  {
+    "id": "n-Negress",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Negress",
+    "pronunciation": "ˈni:grɪs",
+    "meaning": [
+      "Murzynka"
+    ]
+  },
+  {
+    "id": "n-Negro",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Negro",
+    "pronunciation": "ˈni:grəʊ",
+    "meaning": [
+      "Murzyn",
+      "czarnuch"
+    ]
+  },
+  {
+    "id": "n-neigh",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "neigh",
+    "pronunciation": "neɪ",
+    "meaning": [
+      "rżeć"
+    ]
+  },
+  {
+    "id": "n-neighbour",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "neighbour",
+    "pronunciation": "ˈneɪbə",
+    "meaning": [
+      "sąsiad",
+      "bliźni"
+    ]
+  },
+  {
+    "id": "n-neighbourhood",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "neighbourhood",
+    "pronunciation": "ˈneɪbəhʊd",
+    "meaning": [
+      "sąsiedztwo",
+      "dzielnica",
+      "pobliski",
+      "sąsiedni"
+    ]
+  },
+  {
+    "id": "n-neighbouring",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "neighbouring",
+    "pronunciation": "ˈneɪbərɪŋ",
+    "meaning": [
+      "sąsiedni",
+      "sąsiadujący"
+    ]
+  },
+  {
+    "id": "n-neighbourly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "neighbourly",
+    "pronunciation": "ˈneɪbəlɪ",
+    "meaning": [
+      "dobrosąsiedzki",
+      "przyjazny"
+    ]
+  },
+  {
+    "id": "n-neither",
+    "level": "A2",
+    "partOfSpeech": [
+      "determiner",
+      "pronoun"
+    ],
+    "word": "neither",
+    "pronunciation": "/ˈnaɪðə/",
+    "meaning": [
+      "żaden z dwóch",
+      "żaden",
+      "też nie"
+    ]
+  },
+  {
+    "id": "n-neon",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "neon",
+    "pronunciation": "ˈni:ɒn",
+    "meaning": [
+      "neon",
+      "neonowy",
+      "oświetlony neonami",
+      "reklama neonowa",
+      "oświetlenie neonowe"
+    ]
+  },
+  {
+    "id": "n-Nepal",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Nepal",
+    "pronunciation": "nɪˈpɔ:l",
+    "meaning": [
+      "Nepal"
+    ]
+  },
+  {
+    "id": "n-Nepalese",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Nepalese",
+    "pronunciation": "ˌnepəˈli:z",
+    "meaning": [
+      "nepalski",
+      "Nepalczyk"
+    ]
+  },
+  {
+    "id": "n-Nepali",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Nepali",
+    "pronunciation": "nəˈpɔ:lɪ",
+    "meaning": [
+      "nepalski",
+      "Nepalczyk"
+    ]
+  },
+  {
+    "id": "n-nephew",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "nephew",
+    "pronunciation": "/ˈnefjuː/",
+    "meaning": [
+      "siostrzeniec",
+      "bratanek"
+    ]
+  },
+  {
+    "id": "n-nerve",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nerve",
+    "pronunciation": "nɜ:v",
+    "meaning": [
+      "nerw",
+      "odwaga"
+    ]
+  },
+  {
+    "id": "n-nerve-racking",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nerve-racking",
+    "pronunciation": "ˈnɜ:vrækɪŋ",
+    "meaning": [
+      "nerwowy",
+      "denerwujący"
+    ]
+  },
+  {
+    "id": "n-nervous",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "nervous",
+    "pronunciation": "ˈnɜ:vəs",
+    "meaning": [
+      "nerwowy"
+    ]
+  },
+  {
+    "id": "n-nest",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nest",
+    "pronunciation": "nest",
+    "meaning": [
+      "gniazdo",
+      "gnieździć się"
+    ]
+  },
+  {
+    "id": "n-nestle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "nestle",
+    "pronunciation": "ˈnesəl",
+    "meaning": [
+      "wtulać się",
+      "przytulać się",
+      "usadawiać się",
+      "być usadowiony"
+    ]
+  },
+  {
+    "id": "n-net",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "net",
+    "pronunciation": "net",
+    "meaning": [
+      "siatka",
+      "sieć",
+      "netto",
+      "przynosić na czysto",
+      "wynosić netto",
+      "końcowy",
+      "łapać w sieć",
+      "zbijać",
+      "osiągać",
+      "firanka"
+    ]
+  },
+  {
+    "id": "n-Netherlands",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Netherlands",
+    "pronunciation": "ˈneðələndz",
+    "meaning": []
+  },
+  {
+    "id": "n-netting",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "netting",
+    "pronunciation": "ˈnetɪŋ",
+    "meaning": [
+      "siatka"
+    ]
+  },
+  {
+    "id": "n-nettle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nettle",
+    "pronunciation": "ˈnetəl",
+    "meaning": [
+      "pokrzywa"
+    ]
+  },
+  {
+    "id": "n-network",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "network",
+    "pronunciation": "ˈnetwɜ:k",
+    "meaning": [
+      "sieć",
+      "układ"
+    ]
+  },
+  {
+    "id": "n-neurosis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "neurosis",
+    "pronunciation": "njʊəˈrəʊsɪs",
+    "meaning": [
+      "nerwica"
+    ]
+  },
+  {
+    "id": "n-neurotic",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "neurotic",
+    "pronunciation": "njʊəˈrɒtɪk",
+    "meaning": [
+      "neurotyczny",
+      "znerwicowany"
+    ]
+  },
+  {
+    "id": "n-neuter",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "neuter",
+    "pronunciation": "ˈnju:tə",
+    "meaning": [
+      "nijaki",
+      "obojnaczy"
+    ]
+  },
+  {
+    "id": "n-neutral",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "neutral",
+    "pronunciation": "ˈnju:trəl",
+    "meaning": [
+      "neutralny",
+      "obojętny",
+      "bez wyrazu",
+      "zerowy",
+      "bezbarwny",
+      "bieg jałowy",
+      "luz",
+      "strona neutralna"
+    ]
+  },
+  {
+    "id": "n-neutrality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "neutrality",
+    "pronunciation": "nju:ˈtrælɪtɪ",
+    "meaning": [
+      "neutralność"
+    ]
+  },
+  {
+    "id": "n-neutralize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "neutralize",
+    "pronunciation": "ˈnju:trəlaɪz",
+    "meaning": [
+      "blokować"
+    ]
+  },
+  {
+    "id": "n-neutron",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "neutron",
+    "pronunciation": "ˈnju:trən",
+    "meaning": [
+      "neutron",
+      "neutronowy"
+    ]
+  },
+  {
+    "id": "n-Nevada",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Nevada",
+    "pronunciation": "nɪˈvɑ:də",
+    "meaning": [
+      "Newada"
+    ]
+  },
+  {
+    "id": "n-never",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "never",
+    "pronunciation": "ˈnevə",
+    "meaning": [
+      "nigdy",
+      "w ogóle nie"
+    ]
+  },
+  {
+    "id": "n-nevertheless",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "nevertheless",
+    "pronunciation": "ˌnevəðəˈles",
+    "meaning": [
+      "jednak",
+      "niemniej"
+    ]
+  },
+  {
+    "id": "n-newborn",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "newborn",
+    "pronunciation": "ˈnju:bɔ:n",
+    "meaning": [
+      "nowonarodzony"
+    ]
+  },
+  {
+    "id": "n-newcomer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "newcomer",
+    "pronunciation": "ˈnju:kʌmə",
+    "meaning": [
+      "przybysz"
+    ]
+  },
+  {
+    "id": "n-new-fangled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "new-fangled",
+    "pronunciation": "ˌnju:ˈfæŋgəld",
+    "meaning": [
+      "nowomodny"
+    ]
+  },
+  {
+    "id": "n-newly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "newly",
+    "pronunciation": "ˈnju:lɪ",
+    "meaning": [
+      "nowo"
+    ]
+  },
+  {
+    "id": "n-news",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "news",
+    "pronunciation": "nju:z",
+    "meaning": [
+      "wiadomości",
+      "agencja prasowa"
+    ]
+  },
+  {
+    "id": "n-newsagent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "newsagent",
+    "pronunciation": "ˈnju:zˌeɪʤənt(s)",
+    "meaning": [
+      "kioskarz",
+      "kiosk"
+    ]
+  },
+  {
+    "id": "n-newscaster",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "newscaster",
+    "pronunciation": "ˈnju:zkɑ:stə",
+    "meaning": [
+      "prezenter"
+    ]
+  },
+  {
+    "id": "n-newsdealer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "newsdealer",
+    "pronunciation": "ˈnju:zˌdi:lər",
+    "meaning": [
+      "kioskarz",
+      "kiosk"
+    ]
+  },
+  {
+    "id": "n-newsflash",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "newsflash",
+    "pronunciation": "ˈnju:zflæʃ",
+    "meaning": [
+      "wiadomość z ostatniej chwili"
+    ]
+  },
+  {
+    "id": "n-newsletter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "newsletter",
+    "pronunciation": "ˈnju:zletə",
+    "meaning": [
+      "biuletyn"
+    ]
+  },
+  {
+    "id": "n-newspaper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "newspaper",
+    "pronunciation": "ˈnju:zpeɪpə",
+    "meaning": [
+      "gazeta"
+    ]
+  },
+  {
+    "id": "n-newsprint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "newsprint",
+    "pronunciation": "ˈnju:zprɪnt",
+    "meaning": [
+      "papier gazetowy"
+    ]
+  },
+  {
+    "id": "n-newsreel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "newsreel",
+    "pronunciation": "ˈnju:zri:l",
+    "meaning": [
+      "kronika filmowa"
+    ]
+  },
+  {
+    "id": "n-newt",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "newt",
+    "pronunciation": "nju:t",
+    "meaning": [
+      "traszka"
+    ]
+  },
+  {
+    "id": "n-NHS",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "NHS",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Państwowa Służba Zdrowia"
+    ]
+  },
+  {
+    "id": "n-nib",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nib",
+    "pronunciation": "nɪb",
+    "meaning": [
+      "stalówka"
+    ]
+  },
+  {
+    "id": "n-nibble",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "nibble",
+    "pronunciation": "ˈnɪbəl",
+    "meaning": [
+      "skubać"
+    ]
+  },
+  {
+    "id": "n-NIC",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "NIC",
+    "pronunciation": "/ˌen aɪ ˈsiː/",
+    "meaning": [
+      "nowe państwa niepodległe"
+    ]
+  },
+  {
+    "id": "n-nice",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "nice",
+    "pronunciation": "naɪs",
+    "meaning": [
+      "delikatny",
+      "subtelny",
+      "przyjemny",
+      "fajny",
+      "miły"
+    ]
+  },
+  {
+    "id": "n-nicely",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "nicely",
+    "pronunciation": "ˈnaɪslɪ",
+    "meaning": [
+      "dobrze"
+    ]
+  },
+  {
+    "id": "n-nicety",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nicety",
+    "pronunciation": "ˈnaɪsɪtɪ",
+    "meaning": [
+      "subtelność",
+      "szczegół"
+    ]
+  },
+  {
+    "id": "n-niche",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "niche",
+    "pronunciation": "ni:ʃ",
+    "meaning": [
+      "nisza",
+      "wgłębienie",
+      "miejsce"
+    ]
+  },
+  {
+    "id": "n-nick",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nick",
+    "pronunciation": "nɪk",
+    "meaning": [
+      "zacinać",
+      "podprowadzić",
+      "zwędzić",
+      "nacięcie"
+    ]
+  },
+  {
+    "id": "n-nickel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nickel",
+    "pronunciation": "ˈnɪkəl",
+    "meaning": [
+      "nikiel",
+      "pięciocentówka"
+    ]
+  },
+  {
+    "id": "n-nickname",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nickname",
+    "pronunciation": "ˈnɪkneɪm",
+    "meaning": [
+      "przezwisko",
+      "przydomek",
+      "przezywać",
+      "nadawać przydomek"
+    ]
+  },
+  {
+    "id": "n-nicotine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nicotine",
+    "pronunciation": "ˈnɪkəti:n",
+    "meaning": [
+      "nikotyna"
+    ]
+  },
+  {
+    "id": "n-niece",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "niece",
+    "pronunciation": "ni:s",
+    "meaning": [
+      "bratanica",
+      "siostrzenica"
+    ]
+  },
+  {
+    "id": "n-Nigeria",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Nigeria",
+    "pronunciation": "naɪˈʤɪərɪə",
+    "meaning": [
+      "Nigeria"
+    ]
+  },
+  {
+    "id": "n-Nigerian",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Nigerian",
+    "pronunciation": "naɪˈʤɪərɪən",
+    "meaning": [
+      "nigeryjski",
+      "Nigeryjczyk"
+    ]
+  },
+  {
+    "id": "n-niggardly",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "niggardly",
+    "pronunciation": "ˈnɪgədlɪ",
+    "meaning": [
+      "skąpy",
+      "szczupły",
+      "powściągliwy"
+    ]
+  },
+  {
+    "id": "n-niggle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "niggle",
+    "pronunciation": "ˈnɪgəl",
+    "meaning": [
+      "dokuczać",
+      "czepiać się"
+    ]
+  },
+  {
+    "id": "n-nightcap",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nightcap",
+    "pronunciation": "ˈnaɪtkæp",
+    "meaning": [
+      "kieliszek przed spaniem"
+    ]
+  },
+  {
+    "id": "n-nightdress",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nightdress",
+    "pronunciation": "ˈnaɪtdres",
+    "meaning": [
+      "koszula nocna"
+    ]
+  },
+  {
+    "id": "n-nightfall",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nightfall",
+    "pronunciation": "ˈnaɪtfɔ:l",
+    "meaning": [
+      "zmierzch"
+    ]
+  },
+  {
+    "id": "n-nightgown",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nightgown",
+    "pronunciation": "ˈnaɪtgaʊn",
+    "meaning": [
+      "koszula nocna"
+    ]
+  },
+  {
+    "id": "n-nightie",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nightie",
+    "pronunciation": "ˈnaɪtɪ",
+    "meaning": [
+      "koszulka nocna"
+    ]
+  },
+  {
+    "id": "n-nightingale",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nightingale",
+    "pronunciation": "ˈnaɪtɪŋgeɪl",
+    "meaning": [
+      "słowik"
+    ]
+  },
+  {
+    "id": "n-nightlife",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nightlife",
+    "pronunciation": "ˈnaɪtlaɪf",
+    "meaning": [
+      "życie nocne"
+    ]
+  },
+  {
+    "id": "n-nightly",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "nightly",
+    "pronunciation": "ˈnaɪtlɪ",
+    "meaning": [
+      "wieczorny",
+      "wieczorem"
+    ]
+  },
+  {
+    "id": "n-nightmare",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nightmare",
+    "pronunciation": "ˈnaɪtmeə",
+    "meaning": [
+      "zły sen",
+      "koszmar"
+    ]
+  },
+  {
+    "id": "n-nightmarish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nightmarish",
+    "pronunciation": "ˈnaɪtmeərɪʃ",
+    "meaning": [
+      "koszmarny"
+    ]
+  },
+  {
+    "id": "n-night-time",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "night-time",
+    "pronunciation": "ˈnaɪttaɪm",
+    "meaning": [
+      "noc",
+      "ciemność"
+    ]
+  },
+  {
+    "id": "n-night-watchman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "night-watchman",
+    "pronunciation": "ˌnaɪtˈwɒʧmən",
+    "meaning": [
+      "stróż nocny"
+    ]
+  },
+  {
+    "id": "n-nil",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nil",
+    "pronunciation": "nɪl",
+    "meaning": [
+      "zero"
+    ]
+  },
+  {
+    "id": "n-nimble",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nimble",
+    "pronunciation": "ˈnɪmbəl",
+    "meaning": [
+      "zwinny",
+      "lotny"
+    ]
+  },
+  {
+    "id": "n-nine",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "nine",
+    "pronunciation": "naɪn",
+    "meaning": [
+      "dziewięć"
+    ]
+  },
+  {
+    "id": "n-nineteen",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "nineteen",
+    "pronunciation": "ˌnaɪnˈti:n",
+    "meaning": [
+      "dziewiętnaście"
+    ]
+  },
+  {
+    "id": "n-nineteenth",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "nineteenth",
+    "pronunciation": "ˌnaɪnˈti:nθ",
+    "meaning": [
+      "dziewiętnasty"
+    ]
+  },
+  {
+    "id": "n-ninetieth",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "ninetieth",
+    "pronunciation": "ˈnaɪntɪɪθ",
+    "meaning": [
+      "dziewięćdziesiąty"
+    ]
+  },
+  {
+    "id": "n-ninety",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "ninety",
+    "pronunciation": "ˈnaɪntɪ",
+    "meaning": [
+      "dziewięćdziesiąt"
+    ]
+  },
+  {
+    "id": "n-ninth",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "ninth",
+    "pronunciation": "naɪnθ",
+    "meaning": [
+      "dziewiąty"
+    ]
+  },
+  {
+    "id": "n-nip",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nip",
+    "pronunciation": "nɪp",
+    "meaning": [
+      "wyskakiwać",
+      "szczypać",
+      "szczypnięcie",
+      "ukąszenie"
+    ]
+  },
+  {
+    "id": "n-nipple",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nipple",
+    "pronunciation": "ˈnɪpəl",
+    "meaning": [
+      "sutek",
+      "smoczek"
+    ]
+  },
+  {
+    "id": "n-nippy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nippy",
+    "pronunciation": "ˈnɪpɪ",
+    "meaning": [
+      "żwawy",
+      "chłodny"
+    ]
+  },
+  {
+    "id": "n-nit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nit",
+    "pronunciation": "nɪt",
+    "meaning": [
+      "gnida",
+      "debil"
+    ]
+  },
+  {
+    "id": "n-nitrogen",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nitrogen",
+    "pronunciation": "ˈnaɪtrəʤən",
+    "meaning": [
+      "azot"
+    ]
+  },
+  {
+    "id": "n-no",
+    "level": "A1",
+    "partOfSpeech": [
+      "determiner",
+      "adverb"
+    ],
+    "word": "no",
+    "pronunciation": "nəʊ",
+    "meaning": [
+      "nie",
+      "tak",
+      "żaden",
+      "wzbronione",
+      "zabrania się"
+    ]
+  },
+  {
+    "id": "n-no.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "no.",
+    "pronunciation": "/nəʊ/",
+    "meaning": [
+      "nr",
+      "numer"
+    ]
+  },
+  {
+    "id": "n-nobility",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nobility",
+    "pronunciation": "nəʊˈbɪlɪtɪ",
+    "meaning": [
+      "szlachetność",
+      "szlachectwo",
+      "szlachta",
+      "wyższe warstwy"
+    ]
+  },
+  {
+    "id": "n-noble",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "noble",
+    "pronunciation": "ˈnəʊbəl",
+    "meaning": [
+      "szlachetny",
+      "wspaniały",
+      "imponujący",
+      "szlachcic"
+    ]
+  },
+  {
+    "id": "n-nobleman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nobleman",
+    "pronunciation": "ˈnəʊbəlmən",
+    "meaning": [
+      "szlachcic"
+    ]
+  },
+  {
+    "id": "n-nobody",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "nobody",
+    "pronunciation": "ˈnəʊbədɪ",
+    "meaning": [
+      "nikt"
+    ]
+  },
+  {
+    "id": "n-nocturnal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nocturnal",
+    "pronunciation": "nɒkˈtɜ:nəl",
+    "meaning": [
+      "nocny"
+    ]
+  },
+  {
+    "id": "n-nod",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nod",
+    "pronunciation": "nɒd",
+    "meaning": [
+      "skinąć głową",
+      "skinąć",
+      "wskazywać głową",
+      "wskazywać",
+      "kłaniać się",
+      "chylić się",
+      "skinienie głową",
+      "drzemać"
+    ]
+  },
+  {
+    "id": "n-node",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "node",
+    "pronunciation": "nəʊd",
+    "meaning": [
+      "węzeł"
+    ]
+  },
+  {
+    "id": "n-nodule",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nodule",
+    "pronunciation": "ˈnɒdju:l",
+    "meaning": [
+      "guzek",
+      "węzeł"
+    ]
+  },
+  {
+    "id": "n-noise",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "noise",
+    "pronunciation": "nɔɪz",
+    "meaning": [
+      "dźwięk",
+      "hałas",
+      "szum",
+      "zakłócenia"
+    ]
+  },
+  {
+    "id": "n-noiseless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "noiseless",
+    "pronunciation": "ˈnɔɪzlɪs",
+    "meaning": [
+      "bezgłośny",
+      "cichy"
+    ]
+  },
+  {
+    "id": "n-noisy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "noisy",
+    "pronunciation": "ˈnɔɪzɪ",
+    "meaning": [
+      "hałaśliwy"
+    ]
+  },
+  {
+    "id": "n-nomad",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nomad",
+    "pronunciation": "ˈnəʊmæd",
+    "meaning": [
+      "nomad"
+    ]
+  },
+  {
+    "id": "n-nomadic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nomadic",
+    "pronunciation": "nəʊˈmædɪk",
+    "meaning": [
+      "nomadyczny",
+      "wędrowny"
+    ]
+  },
+  {
+    "id": "n-no-man-s_land",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "no-man's land",
+    "pronunciation": "ˈnəʊmænzlænd",
+    "meaning": [
+      "ziemia niczyja",
+      "pogranicze"
+    ]
+  },
+  {
+    "id": "n-nominate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "nominate",
+    "pronunciation": "ˈnɒmɪneɪt",
+    "meaning": [
+      "mianować"
+    ]
+  },
+  {
+    "id": "n-nomination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nomination",
+    "pronunciation": "ˌnɒmɪˈneɪʃən",
+    "meaning": [
+      "nominacja",
+      "mianowanie"
+    ]
+  },
+  {
+    "id": "n-nominee",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nominee",
+    "pronunciation": "ˌnɒmɪˈni:",
+    "meaning": [
+      "nominat",
+      "elekt"
+    ]
+  },
+  {
+    "id": "n-non-alcoholic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "non-alcoholic",
+    "pronunciation": "ˌnɒnælkəˈhɒlɪk",
+    "meaning": [
+      "bezalkoholowy"
+    ]
+  },
+  {
+    "id": "n-nonchalant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nonchalant",
+    "pronunciation": "ˈnɒnʃələnt",
+    "meaning": [
+      "nonszalancki"
+    ]
+  },
+  {
+    "id": "n-noncommittal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "noncommittal",
+    "pronunciation": "ˌnɒnkəˈmɪtəl",
+    "meaning": [
+      "wymijający",
+      "pełen rezerwy"
+    ]
+  },
+  {
+    "id": "n-nondescript",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nondescript",
+    "pronunciation": "ˈnɒndɪskrɪpt",
+    "meaning": [
+      "nieokreślonego rodzaju"
+    ]
+  },
+  {
+    "id": "n-none",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "none",
+    "pronunciation": "nʌn",
+    "meaning": [
+      "żaden",
+      "ani jeden"
+    ]
+  },
+  {
+    "id": "n-nonentity",
+    "level": "C1",
+    "partOfSpeech": "pronoun",
+    "word": "nonentity",
+    "pronunciation": "nɒnˈentɪtɪ",
+    "meaning": [
+      "nikt ważny",
+      "nikt"
+    ]
+  },
+  {
+    "id": "n-nonetheless",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "nonetheless",
+    "pronunciation": "ˌnʌnðəˈles",
+    "meaning": [
+      "mimo to"
+    ]
+  },
+  {
+    "id": "n-non-event",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "non-event",
+    "pronunciation": "ˌnɒnɪˈvent",
+    "meaning": [
+      "nic ciekawego",
+      "żadne wydarzenie"
+    ]
+  },
+  {
+    "id": "n-non-existent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "non-existent",
+    "pronunciation": "ˌnɒnɪgˈzɪstənt",
+    "meaning": [
+      "nieistniejący"
+    ]
+  },
+  {
+    "id": "n-non-fiction",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "non-fiction",
+    "pronunciation": "ˌnɒnˈfɪkʃən",
+    "meaning": [
+      "literatura faktu"
+    ]
+  },
+  {
+    "id": "n-nonplussed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nonplussed",
+    "pronunciation": "ˌnɒnˈplʌst",
+    "meaning": [
+      "zakłopotany"
+    ]
+  },
+  {
+    "id": "n-nonsense",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nonsense",
+    "pronunciation": "ˈnɒnsəns",
+    "meaning": [
+      "nonsens",
+      "bzdura",
+      "głupstwa"
+    ]
+  },
+  {
+    "id": "n-nonsensical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nonsensical",
+    "pronunciation": "nɒnˈsensɪkəl",
+    "meaning": [
+      "nonsensowny"
+    ]
+  },
+  {
+    "id": "n-non-smoker",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "non-smoker",
+    "pronunciation": "ˌnɒnˈsməʊkə",
+    "meaning": [
+      "niepalący"
+    ]
+  },
+  {
+    "id": "n-non-starter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "non-starter",
+    "pronunciation": "ˌnɒnˈstɑ:tə",
+    "meaning": [
+      "niewypał"
+    ]
+  },
+  {
+    "id": "n-non-violent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "non-violent",
+    "pronunciation": "ˌnɒnˈvaɪələnt",
+    "meaning": [
+      "pokojowy",
+      "bez przemocy"
+    ]
+  },
+  {
+    "id": "n-noodles",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "noodles",
+    "pronunciation": "ˈnu:dəlz",
+    "meaning": [
+      "makaron nitki",
+      "makaron"
+    ]
+  },
+  {
+    "id": "n-nook",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nook",
+    "pronunciation": "nu:k",
+    "meaning": [
+      "kąt",
+      "kącik"
+    ]
+  },
+  {
+    "id": "n-noon",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "noon",
+    "pronunciation": "nu:n",
+    "meaning": [
+      "południe"
+    ]
+  },
+  {
+    "id": "n-no-one",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "no-one",
+    "pronunciation": "ˈnəʊwʌn",
+    "meaning": [
+      "nikt"
+    ]
+  },
+  {
+    "id": "n-noose",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "noose",
+    "pronunciation": "nu:s",
+    "meaning": [
+      "pętla"
+    ]
+  },
+  {
+    "id": "n-nor",
+    "level": "A2",
+    "partOfSpeech": "conjunction",
+    "word": "nor",
+    "pronunciation": "nɔ:",
+    "meaning": [
+      "też nie"
+    ]
+  },
+  {
+    "id": "n-norm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "norm",
+    "pronunciation": "nɔ:m",
+    "meaning": [
+      "norma"
+    ]
+  },
+  {
+    "id": "n-normal",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "normal",
+    "pronunciation": "ˈnɔ:məl",
+    "meaning": [
+      "zwyczajny",
+      "normalny"
+    ]
+  },
+  {
+    "id": "n-normality",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "normality",
+    "pronunciation": "nɔ:ˈmælɪtɪ",
+    "meaning": [
+      "normalność"
+    ]
+  },
+  {
+    "id": "n-normally",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "normally",
+    "pronunciation": "ˈnɔ:məlɪ",
+    "meaning": [
+      "normalnie",
+      "zazwyczaj"
+    ]
+  },
+  {
+    "id": "n-north",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "north",
+    "pronunciation": "nɔ:θ",
+    "meaning": [
+      "północ",
+      "na północ",
+      "północny"
+    ]
+  },
+  {
+    "id": "n-north-east",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "north-east",
+    "pronunciation": "ˌnɔ:θˈi:st",
+    "meaning": [
+      "północno-wschodni",
+      "na północny wschód"
+    ]
+  },
+  {
+    "id": "n-north-eastern",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "north-eastern",
+    "pronunciation": "ˌnɔ:θˈi:stən",
+    "meaning": [
+      "północno-wschodni"
+    ]
+  },
+  {
+    "id": "n-northerly",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "northerly",
+    "pronunciation": "ˈnɔ:ðəlɪ",
+    "meaning": [
+      "północny"
+    ]
+  },
+  {
+    "id": "n-northern",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "northern",
+    "pronunciation": "ˈnɔ:ðən",
+    "meaning": [
+      "północny"
+    ]
+  },
+  {
+    "id": "n-northward",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "northward",
+    "pronunciation": "ˈnɔ:θwəd",
+    "meaning": [
+      "na północ",
+      "północny"
+    ]
+  },
+  {
+    "id": "n-north-west",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "north-west",
+    "pronunciation": "ˌnɔ:θˈwest",
+    "meaning": [
+      "północno-zachodni",
+      "na północny zachód"
+    ]
+  },
+  {
+    "id": "n-north-western",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "north-western",
+    "pronunciation": "ˌnɔ:θˈwestən",
+    "meaning": [
+      "północno-zachodni"
+    ]
+  },
+  {
+    "id": "n-Norway",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Norway",
+    "pronunciation": "ˈnɔ:weɪ",
+    "meaning": [
+      "Norwegia"
+    ]
+  },
+  {
+    "id": "n-Norwegian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Norwegian",
+    "pronunciation": "nɔ:ˈwi:ʤən",
+    "meaning": [
+      "norweski",
+      "Norweg"
+    ]
+  },
+  {
+    "id": "n-nos.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nos.",
+    "pronunciation": "/ˈnɒz/",
+    "meaning": [
+      "numery"
+    ]
+  },
+  {
+    "id": "n-nosebleed",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nosebleed",
+    "pronunciation": "ˈnəʊzbli:d",
+    "meaning": [
+      "krwotok z nosa"
+    ]
+  },
+  {
+    "id": "n-nosedive",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nosedive",
+    "pronunciation": "ˈnəʊzdaɪv",
+    "meaning": [
+      "nurkować",
+      "pikować",
+      "spadać",
+      "nurkowanie",
+      "pikowanie",
+      "gwałtowne spadanie",
+      "spadanie"
+    ]
+  },
+  {
+    "id": "n-nosey",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nosey",
+    "pronunciation": "ˈnəʊzɪ",
+    "meaning": [
+      "wścibski"
+    ]
+  },
+  {
+    "id": "n-nostalgia",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nostalgia",
+    "pronunciation": "nɒsˈtælʤɪə",
+    "meaning": [
+      "nostalgia"
+    ]
+  },
+  {
+    "id": "n-nostalgic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nostalgic",
+    "pronunciation": "nɒsˈtælʤɪk",
+    "meaning": [
+      "nostalgiczny",
+      "cierpiący na nostalgię"
+    ]
+  },
+  {
+    "id": "n-nostril",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nostril",
+    "pronunciation": "ˈnɒstrɪl",
+    "meaning": [
+      "nozdrza"
+    ]
+  },
+  {
+    "id": "n-nosy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nosy",
+    "pronunciation": "ˈnəʊzɪ",
+    "meaning": [
+      "wścibski"
+    ]
+  },
+  {
+    "id": "n-notable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "notable",
+    "pronunciation": "ˈnəʊtəbəl",
+    "meaning": [
+      "godny uwagi"
+    ]
+  },
+  {
+    "id": "n-notably",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "notably",
+    "pronunciation": "ˈnəʊtəblɪ",
+    "meaning": [
+      "szczególnie",
+      "w widoczny sposób"
+    ]
+  },
+  {
+    "id": "n-notarial",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "notarial",
+    "pronunciation": "nəʊˈtærɪal",
+    "meaning": [
+      "notarialny"
+    ]
+  },
+  {
+    "id": "n-notary",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "notary",
+    "pronunciation": "ˈnəʊtərɪ",
+    "meaning": [
+      "notariusz"
+    ]
+  },
+  {
+    "id": "n-notation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "notation",
+    "pronunciation": "nəʊˈteɪʃən",
+    "meaning": [
+      "zapis"
+    ]
+  },
+  {
+    "id": "n-notch",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "notch",
+    "pronunciation": "nɒʧ",
+    "meaning": [
+      "nacięcie",
+      "szczerba",
+      "stopień",
+      "nacinać",
+      "zapisywać na swoje konto",
+      "osiągać"
+    ]
+  },
+  {
+    "id": "n-note",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "note",
+    "pronunciation": "nəʊt",
+    "meaning": [
+      "notatka",
+      "nota",
+      "uwaga",
+      "pismo",
+      "nuta",
+      "ton",
+      "banknot",
+      "przypis",
+      "zauważać",
+      "notować",
+      "zapisywać"
+    ]
+  },
+  {
+    "id": "n-notebook",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "notebook",
+    "pronunciation": "ˈnəʊtbʊk",
+    "meaning": [
+      "notes",
+      "notatnik"
+    ]
+  },
+  {
+    "id": "n-noted",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "noted",
+    "pronunciation": "ˈnəʊtɪd",
+    "meaning": [
+      "znany"
+    ]
+  },
+  {
+    "id": "n-notepaper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "notepaper",
+    "pronunciation": "ˈnəʊtpeɪpə",
+    "meaning": [
+      "papier listowy"
+    ]
+  },
+  {
+    "id": "n-noteworthy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "noteworthy",
+    "pronunciation": "ˈnəʊtwɜ:ðɪ",
+    "meaning": [
+      "godny uwagi"
+    ]
+  },
+  {
+    "id": "n-notice",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "notice",
+    "pronunciation": "ˈnəʊtɪs",
+    "meaning": [
+      "zauważać",
+      "ogłoszenie",
+      "zawiadomienie",
+      "uprzedzenie",
+      "upomnienie",
+      "rezygnacja"
+    ]
+  },
+  {
+    "id": "n-noticeable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "noticeable",
+    "pronunciation": "ˈnəʊtɪsəbəl",
+    "meaning": [
+      "widoczny"
+    ]
+  },
+  {
+    "id": "n-noticeboard",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "noticeboard",
+    "pronunciation": "ˈnəʊtɪsbɔ:d",
+    "meaning": [
+      "tablica ogłoszeń"
+    ]
+  },
+  {
+    "id": "n-notification",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "notification",
+    "pronunciation": "ˌnəʊtɪfɪˈkeɪʃən",
+    "meaning": [
+      "zawiadomienie"
+    ]
+  },
+  {
+    "id": "n-notify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "notify",
+    "pronunciation": "ˈnəʊtɪfaɪ",
+    "meaning": [
+      "zawiadamiać"
+    ]
+  },
+  {
+    "id": "n-notion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "notion",
+    "pronunciation": "ˈnəʊʃən",
+    "meaning": [
+      "pojęcie",
+      "opinia"
+    ]
+  },
+  {
+    "id": "n-notoriety",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "notoriety",
+    "pronunciation": "ˌnəʊtəˈraɪətɪ",
+    "meaning": [
+      "rozgłos",
+      "notoryczność"
+    ]
+  },
+  {
+    "id": "n-notorious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "notorious",
+    "pronunciation": "nəˈtɔ:rɪəs",
+    "meaning": [
+      "notoryczny",
+      "o złej reputacji"
+    ]
+  },
+  {
+    "id": "n-notwithstanding",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "notwithstanding",
+    "pronunciation": "ˌnɒtwɪθˈstændɪŋ",
+    "meaning": [
+      "pomimo",
+      "mimo to",
+      "jednakże"
+    ]
+  },
+  {
+    "id": "n-nought",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nought",
+    "pronunciation": "nɔ:t",
+    "meaning": [
+      "zero"
+    ]
+  },
+  {
+    "id": "n-noun",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "noun",
+    "pronunciation": "naʊn",
+    "meaning": [
+      "rzeczownik"
+    ]
+  },
+  {
+    "id": "n-nourish",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "nourish",
+    "pronunciation": "ˈnʌrɪʃ",
+    "meaning": [
+      "odżywiać",
+      "żywić",
+      "piastować"
+    ]
+  },
+  {
+    "id": "n-nourishing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nourishing",
+    "pronunciation": "ˈnʌrɪʃɪŋ",
+    "meaning": [
+      "odżywczy"
+    ]
+  },
+  {
+    "id": "n-nourishment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nourishment",
+    "pronunciation": "ˈnʌrɪʃmənt",
+    "meaning": [
+      "pożywienie"
+    ]
+  },
+  {
+    "id": "n-Nov.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Nov.",
+    "pronunciation": "/nəʊˈvembə/",
+    "meaning": [
+      "listopad"
+    ]
+  },
+  {
+    "id": "n-novel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "novel",
+    "pronunciation": "ˈnɒvəl",
+    "meaning": [
+      "powieść",
+      "nowatorski"
+    ]
+  },
+  {
+    "id": "n-novelist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "novelist",
+    "pronunciation": "ˈnɒvəlɪst",
+    "meaning": [
+      "powieściopisarz"
+    ]
+  },
+  {
+    "id": "n-novelty",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "novelty",
+    "pronunciation": "ˈnɒvəltɪ",
+    "meaning": [
+      "nowość",
+      "nowatorstwo",
+      "nowinka"
+    ]
+  },
+  {
+    "id": "n-November",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "November",
+    "pronunciation": "nəʊˈvembə",
+    "meaning": [
+      "listopad"
+    ]
+  },
+  {
+    "id": "n-novice",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "novice",
+    "pronunciation": "ˈnɒvɪs",
+    "meaning": [
+      "nowicjusz"
+    ]
+  },
+  {
+    "id": "n-nowadays",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "nowadays",
+    "pronunciation": "ˈnaʊədeɪz",
+    "meaning": [
+      "obecnie"
+    ]
+  },
+  {
+    "id": "n-nowhere",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "nowhere",
+    "pronunciation": "ˈnəʊweə",
+    "meaning": [
+      "nigdzie",
+      "donikąd"
+    ]
+  },
+  {
+    "id": "n-noxious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "noxious",
+    "pronunciation": "ˈnɒkʃəs",
+    "meaning": [
+      "szkodliwy",
+      "trujący"
+    ]
+  },
+  {
+    "id": "n-nozzle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nozzle",
+    "pronunciation": "ˈnɒzəl",
+    "meaning": [
+      "ssawka",
+      "dysza",
+      "wylot"
+    ]
+  },
+  {
+    "id": "n-nr",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "nr",
+    "pronunciation": "/ˌenˈɑː/",
+    "meaning": [
+      "blisko",
+      "w pobliżu"
+    ]
+  },
+  {
+    "id": "n-NT",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "NT",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Nowy Testament"
+    ]
+  },
+  {
+    "id": "n-nuance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "nuance",
+    "pronunciation": "ˈnju:ɑ:ns",
+    "meaning": [
+      "niuans"
+    ]
+  },
+  {
+    "id": "n-nuclear",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nuclear",
+    "pronunciation": "ˈnju:klɪə",
+    "meaning": [
+      "nuklearny",
+      "atomowy"
+    ]
+  },
+  {
+    "id": "n-nucleus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nucleus",
+    "pronunciation": "ˈnju:klɪəs",
+    "meaning": [
+      "jądro",
+      "centrum"
+    ]
+  },
+  {
+    "id": "n-nude",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nude",
+    "pronunciation": "nju:d",
+    "meaning": [
+      "nagi",
+      "akt"
+    ]
+  },
+  {
+    "id": "n-nudge",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nudge",
+    "pronunciation": "nʌʤ",
+    "meaning": [
+      "trącać się",
+      "poszturchiwać",
+      "przekonywać",
+      "szturchaniec",
+      "przekonywanie"
+    ]
+  },
+  {
+    "id": "n-nudity",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nudity",
+    "pronunciation": "ˈnju:dɪtɪ",
+    "meaning": [
+      "nagość"
+    ]
+  },
+  {
+    "id": "n-nugget",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nugget",
+    "pronunciation": "ˈnʌgɪt",
+    "meaning": [
+      "rodzynek",
+      "interesująca wiadomość",
+      "wiadomość",
+      "bryłka"
+    ]
+  },
+  {
+    "id": "n-nuisance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nuisance",
+    "pronunciation": "ˈnju:səns",
+    "meaning": [
+      "utrapienie",
+      "coś nieznośnego"
+    ]
+  },
+  {
+    "id": "n-null",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "null",
+    "pronunciation": "nʌl",
+    "meaning": [
+      "zero",
+      "pusty",
+      "bez znaczenia"
+    ]
+  },
+  {
+    "id": "n-numb",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "numb",
+    "pronunciation": "nʌm",
+    "meaning": [
+      "zdrętwiały",
+      "skostniały",
+      "kostnieć",
+      "powodować kostnienie",
+      "paraliżować"
+    ]
+  },
+  {
+    "id": "n-number",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "number",
+    "pronunciation": "ˈnʌmbə",
+    "meaning": [
+      "numer",
+      "liczba",
+      "ilość",
+      "liczyć",
+      "numerować",
+      "zaliczać się",
+      "tablica rejestracyjna"
+    ]
+  },
+  {
+    "id": "n-numeral",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "numeral",
+    "pronunciation": "ˈnju:mərəl",
+    "meaning": [
+      "liczbowy",
+      "liczebnik"
+    ]
+  },
+  {
+    "id": "n-numerate",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "numerate",
+    "pronunciation": "ˈnju:mərət",
+    "meaning": []
+  },
+  {
+    "id": "n-numerical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "numerical",
+    "pronunciation": "nju:ˈmerɪkəl",
+    "meaning": [
+      "liczbowy"
+    ]
+  },
+  {
+    "id": "n-numerous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "numerous",
+    "pronunciation": "ˈnju:mərəs",
+    "meaning": [
+      "liczny",
+      "liczebny"
+    ]
+  },
+  {
+    "id": "n-nun",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nun",
+    "pronunciation": "nʌn",
+    "meaning": [
+      "zakonnica"
+    ]
+  },
+  {
+    "id": "n-nurse",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nurse",
+    "pronunciation": "nɜ:s",
+    "meaning": [
+      "pielęgniarka",
+      "siostra",
+      "pielęgnować",
+      "żywić"
+    ]
+  },
+  {
+    "id": "n-noodles",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "noodles",
+    "pronunciation": "ˈnu:dəlz",
+    "meaning": [
+      "makaron nitki",
+      "makaron"
+    ]
+  },
+  {
+    "id": "n-nook",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nook",
+    "pronunciation": "nu:k",
+    "meaning": [
+      "kąt",
+      "kącik"
+    ]
+  },
+  {
+    "id": "n-noon",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "noon",
+    "pronunciation": "nu:n",
+    "meaning": [
+      "południe"
+    ]
+  },
+  {
+    "id": "n-no-one",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "no-one",
+    "pronunciation": "ˈnəʊwʌn",
+    "meaning": [
+      "nikt"
+    ]
+  },
+  {
+    "id": "n-noose",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "noose",
+    "pronunciation": "nu:s",
+    "meaning": [
+      "pętla"
+    ]
+  },
+  {
+    "id": "n-nor",
+    "level": "A2",
+    "partOfSpeech": "conjunction",
+    "word": "nor",
+    "pronunciation": "nɔ:",
+    "meaning": [
+      "też nie"
+    ]
+  },
+  {
+    "id": "n-norm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "norm",
+    "pronunciation": "nɔ:m",
+    "meaning": [
+      "norma"
+    ]
+  },
+  {
+    "id": "n-normal",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "normal",
+    "pronunciation": "ˈnɔ:məl",
+    "meaning": [
+      "zwyczajny",
+      "normalny"
+    ]
+  },
+  {
+    "id": "n-normality",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "normality",
+    "pronunciation": "nɔ:ˈmælɪtɪ",
+    "meaning": [
+      "normalność"
+    ]
+  },
+  {
+    "id": "n-normally",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "normally",
+    "pronunciation": "ˈnɔ:məlɪ",
+    "meaning": [
+      "normalnie",
+      "zazwyczaj"
+    ]
+  },
+  {
+    "id": "n-north",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "north",
+    "pronunciation": "nɔ:θ",
+    "meaning": [
+      "północ",
+      "na północ",
+      "północny"
+    ]
+  },
+  {
+    "id": "n-north-east",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "north-east",
+    "pronunciation": "ˌnɔ:θˈi:st",
+    "meaning": [
+      "północno-wschodni",
+      "na północny wschód"
+    ]
+  },
+  {
+    "id": "n-north-eastern",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "north-eastern",
+    "pronunciation": "ˌnɔ:θˈi:stən",
+    "meaning": [
+      "północno-wschodni"
+    ]
+  },
+  {
+    "id": "n-northerly",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "northerly",
+    "pronunciation": "ˈnɔ:ðəlɪ",
+    "meaning": [
+      "północny"
+    ]
+  },
+  {
+    "id": "n-northern",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "northern",
+    "pronunciation": "ˈnɔ:ðən",
+    "meaning": [
+      "północny"
+    ]
+  },
+  {
+    "id": "n-northward",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "northward",
+    "pronunciation": "ˈnɔ:θwəd",
+    "meaning": [
+      "na północ",
+      "północny"
+    ]
+  },
+  {
+    "id": "n-north-west",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "north-west",
+    "pronunciation": "ˌnɔ:θˈwest",
+    "meaning": [
+      "północno-zachodni",
+      "na północny zachód"
+    ]
+  },
+  {
+    "id": "n-north-western",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "north-western",
+    "pronunciation": "ˌnɔ:θˈwestən",
+    "meaning": [
+      "północno-zachodni"
+    ]
+  },
+  {
+    "id": "n-Norway",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Norway",
+    "pronunciation": "ˈnɔ:weɪ",
+    "meaning": [
+      "Norwegia"
+    ]
+  },
+  {
+    "id": "n-Norwegian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Norwegian",
+    "pronunciation": "nɔ:ˈwi:ʤən",
+    "meaning": [
+      "norweski",
+      "Norweg"
+    ]
+  },
+  {
+    "id": "n-nos.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nos.",
+    "pronunciation": "/ˈnɒz/",
+    "meaning": [
+      "numery"
+    ]
+  },
+  {
+    "id": "n-nosebleed",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nosebleed",
+    "pronunciation": "ˈnəʊzbli:d",
+    "meaning": [
+      "krwotok z nosa"
+    ]
+  },
+  {
+    "id": "n-nosedive",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nosedive",
+    "pronunciation": "ˈnəʊzdaɪv",
+    "meaning": [
+      "nurkować",
+      "pikować",
+      "spadać",
+      "nurkowanie",
+      "pikowanie",
+      "gwałtowne spadanie",
+      "spadanie"
+    ]
+  },
+  {
+    "id": "n-nosey",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nosey",
+    "pronunciation": "ˈnəʊzɪ",
+    "meaning": [
+      "wścibski"
+    ]
+  },
+  {
+    "id": "n-nostalgia",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nostalgia",
+    "pronunciation": "nɒsˈtælʤɪə",
+    "meaning": [
+      "nostalgia"
+    ]
+  },
+  {
+    "id": "n-nostalgic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nostalgic",
+    "pronunciation": "nɒsˈtælʤɪk",
+    "meaning": [
+      "nostalgiczny",
+      "cierpiący na nostalgię"
+    ]
+  },
+  {
+    "id": "n-nostril",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nostril",
+    "pronunciation": "ˈnɒstrɪl",
+    "meaning": [
+      "nozdrza"
+    ]
+  },
+  {
+    "id": "n-nosy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nosy",
+    "pronunciation": "ˈnəʊzɪ",
+    "meaning": [
+      "wścibski"
+    ]
+  },
+  {
+    "id": "n-notable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "notable",
+    "pronunciation": "ˈnəʊtəbəl",
+    "meaning": [
+      "godny uwagi"
+    ]
+  },
+  {
+    "id": "n-notably",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "notably",
+    "pronunciation": "ˈnəʊtəblɪ",
+    "meaning": [
+      "szczególnie",
+      "w widoczny sposób"
+    ]
+  },
+  {
+    "id": "n-notarial",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "notarial",
+    "pronunciation": "nəʊˈtærɪal",
+    "meaning": [
+      "notarialny"
+    ]
+  },
+  {
+    "id": "n-notary",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "notary",
+    "pronunciation": "ˈnəʊtərɪ",
+    "meaning": [
+      "notariusz"
+    ]
+  },
+  {
+    "id": "n-notation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "notation",
+    "pronunciation": "nəʊˈteɪʃən",
+    "meaning": [
+      "zapis"
+    ]
+  },
+  {
+    "id": "n-notch",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "notch",
+    "pronunciation": "nɒʧ",
+    "meaning": [
+      "nacięcie",
+      "szczerba",
+      "stopień",
+      "nacinać",
+      "zapisywać na swoje konto",
+      "osiągać"
+    ]
+  },
+  {
+    "id": "n-note",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "note",
+    "pronunciation": "nəʊt",
+    "meaning": [
+      "notatka",
+      "nota",
+      "uwaga",
+      "pismo",
+      "nuta",
+      "ton",
+      "banknot",
+      "przypis",
+      "zauważać",
+      "notować",
+      "zapisywać"
+    ]
+  },
+  {
+    "id": "n-notebook",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "notebook",
+    "pronunciation": "ˈnəʊtbʊk",
+    "meaning": [
+      "notes",
+      "notatnik"
+    ]
+  },
+  {
+    "id": "n-noted",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "noted",
+    "pronunciation": "ˈnəʊtɪd",
+    "meaning": [
+      "znany"
+    ]
+  },
+  {
+    "id": "n-notepaper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "notepaper",
+    "pronunciation": "ˈnəʊtpeɪpə",
+    "meaning": [
+      "papier listowy"
+    ]
+  },
+  {
+    "id": "n-noteworthy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "noteworthy",
+    "pronunciation": "ˈnəʊtwɜ:ðɪ",
+    "meaning": [
+      "godny uwagi"
+    ]
+  },
+  {
+    "id": "n-notice",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "notice",
+    "pronunciation": "ˈnəʊtɪs",
+    "meaning": [
+      "zauważać",
+      "ogłoszenie",
+      "zawiadomienie",
+      "uprzedzenie",
+      "upomnienie",
+      "rezygnacja"
+    ]
+  },
+  {
+    "id": "n-noticeable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "noticeable",
+    "pronunciation": "ˈnəʊtɪsəbəl",
+    "meaning": [
+      "widoczny"
+    ]
+  },
+  {
+    "id": "n-noticeboard",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "noticeboard",
+    "pronunciation": "ˈnəʊtɪsbɔ:d",
+    "meaning": [
+      "tablica ogłoszeń"
+    ]
+  },
+  {
+    "id": "n-notification",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "notification",
+    "pronunciation": "ˌnəʊtɪfɪˈkeɪʃən",
+    "meaning": [
+      "zawiadomienie"
+    ]
+  },
+  {
+    "id": "n-notify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "notify",
+    "pronunciation": "ˈnəʊtɪfaɪ",
+    "meaning": [
+      "zawiadamiać"
+    ]
+  },
+  {
+    "id": "n-notion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "notion",
+    "pronunciation": "ˈnəʊʃən",
+    "meaning": [
+      "pojęcie",
+      "opinia"
+    ]
+  },
+  {
+    "id": "n-notoriety",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "notoriety",
+    "pronunciation": "ˌnəʊtəˈraɪətɪ",
+    "meaning": [
+      "rozgłos",
+      "notoryczność"
+    ]
+  },
+  {
+    "id": "n-notorious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "notorious",
+    "pronunciation": "nəˈtɔ:rɪəs",
+    "meaning": [
+      "notoryczny",
+      "o złej reputacji"
+    ]
+  },
+  {
+    "id": "n-notwithstanding",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "notwithstanding",
+    "pronunciation": "ˌnɒtwɪθˈstændɪŋ",
+    "meaning": [
+      "pomimo",
+      "mimo to",
+      "jednakże"
+    ]
+  },
+  {
+    "id": "n-nought",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nought",
+    "pronunciation": "nɔ:t",
+    "meaning": [
+      "zero"
+    ]
+  },
+  {
+    "id": "n-noun",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "noun",
+    "pronunciation": "naʊn",
+    "meaning": [
+      "rzeczownik"
+    ]
+  },
+  {
+    "id": "n-nourish",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "nourish",
+    "pronunciation": "ˈnʌrɪʃ",
+    "meaning": [
+      "odżywiać",
+      "żywić",
+      "piastować"
+    ]
+  },
+  {
+    "id": "n-nourishing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nourishing",
+    "pronunciation": "ˈnʌrɪʃɪŋ",
+    "meaning": [
+      "odżywczy"
+    ]
+  },
+  {
+    "id": "n-nourishment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nourishment",
+    "pronunciation": "ˈnʌrɪʃmənt",
+    "meaning": [
+      "pożywienie"
+    ]
+  },
+  {
+    "id": "n-Nov.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Nov.",
+    "pronunciation": "/nəʊˈvembə/",
+    "meaning": [
+      "listopad"
+    ]
+  },
+  {
+    "id": "n-novel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "novel",
+    "pronunciation": "ˈnɒvəl",
+    "meaning": [
+      "powieść",
+      "nowatorski"
+    ]
+  },
+  {
+    "id": "n-novelist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "novelist",
+    "pronunciation": "ˈnɒvəlɪst",
+    "meaning": [
+      "powieściopisarz"
+    ]
+  },
+  {
+    "id": "n-novelty",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "novelty",
+    "pronunciation": "ˈnɒvəltɪ",
+    "meaning": [
+      "nowość",
+      "nowatorstwo",
+      "nowinka"
+    ]
+  },
+  {
+    "id": "n-November",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "November",
+    "pronunciation": "nəʊˈvembə",
+    "meaning": [
+      "listopad"
+    ]
+  },
+  {
+    "id": "n-novice",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "novice",
+    "pronunciation": "ˈnɒvɪs",
+    "meaning": [
+      "nowicjusz"
+    ]
+  },
+  {
+    "id": "n-nowadays",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "nowadays",
+    "pronunciation": "ˈnaʊədeɪz",
+    "meaning": [
+      "obecnie"
+    ]
+  },
+  {
+    "id": "n-nowhere",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "nowhere",
+    "pronunciation": "ˈnəʊweə",
+    "meaning": [
+      "nigdzie",
+      "donikąd"
+    ]
+  },
+  {
+    "id": "n-noxious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "noxious",
+    "pronunciation": "ˈnɒkʃəs",
+    "meaning": [
+      "szkodliwy",
+      "trujący"
+    ]
+  },
+  {
+    "id": "n-nozzle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nozzle",
+    "pronunciation": "ˈnɒzəl",
+    "meaning": [
+      "ssawka",
+      "dysza",
+      "wylot"
+    ]
+  },
+  {
+    "id": "n-nr",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "nr",
+    "pronunciation": "/ˌenˈɑː/",
+    "meaning": [
+      "blisko",
+      "w pobliżu"
+    ]
+  },
+  {
+    "id": "n-NT",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "NT",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Nowy Testament"
+    ]
+  },
+  {
+    "id": "n-nuance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "nuance",
+    "pronunciation": "ˈnju:ɑ:ns",
+    "meaning": [
+      "niuans"
+    ]
+  },
+  {
+    "id": "n-nuclear",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "nuclear",
+    "pronunciation": "ˈnju:klɪə",
+    "meaning": [
+      "nuklearny",
+      "atomowy"
+    ]
+  },
+  {
+    "id": "n-nucleus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nucleus",
+    "pronunciation": "ˈnju:klɪəs",
+    "meaning": [
+      "jądro",
+      "centrum"
+    ]
+  },
+  {
+    "id": "n-nude",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nude",
+    "pronunciation": "nju:d",
+    "meaning": [
+      "nagi",
+      "akt"
+    ]
+  },
+  {
+    "id": "n-nudge",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nudge",
+    "pronunciation": "nʌʤ",
+    "meaning": [
+      "trącać się",
+      "poszturchiwać",
+      "przekonywać",
+      "szturchaniec",
+      "przekonywanie"
+    ]
+  },
+  {
+    "id": "n-nudity",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nudity",
+    "pronunciation": "ˈnju:dɪtɪ",
+    "meaning": [
+      "nagość"
+    ]
+  },
+  {
+    "id": "n-nugget",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nugget",
+    "pronunciation": "ˈnʌgɪt",
+    "meaning": [
+      "rodzynek",
+      "interesująca wiadomość",
+      "wiadomość",
+      "bryłka"
+    ]
+  },
+  {
+    "id": "n-nuisance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nuisance",
+    "pronunciation": "ˈnju:səns",
+    "meaning": [
+      "utrapienie",
+      "coś nieznośnego"
+    ]
+  },
+  {
+    "id": "n-null",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "null",
+    "pronunciation": "nʌl",
+    "meaning": [
+      "zero",
+      "pusty",
+      "bez znaczenia"
+    ]
+  },
+  {
+    "id": "n-numb",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "numb",
+    "pronunciation": "nʌm",
+    "meaning": [
+      "zdrętwiały",
+      "skostniały",
+      "kostnieć",
+      "powodować kostnienie",
+      "paraliżować"
+    ]
+  },
+  {
+    "id": "n-number",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "number",
+    "pronunciation": "ˈnʌmbə",
+    "meaning": [
+      "numer",
+      "liczba",
+      "ilość",
+      "liczyć",
+      "numerować",
+      "zaliczać się",
+      "tablica rejestracyjna"
+    ]
+  },
+  {
+    "id": "n-numeral",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "numeral",
+    "pronunciation": "ˈnju:mərəl",
+    "meaning": [
+      "liczbowy",
+      "liczebnik"
+    ]
+  },
+  {
+    "id": "n-numerate",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "numerate",
+    "pronunciation": "ˈnju:mərət",
+    "meaning": []
+  },
+  {
+    "id": "n-numerical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "numerical",
+    "pronunciation": "nju:ˈmerɪkəl",
+    "meaning": [
+      "liczbowy"
+    ]
+  },
+  {
+    "id": "n-numerous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "numerous",
+    "pronunciation": "ˈnju:mərəs",
+    "meaning": [
+      "liczny",
+      "liczebny"
+    ]
+  },
+  {
+    "id": "n-nun",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nun",
+    "pronunciation": "nʌn",
+    "meaning": [
+      "zakonnica"
+    ]
+  },
+  {
+    "id": "n-nurse",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "nurse",
+    "pronunciation": "nɜ:s",
+    "meaning": [
+      "pielęgniarka",
+      "siostra",
+      "pielęgnować",
+      "żywić"
+    ]
+  },
+  {
+    "id": "n-nursery",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nursery",
+    "pronunciation": "ˈnɜ:sərɪ",
+    "meaning": [
+      "przedszkole",
+      "szkółka leśna",
+      "szkółka",
+      "przedszkolny",
+      "wierszyk dziecięcy"
+    ]
+  },
+  {
+    "id": "n-nursing",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "nursing",
+    "pronunciation": "ˈnɜ:sɪŋ",
+    "meaning": [
+      "pielęgniarstwo",
+      "karmiący piersią",
+      "karmiący",
+      "prywatny szpital",
+      "szpital"
+    ]
+  },
+  {
+    "id": "n-nurture",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "nurture",
+    "pronunciation": "ˈnɜ:ʧə",
+    "meaning": [
+      "doglądać",
+      "wychowywać",
+      "dopomagać"
+    ]
+  },
+  {
+    "id": "n-nut",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "nut",
+    "pronunciation": "nʌt",
+    "meaning": [
+      "orzech",
+      "nakrętka",
+      "świr"
+    ]
+  },
+  {
+    "id": "n-nutcase",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nutcase",
+    "pronunciation": "ˈnʌtkeɪs",
+    "meaning": [
+      "szajbus"
+    ]
+  },
+  {
+    "id": "n-nutcracker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nutcracker",
+    "pronunciation": "ˈnʌtkrækə(z)",
+    "meaning": [
+      "dziadek do orzechów"
+    ]
+  },
+  {
+    "id": "n-nutmeg",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nutmeg",
+    "pronunciation": "ˈnʌtmeg",
+    "meaning": [
+      "gałka muszkatołowa"
+    ]
+  },
+  {
+    "id": "n-nutrient",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nutrient",
+    "pronunciation": "ˈnju:trɪənt",
+    "meaning": [
+      "substancja odżywcza"
+    ]
+  },
+  {
+    "id": "n-nutrition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "nutrition",
+    "pronunciation": "nju:ˈtrɪʃən",
+    "meaning": [
+      "odżywianie się"
+    ]
+  },
+  {
+    "id": "n-nutritious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nutritious",
+    "pronunciation": "nju:ˈtrɪʃəs",
+    "meaning": [
+      "odżywczy"
+    ]
+  },
+  {
+    "id": "n-nutshell",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "nutshell",
+    "pronunciation": "ˈnʌʧel",
+    "meaning": []
+  },
+  {
+    "id": "n-nutty",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "nutty",
+    "pronunciation": "ˈnʌtɪ",
+    "meaning": [
+      "orzechowy",
+      "wariacki"
+    ]
+  },
+  {
+    "id": "n-nuzzle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "nuzzle",
+    "pronunciation": "ˈnʌzəl",
+    "meaning": [
+      "ocierać się"
+    ]
+  },
+  {
+    "id": "n-NW",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "NW",
+    "pronunciation": "/ˌenˈdʌbəljuː/",
+    "meaning": [
+      "płn.-zach.",
+      "północno-zachodni"
+    ]
+  },
+  {
+    "id": "n-N.Y.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "N.Y.",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Nowy Jork"
+    ]
+  },
+  {
+    "id": "n-N.Y.C.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "N.Y.C.",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "miasto Nowy Jork"
+    ]
+  },
+  {
+    "id": "n-nylon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "nylon",
+    "pronunciation": "ˈnaɪlən",
+    "meaning": [
+      "nylon"
+    ]
+  },
+  {
+    "id": "n-N.Z.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "N.Z.",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Nowa Zelandia"
+    ]
+  }
+]
