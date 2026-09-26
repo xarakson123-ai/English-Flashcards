@@ -1,0 +1,5858 @@
+[
+  {
+    "id": "w-W",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "W",
+    "pronunciation": "/ˈdʌbəljuː/",
+    "meaning": [
+      "zachód",
+      "zachodni"
+    ]
+  },
+  {
+    "id": "w-w.",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "preposition"
+    ],
+    "word": "w.",
+    "pronunciation": "/ˈdʌbəljuː/",
+    "meaning": [
+      "tydzień",
+      "waga",
+      "szerokość",
+      "z"
+    ]
+  },
+  {
+    "id": "w-wad",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wad",
+    "pronunciation": "wæd",
+    "meaning": [
+      "plik",
+      "sterta",
+      "kłębek",
+      "zwitek"
+    ]
+  },
+  {
+    "id": "w-waddle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "waddle",
+    "pronunciation": "ˈwædəl",
+    "meaning": [
+      "kiwać się jak kaczka",
+      "kiwać się",
+      "telepać się"
+    ]
+  },
+  {
+    "id": "w-wade",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "wade",
+    "pronunciation": "weɪd",
+    "meaning": [
+      "brodzić",
+      "przedzierać się"
+    ]
+  },
+  {
+    "id": "w-wafer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wafer",
+    "pronunciation": "ˈweɪfə",
+    "meaning": [
+      "wafel"
+    ]
+  },
+  {
+    "id": "w-waffle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "waffle",
+    "pronunciation": "ˈwɒfəl",
+    "meaning": [
+      "gofr",
+      "ględzenie",
+      "ględzić"
+    ]
+  },
+  {
+    "id": "w-waft",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "waft",
+    "pronunciation": "wɒft",
+    "meaning": [
+      "snuć się"
+    ]
+  },
+  {
+    "id": "w-wag",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "wag",
+    "pronunciation": "wæg",
+    "meaning": [
+      "machać"
+    ]
+  },
+  {
+    "id": "w-wage",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wage",
+    "pronunciation": "weɪʤ",
+    "meaning": [
+      "zarobek",
+      "pensja",
+      "prowadzić"
+    ]
+  },
+  {
+    "id": "w-wager",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wager",
+    "pronunciation": "ˈweɪʤə",
+    "meaning": [
+      "zakład"
+    ]
+  },
+  {
+    "id": "w-waggle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "waggle",
+    "pronunciation": "ˈwægəl",
+    "meaning": [
+      "ruszać się",
+      "ruszać"
+    ]
+  },
+  {
+    "id": "w-wail",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wail",
+    "pronunciation": "weɪl",
+    "meaning": [
+      "zawodzić",
+      "zawodzenie"
+    ]
+  },
+  {
+    "id": "w-waist",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "waist",
+    "pronunciation": "weɪst",
+    "meaning": [
+      "talia",
+      "stan"
+    ]
+  },
+  {
+    "id": "w-waistband",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waistband",
+    "pronunciation": "ˈweɪstbænd",
+    "meaning": [
+      "pasek"
+    ]
+  },
+  {
+    "id": "w-waistcoat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waistcoat",
+    "pronunciation": "ˈweɪstkəʊt",
+    "meaning": [
+      "kamizelka"
+    ]
+  },
+  {
+    "id": "w-waistline",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "waistline",
+    "pronunciation": "ˈweɪstlaɪn",
+    "meaning": [
+      "obwód pasa"
+    ]
+  },
+  {
+    "id": "w-wait",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wait",
+    "pronunciation": "weɪt",
+    "meaning": [
+      "czekać",
+      "oczekiwać",
+      "obsługiwać",
+      "oczekiwanie"
+    ]
+  },
+  {
+    "id": "w-waiter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "waiter",
+    "pronunciation": "ˈweɪtə",
+    "meaning": [
+      "kelner"
+    ]
+  },
+  {
+    "id": "w-waiting",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "waiting",
+    "pronunciation": "ˈweɪtɪŋ",
+    "meaning": [
+      "oczekiwanie",
+      "lista oczekujących",
+      "poczekalnia"
+    ]
+  },
+  {
+    "id": "w-waitress",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waitress",
+    "pronunciation": "ˈweɪtrɪs",
+    "meaning": [
+      "kelnerka"
+    ]
+  },
+  {
+    "id": "w-waive",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "waive",
+    "pronunciation": "weɪv",
+    "meaning": [
+      "uchylać",
+      "zawieszać"
+    ]
+  },
+  {
+    "id": "w-wake",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wake",
+    "pronunciation": "weɪk",
+    "meaning": [
+      "budzić się",
+      "budzić",
+      "kilwater",
+      "zbudzić się",
+      "zbudzić",
+      "uświadamiać sobie"
+    ]
+  },
+  {
+    "id": "w-waken",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "waken",
+    "pronunciation": "ˈweɪkən",
+    "meaning": [
+      "budzić się"
+    ]
+  },
+  {
+    "id": "w-Wales",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Wales",
+    "pronunciation": "weɪlz",
+    "meaning": [
+      "Walia"
+    ]
+  },
+  {
+    "id": "w-walk",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "walk",
+    "pronunciation": "wɔ:k",
+    "meaning": [
+      "chodzić",
+      "iść",
+      "spacerować",
+      "wyprowadzać na spacer",
+      "przechadzka",
+      "spacer",
+      "szlak",
+      "trasa",
+      "wychodzić",
+      "opuszczać",
+      "strajkować",
+      "rzucać"
+    ]
+  },
+  {
+    "id": "w-walkabout",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "walkabout",
+    "pronunciation": "ˈwɔ:kəbaʊt",
+    "meaning": []
+  },
+  {
+    "id": "w-walker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "walker",
+    "pronunciation": "ˈwɔ:kə",
+    "meaning": [
+      "spacerowicz"
+    ]
+  },
+  {
+    "id": "w-walkie-talkie",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "walkie-talkie",
+    "pronunciation": "ˌwɔ:kɪˈtɔ:kɪ",
+    "meaning": [
+      "radiotelefon"
+    ]
+  },
+  {
+    "id": "w-walking",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "walking",
+    "pronunciation": "ˈwɔ:kɪŋ",
+    "meaning": [
+      "chodzenie",
+      "spacer",
+      "laska"
+    ]
+  },
+  {
+    "id": "w-walkout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "walkout",
+    "pronunciation": "ˈwɔ:kaʊt",
+    "meaning": [
+      "strajk"
+    ]
+  },
+  {
+    "id": "w-walkover",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "walkover",
+    "pronunciation": "ˈwɔ:kəʊvə",
+    "meaning": [
+      "walkower",
+      "łatwe zwycięstwo"
+    ]
+  },
+  {
+    "id": "w-walkway",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "walkway",
+    "pronunciation": "ˈwɔ:kweɪ",
+    "meaning": [
+      "droga dla pieszych"
+    ]
+  },
+  {
+    "id": "w-wall",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "wall",
+    "pronunciation": "wɔ:l",
+    "meaning": [
+      "ściana",
+      "mur",
+      "ścianka"
+    ]
+  },
+  {
+    "id": "w-walled",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "walled",
+    "pronunciation": "ˈwɔ:ld",
+    "meaning": [
+      "otoczony murem"
+    ]
+  },
+  {
+    "id": "w-wallet",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "wallet",
+    "pronunciation": "ˈwɒlɪt",
+    "meaning": [
+      "portfel"
+    ]
+  },
+  {
+    "id": "w-wallop",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wallop",
+    "pronunciation": "ˈwɒləp",
+    "meaning": [
+      "łupnąć",
+      "trzasnąć"
+    ]
+  },
+  {
+    "id": "w-wallow",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wallow",
+    "pronunciation": "ˈwɒləʊ",
+    "meaning": [
+      "oddawać się",
+      "tarzać się"
+    ]
+  },
+  {
+    "id": "w-wallpaper",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wallpaper",
+    "pronunciation": "ˈwɔ:lpeɪpə",
+    "meaning": [
+      "tapeta",
+      "tapetować"
+    ]
+  },
+  {
+    "id": "w-walnut",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "walnut",
+    "pronunciation": "ˈwɔ:lnʌt",
+    "meaning": [
+      "orzech włoski"
+    ]
+  },
+  {
+    "id": "w-walrus",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "walrus",
+    "pronunciation": "ˈwɔ:lrəs",
+    "meaning": [
+      "mors"
+    ]
+  },
+  {
+    "id": "w-waltz",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "waltz",
+    "pronunciation": "wɔ:ls",
+    "meaning": [
+      "walc",
+      "tańczyć walca"
+    ]
+  },
+  {
+    "id": "w-wan",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wan",
+    "pronunciation": "wɒn",
+    "meaning": [
+      "wybladły"
+    ]
+  },
+  {
+    "id": "w-wand",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wand",
+    "pronunciation": "wɒnd",
+    "meaning": [
+      "czarodziejska różdżka",
+      "różdżka"
+    ]
+  },
+  {
+    "id": "w-wander",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "wander",
+    "pronunciation": "ˈwɒndə",
+    "meaning": [
+      "wędrować",
+      "błądzić",
+      "błąkać się"
+    ]
+  },
+  {
+    "id": "w-wane",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wane",
+    "pronunciation": "weɪn",
+    "meaning": [
+      "blednąć",
+      "przygasać"
+    ]
+  },
+  {
+    "id": "w-wangle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wangle",
+    "pronunciation": "ˈwæŋgəl",
+    "meaning": [
+      "kombinować"
+    ]
+  },
+  {
+    "id": "w-want",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "want",
+    "pronunciation": "wɒnt",
+    "meaning": [
+      "chcieć",
+      "trzeba",
+      "potrzebować",
+      "brak",
+      "potrzeby"
+    ]
+  },
+  {
+    "id": "w-wanting",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "wanting",
+    "pronunciation": "ˈwɒntɪŋ",
+    "meaning": []
+  },
+  {
+    "id": "w-wanton",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "wanton",
+    "pronunciation": "ˈwɒntən",
+    "meaning": [
+      "bezmyślny",
+      "bezsensowny"
+    ]
+  },
+  {
+    "id": "w-war",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "war",
+    "pronunciation": "wɔ:",
+    "meaning": [
+      "wojna",
+      "wojować"
+    ]
+  },
+  {
+    "id": "w-warble",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "warble",
+    "pronunciation": "ˈwɔ:bəl",
+    "meaning": [
+      "śpiewać"
+    ]
+  },
+  {
+    "id": "w-ward",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ward",
+    "pronunciation": "wɔ:d",
+    "meaning": [
+      "oddział",
+      "sala",
+      "część okręgu wyborczego",
+      "wychowanek",
+      "dziecko pod kuratelą",
+      "odganiać",
+      "odstraszać",
+      "odsuwać"
+    ]
+  },
+  {
+    "id": "w-warden",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "warden",
+    "pronunciation": "ˈwɔ:dən",
+    "meaning": [
+      "strażnik",
+      "dozorca",
+      "pilnujący",
+      "dyrektor",
+      "zarządca"
+    ]
+  },
+  {
+    "id": "w-warder",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "warder",
+    "pronunciation": "ˈwɔ:də",
+    "meaning": [
+      "strażnik więzienny"
+    ]
+  },
+  {
+    "id": "w-wardrobe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wardrobe",
+    "pronunciation": "ˈwɔ:drəʊb",
+    "meaning": [
+      "szafa",
+      "ubiory"
+    ]
+  },
+  {
+    "id": "w-ware",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ware",
+    "pronunciation": "weə",
+    "meaning": [
+      "wyrób"
+    ]
+  },
+  {
+    "id": "w-warehouse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "warehouse",
+    "pronunciation": "ˈweəhaʊs",
+    "meaning": [
+      "magazyn"
+    ]
+  },
+  {
+    "id": "w-warfare",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "warfare",
+    "pronunciation": "ˈwɔ:feə",
+    "meaning": [
+      "wojna",
+      "działania wojenne"
+    ]
+  },
+  {
+    "id": "w-warhead",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "warhead",
+    "pronunciation": "ˈwɔ:hed",
+    "meaning": [
+      "głowica bojowa"
+    ]
+  },
+  {
+    "id": "w-warlike",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "warlike",
+    "pronunciation": "ˈwɔ:laɪk",
+    "meaning": [
+      "wojowniczy",
+      "bojowy"
+    ]
+  },
+  {
+    "id": "w-warm-blooded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "warm-blooded",
+    "pronunciation": "ˌwɔ:mˈblʌdɪd",
+    "meaning": [
+      "ciepłokrwisty"
+    ]
+  },
+  {
+    "id": "w-warm-hearted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "warm-hearted",
+    "pronunciation": "ˌwɔ:mˈhɑ:tɪd",
+    "meaning": [
+      "dobrze usposobiony"
+    ]
+  },
+  {
+    "id": "w-warmonger",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "warmonger",
+    "pronunciation": "ˈwɔ:mʌŋgə",
+    "meaning": [
+      "podżegacz wojenny"
+    ]
+  },
+  {
+    "id": "w-warmth",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "warmth",
+    "pronunciation": "wɔ:mθ",
+    "meaning": [
+      "ciepło"
+    ]
+  },
+  {
+    "id": "w-warn",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "warn",
+    "pronunciation": "wɔ:n",
+    "meaning": [
+      "ostrzegać",
+      "uprzedzać"
+    ]
+  },
+  {
+    "id": "w-warning",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "warning",
+    "pronunciation": "ˈwɔ:nɪŋ",
+    "meaning": [
+      "ostrzeżenie",
+      "znak ostrzegawczy",
+      "ostrzegawczy"
+    ]
+  },
+  {
+    "id": "w-warp",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "warp",
+    "pronunciation": "wɔ:p",
+    "meaning": [
+      "paczyć się",
+      "krzywić",
+      "wypaczenie",
+      "skrzywienie"
+    ]
+  },
+  {
+    "id": "w-warpath",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "warpath",
+    "pronunciation": "ˈwɔ:pɑ:θ",
+    "meaning": [
+      "ścieżka wojenna"
+    ]
+  },
+  {
+    "id": "w-warrant",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "warrant",
+    "pronunciation": "ˈwɒrənt",
+    "meaning": [
+      "nakaz",
+      "gwarancja",
+      "gwarantować"
+    ]
+  },
+  {
+    "id": "w-warranty",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "warranty",
+    "pronunciation": "ˈwɒrəntɪ",
+    "meaning": [
+      "gwarancja"
+    ]
+  },
+  {
+    "id": "w-warren",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "warren",
+    "pronunciation": "ˈwɒrən",
+    "meaning": [
+      "nora królicza",
+      "nora"
+    ]
+  },
+  {
+    "id": "w-warrior",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "warrior",
+    "pronunciation": "ˈwɒrɪə",
+    "meaning": [
+      "wojownik"
+    ]
+  },
+  {
+    "id": "w-Warsaw",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Warsaw",
+    "pronunciation": "ˈwɔ:sɔ:",
+    "meaning": [
+      "Warszawa"
+    ]
+  },
+  {
+    "id": "w-warship",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "warship",
+    "pronunciation": "ˈwɔ:ʃɪp",
+    "meaning": [
+      "okręt wojenny"
+    ]
+  },
+  {
+    "id": "w-wart",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wart",
+    "pronunciation": "wɔ:t",
+    "meaning": [
+      "kurzajka",
+      "brodawka"
+    ]
+  },
+  {
+    "id": "w-wartime",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wartime",
+    "pronunciation": "ˈwɔ:taɪm",
+    "meaning": [
+      "okres wojny"
+    ]
+  },
+  {
+    "id": "w-wary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wary",
+    "pronunciation": "ˈweərɪ",
+    "meaning": [
+      "ostrożny"
+    ]
+  },
+  {
+    "id": "w-wash",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wash",
+    "pronunciation": "wɒʃ",
+    "meaning": [
+      "myć",
+      "prać",
+      "obmywać",
+      "wymywać",
+      "pranie",
+      "zmywać się",
+      "zmywać",
+      "wyrzucać"
+    ]
+  },
+  {
+    "id": "w-washable",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "washable",
+    "pronunciation": "ˈwɒʃəbəl",
+    "meaning": [
+      "nadający się do prania"
+    ]
+  },
+  {
+    "id": "w-washbasin",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "washbasin",
+    "pronunciation": "ˈwɒʃbeɪsən",
+    "meaning": [
+      "umywalka"
+    ]
+  },
+  {
+    "id": "w-washed-out",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "washed-out",
+    "pronunciation": "ˌwɒʃtˈaʊt",
+    "meaning": [
+      "wyblakły",
+      "wymęczony",
+      "wyprany"
+    ]
+  },
+  {
+    "id": "w-washer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "washer",
+    "pronunciation": "ˈwɒʃə",
+    "meaning": [
+      "praczka",
+      "pracz",
+      "podkładka",
+      "uszczelka",
+      "pralka"
+    ]
+  },
+  {
+    "id": "w-washing",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "washing",
+    "pronunciation": "ˈwɒʃɪŋ",
+    "meaning": [
+      "pranie",
+      "rzeczy do prania",
+      "pralka",
+      "proszek do prania"
+    ]
+  },
+  {
+    "id": "w-Washington",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Washington",
+    "pronunciation": "ˈwɒʃɪŋtən",
+    "meaning": [
+      "Waszyngton"
+    ]
+  },
+  {
+    "id": "w-washing-up",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "washing-up",
+    "pronunciation": "ˌwɒʃɪŋˈʌp",
+    "meaning": [
+      "zmywanie",
+      "płyn do naczyń"
+    ]
+  },
+  {
+    "id": "w-washout",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "washout",
+    "pronunciation": "ˈwɒʃaʊt",
+    "meaning": [
+      "dno",
+      "fiasko"
+    ]
+  },
+  {
+    "id": "w-washroom",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "washroom",
+    "pronunciation": "ˈwɒʃru:m",
+    "meaning": [
+      "toaleta"
+    ]
+  },
+  {
+    "id": "w-WASP",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "WASP",
+    "pronunciation": "wɒsp",
+    "meaning": [
+      "biały anglosaski protestant"
+    ]
+  },
+  {
+    "id": "w-wasp",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "wasp",
+    "pronunciation": "wɒsp",
+    "meaning": [
+      "osa"
+    ]
+  },
+  {
+    "id": "w-wastage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wastage",
+    "pronunciation": "ˈweɪstɪʤ",
+    "meaning": [
+      "marnotrawstwo"
+    ]
+  },
+  {
+    "id": "w-waste",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "waste",
+    "pronunciation": "weɪst",
+    "meaning": [
+      "marnować",
+      "tracić",
+      "strata",
+      "odpadki",
+      "pustkowia",
+      "jałowy",
+      "odpadowy",
+      "zużyty"
+    ]
+  },
+  {
+    "id": "w-wastebasket",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wastebasket",
+    "pronunciation": "ˈweɪstbɑ:skɪt",
+    "meaning": [
+      "kosz na śmieci"
+    ]
+  },
+  {
+    "id": "w-wasted",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "wasted",
+    "pronunciation": "ˈweɪstɪd",
+    "meaning": [
+      "niepotrzebny"
+    ]
+  },
+  {
+    "id": "w-wasteful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wasteful",
+    "pronunciation": "ˈweɪstfʊl",
+    "meaning": [
+      "marnotrawny"
+    ]
+  },
+  {
+    "id": "w-wasteland",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wasteland",
+    "pronunciation": "ˈweɪstlænd",
+    "meaning": [
+      "pustkowie",
+      "odłóg"
+    ]
+  },
+  {
+    "id": "w-watchband",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "watchband",
+    "pronunciation": "ˈwɒʧbænd",
+    "meaning": [
+      "pasek do zegarka"
+    ]
+  },
+  {
+    "id": "w-watchdog",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "watchdog",
+    "pronunciation": "ˈwɒʧdɒg",
+    "meaning": [
+      "pies łańcuchowy",
+      "nadzorca"
+    ]
+  },
+  {
+    "id": "w-watcher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "watcher",
+    "pronunciation": "ˈwɒʧə",
+    "meaning": [
+      "obserwator"
+    ]
+  },
+  {
+    "id": "w-watchful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "watchful",
+    "pronunciation": "ˈwɒʧfʊl",
+    "meaning": [
+      "przezorny",
+      "wnikliwy"
+    ]
+  },
+  {
+    "id": "w-watchmaker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "watchmaker",
+    "pronunciation": "ˈwɒʧmeɪkə",
+    "meaning": [
+      "zegarmistrz"
+    ]
+  },
+  {
+    "id": "w-watchman",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "watchman",
+    "pronunciation": "ˈwɒʧmən",
+    "meaning": [
+      "strażnik",
+      "stróż"
+    ]
+  },
+  {
+    "id": "w-watchstrap",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "watchstrap",
+    "pronunciation": "ˈwɒʧstræp",
+    "meaning": [
+      "pasek do zegarka"
+    ]
+  },
+  {
+    "id": "w-watchword",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "watchword",
+    "pronunciation": "ˈwɒʧwɜ:d",
+    "meaning": [
+      "hasło"
+    ]
+  },
+  {
+    "id": "w-water",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "water",
+    "pronunciation": "ˈwɔ:tə",
+    "meaning": [
+      "woda",
+      "podlewać",
+      "łzawić",
+      "ciec",
+      "ślinić się",
+      "rozwadniać",
+      "nenufar",
+      "lilia wodna"
+    ]
+  },
+  {
+    "id": "w-water-borne",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "water-borne",
+    "pronunciation": "ˈwɔ:təbɔ:n",
+    "meaning": [
+      "przenoszony drogą wodną"
+    ]
+  },
+  {
+    "id": "w-watercolour",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "watercolour",
+    "pronunciation": "ˈwɔ:təkʌlə",
+    "meaning": [
+      "akwarela"
+    ]
+  },
+  {
+    "id": "w-watercress",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "watercress",
+    "pronunciation": "ˈwɔ:təkres",
+    "meaning": [
+      "rzeżucha"
+    ]
+  },
+  {
+    "id": "w-waterfall",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "waterfall",
+    "pronunciation": "ˈwɔ:təfɔ:l",
+    "meaning": [
+      "wodospad"
+    ]
+  },
+  {
+    "id": "w-waterfront",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waterfront",
+    "pronunciation": "ˈwɔ:təfrʌnt",
+    "meaning": [
+      "wybrzeże",
+      "ulica przybrzeżna"
+    ]
+  },
+  {
+    "id": "w-watering_can",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "watering can",
+    "pronunciation": "ˈwɔ:tərɪŋkæn",
+    "meaning": [
+      "polewaczka"
+    ]
+  },
+  {
+    "id": "w-waterlogged",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "waterlogged",
+    "pronunciation": "ˈwɔ:təlɒgd",
+    "meaning": [
+      "nasiąknięty wodą",
+      "przesycony wodą",
+      "przepełniony wodą"
+    ]
+  },
+  {
+    "id": "w-watermelon",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "watermelon",
+    "pronunciation": "ˈwɔ:təmelən",
+    "meaning": [
+      "arbuz"
+    ]
+  },
+  {
+    "id": "w-waterproof",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "waterproof",
+    "pronunciation": "ˈwɔ:təpru:f",
+    "meaning": [
+      "nieprzemakalny",
+      "płaszcz przeciwdeszczowy",
+      "impregnować",
+      "uszczelniać"
+    ]
+  },
+  {
+    "id": "w-watershed",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "watershed",
+    "pronunciation": "ˈwɔ:təʃed",
+    "meaning": [
+      "dział wodny",
+      "przełom",
+      "punkt krytyczny"
+    ]
+  },
+  {
+    "id": "w-waterside",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waterside",
+    "pronunciation": "ˈwɔ:təsaɪd",
+    "meaning": [
+      "wybrzeże"
+    ]
+  },
+  {
+    "id": "w-watertight",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "watertight",
+    "pronunciation": "ˈwɔ:tətaɪt",
+    "meaning": [
+      "wodoszczelny",
+      "niezbity"
+    ]
+  },
+  {
+    "id": "w-waterway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waterway",
+    "pronunciation": "ˈwɔ:təweɪ",
+    "meaning": [
+      "droga wodna"
+    ]
+  },
+  {
+    "id": "w-waterworks",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waterworks",
+    "pronunciation": "ˈwɔ:təwɜ:ks",
+    "meaning": [
+      "stacja wodociągowa",
+      "wodociągi"
+    ]
+  },
+  {
+    "id": "w-watery",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "watery",
+    "pronunciation": "ˈwɔ:tərɪ",
+    "meaning": [
+      "wodnisty",
+      "niemrawy"
+    ]
+  },
+  {
+    "id": "w-watt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "watt",
+    "pronunciation": "wɒt",
+    "meaning": [
+      "wat"
+    ]
+  },
+  {
+    "id": "w-wave",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wave",
+    "pronunciation": "weɪv",
+    "meaning": [
+      "fala",
+      "machnięcie",
+      "pomachanie",
+      "machać",
+      "falować",
+      "zbywać machnięciem"
+    ]
+  },
+  {
+    "id": "w-waveband",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "waveband",
+    "pronunciation": "ˈweɪvbænd",
+    "meaning": [
+      "zakres fal"
+    ]
+  },
+  {
+    "id": "w-wavelength",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wavelength",
+    "pronunciation": "ˈweɪvleŋθ",
+    "meaning": [
+      "długość fal"
+    ]
+  },
+  {
+    "id": "w-waver",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "waver",
+    "pronunciation": "ˈweɪvə",
+    "meaning": [
+      "wahać się",
+      "doświadczać niepewności"
+    ]
+  },
+  {
+    "id": "w-wavy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wavy",
+    "pronunciation": "ˈweɪvɪ",
+    "meaning": [
+      "falisty"
+    ]
+  },
+  {
+    "id": "w-wax",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wax",
+    "pronunciation": "wæks",
+    "meaning": [
+      "wosk",
+      "woskowina",
+      "smar do nart",
+      "smar",
+      "woskować",
+      "pastować",
+      "stawać się"
+    ]
+  },
+  {
+    "id": "w-waxwork",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "waxwork",
+    "pronunciation": "ˈwækswɜ:k",
+    "meaning": [
+      "figura woskowa",
+      "muzeum figur woskowych"
+    ]
+  },
+  {
+    "id": "w-waxy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "waxy",
+    "pronunciation": "ˈwæksɪ",
+    "meaning": [
+      "nawoskowany",
+      "woskowy"
+    ]
+  },
+  {
+    "id": "w-waylay",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "waylay",
+    "pronunciation": "ˈweɪleɪ",
+    "meaning": [
+      "zatrzymywać"
+    ]
+  },
+  {
+    "id": "w-wayward",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "wayward",
+    "pronunciation": "ˈweɪwəd",
+    "meaning": [
+      "kapryśny"
+    ]
+  },
+  {
+    "id": "w-WC",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "WC",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "WC",
+      "toaleta"
+    ]
+  },
+  {
+    "id": "w-We.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "We.",
+    "pronunciation": "/wiː/",
+    "meaning": [
+      "środa"
+    ]
+  },
+  {
+    "id": "w-we",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "we",
+    "pronunciation": "/wiː/",
+    "meaning": [
+      "my"
+    ]
+  },
+  {
+    "id": "w-weak",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "weak",
+    "pronunciation": "wi:k",
+    "meaning": [
+      "słaby",
+      "wątły"
+    ]
+  },
+  {
+    "id": "w-weaken",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "weaken",
+    "pronunciation": "ˈwi:kən",
+    "meaning": [
+      "osłabiać",
+      "słabnąć"
+    ]
+  },
+  {
+    "id": "w-weakling",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "weakling",
+    "pronunciation": "ˈwi:klɪŋ",
+    "meaning": [
+      "słabeusz"
+    ]
+  },
+  {
+    "id": "w-weakness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "weakness",
+    "pronunciation": "ˈwi:knɪs",
+    "meaning": [
+      "słabość",
+      "słaby punkt"
+    ]
+  },
+  {
+    "id": "w-wealth",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wealth",
+    "pronunciation": "welθ",
+    "meaning": [
+      "bogactwo",
+      "dobrobyt",
+      "wielka ilość"
+    ]
+  },
+  {
+    "id": "w-wealthy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wealthy",
+    "pronunciation": "ˈwelθɪ",
+    "meaning": [
+      "majętny"
+    ]
+  },
+  {
+    "id": "w-wean",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wean",
+    "pronunciation": "wi:n",
+    "meaning": [
+      "odstawiać od piersi",
+      "odzwyczajać"
+    ]
+  },
+  {
+    "id": "w-weapon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "weapon",
+    "pronunciation": "ˈwepən",
+    "meaning": [
+      "broń"
+    ]
+  },
+  {
+    "id": "w-wear",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wear",
+    "pronunciation": "weə",
+    "meaning": [
+      "nosić",
+      "ubierać się",
+      "nosić się",
+      "zużywać się",
+      "wycierać się",
+      "wycierać",
+      "przecierać się",
+      "przecierać",
+      "ubranie",
+      "zużycie",
+      "wytarcie",
+      "ścierać się",
+      "ścierać",
+      "wyczerpywać",
+      "słabnąć",
+      "ciągnąć się",
+      "wyczerpywać się"
+    ]
+  },
+  {
+    "id": "w-wearing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wearing",
+    "pronunciation": "ˈweərɪŋ",
+    "meaning": [
+      "wyczerpujący"
+    ]
+  },
+  {
+    "id": "w-wearisome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wearisome",
+    "pronunciation": "ˈwɪərɪsəm",
+    "meaning": [
+      "wyczerpujący",
+      "nużący"
+    ]
+  },
+  {
+    "id": "w-weary",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "weary",
+    "pronunciation": "ˈwɪərɪ",
+    "meaning": [
+      "znużony",
+      "wyczerpany",
+      "nużyć się"
+    ]
+  },
+  {
+    "id": "w-weasel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "weasel",
+    "pronunciation": "ˈwi:zəl",
+    "meaning": [
+      "łasica"
+    ]
+  },
+  {
+    "id": "w-weather",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "weather",
+    "pronunciation": "ˈweðə",
+    "meaning": [
+      "pogoda",
+      "wietrzeć",
+      "przetrwać",
+      "prognoza pogody"
+    ]
+  },
+  {
+    "id": "w-weather-beaten",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "weather-beaten",
+    "pronunciation": "ˈweðəbi:tən",
+    "meaning": [
+      "zahartowany złą pogodą",
+      "zahartowany",
+      "zniszczony na powietrzu"
+    ]
+  },
+  {
+    "id": "w-weathercock",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "weathercock",
+    "pronunciation": "ˈweðəkɒk",
+    "meaning": [
+      "kurek na dachu",
+      "kurek"
+    ]
+  },
+  {
+    "id": "w-weatherman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "weatherman",
+    "pronunciation": "ˈweðəmən",
+    "meaning": [
+      "meteorolog"
+    ]
+  },
+  {
+    "id": "w-weaver",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "weaver",
+    "pronunciation": "ˈwi:və",
+    "meaning": [
+      "tkaczka",
+      "tkacz"
+    ]
+  },
+  {
+    "id": "w-web",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "web",
+    "pronunciation": "web",
+    "meaning": [
+      "pajęczyna"
+    ]
+  },
+  {
+    "id": "w-webbed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "webbed",
+    "pronunciation": "ˈwebd",
+    "meaning": [
+      "płetwiasty"
+    ]
+  },
+  {
+    "id": "w-Wed.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Wed.",
+    "pronunciation": "/ˈwenzdeɪ/",
+    "meaning": [
+      "środa"
+    ]
+  },
+  {
+    "id": "w-wedding",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wedding",
+    "pronunciation": "ˈwedɪŋ",
+    "meaning": [
+      "ślub",
+      "wesele"
+    ]
+  },
+  {
+    "id": "w-wedge",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wedge",
+    "pronunciation": "weʤ",
+    "meaning": [
+      "zaklinowywać",
+      "klin",
+      "kawałek"
+    ]
+  },
+  {
+    "id": "w-Wednesday",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Wednesday",
+    "pronunciation": "ˈwenzdɪ",
+    "meaning": [
+      "środa"
+    ]
+  },
+  {
+    "id": "w-wee",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wee",
+    "pronunciation": "wi:",
+    "meaning": [
+      "tyciuchny",
+      "tyci"
+    ]
+  },
+  {
+    "id": "w-weed",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "weed",
+    "pronunciation": "wi:d",
+    "meaning": [
+      "chwast",
+      "plewić",
+      "wyplewiać",
+      "usuwać"
+    ]
+  },
+  {
+    "id": "w-weedkiller",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "weedkiller",
+    "pronunciation": "ˌwi:dkɪlə",
+    "meaning": [
+      "środek chwastobójczy"
+    ]
+  },
+  {
+    "id": "w-weedy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "weedy",
+    "pronunciation": "ˈwi:dɪ",
+    "meaning": [
+      "zachwaszczony",
+      "mizerny"
+    ]
+  },
+  {
+    "id": "w-week",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "week",
+    "pronunciation": "wi:k",
+    "meaning": [
+      "tydzień"
+    ]
+  },
+  {
+    "id": "w-weekday",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "weekday",
+    "pronunciation": "ˈwi:kdeɪ",
+    "meaning": [
+      "dzień powszedni"
+    ]
+  },
+  {
+    "id": "w-weekend",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "weekend",
+    "pronunciation": "ˈwi:kend",
+    "meaning": [
+      "weekend",
+      "koniec tygodnia"
+    ]
+  },
+  {
+    "id": "w-weekly",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "weekly",
+    "pronunciation": "ˈwi:klɪ",
+    "meaning": [
+      "cotygodniowy",
+      "co tydzień",
+      "tygodniowy",
+      "tygodnik"
+    ]
+  },
+  {
+    "id": "w-weep",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "weep",
+    "pronunciation": "wi:p",
+    "meaning": [
+      "płakać"
+    ]
+  },
+  {
+    "id": "w-weepy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "weepy",
+    "pronunciation": "ˈwi:pɪ",
+    "meaning": [
+      "płaczliwy"
+    ]
+  },
+  {
+    "id": "w-weigh",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "weigh",
+    "pronunciation": "weɪ",
+    "meaning": [
+      "ważyć",
+      "rozważać",
+      "przeciążać",
+      "uginać się",
+      "badać"
+    ]
+  },
+  {
+    "id": "w-weight",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "weight",
+    "pronunciation": "weɪt",
+    "meaning": [
+      "waga",
+      "ciężar",
+      "odważnik",
+      "obciążać"
+    ]
+  },
+  {
+    "id": "w-weightless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "weightless",
+    "pronunciation": "ˈweɪtlɪs",
+    "meaning": [
+      "nieważki",
+      "nie mający ciężaru"
+    ]
+  },
+  {
+    "id": "w-weight-lifter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "weight-lifter",
+    "pronunciation": "ˈweɪtlɪftə",
+    "meaning": [
+      "ciężarowiec"
+    ]
+  },
+  {
+    "id": "w-weight-lifting",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "weight-lifting",
+    "pronunciation": "ˈweɪtlɪftɪŋ",
+    "meaning": [
+      "podnoszenie ciężarów"
+    ]
+  },
+  {
+    "id": "w-weighty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "weighty",
+    "pronunciation": "ˈweɪtɪ",
+    "meaning": [
+      "poważny",
+      "ważki"
+    ]
+  },
+  {
+    "id": "w-weir",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "weir",
+    "pronunciation": "wɪə",
+    "meaning": [
+      "jaz"
+    ]
+  },
+  {
+    "id": "w-weird",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "weird",
+    "pronunciation": "wɪəd",
+    "meaning": [
+      "niesamowity",
+      "dziwaczny"
+    ]
+  },
+  {
+    "id": "w-welcome",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "welcome",
+    "pronunciation": "ˈwelkʌm",
+    "meaning": [
+      "witać",
+      "przywitać",
+      "powitanie",
+      "mile widziany",
+      "chętnie widziany",
+      "zapraszany"
+    ]
+  },
+  {
+    "id": "w-welcoming",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "welcoming",
+    "pronunciation": "ˈwelkʌmɪŋ",
+    "meaning": [
+      "zapraszający",
+      "przyzwalający"
+    ]
+  },
+  {
+    "id": "w-weld",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "weld",
+    "pronunciation": "weld",
+    "meaning": [
+      "spawać",
+      "spaw"
+    ]
+  },
+  {
+    "id": "w-welder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "welder",
+    "pronunciation": "ˈweldə",
+    "meaning": [
+      "spawacz"
+    ]
+  },
+  {
+    "id": "w-welfare",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "welfare",
+    "pronunciation": "ˈwelfeə",
+    "meaning": [
+      "dobro",
+      "opieka społeczna",
+      "państwo opiekuńcze"
+    ]
+  },
+  {
+    "id": "w-well-advised",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "well-advised",
+    "pronunciation": "ˌwelədˈvaɪzd",
+    "meaning": [
+      "rozsądny"
+    ]
+  },
+  {
+    "id": "w-well-behaved",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-behaved",
+    "pronunciation": "ˌwelbɪˈheɪvd",
+    "meaning": [
+      "dobrze wychowany"
+    ]
+  },
+  {
+    "id": "w-well-being",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "well-being",
+    "pronunciation": "ˌwelˈbi:ɪŋ",
+    "meaning": [
+      "dobre samopoczucie"
+    ]
+  },
+  {
+    "id": "w-well-earned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "well-earned",
+    "pronunciation": "ˌwelˈɜ:nd",
+    "meaning": [
+      "ciężko zarobiony",
+      "dobrze zasłużony"
+    ]
+  },
+  {
+    "id": "w-well-founded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "well-founded",
+    "pronunciation": "ˌwelˈfaʊndɪd",
+    "meaning": [
+      "uzasadniony"
+    ]
+  },
+  {
+    "id": "w-well-heeled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "well-heeled",
+    "pronunciation": "ˌwelˈhi:ld",
+    "meaning": [
+      "nadziany"
+    ]
+  },
+  {
+    "id": "w-wellington",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wellington",
+    "pronunciation": "ˈwelɪŋtən",
+    "meaning": [
+      "kalosz"
+    ]
+  },
+  {
+    "id": "w-well-intentioned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "well-intentioned",
+    "pronunciation": "ˌwelɪnˈtenʃənt",
+    "meaning": [
+      "mający dobre intencje"
+    ]
+  },
+  {
+    "id": "w-well-kept",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-kept",
+    "pronunciation": "ˌwelˈkept",
+    "meaning": [
+      "dobrze utrzymany"
+    ]
+  },
+  {
+    "id": "w-well-known",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-known",
+    "pronunciation": "ˌwelˈnəʊn",
+    "meaning": [
+      "dobrze znany",
+      "znany"
+    ]
+  },
+  {
+    "id": "w-well-mannered",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-mannered",
+    "pronunciation": "ˌwelˈmænəd",
+    "meaning": [
+      "o dobrych manierach"
+    ]
+  },
+  {
+    "id": "w-well-meaning",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-meaning",
+    "pronunciation": "ˌwelˈmi:nɪŋ",
+    "meaning": [
+      "życzliwy",
+      "mający dobre chęci"
+    ]
+  },
+  {
+    "id": "w-well-off",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-off",
+    "pronunciation": "ˌwelˈɒf",
+    "meaning": [
+      "bogaty",
+      "dobrze zaopatrzony"
+    ]
+  },
+  {
+    "id": "w-well-read",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "well-read",
+    "pronunciation": "ˌwelˈred",
+    "meaning": [
+      "oczytany"
+    ]
+  },
+  {
+    "id": "w-well-spoken",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "well-spoken",
+    "pronunciation": "ˌwelˈspəʊkən",
+    "meaning": [
+      "poprawnie mówiący"
+    ]
+  },
+  {
+    "id": "w-well-timed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-timed",
+    "pronunciation": "ˌwelˈtaɪmd",
+    "meaning": [
+      "na czasie",
+      "w porę"
+    ]
+  },
+  {
+    "id": "w-well-to-do",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-to-do",
+    "pronunciation": "ˌweltəˈdu:",
+    "meaning": [
+      "zamożny"
+    ]
+  },
+  {
+    "id": "w-well-wisher",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "well-wisher",
+    "pronunciation": "ˈwelwɪʃə",
+    "meaning": [
+      "sympatyk",
+      "człowiek dobrze życzący"
+    ]
+  },
+  {
+    "id": "w-well-worn",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "well-worn",
+    "pronunciation": "ˌwelˈwɔ:n",
+    "meaning": [
+      "wytarty"
+    ]
+  },
+  {
+    "id": "w-Welsh",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Welsh",
+    "pronunciation": "welʃ",
+    "meaning": [
+      "walijski"
+    ]
+  },
+  {
+    "id": "w-Welshman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Welshman",
+    "pronunciation": "ˈwelʃmən",
+    "meaning": [
+      "Walijczyk"
+    ]
+  },
+  {
+    "id": "w-Welshwoman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Welshwoman",
+    "pronunciation": "ˈwelʃwʊmən",
+    "meaning": [
+      "Walijka"
+    ]
+  },
+  {
+    "id": "w-wench",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wench",
+    "pronunciation": "wenʧ",
+    "meaning": [
+      "dziewucha"
+    ]
+  },
+  {
+    "id": "w-werewolf",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "werewolf",
+    "pronunciation": "ˈweəwʊlf",
+    "meaning": [
+      "wilkołak"
+    ]
+  },
+  {
+    "id": "w-west",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "west",
+    "pronunciation": "west",
+    "meaning": [
+      "zachód",
+      "na zachód",
+      "zachodni",
+      "zachodnioindyjski",
+      "antylski",
+      "Indie Zachodnie",
+      "Antyle"
+    ]
+  },
+  {
+    "id": "w-westerly",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "westerly",
+    "pronunciation": "ˈwestəlɪ",
+    "meaning": [
+      "zachodni"
+    ]
+  },
+  {
+    "id": "w-western",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "western",
+    "pronunciation": "ˈwestən",
+    "meaning": [
+      "zachodni",
+      "western"
+    ]
+  },
+  {
+    "id": "w-westerner",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "westerner",
+    "pronunciation": "ˈwestənə",
+    "meaning": [
+      "człowiek z zachodu"
+    ]
+  },
+  {
+    "id": "w-westward",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "westward",
+    "pronunciation": "ˈwestwəd",
+    "meaning": [
+      "na zachód",
+      "zachodni"
+    ]
+  },
+  {
+    "id": "w-wet",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "wet",
+    "pronunciation": "wet",
+    "meaning": [
+      "mokry",
+      "wilgotny",
+      "moczyć",
+      "zwilżać"
+    ]
+  },
+  {
+    "id": "w-whack",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whack",
+    "pronunciation": "wæk",
+    "meaning": [
+      "walić",
+      "grzmocić",
+      "dola",
+      "udział"
+    ]
+  },
+  {
+    "id": "w-whacked",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "whacked",
+    "pronunciation": "wækt",
+    "meaning": [
+      "wypompowany"
+    ]
+  },
+  {
+    "id": "w-whale",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "whale",
+    "pronunciation": "weɪl",
+    "meaning": [
+      "wieloryb"
+    ]
+  },
+  {
+    "id": "w-whaling",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "whaling",
+    "pronunciation": "ˈweɪlɪŋ",
+    "meaning": [
+      "wielorybnictwo"
+    ]
+  },
+  {
+    "id": "w-wharf",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wharf",
+    "pronunciation": "wɔ:f",
+    "meaning": [
+      "przystań",
+      "nabrzeże"
+    ]
+  },
+  {
+    "id": "w-what",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "what",
+    "pronunciation": "wɒt",
+    "meaning": [
+      "co",
+      "jaki",
+      "który"
+    ]
+  },
+  {
+    "id": "w-whatever",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "whatever",
+    "pronunciation": "wɒtˈevə",
+    "meaning": [
+      "cokolwiek",
+      "jakikolwiek"
+    ]
+  },
+  {
+    "id": "w-whatsoever",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "whatsoever",
+    "pronunciation": "ˌwɒtsəʊˈevə",
+    "meaning": [
+      "w ogóle"
+    ]
+  },
+  {
+    "id": "w-wheat",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wheat",
+    "pronunciation": "wi:t",
+    "meaning": [
+      "pszenica"
+    ]
+  },
+  {
+    "id": "w-wheedle",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "wheedle",
+    "pronunciation": "ˈwi:dəl",
+    "meaning": []
+  },
+  {
+    "id": "w-wheel",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wheel",
+    "pronunciation": "wi:l",
+    "meaning": [
+      "koło",
+      "toczyć",
+      "kołować",
+      "obracać się"
+    ]
+  },
+  {
+    "id": "w-wheelbarrow",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wheelbarrow",
+    "pronunciation": "ˈwi:lbærəʊ",
+    "meaning": [
+      "taczka"
+    ]
+  },
+  {
+    "id": "w-wheelchair",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wheelchair",
+    "pronunciation": "ˈwi:lʧeə",
+    "meaning": [
+      "wózek inwalidzki"
+    ]
+  },
+  {
+    "id": "w-wheeze",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wheeze",
+    "pronunciation": "wi:z",
+    "meaning": [
+      "świszczeć",
+      "sapać",
+      "świszczenie",
+      "sapanie"
+    ]
+  },
+  {
+    "id": "w-whenever",
+    "level": "A2",
+    "partOfSpeech": "conjunction",
+    "word": "whenever",
+    "pronunciation": "wenˈevə",
+    "meaning": [
+      "kiedykolwiek"
+    ]
+  },
+  {
+    "id": "w-whereabouts",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "word": "whereabouts",
+    "pronunciation": "ˈweərəbaʊts",
+    "meaning": [
+      "miejsce pobytu",
+      "miejsce położenia",
+      "gdzie",
+      "dokąd"
+    ]
+  },
+  {
+    "id": "w-whereas",
+    "level": "B1",
+    "partOfSpeech": "conjunction",
+    "word": "whereas",
+    "pronunciation": "ˌweərˈæz",
+    "meaning": [
+      "gdy"
+    ]
+  },
+  {
+    "id": "w-whereby",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "whereby",
+    "pronunciation": "ˌweəˈbaɪ",
+    "meaning": [
+      "poprzez który",
+      "dzięki któremu"
+    ]
+  },
+  {
+    "id": "w-wherein",
+    "level": "C1",
+    "partOfSpeech": "pronoun",
+    "word": "wherein",
+    "pronunciation": "ˌweəˈrɪn",
+    "meaning": [
+      "w którym",
+      "w czym"
+    ]
+  },
+  {
+    "id": "w-whereupon",
+    "level": "C1",
+    "partOfSpeech": "conjunction",
+    "word": "whereupon",
+    "pronunciation": "ˌweərəˈpɒn",
+    "meaning": [
+      "toteż",
+      "wobec czego"
+    ]
+  },
+  {
+    "id": "w-wherever",
+    "level": "B1",
+    "partOfSpeech": "conjunction",
+    "word": "wherever",
+    "pronunciation": "weəˈrevə",
+    "meaning": [
+      "gdziekolwiek"
+    ]
+  },
+  {
+    "id": "w-wherewithal",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "wherewithal",
+    "pronunciation": "ˈweəwɪðɔ:l",
+    "meaning": []
+  },
+  {
+    "id": "w-whet",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "whet",
+    "pronunciation": "wet",
+    "meaning": [
+      "zaostrzać"
+    ]
+  },
+  {
+    "id": "w-whether",
+    "level": "A2",
+    "partOfSpeech": "conjunction",
+    "word": "whether",
+    "pronunciation": "ˈweðə",
+    "meaning": [
+      "czy"
+    ]
+  },
+  {
+    "id": "w-which",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "which",
+    "pronunciation": "wɪʧ",
+    "meaning": [
+      "który",
+      "jaki",
+      "co",
+      "to"
+    ]
+  },
+  {
+    "id": "w-whichever",
+    "level": "B1",
+    "partOfSpeech": [
+      "determiner",
+      "pronoun"
+    ],
+    "word": "whichever",
+    "pronunciation": "wɪʧˈevə",
+    "meaning": [
+      "jakikolwiek",
+      "którykolwiek"
+    ]
+  },
+  {
+    "id": "w-whiff",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "whiff",
+    "pronunciation": "wɪf",
+    "meaning": [
+      "powiew",
+      "podmuch"
+    ]
+  },
+  {
+    "id": "w-while",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "conjunction"
+    ],
+    "word": "while",
+    "pronunciation": "waɪl",
+    "meaning": [
+      "podczas gdy",
+      "w czasie gdy",
+      "chwila",
+      "spędzać czas"
+    ]
+  },
+  {
+    "id": "w-whilst",
+    "level": "A2",
+    "partOfSpeech": "conjunction",
+    "word": "whilst",
+    "pronunciation": "waɪlst",
+    "meaning": [
+      "podczas gdy"
+    ]
+  },
+  {
+    "id": "w-whim",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "whim",
+    "pronunciation": "wɪm",
+    "meaning": [
+      "kaprys"
+    ]
+  },
+  {
+    "id": "w-whimper",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whimper",
+    "pronunciation": "ˈwɪmpə",
+    "meaning": [
+      "kwilić",
+      "skamleć",
+      "skowyczeć",
+      "kwilenie",
+      "skowyt"
+    ]
+  },
+  {
+    "id": "w-whimsical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "whimsical",
+    "pronunciation": "ˈwɪmzɪkəl",
+    "meaning": [
+      "kapryśny"
+    ]
+  },
+  {
+    "id": "w-whine",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whine",
+    "pronunciation": "waɪn",
+    "meaning": [
+      "wyć",
+      "jazgotać",
+      "jęczeć",
+      "wycie",
+      "jazgot"
+    ]
+  },
+  {
+    "id": "w-whip",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whip",
+    "pronunciation": "wɪp",
+    "meaning": [
+      "bicz",
+      "porządkowy pilnujący dyscypliny w klubie parlamentarnym",
+      "porządkowy w klubie parlamentarnym",
+      "smagać batem",
+      "chłostać",
+      "zrywać",
+      "nakładać szybko",
+      "ubijać",
+      "pobudzać"
+    ]
+  },
+  {
+    "id": "w-whipped",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "whipped",
+    "pronunciation": "wɪpt",
+    "meaning": [
+      "bity"
+    ]
+  },
+  {
+    "id": "w-whip-round",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "whip-round",
+    "pronunciation": "ˈwɪpraʊnd",
+    "meaning": [
+      "zrzutka",
+      "składka"
+    ]
+  },
+  {
+    "id": "w-whirl",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whirl",
+    "pronunciation": "wɜ:l",
+    "meaning": [
+      "wirować",
+      "obracać",
+      "wirowanie",
+      "wir"
+    ]
+  },
+  {
+    "id": "w-whirlpool",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "whirlpool",
+    "pronunciation": "ˈwɜ:lpu:l",
+    "meaning": [
+      "wir"
+    ]
+  },
+  {
+    "id": "w-whirlwind",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "whirlwind",
+    "pronunciation": "ˈwɜ:lwɪnd",
+    "meaning": [
+      "trąba powietrzna",
+      "trwający chwilę"
+    ]
+  },
+  {
+    "id": "w-whirr",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whirr",
+    "pronunciation": "wɜ:",
+    "meaning": [
+      "furkotać",
+      "buczeć",
+      "furkot",
+      "buczenie"
+    ]
+  },
+  {
+    "id": "w-whisk",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whisk",
+    "pronunciation": "wɪsk",
+    "meaning": [
+      "zabierać szybko",
+      "ubijać",
+      "trzepaczka do piany",
+      "trzepaczka"
+    ]
+  },
+  {
+    "id": "w-whisker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "whisker",
+    "pronunciation": "ˈwɪskə",
+    "meaning": [
+      "wąs",
+      "bokobrody"
+    ]
+  },
+  {
+    "id": "w-whisky",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "whisky",
+    "pronunciation": "ˈwɪskɪ",
+    "meaning": [
+      "whisky"
+    ]
+  },
+  {
+    "id": "w-whisper",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whisper",
+    "pronunciation": "ˈwɪspə",
+    "meaning": [
+      "szeptać",
+      "szept"
+    ]
+  },
+  {
+    "id": "w-whistle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whistle",
+    "pronunciation": "ˈwɪsəl",
+    "meaning": [
+      "gwizdać",
+      "świstać",
+      "gwizd",
+      "gwizdek"
+    ]
+  },
+  {
+    "id": "w-white-collar",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "white-collar",
+    "pronunciation": "ˌwaɪtˈkɒlə",
+    "meaning": [
+      "umysłowy",
+      "administracyjny pracownik",
+      "administracyjny"
+    ]
+  },
+  {
+    "id": "w-white-hot",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "white-hot",
+    "pronunciation": "ˌwaɪtˈhɒt",
+    "meaning": [
+      "rozpalony do białości"
+    ]
+  },
+  {
+    "id": "w-whiten",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "whiten",
+    "pronunciation": "ˈwaɪtən",
+    "meaning": [
+      "bieleć",
+      "wybielać"
+    ]
+  },
+  {
+    "id": "w-whitewash",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whitewash",
+    "pronunciation": "ˈwaɪtwɒʃ",
+    "meaning": [
+      "wapno",
+      "mleko wapienne",
+      "mydlenie oczu",
+      "bielić wapnem",
+      "bielić"
+    ]
+  },
+  {
+    "id": "w-whiting",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "whiting",
+    "pronunciation": "ˈwaɪtɪŋ",
+    "meaning": [
+      "witlinek"
+    ]
+  },
+  {
+    "id": "w-whittle",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "whittle",
+    "pronunciation": "ˈwɪtəl",
+    "meaning": []
+  },
+  {
+    "id": "w-whizz",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "whizz",
+    "pronunciation": "wɪz",
+    "meaning": [
+      "bzykać",
+      "geniusz"
+    ]
+  },
+  {
+    "id": "w-whizz-kid",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "whizz-kid",
+    "pronunciation": "ˈwɪzkɪd",
+    "meaning": [
+      "czarodziej"
+    ]
+  },
+  {
+    "id": "w-WHO",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "WHO",
+    "pronunciation": "ˌ⋅⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "Światowa Organizacja Zdrowia"
+    ]
+  },
+  {
+    "id": "w-who",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "who",
+    "pronunciation": "hu:",
+    "meaning": [
+      "kto",
+      "który"
+    ]
+  },
+  {
+    "id": "w-whoever",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "whoever",
+    "pronunciation": "hu:ˈevə",
+    "meaning": [
+      "ktokolwiek",
+      "kto by nie",
+      "któż"
+    ]
+  },
+  {
+    "id": "w-whole",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "whole",
+    "pronunciation": "həʊl",
+    "meaning": [
+      "cały",
+      "w całości",
+      "całkiem",
+      "całość"
+    ]
+  },
+  {
+    "id": "w-whole-hearted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "whole-hearted",
+    "pronunciation": "ˌhəʊlˈhɑ:tɪd",
+    "meaning": [
+      "serdeczny",
+      "szczery"
+    ]
+  },
+  {
+    "id": "w-wholemeal",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wholemeal",
+    "pronunciation": "ˈhəʊlmi:l",
+    "meaning": [
+      "gruboziarnisty",
+      "razowy"
+    ]
+  },
+  {
+    "id": "w-wholesale",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "wholesale",
+    "pronunciation": "ˈhəʊlseɪl",
+    "meaning": [
+      "hurt",
+      "hurtowy",
+      "hurtowo",
+      "masowy"
+    ]
+  },
+  {
+    "id": "w-wholesaler",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wholesaler",
+    "pronunciation": "ˈhəʊlseɪlə",
+    "meaning": [
+      "hurtownik"
+    ]
+  },
+  {
+    "id": "w-wholesome",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wholesome",
+    "pronunciation": "ˈhəʊlsəm",
+    "meaning": [
+      "zdrowy"
+    ]
+  },
+  {
+    "id": "w-wholewheat",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wholewheat",
+    "pronunciation": "ˈhəʊlwi:t",
+    "meaning": [
+      "pełnoziarnisty"
+    ]
+  },
+  {
+    "id": "w-wholly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "wholly",
+    "pronunciation": "ˈhəʊlɪ",
+    "meaning": [
+      "całkowicie"
+    ]
+  },
+  {
+    "id": "w-whooping_cough",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "whooping cough",
+    "pronunciation": "ˈhu:pɪŋkɒf",
+    "meaning": [
+      "koklusz"
+    ]
+  },
+  {
+    "id": "w-whopper",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "whopper",
+    "pronunciation": "ˈwɒpə",
+    "meaning": [
+      "kolos"
+    ]
+  },
+  {
+    "id": "w-whopping",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "whopping",
+    "pronunciation": "ˈwɒpɪŋ",
+    "meaning": [
+      "olbrzymi",
+      "ogromny"
+    ]
+  },
+  {
+    "id": "w-whore",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "whore",
+    "pronunciation": "hɔ:",
+    "meaning": [
+      "dziwka",
+      "nierządnica"
+    ]
+  },
+  {
+    "id": "w-whose",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "whose",
+    "pronunciation": "hu:z",
+    "meaning": [
+      "którego",
+      "której",
+      "których",
+      "czyj"
+    ]
+  },
+  {
+    "id": "w-why",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "why",
+    "pronunciation": "waɪ",
+    "meaning": [
+      "dlaczego",
+      "czemu"
+    ]
+  },
+  {
+    "id": "w-WI",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "WI",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "zachodnioindyjski",
+      "Indie Zachodnie"
+    ]
+  },
+  {
+    "id": "w-wick",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wick",
+    "pronunciation": "wɪk",
+    "meaning": [
+      "knot"
+    ]
+  },
+  {
+    "id": "w-wicked",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "exclamation"
+    ],
+    "word": "wicked",
+    "pronunciation": "ˈwɪkɪd",
+    "meaning": [
+      "zły",
+      "niegodziwy",
+      "paskudny"
+    ]
+  },
+  {
+    "id": "w-wicker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wicker",
+    "pronunciation": "ˈwɪkə",
+    "meaning": [
+      "wiklina",
+      "plecionka"
+    ]
+  },
+  {
+    "id": "w-wickerwork",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wickerwork",
+    "pronunciation": "ˈwɪkəwɜ:k",
+    "meaning": [
+      "wiklina",
+      "plecionka"
+    ]
+  },
+  {
+    "id": "w-wicket",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wicket",
+    "pronunciation": "ˈwɪkɪt",
+    "meaning": [
+      "bramka"
+    ]
+  },
+  {
+    "id": "w-wide",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "wide",
+    "pronunciation": "waɪd",
+    "meaning": [
+      "szeroki",
+      "duży",
+      "szeroko",
+      "szeroko rozwarty",
+      "z dala od celu"
+    ]
+  },
+  {
+    "id": "w-wide-angle",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wide-angle",
+    "pronunciation": "waɪdˈæŋgəl",
+    "meaning": [
+      "szerokokątny"
+    ]
+  },
+  {
+    "id": "w-wide-awake",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wide-awake",
+    "pronunciation": "ˌwaɪdəˈweɪk",
+    "meaning": [
+      "całkowicie rozbudzony"
+    ]
+  },
+  {
+    "id": "w-widen",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "widen",
+    "pronunciation": "ˈwaɪdən",
+    "meaning": [
+      "poszerzać się",
+      "poszerzać",
+      "rozszerzać się"
+    ]
+  },
+  {
+    "id": "w-wide-ranging",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wide-ranging",
+    "pronunciation": "ˌwaɪdˈreɪnʤɪŋ",
+    "meaning": [
+      "na szeroką skalę"
+    ]
+  },
+  {
+    "id": "w-widespread",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "widespread",
+    "pronunciation": "ˈwaɪdspred",
+    "meaning": [
+      "rozpowszechniony"
+    ]
+  },
+  {
+    "id": "w-widow",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "widow",
+    "pronunciation": "ˈwɪdəʊ",
+    "meaning": [
+      "wdowa"
+    ]
+  },
+  {
+    "id": "w-widowed",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "widowed",
+    "pronunciation": "ˈwɪdəʊd",
+    "meaning": [
+      "owdowiały"
+    ]
+  },
+  {
+    "id": "w-widower",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "widower",
+    "pronunciation": "ˈwɪdəʊə",
+    "meaning": [
+      "wdowiec"
+    ]
+  },
+  {
+    "id": "w-widowhood",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "widowhood",
+    "pronunciation": "ˈwɪdəʊhʊd",
+    "meaning": [
+      "wdowieństwo"
+    ]
+  },
+  {
+    "id": "w-width",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "width",
+    "pronunciation": "wɪdθ",
+    "meaning": [
+      "szerokość"
+    ]
+  },
+  {
+    "id": "w-wield",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wield",
+    "pronunciation": "wi:ld",
+    "meaning": [
+      "dzierżyć"
+    ]
+  },
+  {
+    "id": "w-wife",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "wife",
+    "pronunciation": "waɪf",
+    "meaning": [
+      "żona"
+    ]
+  },
+  {
+    "id": "w-wig",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wig",
+    "pronunciation": "wɪg",
+    "meaning": [
+      "peruka"
+    ]
+  },
+  {
+    "id": "w-wiggle",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "wiggle",
+    "pronunciation": "ˈwɪgəl",
+    "meaning": [
+      "podrygiwać",
+      "szarpać"
+    ]
+  },
+  {
+    "id": "w-wigwam",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wigwam",
+    "pronunciation": "ˈwɪgwæm",
+    "meaning": [
+      "wigwam"
+    ]
+  },
+  {
+    "id": "w-wild",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "wild",
+    "pronunciation": "waɪld",
+    "meaning": [
+      "dziki",
+      "rozszalały",
+      "dziwaczny",
+      "na oślep",
+      "na chybił trafił",
+      "dziki stan",
+      "pustkowia",
+      "odludzie"
+    ]
+  },
+  {
+    "id": "w-wilderness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wilderness",
+    "pronunciation": "ˈwɪldənɪs",
+    "meaning": [
+      "pustkowie",
+      "pustynia",
+      "zdziczały teren"
+    ]
+  },
+  {
+    "id": "w-wild-goose_chase",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wild-goose chase",
+    "pronunciation": "ˌwɪldˈgu:s ʧeɪs",
+    "meaning": [
+      "poszukiwanie wczorajszego dnia"
+    ]
+  },
+  {
+    "id": "w-wildlife",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wildlife",
+    "pronunciation": "ˈwaɪldlaɪf",
+    "meaning": [
+      "przyroda",
+      "zwierzęta",
+      "przyroda żyjące w stanie naturalnym",
+      "zwierzęta żyjące w stanie naturalnym"
+    ]
+  },
+  {
+    "id": "w-wildly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "wildly",
+    "pronunciation": "ˈwaɪldlɪ",
+    "meaning": [
+      "dziko",
+      "szalenie",
+      "z energią",
+      "na chybił trafił"
+    ]
+  },
+  {
+    "id": "w-wilful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wilful",
+    "pronunciation": "ˈwɪlfʊl",
+    "meaning": [
+      "świadomy",
+      "rozmyślny",
+      "krnąbrny"
+    ]
+  },
+  {
+    "id": "w-willing",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "willing",
+    "pronunciation": "ˈwɪlɪŋ",
+    "meaning": [
+      "chętny"
+    ]
+  },
+  {
+    "id": "w-willow",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "willow",
+    "pronunciation": "ˈwɪləʊ",
+    "meaning": [
+      "wierzba"
+    ]
+  },
+  {
+    "id": "w-will-power",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "will-power",
+    "pronunciation": "ˈwɪlpaʊə",
+    "meaning": [
+      "siła woli"
+    ]
+  },
+  {
+    "id": "w-willy-nilly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "willy-nilly",
+    "pronunciation": "ˌwɪlɪˈnɪlɪ",
+    "meaning": [
+      "chcąc czy nie chcąc"
+    ]
+  },
+  {
+    "id": "w-wilt",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "wilt",
+    "pronunciation": "wɪlt",
+    "meaning": [
+      "więdnąć",
+      "usychać"
+    ]
+  },
+  {
+    "id": "w-wily",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wily",
+    "pronunciation": "ˈwaɪlɪ",
+    "meaning": [
+      "chytry"
+    ]
+  },
+  {
+    "id": "w-wince",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wince",
+    "pronunciation": "wɪns",
+    "meaning": [
+      "krzywić się",
+      "skrzywienie się"
+    ]
+  },
+  {
+    "id": "w-winch",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "winch",
+    "pronunciation": "wɪnʧ",
+    "meaning": [
+      "blok",
+      "wciągać blokiem",
+      "wciągać"
+    ]
+  },
+  {
+    "id": "w-wind",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wind",
+    "pronunciation": "/wɪnd/",
+    "meaning": [
+      "wiatr",
+      "oddech",
+      "dech",
+      "gazy",
+      "wzdęcie",
+      "dęty",
+      "pozbawiać tchu",
+      "wić się",
+      "owijać",
+      "nakręcać",
+      "przewijać do tyłu",
+      "redukować",
+      "zwalniać obroty",
+      "zwalniać",
+      "otwierać",
+      "przewijać do przodu",
+      "kończyć",
+      "zwijać",
+      "lądować",
+      "zamykać"
+    ]
+  },
+  {
+    "id": "w-windbreak",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "windbreak",
+    "pronunciation": "ˈwɪndbreɪk",
+    "meaning": [
+      "wiatrołom"
+    ]
+  },
+  {
+    "id": "w-windfall",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "windfall",
+    "pronunciation": "ˈwɪndfɔ:l",
+    "meaning": [
+      "uśmiech szczęścia"
+    ]
+  },
+  {
+    "id": "w-windmill",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "windmill",
+    "pronunciation": "ˈwɪnmɪl",
+    "meaning": [
+      "wiatrak"
+    ]
+  },
+  {
+    "id": "w-window",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "window",
+    "pronunciation": "ˈwɪndəʊ",
+    "meaning": [
+      "okno",
+      "okienko"
+    ]
+  },
+  {
+    "id": "w-window-box",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "window-box",
+    "pronunciation": "ˈwɪndəʊbɒks",
+    "meaning": [
+      "skrzynka na kwiaty"
+    ]
+  },
+  {
+    "id": "w-window-frame",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "window-frame",
+    "pronunciation": "ˈwɪndəʊfreɪm",
+    "meaning": [
+      "rama okienna"
+    ]
+  },
+  {
+    "id": "w-window-pane",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "window-pane",
+    "pronunciation": "ˈwɪndəʊpeɪn",
+    "meaning": [
+      "szyba"
+    ]
+  },
+  {
+    "id": "w-window-shopping",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "window-shopping",
+    "pronunciation": "ˈwɪndəʊʃɒpɪŋ",
+    "meaning": [
+      "oglądanie wystaw",
+      "oglądanie witryn"
+    ]
+  },
+  {
+    "id": "w-window-sill",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "window-sill",
+    "pronunciation": "ˈwɪndəʊsɪl",
+    "meaning": [
+      "parapet"
+    ]
+  },
+  {
+    "id": "w-windpipe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "windpipe",
+    "pronunciation": "ˈwɪndpaɪp",
+    "meaning": [
+      "tchawica"
+    ]
+  },
+  {
+    "id": "w-windscreen",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "windscreen",
+    "pronunciation": "ˈwɪndskri:n",
+    "meaning": [
+      "szyba przednia",
+      "wycieraczka"
+    ]
+  },
+  {
+    "id": "w-windshield",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "windshield",
+    "pronunciation": "ˈwɪndʃi:ld",
+    "meaning": [
+      "szyba przednia",
+      "osłona szklana"
+    ]
+  },
+  {
+    "id": "w-windsurfer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "windsurfer",
+    "pronunciation": "ˈwɪndsɜ:fə",
+    "meaning": [
+      "deska windsurfingowa",
+      "windsurfingowiec"
+    ]
+  },
+  {
+    "id": "w-windsurfing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "windsurfing",
+    "pronunciation": "ˈwɪndsɜ:fɪŋ",
+    "meaning": [
+      "windsurfing"
+    ]
+  },
+  {
+    "id": "w-windswept",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "windswept",
+    "pronunciation": "ˈwɪndswept",
+    "meaning": [
+      "chłostany wiatrem"
+    ]
+  },
+  {
+    "id": "w-windy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "windy",
+    "pronunciation": "ˈwɪndɪ",
+    "meaning": [
+      "wietrzny"
+    ]
+  },
+  {
+    "id": "w-wine",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "wine",
+    "pronunciation": "waɪn",
+    "meaning": [
+      "wino"
+    ]
+  },
+  {
+    "id": "w-wing",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wing",
+    "pronunciation": "wɪŋ",
+    "meaning": [
+      "skrzydło",
+      "kulisy",
+      "błotnik"
+    ]
+  },
+  {
+    "id": "w-winger",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "winger",
+    "pronunciation": "ˈwɪŋə",
+    "meaning": [
+      "skrzydłowy"
+    ]
+  },
+  {
+    "id": "w-wingspan",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wingspan",
+    "pronunciation": "ˈwɪŋspæn",
+    "meaning": [
+      "rozpiętość skrzydeł"
+    ]
+  },
+  {
+    "id": "w-wink",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wink",
+    "pronunciation": "wɪŋk",
+    "meaning": [
+      "mrugnięcie",
+      "mrugać",
+      "migotać"
+    ]
+  },
+  {
+    "id": "w-winner",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "winner",
+    "pronunciation": "ˈwɪnə",
+    "meaning": [
+      "zwycięzca"
+    ]
+  },
+  {
+    "id": "w-winning",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "winning",
+    "pronunciation": "ˈwɪnɪŋ",
+    "meaning": [
+      "zwycięski",
+      "wygrana"
+    ]
+  },
+  {
+    "id": "w-winter",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "winter",
+    "pronunciation": "ˈwɪntə",
+    "meaning": [
+      "zima",
+      "zimowy",
+      "zimować"
+    ]
+  },
+  {
+    "id": "w-wintertime",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wintertime",
+    "pronunciation": "ˈwɪntətaɪm",
+    "meaning": [
+      "zima",
+      "pora zimowa"
+    ]
+  },
+  {
+    "id": "w-wintry",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wintry",
+    "pronunciation": "ˈwɪntrɪ",
+    "meaning": [
+      "zimowy"
+    ]
+  },
+  {
+    "id": "w-wipe",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wipe",
+    "pronunciation": "waɪp",
+    "meaning": [
+      "wycierać",
+      "ścierać",
+      "kasować",
+      "starcie",
+      "wymieść",
+      "zmiatać"
+    ]
+  },
+  {
+    "id": "w-wiper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wiper",
+    "pronunciation": "ˈwaɪpə",
+    "meaning": [
+      "wycieraczka"
+    ]
+  },
+  {
+    "id": "w-wire",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wire",
+    "pronunciation": "ˈwaɪə",
+    "meaning": [
+      "drut",
+      "kabel",
+      "telegram",
+      "wiązać drutem",
+      "wiązać",
+      "łączyć",
+      "podłączać",
+      "telegrafować"
+    ]
+  },
+  {
+    "id": "w-wireless",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wireless",
+    "pronunciation": "ˈwaɪəlɪs",
+    "meaning": [
+      "radio"
+    ]
+  },
+  {
+    "id": "w-wiring",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wiring",
+    "pronunciation": "ˈwaɪərɪŋ",
+    "meaning": [
+      "instalacja elektryczna"
+    ]
+  },
+  {
+    "id": "w-wiry",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wiry",
+    "pronunciation": "ˈwaɪərɪ",
+    "meaning": [
+      "suchy",
+      "żylasty",
+      "sztywny"
+    ]
+  },
+  {
+    "id": "w-Wisconsin",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Wisconsin",
+    "pronunciation": "wɪsˈkɒnsɪn",
+    "meaning": [
+      "Wisconsin"
+    ]
+  },
+  {
+    "id": "w-wisdom",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wisdom",
+    "pronunciation": "ˈwɪzdəm",
+    "meaning": [
+      "mądrość",
+      "celowość",
+      "ząb mądrości"
+    ]
+  },
+  {
+    "id": "w-wise",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wise",
+    "pronunciation": "waɪz",
+    "meaning": [
+      "mądry",
+      "mądrala"
+    ]
+  },
+  {
+    "id": "w-wisecrack",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wisecrack",
+    "pronunciation": "ˈwaɪzkræk",
+    "meaning": [
+      "dowcipas"
+    ]
+  },
+  {
+    "id": "w-wisecracker",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wisecracker",
+    "pronunciation": "ˈwaɪzkrækə",
+    "meaning": [
+      "dowcipniś"
+    ]
+  },
+  {
+    "id": "w-wish",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wish",
+    "pronunciation": "wɪʃ",
+    "meaning": [
+      "życzenie",
+      "pragnienie",
+      "pragnąć",
+      "życzyć sobie",
+      "chcieć",
+      "żałować",
+      "życzyć"
+    ]
+  },
+  {
+    "id": "w-wishful_thinking",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wishful thinking",
+    "pronunciation": "ˌwɪʃfʊl ˈθɪŋkɪŋ",
+    "meaning": [
+      "pobożne życzenia",
+      "chciejstwo"
+    ]
+  },
+  {
+    "id": "w-wishy-washy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wishy-washy",
+    "pronunciation": "ˈwɪʃɪ wɒʃɪ",
+    "meaning": [
+      "rozwodniony",
+      "mdły"
+    ]
+  },
+  {
+    "id": "w-wisp",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wisp",
+    "pronunciation": "wɪsp",
+    "meaning": [
+      "pasmo",
+      "wiecheć",
+      "kosmyk"
+    ]
+  },
+  {
+    "id": "w-wistful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wistful",
+    "pronunciation": "ˈwɪstfʊl",
+    "meaning": [
+      "nostalgiczny",
+      "melancholijny"
+    ]
+  },
+  {
+    "id": "w-wit",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wit",
+    "pronunciation": "wɪt",
+    "meaning": [
+      "dowcip",
+      "przytomność umysłu",
+      "inteligencja"
+    ]
+  },
+  {
+    "id": "w-witch",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "witch",
+    "pronunciation": "wɪʧ",
+    "meaning": [
+      "wiedźma",
+      "czarownica",
+      "znachor",
+      "czarownik"
+    ]
+  },
+  {
+    "id": "w-witchcraft",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "witchcraft",
+    "pronunciation": "ˈwɪʧkrɑ:ft",
+    "meaning": [
+      "czary"
+    ]
+  },
+  {
+    "id": "w-witch-hunt",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "witch-hunt",
+    "pronunciation": "ˈwɪʧhʌnt",
+    "meaning": [
+      "polowanie na czarownice"
+    ]
+  },
+  {
+    "id": "w-with",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "with",
+    "pronunciation": "wɪð",
+    "meaning": [
+      "z",
+      "wraz z",
+      "gdy",
+      "przy",
+      "w przypadku",
+      "wziąwszy pod uwagę",
+      "u"
+    ]
+  },
+  {
+    "id": "w-withdraw",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "withdraw",
+    "pronunciation": "wɪðˈdrɔ:",
+    "meaning": [
+      "wycofywać się",
+      "wycofywać"
+    ]
+  },
+  {
+    "id": "w-withdrawal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "withdrawal",
+    "pronunciation": "wɪðˈdrɔ:əl",
+    "meaning": [
+      "wycofanie się",
+      "wycofanie",
+      "cofnięcie",
+      "odsunięcie się",
+      "głód narkotyczny",
+      "głód",
+      "wypłata"
+    ]
+  },
+  {
+    "id": "w-withdrawn",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "withdrawn",
+    "pronunciation": "wɪðˈdrɔ:n",
+    "meaning": [
+      "zamknięty w sobie",
+      "zamknięty"
+    ]
+  },
+  {
+    "id": "w-wither",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wither",
+    "pronunciation": "ˈwɪðə",
+    "meaning": [
+      "zamierać",
+      "usychać"
+    ]
+  },
+  {
+    "id": "w-withered",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "withered",
+    "pronunciation": "ˈwɪðəd",
+    "meaning": [
+      "pomarszczony",
+      "uschnięty"
+    ]
+  },
+  {
+    "id": "w-withering",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "withering",
+    "pronunciation": "ˈwɪðərɪŋ",
+    "meaning": [
+      "miażdżący"
+    ]
+  },
+  {
+    "id": "w-withhold",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "withhold",
+    "pronunciation": "wɪðˈhəʊld",
+    "meaning": [
+      "powstrzymywać",
+      "wstrzymywać"
+    ]
+  },
+  {
+    "id": "w-within",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "within",
+    "pronunciation": "wɪðˈɪn",
+    "meaning": [
+      "wewnątrz",
+      "w ramach",
+      "w odległości",
+      "w",
+      "w zasięgu",
+      "w przeciągu",
+      "za"
+    ]
+  },
+  {
+    "id": "w-without",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "without",
+    "pronunciation": "wɪðˈaʊt",
+    "meaning": [
+      "bez"
+    ]
+  },
+  {
+    "id": "w-withstand",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "withstand",
+    "pronunciation": "wɪðˈstænd",
+    "meaning": [
+      "wytrzymywać"
+    ]
+  },
+  {
+    "id": "w-witness",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "witness",
+    "pronunciation": "ˈwɪtnɪs",
+    "meaning": [
+      "świadek",
+      "być świadkiem"
+    ]
+  },
+  {
+    "id": "w-witness-box",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "witness-box",
+    "pronunciation": "ˈwɪtnɪsbɒks",
+    "meaning": [
+      "miejsce dla świadka"
+    ]
+  },
+  {
+    "id": "w-witness-stand",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "witness-stand",
+    "pronunciation": "ˈwɪtnɪsstænd",
+    "meaning": [
+      "miejsce dla świadka"
+    ]
+  },
+  {
+    "id": "w-witter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "witter",
+    "pronunciation": "ˈwɪtə",
+    "meaning": [
+      "paplać",
+      "ględzić"
+    ]
+  },
+  {
+    "id": "w-witticism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "witticism",
+    "pronunciation": "ˈwɪtɪsɪzəm",
+    "meaning": [
+      "dowcip",
+      "dowcipna uwaga"
+    ]
+  },
+  {
+    "id": "w-witty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "witty",
+    "pronunciation": "ˈwɪtɪ",
+    "meaning": [
+      "dowcipny"
+    ]
+  },
+  {
+    "id": "w-wizard",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wizard",
+    "pronunciation": "ˈwɪzəd",
+    "meaning": [
+      "czarnoksiężnik"
+    ]
+  },
+  {
+    "id": "w-wizardry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wizardry",
+    "pronunciation": "ˈwɪzədrɪ",
+    "meaning": [
+      "czaroksięstwo",
+      "magia"
+    ]
+  },
+  {
+    "id": "w-wizened",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wizened",
+    "pronunciation": "ˈwɪzənd",
+    "meaning": [
+      "pomarszczony"
+    ]
+  },
+  {
+    "id": "w-wk",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wk",
+    "pronunciation": "/ˌdʌbəlˈjuː ˈkeɪ/",
+    "meaning": [
+      "tydzień",
+      "praca"
+    ]
+  },
+  {
+    "id": "w-wobble",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "wobble",
+    "pronunciation": "ˈwɒbəl",
+    "meaning": [
+      "trząść się",
+      "chwiać się"
+    ]
+  },
+  {
+    "id": "w-woe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "woe",
+    "pronunciation": "wəʊ",
+    "meaning": [
+      "nieszczęście"
+    ]
+  },
+  {
+    "id": "w-woeful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "woeful",
+    "pronunciation": "ˈwəʊfʊl",
+    "meaning": [
+      "żałosny"
+    ]
+  },
+  {
+    "id": "w-woman",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "woman",
+    "pronunciation": "ˈwʊmən",
+    "meaning": [
+      "kobieta"
+    ]
+  },
+  {
+    "id": "w-womanhood",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "womanhood",
+    "pronunciation": "ˈwʊmənhʊd",
+    "meaning": [
+      "kobiecość",
+      "kobiety"
+    ]
+  },
+  {
+    "id": "w-womanizer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "womanizer",
+    "pronunciation": "ˈwʊmənaɪzə",
+    "meaning": [
+      "kobieciarz"
+    ]
+  },
+  {
+    "id": "w-womankind",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "womankind",
+    "pronunciation": "ˈwʊmənkaɪnd",
+    "meaning": [
+      "kobiety"
+    ]
+  },
+  {
+    "id": "w-womanly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "womanly",
+    "pronunciation": "ˈwʊmənlɪ",
+    "meaning": [
+      "kobiecy"
+    ]
+  },
+  {
+    "id": "w-womb",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "womb",
+    "pronunciation": "wu:m",
+    "meaning": [
+      "macica"
+    ]
+  },
+  {
+    "id": "w-wonder",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wonder",
+    "pronunciation": "ˈwʌndə",
+    "meaning": [
+      "być ciekawym",
+      "zastanawiać się",
+      "podziwiać",
+      "dziw",
+      "zadziwienie",
+      "cudowny"
+    ]
+  },
+  {
+    "id": "w-wonderful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wonderful",
+    "pronunciation": "ˈwʌndəfʊl",
+    "meaning": [
+      "cudowny"
+    ]
+  },
+  {
+    "id": "w-wonderfully",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "wonderfully",
+    "pronunciation": "ˈwʌndəfʊlɪ",
+    "meaning": [
+      "cudownie",
+      "wspaniale"
+    ]
+  },
+  {
+    "id": "w-wonderment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wonderment",
+    "pronunciation": "ˈwʌndəmənt",
+    "meaning": [
+      "zadziwienie"
+    ]
+  },
+  {
+    "id": "w-wonky",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wonky",
+    "pronunciation": "ˈwʌŋkɪ",
+    "meaning": [
+      "chwiejny",
+      "rozklekotany"
+    ]
+  },
+  {
+    "id": "w-woo",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "woo",
+    "pronunciation": "wu:",
+    "meaning": [
+      "zalecać się",
+      "ubiegać się"
+    ]
+  },
+  {
+    "id": "w-wonderful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wonderful",
+    "pronunciation": "ˈwʌndəfʊl",
+    "meaning": [
+      "cudowny"
+    ]
+  },
+  {
+    "id": "w-wonderfully",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "wonderfully",
+    "pronunciation": "ˈwʌndəfʊlɪ",
+    "meaning": [
+      "cudownie",
+      "wspaniale"
+    ]
+  },
+  {
+    "id": "w-wonderment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wonderment",
+    "pronunciation": "ˈwʌndəmənt",
+    "meaning": [
+      "zadziwienie"
+    ]
+  },
+  {
+    "id": "w-wonky",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wonky",
+    "pronunciation": "ˈwʌŋkɪ",
+    "meaning": [
+      "chwiejny",
+      "rozklekotany"
+    ]
+  },
+  {
+    "id": "w-woo",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "woo",
+    "pronunciation": "wu:",
+    "meaning": [
+      "zalecać się",
+      "ubiegać się"
+    ]
+  },
+  {
+    "id": "w-wood",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "wood",
+    "pronunciation": "wʊd",
+    "meaning": [
+      "drewno",
+      "las"
+    ]
+  },
+  {
+    "id": "w-wooded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wooded",
+    "pronunciation": "ˈwʊdɪd",
+    "meaning": [
+      "zadrzewiony"
+    ]
+  },
+  {
+    "id": "w-wooden",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "wooden",
+    "pronunciation": "ˈwʊdən",
+    "meaning": [
+      "drewniany"
+    ]
+  },
+  {
+    "id": "w-woodland",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "woodland",
+    "pronunciation": "ˈwʊdlænd",
+    "meaning": [
+      "teren lesisty"
+    ]
+  },
+  {
+    "id": "w-woodpecker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "woodpecker",
+    "pronunciation": "ˈwʊdpekə",
+    "meaning": [
+      "dzięcioł"
+    ]
+  },
+  {
+    "id": "w-woodwind",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "woodwind",
+    "pronunciation": "ˈwʊdwɪnd",
+    "meaning": [
+      "instrumenty dęte"
+    ]
+  },
+  {
+    "id": "w-woodwork",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "woodwork",
+    "pronunciation": "ˈwʊdwɜ:k",
+    "meaning": [
+      "stolarka",
+      "stolarstwo"
+    ]
+  },
+  {
+    "id": "w-woodworm",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "woodworm",
+    "pronunciation": "ˈwʊdwɜ:m",
+    "meaning": [
+      "kornik"
+    ]
+  },
+  {
+    "id": "w-woody",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "woody",
+    "pronunciation": "ˈwʊdɪ",
+    "meaning": [
+      "zdrewniały",
+      "lesisty"
+    ]
+  },
+  {
+    "id": "w-woof",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "woof",
+    "pronunciation": "wʊf",
+    "meaning": [
+      "hau"
+    ]
+  },
+  {
+    "id": "w-wool",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wool",
+    "pronunciation": "wʊl",
+    "meaning": [
+      "wełna"
+    ]
+  },
+  {
+    "id": "w-woollen",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "woollen",
+    "pronunciation": "ˈwʊlən",
+    "meaning": [
+      "wełniany",
+      "wełniana rzecz"
+    ]
+  },
+  {
+    "id": "w-woolly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "woolly",
+    "pronunciation": "ˈwʊlɪ",
+    "meaning": [
+      "wełniany",
+      "mglisty",
+      "wełniana rzecz"
+    ]
+  },
+  {
+    "id": "w-word",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "word",
+    "pronunciation": "wɜ:d",
+    "meaning": [
+      "słowo",
+      "wyraz",
+      "słówko",
+      "wiadomość",
+      "hasło",
+      "wyrażać",
+      "komputerowe przetwarzanie tekstu",
+      "przetwarzanie tekstu",
+      "edytor tekstu"
+    ]
+  },
+  {
+    "id": "w-wording",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wording",
+    "pronunciation": "ˈwɜ:dɪŋ",
+    "meaning": [
+      "forma słowna",
+      "styl"
+    ]
+  },
+  {
+    "id": "w-wordplay",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wordplay",
+    "pronunciation": "ˈwɜ:dpleɪ",
+    "meaning": [
+      "gra słów"
+    ]
+  },
+  {
+    "id": "w-wordy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "wordy",
+    "pronunciation": "ˈwɜ:dɪ",
+    "meaning": [
+      "wielosłowny",
+      "rozwlekły"
+    ]
+  },
+  {
+    "id": "w-workable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "workable",
+    "pronunciation": "ˈwɜ:kəbəl",
+    "meaning": [
+      "użyteczny",
+      "wykonalny"
+    ]
+  },
+  {
+    "id": "w-workaholic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "workaholic",
+    "pronunciation": "ˌwɜ:kəˈhɒlɪk",
+    "meaning": [
+      "osoba, która nie widzi świata poza pracą",
+      "pracoholik"
+    ]
+  },
+  {
+    "id": "w-workbench",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "workbench",
+    "pronunciation": "ˈwɜ:kbenʧ",
+    "meaning": [
+      "warsztat",
+      "stół do pracy"
+    ]
+  },
+  {
+    "id": "w-workday",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "workday",
+    "pronunciation": "ˈwɜ:kdeɪ",
+    "meaning": [
+      "dzień pracy",
+      "dzień powszedni"
+    ]
+  },
+  {
+    "id": "w-worked_up",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "worked up",
+    "pronunciation": "ˌwɜ:ktˈʌp",
+    "meaning": [
+      "podekscytowany"
+    ]
+  },
+  {
+    "id": "w-worker",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "worker",
+    "pronunciation": "ˈwɜ:kə",
+    "meaning": [
+      "pracownik",
+      "robotnik"
+    ]
+  },
+  {
+    "id": "w-workforce",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "workforce",
+    "pronunciation": "ˈwɜ:kfɔ:s",
+    "meaning": [
+      "siła robocza"
+    ]
+  },
+  {
+    "id": "w-working",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "working",
+    "pronunciation": "ˈwɜ:kɪŋ",
+    "meaning": [
+      "pracujący",
+      "roboczy",
+      "praktyczny",
+      "działania",
+      "klasa robotnicza",
+      "dzień roboczy"
+    ]
+  },
+  {
+    "id": "w-workload",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "workload",
+    "pronunciation": "ˈwɜ:kləʊd",
+    "meaning": [
+      "obciążenie"
+    ]
+  },
+  {
+    "id": "w-workman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "workman",
+    "pronunciation": "ˈwɜ:kmən",
+    "meaning": [
+      "pracownik"
+    ]
+  },
+  {
+    "id": "w-workmanship",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "workmanship",
+    "pronunciation": "ˈwɜ:kmənʃɪp",
+    "meaning": [
+      "rzemiosło",
+      "wykonanie"
+    ]
+  },
+  {
+    "id": "w-workout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "workout",
+    "pronunciation": "ˈwɜ:kaʊt",
+    "meaning": [
+      "zaprawa"
+    ]
+  },
+  {
+    "id": "w-workshop",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "workshop",
+    "pronunciation": "ˈwɜ:kʃɒp",
+    "meaning": [
+      "warsztat"
+    ]
+  },
+  {
+    "id": "w-workstation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "workstation",
+    "pronunciation": "ˈwɜ:ksteɪʃən",
+    "meaning": [
+      "stacja robocza"
+    ]
+  },
+  {
+    "id": "w-worktop",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "worktop",
+    "pronunciation": "ˈwɜ:ktɒp",
+    "meaning": [
+      "powierzchnia robocza"
+    ]
+  },
+  {
+    "id": "w-world",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "world",
+    "pronunciation": "wɜ:ld",
+    "meaning": [
+      "świat",
+      "ogólnoświatowy",
+      "światowy"
+    ]
+  },
+  {
+    "id": "w-world-class",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "world-class",
+    "pronunciation": "ˌwɜ:ldˈklɑ:s",
+    "meaning": [
+      "światowej klasy"
+    ]
+  },
+  {
+    "id": "w-world-famous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "world-famous",
+    "pronunciation": "ˌwɜ:ldˈfeɪməs",
+    "meaning": [
+      "o światowej sławie"
+    ]
+  },
+  {
+    "id": "w-worldly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "worldly",
+    "pronunciation": "ˈwɜ:ldlɪ",
+    "meaning": [
+      "ziemski",
+      "doczesny",
+      "światowy"
+    ]
+  },
+  {
+    "id": "w-world-wide",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "world-wide",
+    "pronunciation": "ˌwɜ:ldˈwaɪd",
+    "meaning": [
+      "światowy",
+      "o światowym zasięgu"
+    ]
+  },
+  {
+    "id": "w-worn",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "worn",
+    "pronunciation": "wɔ:n",
+    "meaning": [
+      "wytarty",
+      "zużyty"
+    ]
+  },
+  {
+    "id": "w-worn-out",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "worn-out",
+    "pronunciation": "ˌwɔ:nˈaʊt",
+    "meaning": [
+      "znoszony",
+      "wykończony"
+    ]
+  },
+  {
+    "id": "w-worried",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "worried",
+    "pronunciation": "ˈwʌrɪd",
+    "meaning": [
+      "zatroskany",
+      "zaniepokojony"
+    ]
+  },
+  {
+    "id": "w-worry",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "worry",
+    "pronunciation": "ˈwʌrɪ",
+    "meaning": [
+      "martwić się",
+      "niepokoić się",
+      "niepokoić",
+      "zmartwienie",
+      "kłopot"
+    ]
+  },
+  {
+    "id": "w-worrying",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "worrying",
+    "pronunciation": "ˈwʌrɪŋ",
+    "meaning": [
+      "niepokojący"
+    ]
+  },
+  {
+    "id": "w-worse",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "worse",
+    "pronunciation": "ˈwɜ:s",
+    "meaning": [
+      "gorszy",
+      "gorzej",
+      "uboższy"
+    ]
+  },
+  {
+    "id": "w-worsen",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "worsen",
+    "pronunciation": "ˈwɜ:sən",
+    "meaning": [
+      "pogarszać się",
+      "pogarszać"
+    ]
+  },
+  {
+    "id": "w-worshipper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "worshipper",
+    "pronunciation": "ˈwɜ:ʃɪpə",
+    "meaning": [
+      "wierny",
+      "adorator",
+      "wielbiciel"
+    ]
+  },
+  {
+    "id": "w-worst",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "worst",
+    "pronunciation": "wɜ:st",
+    "meaning": [
+      "najgorszy",
+      "najgorzej"
+    ]
+  },
+  {
+    "id": "w-worsted",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "worsted",
+    "pronunciation": "ˈwʊstɪd",
+    "meaning": [
+      "samodział"
+    ]
+  },
+  {
+    "id": "w-worth",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "worth",
+    "pronunciation": "wɜ:θ",
+    "meaning": [
+      "wart",
+      "wartość"
+    ]
+  },
+  {
+    "id": "w-worthless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "worthless",
+    "pronunciation": "ˈwɜ:θlɪs",
+    "meaning": [
+      "bezwartościowy"
+    ]
+  },
+  {
+    "id": "w-worthwhile",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "worthwhile",
+    "pronunciation": "ˌwɜ:θˈwaɪl",
+    "meaning": [
+      "opłacalny"
+    ]
+  },
+  {
+    "id": "w-worthy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "worthy",
+    "pronunciation": "ˈwɜ:ðɪ",
+    "meaning": [
+      "godny",
+      "znakomity",
+      "wart"
+    ]
+  },
+  {
+    "id": "w-would-be",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "would-be",
+    "pronunciation": "ˈwʊdbi:",
+    "meaning": [
+      "niedoszły"
+    ]
+  },
+  {
+    "id": "w-wound",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wound",
+    "pronunciation": "wu:nd",
+    "meaning": [
+      "rana",
+      "ranić"
+    ]
+  },
+  {
+    "id": "w-wow",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "wow",
+    "pronunciation": "waʊ",
+    "meaning": [
+      "oj",
+      "no no"
+    ]
+  },
+  {
+    "id": "w-WP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "WP",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "przetwarzanie tekstu",
+      "edytor tekstu"
+    ]
+  },
+  {
+    "id": "w-wpb",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wpb",
+    "pronunciation": "ˌ⋅⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "kosz na śmieci"
+    ]
+  },
+  {
+    "id": "w-wrangle",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wrangle",
+    "pronunciation": "ˈræŋgəl",
+    "meaning": [
+      "kłócić się",
+      "kłótnia"
+    ]
+  },
+  {
+    "id": "w-wrap",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wrap",
+    "pronunciation": "ræp",
+    "meaning": [
+      "owijać",
+      "okrycie",
+      "opatulać się",
+      "ubierać się ciepło",
+      "kończyć"
+    ]
+  },
+  {
+    "id": "w-wrapped_up",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "wrapped up",
+    "pronunciation": "ræptˈʌp",
+    "meaning": [
+      "zadurzony"
+    ]
+  },
+  {
+    "id": "w-wrapper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wrapper",
+    "pronunciation": "ˈræpə",
+    "meaning": [
+      "opakowanie",
+      "papierek od cukierka",
+      "papierek",
+      "okładka",
+      "obwoluta"
+    ]
+  },
+  {
+    "id": "w-wrapping",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wrapping",
+    "pronunciation": "ˈræpɪŋ",
+    "meaning": [
+      "opakowanie"
+    ]
+  },
+  {
+    "id": "w-wrath",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "wrath",
+    "pronunciation": "rɔ:θ",
+    "meaning": [
+      "gniew"
+    ]
+  },
+  {
+    "id": "w-wreak",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "wreak",
+    "pronunciation": "ri:k",
+    "meaning": [
+      "wyrządzać",
+      "wywierać",
+      "odpłacać"
+    ]
+  },
+  {
+    "id": "w-wreath",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wreath",
+    "pronunciation": "ri:θ",
+    "meaning": [
+      "wieniec"
+    ]
+  },
+  {
+    "id": "w-wreck",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wreck",
+    "pronunciation": "rek",
+    "meaning": [
+      "rujnować",
+      "rozbijać",
+      "wrak",
+      "wrak człowieka"
+    ]
+  },
+  {
+    "id": "w-wreckage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wreckage",
+    "pronunciation": "ˈrekɪʤ",
+    "meaning": [
+      "szczątki"
+    ]
+  },
+  {
+    "id": "w-wren",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "wren",
+    "pronunciation": "ren",
+    "meaning": [
+      "strzyżyk"
+    ]
+  },
+  {
+    "id": "w-wrench",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wrench",
+    "pronunciation": "renʧ",
+    "meaning": [
+      "szarpać",
+      "skręcić",
+      "odrywać",
+      "szarpnięcie",
+      "skręcenie",
+      "klucz nastawny",
+      "ból rozstania",
+      "ból"
+    ]
+  },
+  {
+    "id": "w-wrest",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "wrest",
+    "pronunciation": "rest",
+    "meaning": [
+      "wyrywać"
+    ]
+  },
+  {
+    "id": "w-wrestle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "wrestle",
+    "pronunciation": "ˈresəl",
+    "meaning": [
+      "walczyć wręcz",
+      "walczyć",
+      "bić się"
+    ]
+  },
+  {
+    "id": "w-wrestler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wrestler",
+    "pronunciation": "ˈreslə",
+    "meaning": [
+      "zapaśnik"
+    ]
+  },
+  {
+    "id": "w-wrestling",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wrestling",
+    "pronunciation": "ˈreslɪŋ",
+    "meaning": [
+      "zapasy"
+    ]
+  },
+  {
+    "id": "w-wretched",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wretched",
+    "pronunciation": "ˈreʧɪd",
+    "meaning": [
+      "nieszczęśliwy",
+      "nieszczęsny",
+      "cholerny"
+    ]
+  },
+  {
+    "id": "w-wriggle",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wriggle",
+    "pronunciation": "ˈrɪgəl",
+    "meaning": [
+      "wiercić się",
+      "wiercić",
+      "kręcić się",
+      "kręcić",
+      "przedostawać się wiercąc",
+      "przedostawać się",
+      "kręcenie",
+      "ruch falisty",
+      "wykręcać się"
+    ]
+  },
+  {
+    "id": "w-wring",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "wring",
+    "pronunciation": "rɪŋ",
+    "meaning": [
+      "wykręcać",
+      "załamywać",
+      "ukręcać"
+    ]
+  },
+  {
+    "id": "w-wrinkle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "wrinkle",
+    "pronunciation": "ˈrɪŋkəl",
+    "meaning": [
+      "zmarszczka",
+      "marszczyć się",
+      "marszczyć"
+    ]
+  },
+  {
+    "id": "w-wrinkled",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "wrinkled",
+    "pronunciation": "ˈrɪŋkəld",
+    "meaning": [
+      "pomarszczony",
+      "pomięty"
+    ]
+  },
+  {
+    "id": "w-wrist",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wrist",
+    "pronunciation": "rɪst",
+    "meaning": [
+      "przegub"
+    ]
+  },
+  {
+    "id": "w-wristwatch",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wristwatch",
+    "pronunciation": "ˈrɪstwɒʧ",
+    "meaning": [
+      "zegarek na rękę"
+    ]
+  },
+  {
+    "id": "w-writ",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "writ",
+    "pronunciation": "rɪt",
+    "meaning": [
+      "pismo urzędowe",
+      "nakaz"
+    ]
+  },
+  {
+    "id": "w-write",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "write",
+    "pronunciation": "raɪt",
+    "meaning": [
+      "pisać",
+      "wypisywać",
+      "wystawiać",
+      "zapisywać",
+      "wysyłać listy",
+      "wysyłać pisma",
+      "spisywać na straty",
+      "wyksięgowywać",
+      "zapisywać na czysto"
+    ]
+  },
+  {
+    "id": "w-write-off",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "write-off",
+    "pronunciation": "ˈraɪtɒf",
+    "meaning": [
+      "pojazd spisany na straty",
+      "spisany na straty"
+    ]
+  },
+  {
+    "id": "w-write-protected",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "write-protected",
+    "pronunciation": "ˌraɪt prəˈtektɪd",
+    "meaning": [
+      "zabezpieczony przed zapisywaniem"
+    ]
+  },
+  {
+    "id": "w-writer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "writer",
+    "pronunciation": "ˈraɪtə",
+    "meaning": [
+      "pisarz"
+    ]
+  },
+  {
+    "id": "w-write-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "write-up",
+    "pronunciation": "ˈraɪtʌp",
+    "meaning": [
+      "omówienie"
+    ]
+  },
+  {
+    "id": "w-writhe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "writhe",
+    "pronunciation": "raɪð",
+    "meaning": [
+      "wić się"
+    ]
+  },
+  {
+    "id": "w-writing",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "writing",
+    "pronunciation": "ˈraɪtɪŋ",
+    "meaning": [
+      "pisanie",
+      "pismo",
+      "dzieła",
+      "utwory",
+      "papier listowy"
+    ]
+  },
+  {
+    "id": "w-written",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "written",
+    "pronunciation": "ˈrɪtən",
+    "meaning": [
+      "pisemny",
+      "napisany"
+    ]
+  },
+  {
+    "id": "w-wrongdoer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wrongdoer",
+    "pronunciation": "ˈrɒŋdu:ə",
+    "meaning": [
+      "krzywdziciel",
+      "sprawca zła"
+    ]
+  },
+  {
+    "id": "w-wrongdoing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "wrongdoing",
+    "pronunciation": "ˈrɒŋdu:ɪŋ",
+    "meaning": [
+      "niewłaściwe postępowanie",
+      "nadużycie"
+    ]
+  },
+  {
+    "id": "w-wrongful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wrongful",
+    "pronunciation": "ˈrɒŋfʊl",
+    "meaning": [
+      "krzywdzący",
+      "niesprawiedliwy"
+    ]
+  },
+  {
+    "id": "w-wrought",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "wrought",
+    "pronunciation": "rɔ:t",
+    "meaning": [
+      "misterny",
+      "kuty"
+    ]
+  },
+  {
+    "id": "w-wry",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "wry",
+    "pronunciation": "raɪ",
+    "meaning": [
+      "kwaśny",
+      "skrzywiony",
+      "skwaszony"
+    ]
+  },
+  {
+    "id": "w-wt.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "wt.",
+    "pronunciation": "/ˌdʌbəlˈjuː ˈtiː/",
+    "meaning": [
+      "ciężar"
+    ]
+  },
+  {
+    "id": "w-Wyoming",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Wyoming",
+    "pronunciation": "waɪˈəʊmɪŋ",
+    "meaning": [
+      "Wyoming"
+    ]
+  }
+]
