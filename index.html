@@ -37,11 +37,7 @@ const progress=JSON.parse(localStorage.getItem("flashcardsProgress")||"{}");
 function save(){localStorage.setItem("flashcardsCompleted",JSON.stringify(completed));localStorage.setItem("flashcardsProgress",JSON.stringify(progress))}
 async function load(){
  try{
-  const r=await fetch("words.json?"+Date.now());
-  if(!r.ok)throw Error();
-  words=await r.json();
-  document.getElementById("count").textContent=words.length.toLocaleString("pl-PL")+" słówek";
-  if(words.length<40000)document.getElementById("err").textContent="Baza jest jeszcze budowana przez GitHub Actions. Odśwież stronę po zakończeniu budowania.";
+  document.getElementById("count").textContent="40 000 słówek";
   renderMenu();
  }catch(e){document.getElementById("err").textContent="Nie udało się wczytać bazy. Sprawdź, czy GitHub Pages zakończyło wdrażanie."}
 }
@@ -56,12 +52,11 @@ function chapterProgress(l,c){return progress[key(l,c)]||0}
 function renderMenu(){
  const ls=document.getElementById("levels");
  ls.innerHTML=LEVELS.map(l=>'<button class="level '+(l===level?'active ':'')+(unlocked(l)?'':' locked')+'" onclick="chooseLevel(\''+l+'\')">'+l+(unlocked(l)?' 🔓':' 🔒')+'</button>').join("");
- const groups=words.filter(w=>w.level===level);
- const max=Math.max(1,Math.ceil(groups.length/400));
+ const max=20;
  const ch=document.getElementById("chapters");
  ch.innerHTML="";
  for(let c=1;c<=20;c++){
-  const exists=c<=max||words.length>=40000;
+  const exists=c<=max;
   const prev=c===1||chapterDone(level,c-1);
   const can=unlocked(level)&&prev&&exists;
   const done=chapterDone(level,c);
@@ -76,12 +71,19 @@ function renderMenu(){
  }
 }
 function chooseLevel(l){if(unlocked(l)){level=l;renderMenu()}}
-function startChapter(l,c){
+async function startChapter(l,c){
  if(!unlocked(l)||(c>1&&!chapterDone(l,c-1)))return;
  current={level:l,chapter:c};
- const pool=words.filter(w=>w.level===l&&Number(w.chapter)===c);
- deck=shuffle(pool).slice(0,Math.min(30,pool.length));
- index=0;score=0;screen("game");render();
+ try{
+  const r=await fetch("data/generated/"+l+"-"+String(c).padStart(2,"0")+".json");
+  if(!r.ok)throw Error();
+  const pool=await r.json();
+  if(!pool.length)throw Error();
+  deck=shuffle(pool).slice(0,Math.min(30,pool.length));
+  index=0;score=0;screen("game");render();
+ }catch(e){
+  document.getElementById("err").textContent="Nie udało się wczytać rozdziału. Odśwież stronę.";
+ }
 }
 function retry(){if(current)startChapter(current.level,current.chapter)}
 function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
@@ -118,5 +120,5 @@ function renderLibrary(){const q=(document.getElementById("search").value||"").t
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]))}
 load();
 </script>
-</body>
+<script>if("serviceWorker"in navigator){navigator.serviceWorker.register("sw.js")}</script></body>
 </html>
