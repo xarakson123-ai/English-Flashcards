@@ -1,0 +1,9223 @@
+[
+  {
+    "id": "e-E",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "E",
+    "pronunciation": "/ˈiː/",
+    "meaning": [
+      "wschód",
+      "wschodni"
+    ]
+  },
+  {
+    "id": "e-each",
+    "level": "A1",
+    "partOfSpeech": [
+      "determiner",
+      "pronoun"
+    ],
+    "word": "each",
+    "pronunciation": "i:ʧ",
+    "meaning": [
+      "każdy",
+      "sztuka"
+    ]
+  },
+  {
+    "id": "e-eager",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "eager",
+    "pronunciation": "ˈi:gə",
+    "meaning": [
+      "chętny",
+      "gorąco pragnący"
+    ]
+  },
+  {
+    "id": "e-eagle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eagle",
+    "pronunciation": "ˈi:gəl",
+    "meaning": [
+      "orzeł"
+    ]
+  },
+  {
+    "id": "e-ear",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ear",
+    "pronunciation": "ɪə",
+    "meaning": [
+      "ucho",
+      "słuch",
+      "kłos"
+    ]
+  },
+  {
+    "id": "e-eardrum",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "eardrum",
+    "pronunciation": "ˈɪədrʌm",
+    "meaning": [
+      "bębenek uszny",
+      "bębenek"
+    ]
+  },
+  {
+    "id": "e-earl",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "earl",
+    "pronunciation": "ɜ:l",
+    "meaning": [
+      "hrabia"
+    ]
+  },
+  {
+    "id": "e-earlier",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "earlier",
+    "pronunciation": "ˈɜ:lɪə",
+    "meaning": [
+      "wcześniej"
+    ]
+  },
+  {
+    "id": "e-earlobe",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "earlobe",
+    "pronunciation": "ˈɪələʊb",
+    "meaning": [
+      "płatek ucha"
+    ]
+  },
+  {
+    "id": "e-earmarked",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "earmarked",
+    "pronunciation": "ˈɪəmɑ:kt",
+    "meaning": [
+      "zarezerwowany",
+      "odłożony"
+    ]
+  },
+  {
+    "id": "e-earn",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "earn",
+    "pronunciation": "ɜ:n",
+    "meaning": [
+      "zarabiać na",
+      "zarabiać",
+      "wypracować",
+      "przynosić",
+      "zasłużyć na"
+    ]
+  },
+  {
+    "id": "e-earnest",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "earnest",
+    "pronunciation": "ˈɜ:nəst",
+    "meaning": [
+      "poważny",
+      "zasadniczy"
+    ]
+  },
+  {
+    "id": "e-earnings",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "earnings",
+    "pronunciation": "ˈɜ:nɪŋz",
+    "meaning": [
+      "zarobki"
+    ]
+  },
+  {
+    "id": "e-earphone",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "earphone",
+    "pronunciation": "ˈɪəfəʊn",
+    "meaning": [
+      "słuchawka"
+    ]
+  },
+  {
+    "id": "e-earplug",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "earplug",
+    "pronunciation": "ˈɪəplʌg",
+    "meaning": [
+      "zatyczka do ucha"
+    ]
+  },
+  {
+    "id": "e-earring",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "earring",
+    "pronunciation": "ˈɪərɪŋ",
+    "meaning": [
+      "kolczyk"
+    ]
+  },
+  {
+    "id": "e-earshot",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "earshot",
+    "pronunciation": "ˈɪəʃɒt",
+    "meaning": []
+  },
+  {
+    "id": "e-earsplitting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "earsplitting",
+    "pronunciation": "ˈɪəsplɪtɪŋ",
+    "meaning": [
+      "rozdzierający uszy"
+    ]
+  },
+  {
+    "id": "e-earthen",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "earthen",
+    "pronunciation": "ˈɜ:θən",
+    "meaning": [
+      "gliniany",
+      "ziemny"
+    ]
+  },
+  {
+    "id": "e-earthenware",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "earthenware",
+    "pronunciation": "ˈɜ:θənweə",
+    "meaning": [
+      "gliniany",
+      "wyroby gliniane"
+    ]
+  },
+  {
+    "id": "e-earthly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "earthly",
+    "pronunciation": "ˈɜ:θlɪ",
+    "meaning": [
+      "ziemski"
+    ]
+  },
+  {
+    "id": "e-earthquake",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "earthquake",
+    "pronunciation": "ˈɜ:θkweɪk",
+    "meaning": [
+      "trzęsienie ziemi"
+    ]
+  },
+  {
+    "id": "e-earthworm",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "earthworm",
+    "pronunciation": "ˈə:θwɜ:m",
+    "meaning": [
+      "dżdżownica"
+    ]
+  },
+  {
+    "id": "e-earthy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "earthy",
+    "pronunciation": "ˈɜ:θɪ",
+    "meaning": [
+      "bezwstydny",
+      "rubaszny",
+      "ziemisty"
+    ]
+  },
+  {
+    "id": "e-ease",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ease",
+    "pronunciation": "i:z",
+    "meaning": [
+      "łatwość",
+      "dostatek",
+      "łagodzić",
+      "załagadzać",
+      "słabnąć",
+      "zmniejszać się",
+      "zmniejszać",
+      "postępować delikatnie",
+      "postępować ostrożnie",
+      "postępować łagodnie"
+    ]
+  },
+  {
+    "id": "e-easel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "easel",
+    "pronunciation": "ˈi:zəl",
+    "meaning": [
+      "sztalugi"
+    ]
+  },
+  {
+    "id": "e-easily",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "easily",
+    "pronunciation": "ˈi:zɪlɪ",
+    "meaning": [
+      "łatwo",
+      "z pewnością"
+    ]
+  },
+  {
+    "id": "e-east",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "east",
+    "pronunciation": "i:st",
+    "meaning": [
+      "wschód",
+      "wschodni",
+      "na wschód"
+    ]
+  },
+  {
+    "id": "e-Easter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Easter",
+    "pronunciation": "ˈi:stə",
+    "meaning": [
+      "Wielkanoc",
+      "jajko wielkanocne"
+    ]
+  },
+  {
+    "id": "e-easterly",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "easterly",
+    "pronunciation": "ˈi:stəlɪ",
+    "meaning": [
+      "wschodni",
+      "wysunięty na wschód"
+    ]
+  },
+  {
+    "id": "e-eastern",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "eastern",
+    "pronunciation": "ˈi:stən",
+    "meaning": [
+      "wschodni"
+    ]
+  },
+  {
+    "id": "e-eastward",
+    "level": "B1",
+    "partOfSpeech": [
+      "adverb",
+      "adjective"
+    ],
+    "word": "eastward",
+    "pronunciation": "ˈi:stwəd",
+    "meaning": [
+      "na wschód",
+      "wschodni"
+    ]
+  },
+  {
+    "id": "e-easy",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "easy",
+    "pronunciation": "ˈi:zɪ",
+    "meaning": [
+      "łatwy",
+      "łatwo",
+      "swobodny",
+      "na luzie",
+      "fotel"
+    ]
+  },
+  {
+    "id": "e-easy-going",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "easy-going",
+    "pronunciation": "ˈi:zɪˌgɔɪŋ",
+    "meaning": [
+      "spokojny",
+      "łagodny"
+    ]
+  },
+  {
+    "id": "e-eat",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "eat",
+    "pronunciation": "i:t",
+    "meaning": [
+      "jeść",
+      "żreć",
+      "wyżerać",
+      "wżerać się w",
+      "jeść na mieście",
+      "zjadać",
+      "wyjadać do końca",
+      "wyjadać"
+    ]
+  },
+  {
+    "id": "e-eatable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "eatable",
+    "pronunciation": "ˈi:təbəl",
+    "meaning": [
+      "jadalny"
+    ]
+  },
+  {
+    "id": "e-eater",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "eater",
+    "pronunciation": "ˈi:tə",
+    "meaning": []
+  },
+  {
+    "id": "e-eaves",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "eaves",
+    "pronunciation": "ˈi:vz",
+    "meaning": [
+      "okap domu",
+      "okap"
+    ]
+  },
+  {
+    "id": "e-eavesdrop",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "eavesdrop",
+    "pronunciation": "ˈi:vzdrɒp",
+    "meaning": [
+      "podsłuchiwać"
+    ]
+  },
+  {
+    "id": "e-ebb",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ebb",
+    "pronunciation": "eb",
+    "meaning": [
+      "odpływać",
+      "opadać",
+      "odpływ",
+      "opadanie"
+    ]
+  },
+  {
+    "id": "e-ebony",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "ebony",
+    "pronunciation": "ˈebənɪ",
+    "meaning": [
+      "heban",
+      "hebanowy"
+    ]
+  },
+  {
+    "id": "e-ebullient",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ebullient",
+    "pronunciation": "ɪˈbʌlɪənt",
+    "meaning": [
+      "entuzjastyczny"
+    ]
+  },
+  {
+    "id": "e-EC",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "EC",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Wspólnota Europejska"
+    ]
+  },
+  {
+    "id": "e-eccentric",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "eccentric",
+    "pronunciation": "ɪkˈsentrɪk",
+    "meaning": [
+      "ekscentryczny",
+      "ekscentryk"
+    ]
+  },
+  {
+    "id": "e-ecclesiastical",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ecclesiastical",
+    "pronunciation": "ɪˌkli:zɪˈæstɪkəl",
+    "meaning": [
+      "eklezjastyczny",
+      "kościelny"
+    ]
+  },
+  {
+    "id": "e-echo",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "echo",
+    "pronunciation": "ˈekəʊ",
+    "meaning": [
+      "echo",
+      "odgłos",
+      "odbijać się",
+      "powtarzać jak echo",
+      "powtarzać"
+    ]
+  },
+  {
+    "id": "e-éclair",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "éclair",
+    "pronunciation": "ɪˈkleə",
+    "meaning": [
+      "eklerka"
+    ]
+  },
+  {
+    "id": "e-eclectic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "eclectic",
+    "pronunciation": "ɪˈklektɪk",
+    "meaning": [
+      "eklektyczny"
+    ]
+  },
+  {
+    "id": "e-eclipse",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "eclipse",
+    "pronunciation": "ɪˈklɪps",
+    "meaning": [
+      "zaćmienie",
+      "zmierzch",
+      "upadek",
+      "przesłaniać",
+      "odsuwać w cień"
+    ]
+  },
+  {
+    "id": "e-ecologist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ecologist",
+    "pronunciation": "ɪˈkɒləʤɪst",
+    "meaning": [
+      "ekolog"
+    ]
+  },
+  {
+    "id": "e-ecology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ecology",
+    "pronunciation": "ɪˈkɒləʤɪ",
+    "meaning": [
+      "ekologia"
+    ]
+  },
+  {
+    "id": "e-economic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "economic",
+    "pronunciation": "i:kəˈnɒmɪk",
+    "meaning": [
+      "ekonomiczny",
+      "gospodarczy",
+      "zyskowny",
+      "ekonomia"
+    ]
+  },
+  {
+    "id": "e-economical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "economical",
+    "pronunciation": "i:kəˈnɒmɪkəl",
+    "meaning": [
+      "oszczędny"
+    ]
+  },
+  {
+    "id": "e-economist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "economist",
+    "pronunciation": "i:ˈkɒnəmɪst",
+    "meaning": [
+      "ekonomista"
+    ]
+  },
+  {
+    "id": "e-economize",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "economize",
+    "pronunciation": "i:ˈkɒnəmaɪz",
+    "meaning": [
+      "oszczędzać"
+    ]
+  },
+  {
+    "id": "e-economy",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "economy",
+    "pronunciation": "i:ˈkɒnəmɪ",
+    "meaning": [
+      "gospodarka",
+      "ekonomia",
+      "oszczędność",
+      "oszczędny",
+      "tani"
+    ]
+  },
+  {
+    "id": "e-ecstasy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ecstasy",
+    "pronunciation": "ˈekstəsɪ",
+    "meaning": [
+      "ekstaza",
+      "zachwyt"
+    ]
+  },
+  {
+    "id": "e-ecstatic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ecstatic",
+    "pronunciation": "ɪksˈtætɪk",
+    "meaning": [
+      "ekstatyczny"
+    ]
+  },
+  {
+    "id": "e-ecumenical",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ecumenical",
+    "pronunciation": "ˌi:kju:ˈmenɪkəl",
+    "meaning": [
+      "ekumeniczny"
+    ]
+  },
+  {
+    "id": "e-ecumenism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ecumenism",
+    "pronunciation": "ɪˈkju:mənɪzəm",
+    "meaning": [
+      "ekumenizm"
+    ]
+  },
+  {
+    "id": "e-eczema",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "eczema",
+    "pronunciation": "ˈekzɪmə",
+    "meaning": [
+      "egzema"
+    ]
+  },
+  {
+    "id": "e-eddy",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "eddy",
+    "pronunciation": "ˈedɪ",
+    "meaning": [
+      "wirować",
+      "wir"
+    ]
+  },
+  {
+    "id": "e-edge",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "edge",
+    "pronunciation": "eʤ",
+    "meaning": [
+      "krawędź",
+      "brzeg",
+      "ostrze",
+      "ostry ton",
+      "zła nuta",
+      "przewaga",
+      "obramować",
+      "tworzyć ramy powoli",
+      "tworzyć ramy",
+      "sunąć powoli",
+      "odsuwać się powoli",
+      "odsuwać się"
+    ]
+  },
+  {
+    "id": "e-edgeways",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "edgeways",
+    "pronunciation": "ˈeʤweɪz",
+    "meaning": [
+      "ku krawędzi"
+    ]
+  },
+  {
+    "id": "e-edging",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "edging",
+    "pronunciation": "ˈeʤɪŋ",
+    "meaning": [
+      "obramowanie",
+      "obszycie"
+    ]
+  },
+  {
+    "id": "e-edgy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "edgy",
+    "pronunciation": "ˈeʤɪ",
+    "meaning": [
+      "drażliwy"
+    ]
+  },
+  {
+    "id": "e-edible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "edible",
+    "pronunciation": "ˈedɪbəl",
+    "meaning": [
+      "jadalny"
+    ]
+  },
+  {
+    "id": "e-edict",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "edict",
+    "pronunciation": "ˈi:dɪct",
+    "meaning": [
+      "edykt",
+      "rozporządzenie"
+    ]
+  },
+  {
+    "id": "e-edifice",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "edifice",
+    "pronunciation": "ˈedɪfɪs",
+    "meaning": [
+      "budynek",
+      "gmach",
+      "struktura"
+    ]
+  },
+  {
+    "id": "e-edify",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "edify",
+    "pronunciation": "ˈedɪfaɪ",
+    "meaning": [
+      "pouczać",
+      "działać budująco"
+    ]
+  },
+  {
+    "id": "e-Edinburgh",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Edinburgh",
+    "pronunciation": "ˈedɪnbeə",
+    "meaning": [
+      "Edynburg"
+    ]
+  },
+  {
+    "id": "e-edit",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "edit",
+    "pronunciation": "ˈedɪt",
+    "meaning": [
+      "redagować",
+      "montować"
+    ]
+  },
+  {
+    "id": "e-edit.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "edit.",
+    "pronunciation": "/ˈedɪt/",
+    "meaning": [
+      "wyd.",
+      "wydanie",
+      "red.",
+      "redaktor"
+    ]
+  },
+  {
+    "id": "e-edition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "edition",
+    "pronunciation": "ɪˈdɪʃən",
+    "meaning": [
+      "wydanie"
+    ]
+  },
+  {
+    "id": "e-editor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "editor",
+    "pronunciation": "ˈedɪtə",
+    "meaning": [
+      "redaktor naczelny",
+      "redaktor",
+      "montażysta"
+    ]
+  },
+  {
+    "id": "e-editorial",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "editorial",
+    "pronunciation": "ˌedɪˈtɔ:rɪəl",
+    "meaning": [
+      "redakcyjny",
+      "artykuł wstępny od redakcji",
+      "artykuł wstępny"
+    ]
+  },
+  {
+    "id": "e-editorship",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "editorship",
+    "pronunciation": "ˈedɪtəʃɪp",
+    "meaning": [
+      "redakcja",
+      "redagowanie"
+    ]
+  },
+  {
+    "id": "e-EDP",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "EDP",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "elektroniczne opracowanie danych"
+    ]
+  },
+  {
+    "id": "e-educ.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "educ.",
+    "pronunciation": "/ˈedjuː/",
+    "meaning": [
+      "wykształcenie"
+    ]
+  },
+  {
+    "id": "e-educate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "educate",
+    "pronunciation": "ˈedjəkeɪt",
+    "meaning": [
+      "kształcić",
+      "pouczać",
+      "informować"
+    ]
+  },
+  {
+    "id": "e-education",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "education",
+    "pronunciation": "ˌedjəˈkeɪʃən",
+    "meaning": [
+      "szkolnictwo",
+      "wykształcenie"
+    ]
+  },
+  {
+    "id": "e-educational",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "educational",
+    "pronunciation": "ˌedjəˈkeɪʃənəl",
+    "meaning": [
+      "edukacyjny"
+    ]
+  },
+  {
+    "id": "e-educationalist",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "educationalist",
+    "pronunciation": "ˌedjəˈkeɪʃənəlɪst",
+    "meaning": [
+      "metodyk"
+    ]
+  },
+  {
+    "id": "e-educator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "educator",
+    "pronunciation": "ˈedjəkeɪtə",
+    "meaning": [
+      "wychowawca",
+      "nauczyciel"
+    ]
+  },
+  {
+    "id": "e-EEC",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "EEC",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "EWG Europejska Wspólnota Gospodarcza",
+      "EWG"
+    ]
+  },
+  {
+    "id": "e-eel",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "eel",
+    "pronunciation": "i:l",
+    "meaning": [
+      "węgorz"
+    ]
+  },
+  {
+    "id": "e-eerie",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "eerie",
+    "pronunciation": "ˈɪərɪ",
+    "meaning": [
+      "niesamowity",
+      "dziwny"
+    ]
+  },
+  {
+    "id": "e-efface",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "efface",
+    "pronunciation": "ɪˈfeɪs",
+    "meaning": [
+      "wymazywać",
+      "ścierać"
+    ]
+  },
+  {
+    "id": "e-effect",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "effect",
+    "pronunciation": "ɪˈfekt",
+    "meaning": [
+      "skutek",
+      "rezultat",
+      "efekt",
+      "wpływ",
+      "wpływać",
+      "powodować"
+    ]
+  },
+  {
+    "id": "e-effective",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "effective",
+    "pronunciation": "ɪˈfektɪv",
+    "meaning": [
+      "efektywny",
+      "faktyczny",
+      "rzeczywisty",
+      "obowiązujący",
+      "ważny"
+    ]
+  },
+  {
+    "id": "e-effeminate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "effeminate",
+    "pronunciation": "ɪˈfemɪnət",
+    "meaning": [
+      "zniewieściały"
+    ]
+  },
+  {
+    "id": "e-efficient",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "efficient",
+    "pronunciation": "ɪˈfɪʃənt",
+    "meaning": [
+      "wydajny",
+      "efektywny"
+    ]
+  },
+  {
+    "id": "e-effigy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "effigy",
+    "pronunciation": "ˈefɪʤɪ",
+    "meaning": [
+      "wizerunek",
+      "statua"
+    ]
+  },
+  {
+    "id": "e-effluent",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "effluent",
+    "pronunciation": "ˈeflʊənt",
+    "meaning": [
+      "ściek"
+    ]
+  },
+  {
+    "id": "e-effort",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "effort",
+    "pronunciation": "ˈefət",
+    "meaning": [
+      "wysiłek",
+      "dokonanie",
+      "wyczyn"
+    ]
+  },
+  {
+    "id": "e-effortless",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "effortless",
+    "pronunciation": "ˈefətlɪs",
+    "meaning": [
+      "bez wysiłku"
+    ]
+  },
+  {
+    "id": "e-effrontery",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "effrontery",
+    "pronunciation": "ɪˈfrʌntərɪ",
+    "meaning": [
+      "bezczelność",
+      "grubiaństwo"
+    ]
+  },
+  {
+    "id": "e-EFL",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "EFL",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "angielski jako język obcy"
+    ]
+  },
+  {
+    "id": "e-EFTA",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "EFTA",
+    "pronunciation": "ˈeftə",
+    "meaning": [
+      "Europejskie Stowarzyszenie Wolnego Handlu"
+    ]
+  },
+  {
+    "id": "e-egalitarian",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "egalitarian",
+    "pronunciation": "ɪˌgælɪˈteərɪən",
+    "meaning": [
+      "egalitarny"
+    ]
+  },
+  {
+    "id": "e-egg",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "egg",
+    "pronunciation": "eg",
+    "meaning": [
+      "jajko",
+      "podbechtywać",
+      "podjudzać"
+    ]
+  },
+  {
+    "id": "e-eggcup",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eggcup",
+    "pronunciation": "ˈegkʌp",
+    "meaning": [
+      "kieliszek do jajek"
+    ]
+  },
+  {
+    "id": "e-egghead",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "egghead",
+    "pronunciation": "ˈeghed",
+    "meaning": [
+      "jajogłowy"
+    ]
+  },
+  {
+    "id": "e-eggplant",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eggplant",
+    "pronunciation": "ˈegplɑ:nt",
+    "meaning": [
+      "bakłażan"
+    ]
+  },
+  {
+    "id": "e-eggshell",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eggshell",
+    "pronunciation": "ˈegʃel",
+    "meaning": [
+      "skorupka jajka",
+      "skorupka"
+    ]
+  },
+  {
+    "id": "e-egoist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "egoist",
+    "pronunciation": "ˈi:gəʊɪst",
+    "meaning": [
+      "egoistyczny"
+    ]
+  },
+  {
+    "id": "e-egoistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "egoistic",
+    "pronunciation": "ˌi:gəʊˈɪstɪk(əl)",
+    "meaning": [
+      "egoistyczny"
+    ]
+  },
+  {
+    "id": "e-Egypt",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Egypt",
+    "pronunciation": "ˈi:ʤɪpt",
+    "meaning": [
+      "Egipt"
+    ]
+  },
+  {
+    "id": "e-Egyptian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Egyptian",
+    "pronunciation": "ɪˈʤɪpʃən",
+    "meaning": [
+      "egipski",
+      "Egipcjanin"
+    ]
+  },
+  {
+    "id": "e-eh",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "eh",
+    "pronunciation": "eɪ",
+    "meaning": [
+      "co?",
+      "nie?",
+      "e?",
+      "jak?"
+    ]
+  },
+  {
+    "id": "e-eiderdown",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "eiderdown",
+    "pronunciation": "ˈaɪdədaʊn",
+    "meaning": [
+      "pierzyna"
+    ]
+  },
+  {
+    "id": "e-eight",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "eight",
+    "pronunciation": "ˈeɪt",
+    "meaning": [
+      "osiem"
+    ]
+  },
+  {
+    "id": "e-eighteen",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "eighteen",
+    "pronunciation": "eɪˈti:n",
+    "meaning": [
+      "osiemnaście"
+    ]
+  },
+  {
+    "id": "e-eighteenth",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "eighteenth",
+    "pronunciation": "eɪˈti:nθ",
+    "meaning": [
+      "osiemnasty"
+    ]
+  },
+  {
+    "id": "e-eighth",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "eighth",
+    "pronunciation": "ˈeɪtθ",
+    "meaning": [
+      "ósmy"
+    ]
+  },
+  {
+    "id": "e-eightieth",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "eightieth",
+    "pronunciation": "ˈeɪtɪθ",
+    "meaning": [
+      "osiemdziesiąty"
+    ]
+  },
+  {
+    "id": "e-eighty",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "eighty",
+    "pronunciation": "ˈeɪtɪ",
+    "meaning": [
+      "osiemdziesiąt"
+    ]
+  },
+  {
+    "id": "e-Eire",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Eire",
+    "pronunciation": "ˈeərə",
+    "meaning": [
+      "Irlandia Republika Irlandzka",
+      "Irlandia"
+    ]
+  },
+  {
+    "id": "e-either",
+    "level": "B1",
+    "partOfSpeech": [
+      "determiner",
+      "pronoun",
+      "adverb"
+    ],
+    "word": "either",
+    "pronunciation": "/ˈaɪðə/",
+    "meaning": [
+      "jeden z dwóch",
+      "jeden",
+      "któryś",
+      "każdy",
+      "jakikolwiek",
+      "żaden",
+      "także",
+      "też",
+      "oba"
+    ]
+  },
+  {
+    "id": "e-eject",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "eject",
+    "pronunciation": "ɪˈʤekt",
+    "meaning": [
+      "wyrzucać",
+      "usuwać"
+    ]
+  },
+  {
+    "id": "e-eke_out",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "eke out",
+    "pronunciation": "i:k ˈaʊt",
+    "meaning": [
+      "podtrzymywać",
+      "uzupełniać",
+      "ledwo zarabiać"
+    ]
+  },
+  {
+    "id": "e-elaborate",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "elaborate",
+    "pronunciation": "/ɪˈlæbərət/",
+    "meaning": [
+      "skomplikowany",
+      "rozszerzać",
+      "uzupełniać",
+      "opracowywać w szczegółach",
+      "opracowywać"
+    ]
+  },
+  {
+    "id": "e-elapse",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "elapse",
+    "pronunciation": "ɪˈlæps",
+    "meaning": [
+      "upływać"
+    ]
+  },
+  {
+    "id": "e-elastic",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "elastic",
+    "pronunciation": "ɪˈlæstɪk",
+    "meaning": [
+      "guma",
+      "elastyczny"
+    ]
+  },
+  {
+    "id": "e-elated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "elated",
+    "pronunciation": "ɪˈleɪtɪd",
+    "meaning": [
+      "podniecony"
+    ]
+  },
+  {
+    "id": "e-elation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "elation",
+    "pronunciation": "ɪˈleɪʃən",
+    "meaning": [
+      "podniecenie",
+      "uniesienie"
+    ]
+  },
+  {
+    "id": "e-elbow",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "elbow",
+    "pronunciation": "ˈelbəʊ",
+    "meaning": [
+      "łokieć"
+    ]
+  },
+  {
+    "id": "e-elder",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "elder",
+    "pronunciation": "ˈeldə",
+    "meaning": [
+      "starszy",
+      "starsi",
+      "starszyzna",
+      "starcy",
+      "bez czarny",
+      "bez"
+    ]
+  },
+  {
+    "id": "e-elderly",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "elderly",
+    "pronunciation": "ˈeldəlɪ",
+    "meaning": [
+      "starszy",
+      "starsi",
+      "starodawny"
+    ]
+  },
+  {
+    "id": "e-eldest",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "eldest",
+    "pronunciation": "ˈeldɪst",
+    "meaning": [
+      "najstarszy"
+    ]
+  },
+  {
+    "id": "e-elect",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "elect",
+    "pronunciation": "ɪˈlekt",
+    "meaning": [
+      "wybierać",
+      "chcieć"
+    ]
+  },
+  {
+    "id": "e-election",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "election",
+    "pronunciation": "ɪˈlekʃən",
+    "meaning": [
+      "wybory",
+      "wybór"
+    ]
+  },
+  {
+    "id": "e-elector",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "elector",
+    "pronunciation": "ɪˈlektə",
+    "meaning": [
+      "wyborca"
+    ]
+  },
+  {
+    "id": "e-electoral",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "electoral",
+    "pronunciation": "ɪˈlektərəl",
+    "meaning": [
+      "wyborczy"
+    ]
+  },
+  {
+    "id": "e-electorate",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "electorate",
+    "pronunciation": "ɪˈlektərət",
+    "meaning": [
+      "elektorat"
+    ]
+  },
+  {
+    "id": "e-electric",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "electric",
+    "pronunciation": "ɪˈlektrɪk",
+    "meaning": [
+      "elektryczny",
+      "naelektryzowany",
+      "krzesło elektryczne",
+      "wstrząs elektryczny",
+      "porażenie prądem"
+    ]
+  },
+  {
+    "id": "e-electrical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "electrical",
+    "pronunciation": "ɪˈlektrɪkəl",
+    "meaning": [
+      "elektryczny",
+      "energetyczny"
+    ]
+  },
+  {
+    "id": "e-electrician",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "electrician",
+    "pronunciation": "ɪˌlekˈtrɪʃən",
+    "meaning": [
+      "elektryk"
+    ]
+  },
+  {
+    "id": "e-electricity",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "electricity",
+    "pronunciation": "ɪˌlekˈtrɪsɪtɪ",
+    "meaning": [
+      "elektryczność"
+    ]
+  },
+  {
+    "id": "e-electrify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "electrify",
+    "pronunciation": "ɪˈlektrɪfaɪ",
+    "meaning": [
+      "elektryzować",
+      "elektryfikować"
+    ]
+  },
+  {
+    "id": "e-electrocute",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "electrocute",
+    "pronunciation": "ɪˈlektrəkju:t",
+    "meaning": [
+      "śmiertelnie porazić prądem"
+    ]
+  },
+  {
+    "id": "e-electrode",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "electrode",
+    "pronunciation": "ɪˈlektrəʊd",
+    "meaning": [
+      "elektroda"
+    ]
+  },
+  {
+    "id": "e-electron",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "electron",
+    "pronunciation": "ɪˈlektrɒn",
+    "meaning": [
+      "elektron"
+    ]
+  },
+  {
+    "id": "e-electronic",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "electronic",
+    "pronunciation": "ɪlekˈtrɒnɪk",
+    "meaning": [
+      "elektroniczny",
+      "poczta elektroniczna"
+    ]
+  },
+  {
+    "id": "e-electronics",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "electronics",
+    "pronunciation": "ɪlekˈtrɒnɪks",
+    "meaning": [
+      "elektronika",
+      "sprzęt elektroniczny"
+    ]
+  },
+  {
+    "id": "e-elegant",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "elegant",
+    "pronunciation": "ˈelɪgənt",
+    "meaning": [
+      "elegancki",
+      "wytworny"
+    ]
+  },
+  {
+    "id": "e-elegy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "elegy",
+    "pronunciation": "ˈeləʤɪ",
+    "meaning": [
+      "elegia"
+    ]
+  },
+  {
+    "id": "e-element",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "element",
+    "pronunciation": "ˈeləmənt",
+    "meaning": [
+      "element",
+      "składnik",
+      "podstawy",
+      "ugrupowania",
+      "elementy",
+      "doza",
+      "cień",
+      "pierwiastek",
+      "grzałka",
+      "spirala",
+      "żywioł",
+      "niepogoda"
+    ]
+  },
+  {
+    "id": "e-elemental",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "elemental",
+    "pronunciation": "ˌeləˈmentəl",
+    "meaning": [
+      "żywiołowy",
+      "niepohamowany"
+    ]
+  },
+  {
+    "id": "e-elementary",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "elementary",
+    "pronunciation": "ˌeləˈmentərɪ",
+    "meaning": [
+      "elementarny",
+      "podstawowy"
+    ]
+  },
+  {
+    "id": "e-elephant",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "elephant",
+    "pronunciation": "ˈeləfənt",
+    "meaning": [
+      "słoń"
+    ]
+  },
+  {
+    "id": "e-elevate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "elevate",
+    "pronunciation": "ˈelɪveɪt",
+    "meaning": [
+      "wywyższać",
+      "wynosić",
+      "wznosić",
+      "podnosić"
+    ]
+  },
+  {
+    "id": "e-elevated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "elevated",
+    "pronunciation": "ˈelɪveɪtɪd",
+    "meaning": [
+      "wysoko postawiony",
+      "wzniosły",
+      "podwyższony",
+      "wyniosły"
+    ]
+  },
+  {
+    "id": "e-elevation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "elevation",
+    "pronunciation": "ˌeləˈveɪʃən",
+    "meaning": [
+      "wyniesienie",
+      "wzniesienie",
+      "wysokość"
+    ]
+  },
+  {
+    "id": "e-elevator",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "elevator",
+    "pronunciation": "ˈelɪveɪtə",
+    "meaning": [
+      "winda"
+    ]
+  },
+  {
+    "id": "e-eleven",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "eleven",
+    "pronunciation": "ɪˈlevən",
+    "meaning": [
+      "jedenaście"
+    ]
+  },
+  {
+    "id": "e-eleventh",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "eleventh",
+    "pronunciation": "ɪˈlevənθ",
+    "meaning": [
+      "jedenasty"
+    ]
+  },
+  {
+    "id": "e-elf",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "elf",
+    "pronunciation": "elf",
+    "meaning": [
+      "elf",
+      "krasnoludek"
+    ]
+  },
+  {
+    "id": "e-elicit",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "elicit",
+    "pronunciation": "ɪˈlɪsɪt",
+    "meaning": [
+      "wywoływać",
+      "wydobywać"
+    ]
+  },
+  {
+    "id": "e-eligible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "eligible",
+    "pronunciation": "ˈelɪʤəbəl",
+    "meaning": [
+      "kwalifikujący się",
+      "nadający się do małżeństwa"
+    ]
+  },
+  {
+    "id": "e-eliminate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "eliminate",
+    "pronunciation": "ɪˈlɪmɪneɪt",
+    "meaning": [
+      "eliminować",
+      "usuwać"
+    ]
+  },
+  {
+    "id": "e-elite",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "elite",
+    "pronunciation": "ɪˈli:t",
+    "meaning": [
+      "elita",
+      "elitarny"
+    ]
+  },
+  {
+    "id": "e-elitism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "elitism",
+    "pronunciation": "ɪˈli:tɪzəm",
+    "meaning": [
+      "elitarność"
+    ]
+  },
+  {
+    "id": "e-elixir",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "elixir",
+    "pronunciation": "ɪˈlɪksɪə",
+    "meaning": [
+      "eliksir"
+    ]
+  },
+  {
+    "id": "e-elk",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "elk",
+    "pronunciation": "elk",
+    "meaning": [
+      "łoś",
+      "wapiti"
+    ]
+  },
+  {
+    "id": "e-ellipse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ellipse",
+    "pronunciation": "ɪˈlɪps",
+    "meaning": [
+      "elipsa"
+    ]
+  },
+  {
+    "id": "e-elliptic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "elliptic",
+    "pronunciation": "ɪˈlɪptɪk(əl)",
+    "meaning": [
+      "eliptyczny"
+    ]
+  },
+  {
+    "id": "e-elm",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "elm",
+    "pronunciation": "elm",
+    "meaning": [
+      "wiąz"
+    ]
+  },
+  {
+    "id": "e-elocution",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "elocution",
+    "pronunciation": "ˌeləˈkju:ʃən",
+    "meaning": [
+      "dobra wymowa"
+    ]
+  },
+  {
+    "id": "e-elongated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "elongated",
+    "pronunciation": "ˈi:lɒŋgeɪtɪd",
+    "meaning": [
+      "wydłużony"
+    ]
+  },
+  {
+    "id": "e-elope",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "elope",
+    "pronunciation": "ɪˈləʊp",
+    "meaning": [
+      "uciekać, by wziąć ślub",
+      "uciekać"
+    ]
+  },
+  {
+    "id": "e-eloquent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "eloquent",
+    "pronunciation": "ˈeləkwənt",
+    "meaning": [
+      "wymowny",
+      "elokwentny"
+    ]
+  },
+  {
+    "id": "e-else",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "else",
+    "pronunciation": "els",
+    "meaning": [
+      "inny",
+      "jeszcze"
+    ]
+  },
+  {
+    "id": "e-elsewhere",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "elsewhere",
+    "pronunciation": "ˈelsweə",
+    "meaning": [
+      "gdzie indziej",
+      "gdziekolwiek"
+    ]
+  },
+  {
+    "id": "e-elucidate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "elucidate",
+    "pronunciation": "ɪˈlu:sɪdeɪt",
+    "meaning": [
+      "wyjaśniać"
+    ]
+  },
+  {
+    "id": "e-elude",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "elude",
+    "pronunciation": "ɪˈlu:d",
+    "meaning": [
+      "umykać",
+      "unikać"
+    ]
+  },
+  {
+    "id": "e-elusive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "elusive",
+    "pronunciation": "ɪˈlu:sɪv",
+    "meaning": [
+      "nieuchwytny",
+      "trudny do uchwycenia"
+    ]
+  },
+  {
+    "id": "e-emaciated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "emaciated",
+    "pronunciation": "ɪˈmeɪʃɪeɪtɪd",
+    "meaning": [
+      "wychudzony",
+      "wyniszczony"
+    ]
+  },
+  {
+    "id": "e-E-mail",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "E-mail",
+    "pronunciation": "ˈi:meɪl",
+    "meaning": [
+      "poczta elektroniczna"
+    ]
+  },
+  {
+    "id": "e-emanate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "emanate",
+    "pronunciation": "ˈeməneɪt",
+    "meaning": [
+      "emanować",
+      "wypływać",
+      "pochodzić"
+    ]
+  },
+  {
+    "id": "e-emancipate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "emancipate",
+    "pronunciation": "ɪˈmænsɪpeɪt",
+    "meaning": [
+      "emancypować"
+    ]
+  },
+  {
+    "id": "e-emancipation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "emancipation",
+    "pronunciation": "ɪˌmænsɪˈpeɪʃən",
+    "meaning": [
+      "emancypacja"
+    ]
+  },
+  {
+    "id": "e-embalm",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "embalm",
+    "pronunciation": "ɪmˈbɑ:m",
+    "meaning": [
+      "balsamować"
+    ]
+  },
+  {
+    "id": "e-embankment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "embankment",
+    "pronunciation": "ɪmˈbæŋkmənt",
+    "meaning": [
+      "nasyp",
+      "nabrzeże"
+    ]
+  },
+  {
+    "id": "e-embargo",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "embargo",
+    "pronunciation": "ɪmˈbɑ:gəʊ",
+    "meaning": [
+      "embargo",
+      "nakładać embargo"
+    ]
+  },
+  {
+    "id": "e-embark",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "embark",
+    "pronunciation": "ɪmˈbɑ:k",
+    "meaning": [
+      "zaczynać",
+      "puszczać się",
+      "wsiadać",
+      "wchodzić"
+    ]
+  },
+  {
+    "id": "e-embarrass",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "embarrass",
+    "pronunciation": "ɪmˈbærəs",
+    "meaning": [
+      "kłopotać",
+      "zawstydzać",
+      "stwarzać problemy",
+      "stwarzać kłopoty"
+    ]
+  },
+  {
+    "id": "e-embarrassed",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "embarrassed",
+    "pronunciation": "ɪmˈbærəst",
+    "meaning": [
+      "zakłopotany"
+    ]
+  },
+  {
+    "id": "e-embarrassing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "embarrassing",
+    "pronunciation": "ɪmˈbærəsɪŋ",
+    "meaning": [
+      "kłopotliwy",
+      "krępujący"
+    ]
+  },
+  {
+    "id": "e-embarrassment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "embarrassment",
+    "pronunciation": "ɪmˈbærəsmənt",
+    "meaning": [
+      "zakłopotanie",
+      "skrępowanie",
+      "kłopot",
+      "powód skrępowania"
+    ]
+  },
+  {
+    "id": "e-embassy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "embassy",
+    "pronunciation": "ˈembəsɪ",
+    "meaning": [
+      "ambasada"
+    ]
+  },
+  {
+    "id": "e-embattled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "embattled",
+    "pronunciation": "ɪmˈbætəld",
+    "meaning": [
+      "osaczony"
+    ]
+  },
+  {
+    "id": "e-embedded",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "embedded",
+    "pronunciation": "ɪmˈbedɪd",
+    "meaning": [
+      "uwięzły",
+      "zakorzeniony"
+    ]
+  },
+  {
+    "id": "e-embellish",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "embellish",
+    "pronunciation": "ɪmˈbelɪʃ",
+    "meaning": [
+      "upiększać",
+      "przystrajać"
+    ]
+  },
+  {
+    "id": "e-ember",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ember",
+    "pronunciation": "ˈembə",
+    "meaning": [
+      "żar",
+      "niewygasły węgiel",
+      "niewygasły drewno"
+    ]
+  },
+  {
+    "id": "e-embezzle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "embezzle",
+    "pronunciation": "ɪmˈbezəl",
+    "meaning": [
+      "sprzeniewierzać",
+      "przywłaszczać"
+    ]
+  },
+  {
+    "id": "e-embitter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "embitter",
+    "pronunciation": "ɪmˈbɪtə",
+    "meaning": [
+      "gorzknieć"
+    ]
+  },
+  {
+    "id": "e-emblazoned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "emblazoned",
+    "pronunciation": "ɪmˈbleɪzənd",
+    "meaning": [
+      "ozdobiony",
+      "uwidoczniony"
+    ]
+  },
+  {
+    "id": "e-emblem",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "emblem",
+    "pronunciation": "ˈembləm",
+    "meaning": [
+      "godło",
+      "oznaka"
+    ]
+  },
+  {
+    "id": "e-embodiment",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "embodiment",
+    "pronunciation": "ɪmˈbɒdəmənt",
+    "meaning": [
+      "uosobienie"
+    ]
+  },
+  {
+    "id": "e-embody",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "embody",
+    "pronunciation": "ɪmˈbɒdɪ",
+    "meaning": [
+      "ucieleśniać",
+      "włączać",
+      "uwzględniać"
+    ]
+  },
+  {
+    "id": "e-emboldened",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "emboldened",
+    "pronunciation": "ɪmˈbəʊldənd",
+    "meaning": [
+      "ośmielony"
+    ]
+  },
+  {
+    "id": "e-embossed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "embossed",
+    "pronunciation": "ɪmˈbɒst",
+    "meaning": [
+      "tłoczony"
+    ]
+  },
+  {
+    "id": "e-embrace",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "embrace",
+    "pronunciation": "ɪmˈbreɪs",
+    "meaning": [
+      "obejmować",
+      "ściskać",
+      "uścisk",
+      "zawierać",
+      "przystawać"
+    ]
+  },
+  {
+    "id": "e-embroider",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "embroider",
+    "pronunciation": "ɪmˈbrɔɪdə",
+    "meaning": [
+      "wyszywać",
+      "haftować"
+    ]
+  },
+  {
+    "id": "e-embroidery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "embroidery",
+    "pronunciation": "ɪmˈbrɔɪdərɪ",
+    "meaning": [
+      "wyszywanie",
+      "haftowanie",
+      "haft",
+      "ornament"
+    ]
+  },
+  {
+    "id": "e-embroil",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "embroil",
+    "pronunciation": "ɪmˈbrɔɪl",
+    "meaning": [
+      "wdawać się"
+    ]
+  },
+  {
+    "id": "e-embryo",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "embryo",
+    "pronunciation": "ˈembrɪəʊ",
+    "meaning": [
+      "embrion",
+      "zarodek"
+    ]
+  },
+  {
+    "id": "e-embryonic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "embryonic",
+    "pronunciation": "ˌembrɪˈɒnɪk",
+    "meaning": [
+      "zarodkowy",
+      "embrionalny"
+    ]
+  },
+  {
+    "id": "e-emerald",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "emerald",
+    "pronunciation": "ˈemərəld",
+    "meaning": [
+      "szmaragd",
+      "szmaragdowy"
+    ]
+  },
+  {
+    "id": "e-emerge",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "emerge",
+    "pronunciation": "ɪˈmɜ:ʤ",
+    "meaning": [
+      "wyłaniać się",
+      "wychodzić",
+      "pojawiać się"
+    ]
+  },
+  {
+    "id": "e-emergency",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "emergency",
+    "pronunciation": "ɪˈmɜ:ʤənsɪ",
+    "meaning": [
+      "nagły wypadek",
+      "wypadek",
+      "przymusowy",
+      "ratowniczy",
+      "ratunkowy"
+    ]
+  },
+  {
+    "id": "e-emergent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "emergent",
+    "pronunciation": "ɪˈmɜ:ʤənt",
+    "meaning": [
+      "pojawiający się",
+      "wyłaniający się"
+    ]
+  },
+  {
+    "id": "e-emigrate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "emigrate",
+    "pronunciation": "ˈemɪgreɪt",
+    "meaning": [
+      "emigrować"
+    ]
+  },
+  {
+    "id": "e-emigration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "emigration",
+    "pronunciation": "ˌemɪˈgreɪʃən",
+    "meaning": [
+      "emigracja"
+    ]
+  },
+  {
+    "id": "e-émigré",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "émigré",
+    "pronunciation": "ˈemɪgreɪ",
+    "meaning": [
+      "emigrant polityczny",
+      "emigrant",
+      "uchodźca"
+    ]
+  },
+  {
+    "id": "e-eminence",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "eminence",
+    "pronunciation": "ˈemɪnəns",
+    "meaning": [
+      "znakomitość",
+      "eminencja"
+    ]
+  },
+  {
+    "id": "e-eminent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "eminent",
+    "pronunciation": "ˈemɪnənt",
+    "meaning": [
+      "wybitny"
+    ]
+  },
+  {
+    "id": "e-eminently",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "eminently",
+    "pronunciation": "ˈemɪnəntlɪ",
+    "meaning": [
+      "w większości",
+      "przeważnie"
+    ]
+  },
+  {
+    "id": "e-emissary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "emissary",
+    "pronunciation": "ˈemɪsərɪ",
+    "meaning": [
+      "emisariusz"
+    ]
+  },
+  {
+    "id": "e-emission",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "emission",
+    "pronunciation": "ɪˈmɪʃən",
+    "meaning": [
+      "emisja",
+      "wydzielanie"
+    ]
+  },
+  {
+    "id": "e-emit",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "emit",
+    "pronunciation": "ɪˈmɪt",
+    "meaning": [
+      "wydzielać",
+      "emitować"
+    ]
+  },
+  {
+    "id": "e-emotion",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "emotion",
+    "pronunciation": "ɪˈməʊʃən",
+    "meaning": [
+      "emocja",
+      "uczucie"
+    ]
+  },
+  {
+    "id": "e-emotional",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "emotional",
+    "pronunciation": "ɪˈməʊʃənəl",
+    "meaning": [
+      "emocjonalny",
+      "uczuciowy"
+    ]
+  },
+  {
+    "id": "e-emotive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "emotive",
+    "pronunciation": "ɪˈməʊtɪv",
+    "meaning": [
+      "odwołujący się do uczuć"
+    ]
+  },
+  {
+    "id": "e-Emp.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Emp.",
+    "pronunciation": "/ˌiːemˈpiː/",
+    "meaning": [
+      "cesarz",
+      "cesarstwo",
+      "cesarzowa"
+    ]
+  },
+  {
+    "id": "e-empathy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "empathy",
+    "pronunciation": "ˈempəθɪ",
+    "meaning": [
+      "wczucie się",
+      "empatia"
+    ]
+  },
+  {
+    "id": "e-emperor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "emperor",
+    "pronunciation": "ˈempərə",
+    "meaning": [
+      "cesarz",
+      "imperator"
+    ]
+  },
+  {
+    "id": "e-emphasis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "emphasis",
+    "pronunciation": "ˈemfəsɪs",
+    "meaning": [
+      "znaczenie",
+      "nacisk",
+      "akcent",
+      "przycisk"
+    ]
+  },
+  {
+    "id": "e-emphasize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "emphasize",
+    "pronunciation": "ˈemfəsaɪz",
+    "meaning": [
+      "podkreślać",
+      "kłaść nacisk"
+    ]
+  },
+  {
+    "id": "e-emphatic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "emphatic",
+    "pronunciation": "ɪmˈfætɪk",
+    "meaning": [
+      "dobitny",
+      "stanowczy",
+      "emfatyczny",
+      "wyrazisty"
+    ]
+  },
+  {
+    "id": "e-empire",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "empire",
+    "pronunciation": "ˈempaɪə",
+    "meaning": [
+      "imperium",
+      "cesarstwo"
+    ]
+  },
+  {
+    "id": "e-empirical",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "empirical",
+    "pronunciation": "ɪmˈpɪrɪkəl",
+    "meaning": [
+      "empiryczny"
+    ]
+  },
+  {
+    "id": "e-empiricism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "empiricism",
+    "pronunciation": "ɪmˈpɪrɪsɪzəm",
+    "meaning": [
+      "empiria"
+    ]
+  },
+  {
+    "id": "e-employ",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "employ",
+    "pronunciation": "ɪmˈplɔɪ",
+    "meaning": [
+      "zatrudniać",
+      "używać",
+      "posługiwać się"
+    ]
+  },
+  {
+    "id": "e-employee",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "employee",
+    "pronunciation": "ɪmplɔɪˈi:",
+    "meaning": [
+      "pracownik"
+    ]
+  },
+  {
+    "id": "e-employer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "employer",
+    "pronunciation": "ɪmˈplɔɪə",
+    "meaning": [
+      "pracodawca"
+    ]
+  },
+  {
+    "id": "e-employment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "employment",
+    "pronunciation": "ɪmˈplɔɪmənt",
+    "meaning": [
+      "zatrudnienie",
+      "praca"
+    ]
+  },
+  {
+    "id": "e-empower",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "empower",
+    "pronunciation": "ɪmˈpaʊə",
+    "meaning": [
+      "upoważniać",
+      "przyznawać prawo"
+    ]
+  },
+  {
+    "id": "e-empress",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "empress",
+    "pronunciation": "ˈemprɪs",
+    "meaning": [
+      "cesarzowa"
+    ]
+  },
+  {
+    "id": "e-emptiness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "emptiness",
+    "pronunciation": "ˈemtɪnɪs",
+    "meaning": [
+      "pustka"
+    ]
+  },
+  {
+    "id": "e-empty",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "empty",
+    "pronunciation": "ˈemtɪ",
+    "meaning": [
+      "pusty",
+      "opróżniać się",
+      "opróżniać",
+      "usuwać",
+      "wylewać"
+    ]
+  },
+  {
+    "id": "e-empty-handed",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "empty-handed",
+    "pronunciation": "ˌemtɪˈhændɪd",
+    "meaning": [
+      "z pustymi rękoma"
+    ]
+  },
+  {
+    "id": "e-emulate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "emulate",
+    "pronunciation": "ˈemjəleɪt",
+    "meaning": [
+      "naśladować"
+    ]
+  },
+  {
+    "id": "e-enable",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "enable",
+    "pronunciation": "ɪˈneɪbəl",
+    "meaning": [
+      "pozwalać",
+      "umożliwiać"
+    ]
+  },
+  {
+    "id": "e-enact",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enact",
+    "pronunciation": "ɪˈnækt",
+    "meaning": [
+      "nadawać moc prawną",
+      "odgrywać"
+    ]
+  },
+  {
+    "id": "e-enamel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "enamel",
+    "pronunciation": "ɪˈnæməl",
+    "meaning": [
+      "emalia",
+      "szkliwo",
+      "emaliować"
+    ]
+  },
+  {
+    "id": "e-enamoured",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "enamoured",
+    "pronunciation": "ɪˈnæməd",
+    "meaning": [
+      "rozmiłowany"
+    ]
+  },
+  {
+    "id": "e-enc.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "enc.",
+    "pronunciation": "/ɪnˈkləʊz/",
+    "meaning": [
+      "zał.",
+      "załączony",
+      "załącznik"
+    ]
+  },
+  {
+    "id": "e-encapsulate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "encapsulate",
+    "pronunciation": "ɪŋˈkæpsjəleɪt",
+    "meaning": [
+      "zwięźle obejmować"
+    ]
+  },
+  {
+    "id": "e-encase",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "encase",
+    "pronunciation": "ɪŋˈkeɪs",
+    "meaning": [
+      "okrywać",
+      "zamykać"
+    ]
+  },
+  {
+    "id": "e-enchanted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "enchanted",
+    "pronunciation": "ɪnˈʧɑ:ntɪd",
+    "meaning": [
+      "oczarowany",
+      "zaczarowany"
+    ]
+  },
+  {
+    "id": "e-encircle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "encircle",
+    "pronunciation": "ɪnˈsɜ:kəl",
+    "meaning": [
+      "otaczać",
+      "okrążać"
+    ]
+  },
+  {
+    "id": "e-encl.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "encl.",
+    "pronunciation": "/ɪnˈkl/",
+    "meaning": [
+      "zał.",
+      "załączony",
+      "załącznik"
+    ]
+  },
+  {
+    "id": "e-enclave",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "enclave",
+    "pronunciation": "ˈeŋkleɪv",
+    "meaning": [
+      "enklawa"
+    ]
+  },
+  {
+    "id": "e-enclose",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "enclose",
+    "pronunciation": "ɪŋˈkləʊz",
+    "meaning": [
+      "zawierać",
+      "otaczać",
+      "załączać"
+    ]
+  },
+  {
+    "id": "e-enclosure",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "enclosure",
+    "pronunciation": "ɪŋˈkləʊʒə",
+    "meaning": [
+      "ogrodzony teren",
+      "załącznik"
+    ]
+  },
+  {
+    "id": "e-encode",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "encode",
+    "pronunciation": "ɪŋˈkəʊd",
+    "meaning": [
+      "kodować",
+      "szyfrować"
+    ]
+  },
+  {
+    "id": "e-encompass",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "encompass",
+    "pronunciation": "ɪŋˈkʌmpəs",
+    "meaning": [
+      "obejmować"
+    ]
+  },
+  {
+    "id": "e-encore",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "encore",
+    "pronunciation": "ˈɒŋkɔ:",
+    "meaning": [
+      "bis"
+    ]
+  },
+  {
+    "id": "e-encounter",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "encounter",
+    "pronunciation": "ɪŋˈkaʊntə",
+    "meaning": [
+      "napotykać",
+      "doznawać",
+      "spotkanie",
+      "doznanie"
+    ]
+  },
+  {
+    "id": "e-encourage",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "encourage",
+    "pronunciation": "ɪŋˈkʌrɪʤ",
+    "meaning": [
+      "zachęcać",
+      "ośmielać",
+      "popierać"
+    ]
+  },
+  {
+    "id": "e-encouraging",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "encouraging",
+    "pronunciation": "ɪŋˈkʌrəʤɪŋ",
+    "meaning": [
+      "ośmielający",
+      "zachęcający"
+    ]
+  },
+  {
+    "id": "e-encroach",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "encroach",
+    "pronunciation": "ɪŋˈkrəʊʧ",
+    "meaning": [
+      "naruszać",
+      "wedrzeć się",
+      "wtargnąć"
+    ]
+  },
+  {
+    "id": "e-encrusted",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "encrusted",
+    "pronunciation": "ɪŋˈkrʌstɪd",
+    "meaning": [
+      "inkrustowany"
+    ]
+  },
+  {
+    "id": "e-encumber",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "encumber",
+    "pronunciation": "ɪŋˈkʌmbə",
+    "meaning": [
+      "obarczać",
+      "krępować"
+    ]
+  },
+  {
+    "id": "e-encumbrance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "encumbrance",
+    "pronunciation": "ɪŋˈkʌmbrəns",
+    "meaning": [
+      "obciążenie",
+      "skrępowanie"
+    ]
+  },
+  {
+    "id": "e-encyclopedia",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "encyclopedia",
+    "pronunciation": "ɪnˌsaɪkləˈpi:dɪə",
+    "meaning": [
+      "encyklopedia"
+    ]
+  },
+  {
+    "id": "e-end",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "end",
+    "pronunciation": "end",
+    "meaning": [
+      "koniec",
+      "zakończenie",
+      "kres",
+      "cel",
+      "kończyć się",
+      "kończyć"
+    ]
+  },
+  {
+    "id": "e-endanger",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "endanger",
+    "pronunciation": "ɪnˈdeɪnʤə",
+    "meaning": [
+      "zagrażać"
+    ]
+  },
+  {
+    "id": "e-endear",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "endear",
+    "pronunciation": "ɪnˈdɪə",
+    "meaning": [
+      "czynić miłym"
+    ]
+  },
+  {
+    "id": "e-endeavour",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "endeavour",
+    "pronunciation": "ɪnˈdevə",
+    "meaning": [
+      "usiłować",
+      "próbować",
+      "usiłowanie",
+      "wysiłek",
+      "próba"
+    ]
+  },
+  {
+    "id": "e-endemic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "endemic",
+    "pronunciation": "enˈdemɪk",
+    "meaning": [
+      "endemiczny"
+    ]
+  },
+  {
+    "id": "e-ending",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ending",
+    "pronunciation": "ˈendɪŋ",
+    "meaning": [
+      "zakończenie"
+    ]
+  },
+  {
+    "id": "e-endless",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "endless",
+    "pronunciation": "ˈendlɪs",
+    "meaning": [
+      "bezustanny",
+      "nieskończony"
+    ]
+  },
+  {
+    "id": "e-endorse",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "endorse",
+    "pronunciation": "ɪnˈdɔ:s",
+    "meaning": [
+      "popierać",
+      "żyrować"
+    ]
+  },
+  {
+    "id": "e-endow",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "endow",
+    "pronunciation": "ɪnˈdaʊ",
+    "meaning": [
+      "obdarzać",
+      "obdarowywać"
+    ]
+  },
+  {
+    "id": "e-endurable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "endurable",
+    "pronunciation": "ɪnˈdjʊərəbəl",
+    "meaning": [
+      "wytrzymały"
+    ]
+  },
+  {
+    "id": "e-endurance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "endurance",
+    "pronunciation": "ɪnˈdjʊərəns",
+    "meaning": [
+      "wytrzymałość"
+    ]
+  },
+  {
+    "id": "e-endure",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "endure",
+    "pronunciation": "ɪnˈdjʊə",
+    "meaning": [
+      "wytrzymywać",
+      "trwać"
+    ]
+  },
+  {
+    "id": "e-enemy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "enemy",
+    "pronunciation": "ˈenəmɪ",
+    "meaning": [
+      "wróg"
+    ]
+  },
+  {
+    "id": "e-energetic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "energetic",
+    "pronunciation": "ˌenəˈʤetɪk",
+    "meaning": [
+      "energiczny",
+      "dynamiczny"
+    ]
+  },
+  {
+    "id": "e-energy",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "energy",
+    "pronunciation": "ˈenəʤɪ",
+    "meaning": [
+      "energia"
+    ]
+  },
+  {
+    "id": "e-enfold",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enfold",
+    "pronunciation": "ɪnˈfəʊld",
+    "meaning": [
+      "otaczać"
+    ]
+  },
+  {
+    "id": "e-enforce",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enforce",
+    "pronunciation": "ɪnˈfɔ:s",
+    "meaning": [
+      "wprowadzać w życie",
+      "wymuszać"
+    ]
+  },
+  {
+    "id": "e-Eng.",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Eng.",
+    "pronunciation": "/ˈɪŋɡlɪʃ/",
+    "meaning": [
+      "Anglia",
+      "angielski"
+    ]
+  },
+  {
+    "id": "e-eng.",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "eng.",
+    "pronunciation": "/ˈɪŋɡlɪʃ/",
+    "meaning": [
+      "inż.",
+      "inżynier"
+    ]
+  },
+  {
+    "id": "e-engage",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "engage",
+    "pronunciation": "ɪŋˈgeɪʤ",
+    "meaning": [
+      "angażować się",
+      "angażować",
+      "zajmować",
+      "zatrudniać"
+    ]
+  },
+  {
+    "id": "e-engaged",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "engaged",
+    "pronunciation": "ɪŋˈgeɪʤd",
+    "meaning": [
+      "zaręczony",
+      "zajęty"
+    ]
+  },
+  {
+    "id": "e-engagement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "engagement",
+    "pronunciation": "ɪŋˈgeɪʤmənt",
+    "meaning": [
+      "spotkanie",
+      "engagement",
+      "zaręczyny"
+    ]
+  },
+  {
+    "id": "e-engender",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "engender",
+    "pronunciation": "ɪnˈʤendə",
+    "meaning": [
+      "powodować",
+      "rodzić"
+    ]
+  },
+  {
+    "id": "e-engine",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "engine",
+    "pronunciation": "ˈenʤɪn",
+    "meaning": [
+      "silnik",
+      "lokomotywa"
+    ]
+  },
+  {
+    "id": "e-engineering",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "engineering",
+    "pronunciation": "ˌenʤɪˈnɪərɪŋ",
+    "meaning": [
+      "inżynieria"
+    ]
+  },
+  {
+    "id": "e-England",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "England",
+    "pronunciation": "ˈɪŋglənd",
+    "meaning": [
+      "Anglia"
+    ]
+  },
+  {
+    "id": "e-Englander",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Englander",
+    "pronunciation": "ˈɪŋgləndə",
+    "meaning": [
+      "Anglik"
+    ]
+  },
+  {
+    "id": "e-English",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "English",
+    "pronunciation": "ˈɪŋglɪʃ",
+    "meaning": [
+      "angielski",
+      "język angielski",
+      "Anglicy"
+    ]
+  },
+  {
+    "id": "e-Englishman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Englishman",
+    "pronunciation": "ˈɪŋglɪʃmən",
+    "meaning": [
+      "Anglik"
+    ]
+  },
+  {
+    "id": "e-Englishwoman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Englishwoman",
+    "pronunciation": "ˈɪŋglɪʃwʊmən",
+    "meaning": [
+      "Angielka"
+    ]
+  },
+  {
+    "id": "e-engrave",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "engrave",
+    "pronunciation": "ɪŋˈgreɪv",
+    "meaning": [
+      "grawerować",
+      "wryć się"
+    ]
+  },
+  {
+    "id": "e-engraving",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "engraving",
+    "pronunciation": "ɪŋˈgreɪvɪŋ",
+    "meaning": [
+      "rycina",
+      "grafika"
+    ]
+  },
+  {
+    "id": "e-engrossed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "engrossed",
+    "pronunciation": "ɪŋˈgrəʊst",
+    "meaning": [
+      "pogrążony",
+      "zatopiony"
+    ]
+  },
+  {
+    "id": "e-engulf",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "engulf",
+    "pronunciation": "ɪŋˈgʌlf",
+    "meaning": [
+      "ogarniać",
+      "pochłaniać"
+    ]
+  },
+  {
+    "id": "e-enhance",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "enhance",
+    "pronunciation": "ɪnˈhɑ:ns",
+    "meaning": [
+      "polepszać",
+      "zwiększać"
+    ]
+  },
+  {
+    "id": "e-enigma",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "enigma",
+    "pronunciation": "ɪˈnɪgmə",
+    "meaning": [
+      "zagadka"
+    ]
+  },
+  {
+    "id": "e-enigmatic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "enigmatic",
+    "pronunciation": "ˌenɪˈgmætɪk",
+    "meaning": [
+      "enigmatyczny"
+    ]
+  },
+  {
+    "id": "e-enjoy",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "enjoy",
+    "pronunciation": "ɪnˈʤɔɪ",
+    "meaning": [
+      "lubić",
+      "podobać się",
+      "cieszyć się",
+      "mieć"
+    ]
+  },
+  {
+    "id": "e-enjoyable",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "enjoyable",
+    "pronunciation": "ɪnˈʤɔɪəbəl",
+    "meaning": [
+      "przyjemny",
+      "miły"
+    ]
+  },
+  {
+    "id": "e-enjoyment",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "enjoyment",
+    "pronunciation": "ɪnˈʤɔɪmənt",
+    "meaning": [
+      "radość",
+      "przyjemność"
+    ]
+  },
+  {
+    "id": "e-enlargement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "enlargement",
+    "pronunciation": "ɪnˈlɑ:ʤmənt",
+    "meaning": [
+      "powiększenie"
+    ]
+  },
+  {
+    "id": "e-enlighten",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enlighten",
+    "pronunciation": "ɪnˈlaɪtən",
+    "meaning": [
+      "oświecać"
+    ]
+  },
+  {
+    "id": "e-enlightenment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "enlightenment",
+    "pronunciation": "ɪnˈlaɪtənmənt",
+    "meaning": [
+      "oświecenie"
+    ]
+  },
+  {
+    "id": "e-enlist",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "enlist",
+    "pronunciation": "ɪnˈlɪst",
+    "meaning": [
+      "zaciągać się",
+      "zaciągać",
+      "zdobywać"
+    ]
+  },
+  {
+    "id": "e-enliven",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enliven",
+    "pronunciation": "ɪnˈlaɪvən",
+    "meaning": [
+      "ożywiać"
+    ]
+  },
+  {
+    "id": "e-enmity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "enmity",
+    "pronunciation": "ˈenmɪtɪ",
+    "meaning": [
+      "wrogość"
+    ]
+  },
+  {
+    "id": "e-ennoble",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "ennoble",
+    "pronunciation": "ɪˈnəʊbəl",
+    "meaning": [
+      "uszlachetniać"
+    ]
+  },
+  {
+    "id": "e-enormity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "enormity",
+    "pronunciation": "ɪˈnɔ:mɪtɪ",
+    "meaning": [
+      "ogrom"
+    ]
+  },
+  {
+    "id": "e-enormous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "enormous",
+    "pronunciation": "ɪˈnɔ:məs",
+    "meaning": [
+      "gigantyczny",
+      "ogromny"
+    ]
+  },
+  {
+    "id": "e-enough",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "enough",
+    "pronunciation": "ɪˈnʌf",
+    "meaning": [
+      "wystarczająco",
+      "dość"
+    ]
+  },
+  {
+    "id": "e-enrage",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enrage",
+    "pronunciation": "ɪnˈreɪʤ",
+    "meaning": [
+      "rozwścieczać"
+    ]
+  },
+  {
+    "id": "e-enrich",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enrich",
+    "pronunciation": "ɪnˈrɪʧ",
+    "meaning": [
+      "wzbogacać"
+    ]
+  },
+  {
+    "id": "e-enrol",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "enrol",
+    "pronunciation": "ɪnˈrəʊl",
+    "meaning": [
+      "zapisywać się",
+      "zapisywać"
+    ]
+  },
+  {
+    "id": "e-en_route",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "en route",
+    "pronunciation": "ˌɒn ˈru:t",
+    "meaning": [
+      "po drodze",
+      "w drodze"
+    ]
+  },
+  {
+    "id": "e-ensign",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ensign",
+    "pronunciation": "ˈensaɪn",
+    "meaning": [
+      "flaga",
+      "bandera",
+      "chorąży"
+    ]
+  },
+  {
+    "id": "e-enslave",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enslave",
+    "pronunciation": "ɪnˈsleɪv",
+    "meaning": [
+      "czynić niewolnikiem",
+      "zniewalać"
+    ]
+  },
+  {
+    "id": "e-ensue",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ensue",
+    "pronunciation": "ɪnˈsju:",
+    "meaning": [
+      "następować"
+    ]
+  },
+  {
+    "id": "e-ensure",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "ensure",
+    "pronunciation": "ɪnˈʃʊə",
+    "meaning": [
+      "zapewniać",
+      "gwarantować"
+    ]
+  },
+  {
+    "id": "e-entail",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "entail",
+    "pronunciation": "ɪnˈteɪl",
+    "meaning": [
+      "pociągać za sobą"
+    ]
+  },
+  {
+    "id": "e-entangle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "entangle",
+    "pronunciation": "ɪnˈtæŋgəl",
+    "meaning": [
+      "zaplątywać się",
+      "wplątywać się"
+    ]
+  },
+  {
+    "id": "e-entanglement",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "entanglement",
+    "pronunciation": "ɪnˈtæŋgləmənt",
+    "meaning": [
+      "poplątanie"
+    ]
+  },
+  {
+    "id": "e-enter",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "enter",
+    "pronunciation": "ˈentə",
+    "meaning": [
+      "wchodzić",
+      "wstępować",
+      "pojawiać się",
+      "brać udział",
+      "wprowadzać",
+      "wpisywać",
+      "przystępować",
+      "uczestniczyć",
+      "mieć rolę"
+    ]
+  },
+  {
+    "id": "e-enterprise",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "enterprise",
+    "pronunciation": "ˈentəpraɪz",
+    "meaning": [
+      "firma",
+      "przedsiębiorstwo",
+      "interes",
+      "przedsięwzięcie",
+      "sektor",
+      "gospodarka",
+      "przedsiębiorczość"
+    ]
+  },
+  {
+    "id": "e-enterprising",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "enterprising",
+    "pronunciation": "ˈentəpraɪzɪŋ",
+    "meaning": [
+      "przedsiębiorczy"
+    ]
+  },
+  {
+    "id": "e-entertain",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "entertain",
+    "pronunciation": "ˌentəˈteɪn",
+    "meaning": [
+      "zabawiać",
+      "przyjmować",
+      "ugaszczać",
+      "żywić",
+      "mieć"
+    ]
+  },
+  {
+    "id": "e-entertainer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "entertainer",
+    "pronunciation": "ˌentəˈteɪnə",
+    "meaning": [
+      "artysta kabaretowy"
+    ]
+  },
+  {
+    "id": "e-entertainment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "entertainment",
+    "pronunciation": "ˌentəˈteɪnmənt",
+    "meaning": [
+      "rozrywka",
+      "występ"
+    ]
+  },
+  {
+    "id": "e-enthuse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enthuse",
+    "pronunciation": "ɪnˈθju:z",
+    "meaning": [
+      "entuzjazmować się"
+    ]
+  },
+  {
+    "id": "e-enthusiasm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "enthusiasm",
+    "pronunciation": "ɪnˈθju:zɪæzəm",
+    "meaning": [
+      "entuzjazm",
+      "zainteresowanie"
+    ]
+  },
+  {
+    "id": "e-enthusiast",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "enthusiast",
+    "pronunciation": "ɪnˈθju:zɪæst",
+    "meaning": [
+      "entuzjasta"
+    ]
+  },
+  {
+    "id": "e-enthusiastic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "enthusiastic",
+    "pronunciation": "ɪnˌθju:zɪˈæstɪk",
+    "meaning": [
+      "entuzjastyczny"
+    ]
+  },
+  {
+    "id": "e-entice",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "entice",
+    "pronunciation": "ɪnˈtaɪs",
+    "meaning": [
+      "wabić",
+      "nęcić"
+    ]
+  },
+  {
+    "id": "e-entire",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "entire",
+    "pronunciation": "ɪnˈtaɪə",
+    "meaning": [
+      "cały",
+      "całkowity"
+    ]
+  },
+  {
+    "id": "e-entirety",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "entirety",
+    "pronunciation": "ɪnˈtaɪərətɪ",
+    "meaning": []
+  },
+  {
+    "id": "e-entitle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "entitle",
+    "pronunciation": "ɪnˈtaɪtəl",
+    "meaning": [
+      "tytułować",
+      "upoważniać"
+    ]
+  },
+  {
+    "id": "e-entitled",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "entitled",
+    "pronunciation": "ɪnˈtaɪtəld",
+    "meaning": [
+      "zatytułowany"
+    ]
+  },
+  {
+    "id": "e-entitlement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "entitlement",
+    "pronunciation": "ɪnˈtaɪtəlmənt",
+    "meaning": [
+      "prawo"
+    ]
+  },
+  {
+    "id": "e-entity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "entity",
+    "pronunciation": "ˈentɪtɪ",
+    "meaning": [
+      "jednostka",
+      "całostka"
+    ]
+  },
+  {
+    "id": "e-entourage",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "entourage",
+    "pronunciation": "ɒntu:ˈrɑ:ʒ",
+    "meaning": [
+      "świta"
+    ]
+  },
+  {
+    "id": "e-entrails",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "entrails",
+    "pronunciation": "ˈentreɪlz",
+    "meaning": [
+      "wnętrzności"
+    ]
+  },
+  {
+    "id": "e-entrance",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "entrance",
+    "pronunciation": "/ˈentrəns/",
+    "meaning": [
+      "wejście",
+      "prawo wejścia",
+      "dostęp",
+      "oczarowywać",
+      "wprawiać w trans"
+    ]
+  },
+  {
+    "id": "e-entrant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "entrant",
+    "pronunciation": "ˈentrənt",
+    "meaning": [
+      "nowoprzyjęty",
+      "uczestnik"
+    ]
+  },
+  {
+    "id": "e-entrenched",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "entrenched",
+    "pronunciation": "ɪnˈtrenʧt",
+    "meaning": [
+      "zakorzeniony",
+      "wpojony"
+    ]
+  },
+  {
+    "id": "e-entrepreneur",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "entrepreneur",
+    "pronunciation": "ˌɒntrəprəˈnɜ:",
+    "meaning": [
+      "przedsiębiorca"
+    ]
+  },
+  {
+    "id": "e-entrust",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "entrust",
+    "pronunciation": "ɪnˈtrʌst",
+    "meaning": [
+      "powierzać"
+    ]
+  },
+  {
+    "id": "e-entry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "entry",
+    "pronunciation": "ˈentrɪ",
+    "meaning": [
+      "zgłoszenie",
+      "uczestnictwo",
+      "wpis",
+      "wejście",
+      "prawo wejścia",
+      "wjazdu",
+      "hasło"
+    ]
+  },
+  {
+    "id": "e-entwine",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "entwine",
+    "pronunciation": "ɪnˈtwaɪn",
+    "meaning": [
+      "splatać"
+    ]
+  },
+  {
+    "id": "e-enumerate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enumerate",
+    "pronunciation": "ɪˈnju:məreɪt",
+    "meaning": [
+      "wyliczać"
+    ]
+  },
+  {
+    "id": "e-enunciate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "enunciate",
+    "pronunciation": "ɪˈnʌnsɪeɪt",
+    "meaning": [
+      "starannie wymawiać",
+      "wyłuszczać"
+    ]
+  },
+  {
+    "id": "e-envelop",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "envelop",
+    "pronunciation": "ɪnˈveləp",
+    "meaning": [
+      "otulać",
+      "spowijać"
+    ]
+  },
+  {
+    "id": "e-envelope",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "envelope",
+    "pronunciation": "ˈenvələʊp",
+    "meaning": [
+      "koperta"
+    ]
+  },
+  {
+    "id": "e-enviable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "enviable",
+    "pronunciation": "ˈenvɪəbəl",
+    "meaning": [
+      "godny zazdrości"
+    ]
+  },
+  {
+    "id": "e-envious",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "envious",
+    "pronunciation": "ˈenvɪəs",
+    "meaning": [
+      "zazdrosny"
+    ]
+  },
+  {
+    "id": "e-environment",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "environment",
+    "pronunciation": "ɪnˈvaɪərənmənt",
+    "meaning": [
+      "otoczenie",
+      "środowisko",
+      "przyroda",
+      "środowisko naturalne"
+    ]
+  },
+  {
+    "id": "e-environmental",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "environmental",
+    "pronunciation": "ɪnˌvaɪərənˈmentəl",
+    "meaning": [
+      "przyrodniczy",
+      "dotyczący środowiska"
+    ]
+  },
+  {
+    "id": "e-environmentalist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "environmentalist",
+    "pronunciation": "ɪnˌvaɪərənˈmentəlɪst",
+    "meaning": [
+      "ochroniarz przyrody",
+      "ochroniarz",
+      "ekolog"
+    ]
+  },
+  {
+    "id": "e-envisage",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "envisage",
+    "pronunciation": "ɪnˈvɪzɪʤ",
+    "meaning": [
+      "przewidywać",
+      "wyobrażać sobie"
+    ]
+  },
+  {
+    "id": "e-envoy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "envoy",
+    "pronunciation": "ˈenvɔɪ",
+    "meaning": [
+      "wysłannik dyplomatyczny",
+      "wysłannik",
+      "poseł"
+    ]
+  },
+  {
+    "id": "e-envy",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "envy",
+    "pronunciation": "ˈenvɪ",
+    "meaning": [
+      "zazdrościć",
+      "zazdrość"
+    ]
+  },
+  {
+    "id": "e-ephemeral",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ephemeral",
+    "pronunciation": "ɪˈfemərəl",
+    "meaning": [
+      "efemeryczny"
+    ]
+  },
+  {
+    "id": "e-epic",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "epic",
+    "pronunciation": "ˈepɪk",
+    "meaning": [
+      "epopeja",
+      "epicki",
+      "bohaterski"
+    ]
+  },
+  {
+    "id": "e-epidemic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "epidemic",
+    "pronunciation": "ˌepɪˈdemɪk",
+    "meaning": [
+      "epidemia"
+    ]
+  },
+  {
+    "id": "e-epilepsy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "epilepsy",
+    "pronunciation": "ˈepɪlepsɪ",
+    "meaning": [
+      "epilepsja",
+      "padaczka"
+    ]
+  },
+  {
+    "id": "e-epileptic",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "epileptic",
+    "pronunciation": "ˌepɪˈleptɪk",
+    "meaning": [
+      "chory na padaczkę",
+      "epileptyk",
+      "padaczkowy",
+      "epileptyczny"
+    ]
+  },
+  {
+    "id": "e-epilogue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "epilogue",
+    "pronunciation": "ˈepɪlɒg",
+    "meaning": [
+      "epilog"
+    ]
+  },
+  {
+    "id": "e-Episcopal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "Episcopal",
+    "pronunciation": "ɪˈpɪskəpəl",
+    "meaning": [
+      "Episkopalny Kościół",
+      "Episkopalny"
+    ]
+  },
+  {
+    "id": "e-episcopal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "episcopal",
+    "pronunciation": "ɪˈpɪskəpəl",
+    "meaning": [
+      "biskupi",
+      "episkopalny"
+    ]
+  },
+  {
+    "id": "e-Episcopalian",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Episcopalian",
+    "pronunciation": "ɪˌpɪskəˈpeɪlɪən",
+    "meaning": [
+      "episkopalny"
+    ]
+  },
+  {
+    "id": "e-episode",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "episode",
+    "pronunciation": "ˈepɪsəʊd",
+    "meaning": [
+      "epizod",
+      "zdarzenie",
+      "odcinek"
+    ]
+  },
+  {
+    "id": "e-epitaph",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "epitaph",
+    "pronunciation": "ˈepɪtɑ:f",
+    "meaning": [
+      "epitafium",
+      "napis nagrobny"
+    ]
+  },
+  {
+    "id": "e-epithet",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "epithet",
+    "pronunciation": "ˈepɪθet",
+    "meaning": [
+      "epitet",
+      "określenie"
+    ]
+  },
+  {
+    "id": "e-epitome",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "epitome",
+    "pronunciation": "ɪˈpɪtəmɪ",
+    "meaning": [
+      "wzór",
+      "uosobienie"
+    ]
+  },
+  {
+    "id": "e-epitomize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "epitomize",
+    "pronunciation": "ɪˈpɪtəmaɪz",
+    "meaning": [
+      "obrazować",
+      "przedstawiać"
+    ]
+  },
+  {
+    "id": "e-epoch",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "epoch",
+    "pronunciation": "ˈi:pɒk",
+    "meaning": [
+      "epoka"
+    ]
+  },
+  {
+    "id": "e-equable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "equable",
+    "pronunciation": "ˈekwəbəl",
+    "meaning": [
+      "zrównoważony",
+      "spokojny"
+    ]
+  },
+  {
+    "id": "e-equal",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "equal",
+    "pronunciation": "ˈi:kwəl",
+    "meaning": [
+      "równy",
+      "jednakowy",
+      "ktoś równorzędny",
+      "równorzędny",
+      "przysposobiony",
+      "zdolny sprostać",
+      "równać się",
+      "dorównywać"
+    ]
+  },
+  {
+    "id": "e-equality",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "equality",
+    "pronunciation": "ɪˈkwɒlɪtɪ",
+    "meaning": [
+      "równość"
+    ]
+  },
+  {
+    "id": "e-equalize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "equalize",
+    "pronunciation": "ˈi:kwəlaɪz",
+    "meaning": [
+      "zrównywać się",
+      "zrównywać",
+      "dorównywać"
+    ]
+  },
+  {
+    "id": "e-equally",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "equally",
+    "pronunciation": "ˈi:kwəlɪ",
+    "meaning": [
+      "równo",
+      "tak samo",
+      "jednakowo",
+      "równie",
+      "w tym samym stopniu"
+    ]
+  },
+  {
+    "id": "e-equanimity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "equanimity",
+    "pronunciation": "ˌekwəˈnɪmɪtɪ",
+    "meaning": [
+      "pogoda ducha",
+      "opanowanie"
+    ]
+  },
+  {
+    "id": "e-equate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "equate",
+    "pronunciation": "ɪˈkweɪt",
+    "meaning": [
+      "zrównywać"
+    ]
+  },
+  {
+    "id": "e-equation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "equation",
+    "pronunciation": "ɪˈkweɪʒən",
+    "meaning": [
+      "równanie"
+    ]
+  },
+  {
+    "id": "e-equator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "equator",
+    "pronunciation": "ɪˈkweɪtə",
+    "meaning": [
+      "równik"
+    ]
+  },
+  {
+    "id": "e-equatorial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "equatorial",
+    "pronunciation": "ˌekwəˈtɒrɪəl",
+    "meaning": [
+      "równikowy"
+    ]
+  },
+  {
+    "id": "e-equestrian",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "equestrian",
+    "pronunciation": "ɪˈkwestrɪən",
+    "meaning": [
+      "jeździecki",
+      "konny",
+      "jeździec"
+    ]
+  },
+  {
+    "id": "e-equidistant",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "equidistant",
+    "pronunciation": "ˌi:kwɪˈdɪstənt",
+    "meaning": [
+      "odległy równo"
+    ]
+  },
+  {
+    "id": "e-equilibrium",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "equilibrium",
+    "pronunciation": "ˌi:kwɪˈlɪbrɪəm",
+    "meaning": [
+      "równowaga"
+    ]
+  },
+  {
+    "id": "e-equinox",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "equinox",
+    "pronunciation": "ˈi:kwɪnɒks",
+    "meaning": [
+      "zrównanie dnia z nocą",
+      "równonoc"
+    ]
+  },
+  {
+    "id": "e-equip",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "equip",
+    "pronunciation": "ɪˈkwɪp",
+    "meaning": [
+      "ekwipować się",
+      "ekwipować",
+      "zaopatrywać się",
+      "zaopatrywać",
+      "wyposażać",
+      "dawać",
+      "przygotowywać"
+    ]
+  },
+  {
+    "id": "e-equipment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "equipment",
+    "pronunciation": "ɪˈkwɪpmənt",
+    "meaning": [
+      "wyposażenie",
+      "ekwipunek",
+      "sprzęt"
+    ]
+  },
+  {
+    "id": "e-equitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "equitable",
+    "pronunciation": "ˈekwɪtəbəl",
+    "meaning": [
+      "sprawiedliwy",
+      "słuszny"
+    ]
+  },
+  {
+    "id": "e-equity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "equity",
+    "pronunciation": "ˈekwɪtɪ",
+    "meaning": [
+      "sprawiedliwość",
+      "słuszność"
+    ]
+  },
+  {
+    "id": "e-equivalence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "equivalence",
+    "pronunciation": "ɪˈkwɪvələns",
+    "meaning": [
+      "równoważność",
+      "ekwiwalencja"
+    ]
+  },
+  {
+    "id": "e-equivalent",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "equivalent",
+    "pronunciation": "ɪˈkwɪvələnt",
+    "meaning": [
+      "ekwiwalentny",
+      "odpowiadający",
+      "ekwiwalent",
+      "odpowiednik"
+    ]
+  },
+  {
+    "id": "e-equivocal",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "equivocal",
+    "pronunciation": "ɪˈkwɪvəkəl",
+    "meaning": [
+      "dwuznaczny",
+      "niejednoznaczny"
+    ]
+  },
+  {
+    "id": "e-equivocate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "equivocate",
+    "pronunciation": "ɪˈkwɪvəkeɪt",
+    "meaning": [
+      "wyrażać się dwuznacznie",
+      "niejasno"
+    ]
+  },
+  {
+    "id": "e-ER",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ER",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Królowa Elżbieta"
+    ]
+  },
+  {
+    "id": "e-era",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "era",
+    "pronunciation": "ˈɪərə",
+    "meaning": [
+      "era",
+      "okres"
+    ]
+  },
+  {
+    "id": "e-eradicate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "eradicate",
+    "pronunciation": "ɪˈrædɪkeɪt",
+    "meaning": [
+      "wykorzeniać"
+    ]
+  },
+  {
+    "id": "e-erase",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "erase",
+    "pronunciation": "ɪˈreɪz",
+    "meaning": [
+      "usuwać",
+      "wymazywać"
+    ]
+  },
+  {
+    "id": "e-eraser",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eraser",
+    "pronunciation": "ɪˈreɪzə",
+    "meaning": [
+      "gumka do wymazywania",
+      "gumka"
+    ]
+  },
+  {
+    "id": "e-erect",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "erect",
+    "pronunciation": "ɪˈrekt",
+    "meaning": [
+      "wznosić",
+      "montować",
+      "składać",
+      "wyprostowany"
+    ]
+  },
+  {
+    "id": "e-erection",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "erection",
+    "pronunciation": "ɪˈrekʃən",
+    "meaning": [
+      "wzniesienie",
+      "erekcja",
+      "wzwód"
+    ]
+  },
+  {
+    "id": "e-erode",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "erode",
+    "pronunciation": "ɪˈrəʊd",
+    "meaning": [
+      "podminowywać",
+      "podkopywać",
+      "poddawać erozji",
+      "wydrążać"
+    ]
+  },
+  {
+    "id": "e-erosion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "erosion",
+    "pronunciation": "ɪˈrəʊʒən",
+    "meaning": [
+      "erozja",
+      "stopniowe zanikanie"
+    ]
+  },
+  {
+    "id": "e-erotic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "erotic",
+    "pronunciation": "ɪˈrɒtɪk",
+    "meaning": [
+      "erotyczny"
+    ]
+  },
+  {
+    "id": "e-eroticism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "eroticism",
+    "pronunciation": "ɪˈrɒtɪsɪzəm",
+    "meaning": [
+      "erotyzm",
+      "erotyka"
+    ]
+  },
+  {
+    "id": "e-err",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "err",
+    "pronunciation": "ɜ:",
+    "meaning": [
+      "błądzić",
+      "popełniać błędy"
+    ]
+  },
+  {
+    "id": "e-errand",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "errand",
+    "pronunciation": "ˈerənd",
+    "meaning": [
+      "sprawunek"
+    ]
+  },
+  {
+    "id": "e-erratic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "erratic",
+    "pronunciation": "ɪˈrætɪk",
+    "meaning": [
+      "zmienny",
+      "kapryśny"
+    ]
+  },
+  {
+    "id": "e-erroneous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "erroneous",
+    "pronunciation": "ɪˈrəʊnɪəs",
+    "meaning": [
+      "błędny"
+    ]
+  },
+  {
+    "id": "e-error",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "error",
+    "pronunciation": "ˈerə",
+    "meaning": [
+      "błąd"
+    ]
+  },
+  {
+    "id": "e-erudite",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "erudite",
+    "pronunciation": "ˈerʊdaɪt",
+    "meaning": [
+      "erudycyjny"
+    ]
+  },
+  {
+    "id": "e-erupt",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "erupt",
+    "pronunciation": "ɪˈrʌpt",
+    "meaning": [
+      "wybuchać",
+      "wrzeć",
+      "eksplodować"
+    ]
+  },
+  {
+    "id": "e-eruption",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "eruption",
+    "pronunciation": "ɪˈrʌpʃən",
+    "meaning": [
+      "wybuch"
+    ]
+  },
+  {
+    "id": "e-escalate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "escalate",
+    "pronunciation": "ˈeskəleɪt",
+    "meaning": [
+      "wzmagać się",
+      "wzmagać",
+      "wzrastać"
+    ]
+  },
+  {
+    "id": "e-escalator",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "escalator",
+    "pronunciation": "ˈeskəleɪtə",
+    "meaning": [
+      "ruchome schody"
+    ]
+  },
+  {
+    "id": "e-escapade",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "escapade",
+    "pronunciation": "ˈeskəpeɪd",
+    "meaning": [
+      "eskapada"
+    ]
+  },
+  {
+    "id": "e-escape",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "escape",
+    "pronunciation": "ɪˈskeɪp",
+    "meaning": [
+      "unikać",
+      "uciekać",
+      "wychodzić cało",
+      "wychodzić",
+      "umykać",
+      "uchodzić",
+      "ucieczka",
+      "wyjście"
+    ]
+  },
+  {
+    "id": "e-escapism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "escapism",
+    "pronunciation": "ɪˈskeɪpɪzəm",
+    "meaning": [
+      "eskapizm"
+    ]
+  },
+  {
+    "id": "e-escort",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "escort",
+    "pronunciation": "/ˈeskɔːt/",
+    "meaning": [
+      "eskorta",
+      "eskortujący",
+      "eskortować"
+    ]
+  },
+  {
+    "id": "e-ESL",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ESL",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "angielski jako drugi język"
+    ]
+  },
+  {
+    "id": "e-esoteric",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "esoteric",
+    "pronunciation": "ˌesəʊˈterɪk",
+    "meaning": [
+      "ezoteryczny"
+    ]
+  },
+  {
+    "id": "e-esp.",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "esp.",
+    "pronunciation": "/ˌiːesˈpiː/",
+    "meaning": [
+      "szczególnie"
+    ]
+  },
+  {
+    "id": "e-especial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "especial",
+    "pronunciation": "ɪˈspeʃəl",
+    "meaning": [
+      "specjalny",
+      "szczególny"
+    ]
+  },
+  {
+    "id": "e-especially",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "especially",
+    "pronunciation": "ɪˈspeʃəlɪ",
+    "meaning": [
+      "w szczególności",
+      "szczególnie"
+    ]
+  },
+  {
+    "id": "e-espionage",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "espionage",
+    "pronunciation": "ˈespɪənɑ:ʒ",
+    "meaning": [
+      "szpiegostwo"
+    ]
+  },
+  {
+    "id": "e-Esq.",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Esq.",
+    "pronunciation": "/ˌiːesˈkwaɪə/",
+    "meaning": [
+      "pan"
+    ]
+  },
+  {
+    "id": "e-esquire",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "esquire",
+    "pronunciation": "ɪˈskwaɪə",
+    "meaning": [
+      "pan"
+    ]
+  },
+  {
+    "id": "e-essay",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "essay",
+    "pronunciation": "ˈeseɪ",
+    "meaning": [
+      "wypracowanie",
+      "esej"
+    ]
+  },
+  {
+    "id": "e-essayist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "essayist",
+    "pronunciation": "ˈeseɪɪst",
+    "meaning": [
+      "eseista"
+    ]
+  },
+  {
+    "id": "e-essence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "essence",
+    "pronunciation": "ˈesəns",
+    "meaning": [
+      "istota",
+      "podstawa",
+      "esencja"
+    ]
+  },
+  {
+    "id": "e-essentially",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "essentially",
+    "pronunciation": "ɪˈsenʃəlɪ",
+    "meaning": [
+      "w zasadzie"
+    ]
+  },
+  {
+    "id": "e-est.",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "est.",
+    "pronunciation": "/ˌiːesˈtiː/",
+    "meaning": [
+      "założony"
+    ]
+  },
+  {
+    "id": "e-establish",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "establish",
+    "pronunciation": "ɪˈstæblɪʃ",
+    "meaning": [
+      "zakładać",
+      "ustanawiać",
+      "ustalać",
+      "zyskiwać uznanie"
+    ]
+  },
+  {
+    "id": "e-establishment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "establishment",
+    "pronunciation": "ɪˈstæblɪʃmənt",
+    "meaning": [
+      "założenie",
+      "firma",
+      "zakład",
+      "establishment",
+      "grupa rządząca"
+    ]
+  },
+  {
+    "id": "e-esteem",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "esteem",
+    "pronunciation": "ɪˈsti:m",
+    "meaning": [
+      "szacunek",
+      "respekt"
+    ]
+  },
+  {
+    "id": "e-estimate",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "estimate",
+    "pronunciation": "/ˈestɪmeɪt/",
+    "meaning": [
+      "szacować",
+      "oceniać",
+      "szacunek",
+      "ocena",
+      "kosztorys"
+    ]
+  },
+  {
+    "id": "e-estimation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "estimation",
+    "pronunciation": "ˌestɪˈmeɪʃən",
+    "meaning": [
+      "ocena",
+      "szacunek",
+      "oszacowanie"
+    ]
+  },
+  {
+    "id": "e-Estonia",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Estonia",
+    "pronunciation": "eˈstəʊnɪə",
+    "meaning": [
+      "Estonia"
+    ]
+  },
+  {
+    "id": "e-Estonian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Estonian",
+    "pronunciation": "eˈstəʊnɪən",
+    "meaning": [
+      "estoński",
+      "Estończyk"
+    ]
+  },
+  {
+    "id": "e-estranged",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "estranged",
+    "pronunciation": "ɪˈstreɪnʤd",
+    "meaning": [
+      "odseparowany",
+      "odosobniony",
+      "pokłócony"
+    ]
+  },
+  {
+    "id": "e-estuary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "estuary",
+    "pronunciation": "ˈestjʊərɪ",
+    "meaning": [
+      "ujście"
+    ]
+  },
+  {
+    "id": "e-ETA",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ETA",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "szacowany czas przybycia"
+    ]
+  },
+  {
+    "id": "e-etch",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "etch",
+    "pronunciation": "eʧ",
+    "meaning": [
+      "grawerować",
+      "wytrawiać"
+    ]
+  },
+  {
+    "id": "e-eternal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "eternal",
+    "pronunciation": "ɪˈtɜ:nəl",
+    "meaning": [
+      "wieczny",
+      "odwieczny"
+    ]
+  },
+  {
+    "id": "e-eternity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "eternity",
+    "pronunciation": "ɪˈtɜ:nɪtɪ",
+    "meaning": [
+      "wieczność",
+      "wiek",
+      "wieki"
+    ]
+  },
+  {
+    "id": "e-ether",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ether",
+    "pronunciation": "ˈɪθə",
+    "meaning": [
+      "eter"
+    ]
+  },
+  {
+    "id": "e-ethic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ethic",
+    "pronunciation": "ˈeθɪk",
+    "meaning": [
+      "etos",
+      "etyka"
+    ]
+  },
+  {
+    "id": "e-ethical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ethical",
+    "pronunciation": "ˈeθɪkəl",
+    "meaning": [
+      "etyczny"
+    ]
+  },
+  {
+    "id": "e-Ethiopia",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Ethiopia",
+    "pronunciation": "ˌi:θɪˈəʊpɪə",
+    "meaning": [
+      "Etiopia"
+    ]
+  },
+  {
+    "id": "e-Ethiopian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Ethiopian",
+    "pronunciation": "ˌi:θɪˈəʊpɪən",
+    "meaning": [
+      "etiopski",
+      "Etiop"
+    ]
+  },
+  {
+    "id": "e-ethnic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ethnic",
+    "pronunciation": "ˈeθnɪk",
+    "meaning": [
+      "etniczny"
+    ]
+  },
+  {
+    "id": "e-etiquette",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "etiquette",
+    "pronunciation": "ˈetɪket",
+    "meaning": [
+      "etykieta"
+    ]
+  },
+  {
+    "id": "e-Eucharist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Eucharist",
+    "pronunciation": "ˈju:kərɪst",
+    "meaning": [
+      "eucharystia"
+    ]
+  },
+  {
+    "id": "e-eucharistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "eucharistic",
+    "pronunciation": "ˌju:kəˈrɪstɪk",
+    "meaning": [
+      "eucharystyczny"
+    ]
+  },
+  {
+    "id": "e-eulogy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "eulogy",
+    "pronunciation": "ˈju:ləʤɪ",
+    "meaning": [
+      "panegiryk",
+      "utwór pochwalny"
+    ]
+  },
+  {
+    "id": "e-eunuch",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "eunuch",
+    "pronunciation": "ˈju:nək",
+    "meaning": [
+      "eunuch"
+    ]
+  },
+  {
+    "id": "e-euphemism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "euphemism",
+    "pronunciation": "ˈju:fəmɪzəm",
+    "meaning": [
+      "eufemizm"
+    ]
+  },
+  {
+    "id": "e-euphoria",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "euphoria",
+    "pronunciation": "ju:ˈfɔ:rɪə",
+    "meaning": [
+      "euforia"
+    ]
+  },
+  {
+    "id": "e-euphoric",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "euphoric",
+    "pronunciation": "ju:ˈfɔ:rɪk",
+    "meaning": [
+      "euforyczny"
+    ]
+  },
+  {
+    "id": "e-Europe",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Europe",
+    "pronunciation": "ˈjʊərəp",
+    "meaning": [
+      "Europa"
+    ]
+  },
+  {
+    "id": "e-European",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "European",
+    "pronunciation": "ˌjʊərəˈpɪən",
+    "meaning": [
+      "europejski",
+      "Europejczyk"
+    ]
+  },
+  {
+    "id": "e-euthanasia",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "euthanasia",
+    "pronunciation": "ˌju:θəˈneɪzɪə",
+    "meaning": [
+      "eutanazja"
+    ]
+  },
+  {
+    "id": "e-evacuate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "evacuate",
+    "pronunciation": "ɪˈvækjʊeɪt",
+    "meaning": [
+      "ewakuować"
+    ]
+  },
+  {
+    "id": "e-evade",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "evade",
+    "pronunciation": "ɪˈveɪd",
+    "meaning": [
+      "unikać",
+      "uchylać się",
+      "odchylać się",
+      "umykać"
+    ]
+  },
+  {
+    "id": "e-evaluate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "evaluate",
+    "pronunciation": "ɪˈvæljʊeɪt",
+    "meaning": [
+      "oceniać"
+    ]
+  },
+  {
+    "id": "e-evaluation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "evaluation",
+    "pronunciation": "ɪˌvæljʊˈeɪʃən",
+    "meaning": [
+      "ocena",
+      "oszacowanie"
+    ]
+  },
+  {
+    "id": "e-evangelical",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "evangelical",
+    "pronunciation": "ˌi:vænˈʤelɪkəl",
+    "meaning": [
+      "ewangeliczny",
+      "ewangelicki",
+      "protestancki"
+    ]
+  },
+  {
+    "id": "e-evangelist",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "evangelist",
+    "pronunciation": "ɪˈvænʤelɪst",
+    "meaning": [
+      "ewangelista"
+    ]
+  },
+  {
+    "id": "e-evaporate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "evaporate",
+    "pronunciation": "ɪˈvæpəreɪt",
+    "meaning": [
+      "parować",
+      "wyparowywać",
+      "odparowywać"
+    ]
+  },
+  {
+    "id": "e-evasion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "evasion",
+    "pronunciation": "ɪˈveɪʒən",
+    "meaning": [
+      "uchylanie się",
+      "wykręt",
+      "wykręcanie się"
+    ]
+  },
+  {
+    "id": "e-evasive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "evasive",
+    "pronunciation": "ɪˈveɪsɪv",
+    "meaning": [
+      "wykrętny",
+      "wymijający"
+    ]
+  },
+  {
+    "id": "e-eve",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eve",
+    "pronunciation": "i:v",
+    "meaning": [
+      "przeddzień",
+      "wigilia"
+    ]
+  },
+  {
+    "id": "e-even",
+    "level": "A1",
+    "partOfSpeech": [
+      "adverb",
+      "adjective",
+      "verb"
+    ],
+    "word": "even",
+    "pronunciation": "ˈi:vən",
+    "meaning": [
+      "nawet",
+      "jeszcze",
+      "stały",
+      "równy",
+      "równomierny",
+      "wyrównany",
+      "równie prawdopodobny",
+      "pięćdziesięcioprocentowy",
+      "parzysty",
+      "wyrównywać"
+    ]
+  },
+  {
+    "id": "e-evening",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "evening",
+    "pronunciation": "ˈi:vnɪŋ",
+    "meaning": [
+      "wieczór",
+      "zajęcia zaoczne",
+      "szkoła wieczorowa",
+      "strój wieczorowy",
+      "suknia wieczorowa"
+    ]
+  },
+  {
+    "id": "e-event",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "event",
+    "pronunciation": "ɪˈvent",
+    "meaning": [
+      "wydarzenie",
+      "zdarzenie",
+      "dyscyplina",
+      "spotkanie"
+    ]
+  },
+  {
+    "id": "e-eventful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "eventful",
+    "pronunciation": "ɪˈventfʊl",
+    "meaning": [
+      "pełen wydarzeń",
+      "doniosły"
+    ]
+  },
+  {
+    "id": "e-eventual",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "eventual",
+    "pronunciation": "ɪˈvenʧʊəl",
+    "meaning": [
+      "ostateczny"
+    ]
+  },
+  {
+    "id": "e-eventuality",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "eventuality",
+    "pronunciation": "ɪˌvenʧʊˈælɪtɪ",
+    "meaning": [
+      "możliwość",
+      "ewentualność"
+    ]
+  },
+  {
+    "id": "e-ever",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "ever",
+    "pronunciation": "ˈevə",
+    "meaning": [
+      "kiedykolwiek",
+      "wciąż",
+      "zawsze",
+      "przeważnie",
+      "-że",
+      "-ż"
+    ]
+  },
+  {
+    "id": "e-evergreen",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "evergreen",
+    "pronunciation": "ˈevəgri:n",
+    "meaning": [
+      "roślina wiecznie zielona"
+    ]
+  },
+  {
+    "id": "e-everlasting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "everlasting",
+    "pronunciation": "ˌevəˈlɑ:stɪŋ",
+    "meaning": [
+      "wieczny",
+      "trwały"
+    ]
+  },
+  {
+    "id": "e-every",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "every",
+    "pronunciation": "ˈevrɪ",
+    "meaning": [
+      "każdy",
+      "co",
+      "wszelki"
+    ]
+  },
+  {
+    "id": "e-everybody",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "everybody",
+    "pronunciation": "ˈevrɪbɒdɪ",
+    "meaning": [
+      "każdy",
+      "wszyscy"
+    ]
+  },
+  {
+    "id": "e-everyday",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "everyday",
+    "pronunciation": "ˈevrɪdeɪ",
+    "meaning": [
+      "codzienny",
+      "zwykły"
+    ]
+  },
+  {
+    "id": "e-everyone",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "everyone",
+    "pronunciation": "ˈevrɪwʌn",
+    "meaning": [
+      "każdy",
+      "wszyscy"
+    ]
+  },
+  {
+    "id": "e-everyplace",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "everyplace",
+    "pronunciation": "ˈevrɪpleɪs",
+    "meaning": [
+      "wszędzie"
+    ]
+  },
+  {
+    "id": "e-everything",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "everything",
+    "pronunciation": "ˈevrɪθɪŋ",
+    "meaning": [
+      "wszystko"
+    ]
+  },
+  {
+    "id": "e-everywhere",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "everywhere",
+    "pronunciation": "ˈevrɪweə",
+    "meaning": [
+      "wszędzie"
+    ]
+  },
+  {
+    "id": "e-evict",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "evict",
+    "pronunciation": "ɪˈvɪkt",
+    "meaning": [
+      "eksmitować"
+    ]
+  },
+  {
+    "id": "e-eviction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "eviction",
+    "pronunciation": "ɪˈvɪkʃən",
+    "meaning": [
+      "eksmisja"
+    ]
+  },
+  {
+    "id": "e-evidence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "evidence",
+    "pronunciation": "ˈevɪdəns",
+    "meaning": [
+      "dowód",
+      "dowody"
+    ]
+  },
+  {
+    "id": "e-evident",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "evident",
+    "pronunciation": "ˈevɪdənt",
+    "meaning": [
+      "oczywisty",
+      "widoczny"
+    ]
+  },
+  {
+    "id": "e-evil",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "evil",
+    "pronunciation": "ˈi:vəl",
+    "meaning": [
+      "zły",
+      "zło"
+    ]
+  },
+  {
+    "id": "e-evocation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "evocation",
+    "pronunciation": "ˌi:vəˈkeɪʃən",
+    "meaning": [
+      "ewokacja",
+      "przywołąnie"
+    ]
+  },
+  {
+    "id": "e-evocative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "evocative",
+    "pronunciation": "ɪˈvɒkətɪv",
+    "meaning": [
+      "przywołujący"
+    ]
+  },
+  {
+    "id": "e-evoke",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "evoke",
+    "pronunciation": "ɪˈvəʊk",
+    "meaning": [
+      "przywoływać"
+    ]
+  },
+  {
+    "id": "e-evolution",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "evolution",
+    "pronunciation": "ˌi:vəˈlu:ʃən",
+    "meaning": [
+      "ewolucja",
+      "rozwój"
+    ]
+  },
+  {
+    "id": "e-evolve",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "evolve",
+    "pronunciation": "ɪˈvɒlv",
+    "meaning": [
+      "ewoluować",
+      "przekształcać się",
+      "przekształcać",
+      "rozwijać się",
+      "rozwijać"
+    ]
+  },
+  {
+    "id": "e-ewe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ewe",
+    "pronunciation": "ju:",
+    "meaning": [
+      "owca"
+    ]
+  },
+  {
+    "id": "e-exacerbate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "exacerbate",
+    "pronunciation": "ɪgˈzæsəbeɪt",
+    "meaning": [
+      "pogarszać"
+    ]
+  },
+  {
+    "id": "e-exact",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "exact",
+    "pronunciation": "ɪgˈzækt",
+    "meaning": [
+      "dokładny",
+      "wymagać"
+    ]
+  },
+  {
+    "id": "e-exacting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exacting",
+    "pronunciation": "ɪgˈzæktɪŋ",
+    "meaning": [
+      "wymagający"
+    ]
+  },
+  {
+    "id": "e-exactly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "exactly",
+    "pronunciation": "ɪgˈzæktlɪ",
+    "meaning": [
+      "dokładnie",
+      "zupełnie"
+    ]
+  },
+  {
+    "id": "e-exaggerate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "exaggerate",
+    "pronunciation": "ɪgˈzæʤəreɪt",
+    "meaning": [
+      "przesadzać",
+      "wyolbrzymiać"
+    ]
+  },
+  {
+    "id": "e-exalt",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "exalt",
+    "pronunciation": "ɪgˈzɔ:lt",
+    "meaning": [
+      "podnosić",
+      "pobudzać"
+    ]
+  },
+  {
+    "id": "e-exalted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exalted",
+    "pronunciation": "ɪgˈzɔ:ltɪd",
+    "meaning": [
+      "wysoki",
+      "egzaltowany"
+    ]
+  },
+  {
+    "id": "e-exam",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "exam",
+    "pronunciation": "ɪgˈzæm",
+    "meaning": [
+      "egzamin"
+    ]
+  },
+  {
+    "id": "e-examination",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "examination",
+    "pronunciation": "ɪgˌzæmɪˈneɪʃən",
+    "meaning": [
+      "egzamin",
+      "analiza",
+      "badanie",
+      "oględziny",
+      "rozpatrzenie"
+    ]
+  },
+  {
+    "id": "e-examine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "examine",
+    "pronunciation": "ɪgˈzæmɪn",
+    "meaning": [
+      "oglądać",
+      "badać",
+      "rozpatrywać",
+      "egzaminować"
+    ]
+  },
+  {
+    "id": "e-examiner",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "examiner",
+    "pronunciation": "ɪgˈzæmɪnə",
+    "meaning": [
+      "egzaminator"
+    ]
+  },
+  {
+    "id": "e-example",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "example",
+    "pronunciation": "ɪgˈzɑ:mpəl",
+    "meaning": [
+      "przykład"
+    ]
+  },
+  {
+    "id": "e-exasperate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "exasperate",
+    "pronunciation": "ɪgˈzæspəreɪt",
+    "meaning": [
+      "dręczyć",
+      "rozjątrzać"
+    ]
+  },
+  {
+    "id": "e-exc.",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "exc.",
+    "pronunciation": "/ɪkˈskjuːz/",
+    "meaning": [
+      "z wyjątkiem"
+    ]
+  },
+  {
+    "id": "e-excavate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "excavate",
+    "pronunciation": "ˈekskəveɪt",
+    "meaning": [
+      "wykopywać",
+      "przeprowadzać wykopaliska"
+    ]
+  },
+  {
+    "id": "e-excavation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "excavation",
+    "pronunciation": "ˌekskəˈveɪʃən",
+    "meaning": [
+      "wykopaliska"
+    ]
+  },
+  {
+    "id": "e-exceed",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "exceed",
+    "pronunciation": "ɪkˈsi:d",
+    "meaning": [
+      "przekraczać"
+    ]
+  },
+  {
+    "id": "e-exceedingly",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "exceedingly",
+    "pronunciation": "ɪkˈsi:dɪŋlɪ",
+    "meaning": [
+      "niezwykle"
+    ]
+  },
+  {
+    "id": "e-excel",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "excel",
+    "pronunciation": "ɪkˈsel",
+    "meaning": [
+      "przodować"
+    ]
+  },
+  {
+    "id": "e-excellence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "excellence",
+    "pronunciation": "ˈeksələns",
+    "meaning": [
+      "doskonałość",
+      "przodowanie"
+    ]
+  },
+  {
+    "id": "e-Excellency",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Excellency",
+    "pronunciation": "ˈeksələnsɪ",
+    "meaning": [
+      "Ekscelencja"
+    ]
+  },
+  {
+    "id": "e-excellent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "excellent",
+    "pronunciation": "ˈeksələnt",
+    "meaning": [
+      "znakomity",
+      "doskonały"
+    ]
+  },
+  {
+    "id": "e-except",
+    "level": "A2",
+    "partOfSpeech": [
+      "preposition",
+      "verb"
+    ],
+    "word": "except",
+    "pronunciation": "ɪkˈsept",
+    "meaning": [
+      "z wyjątkiem",
+      "wyłączyć",
+      "zrobić wyjątek"
+    ]
+  },
+  {
+    "id": "e-excepted",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "excepted",
+    "pronunciation": "ɪkˈseptɪd",
+    "meaning": [
+      "z wyjątkiem",
+      "wyjąwszy"
+    ]
+  },
+  {
+    "id": "e-excepting",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "excepting",
+    "pronunciation": "ɪkˈseptɪŋ",
+    "meaning": [
+      "z wyjątkiem",
+      "oprócz",
+      "prócz"
+    ]
+  },
+  {
+    "id": "e-exception",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "exception",
+    "pronunciation": "ɪkˈsepʃən",
+    "meaning": [
+      "wyjątek"
+    ]
+  },
+  {
+    "id": "e-exceptional",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exceptional",
+    "pronunciation": "ɪkˈsepʃənəl",
+    "meaning": [
+      "wyjątkowy"
+    ]
+  },
+  {
+    "id": "e-excerpt",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "excerpt",
+    "pronunciation": "ˈeksɜ:pt",
+    "meaning": [
+      "wyjątek",
+      "fragment"
+    ]
+  },
+  {
+    "id": "e-excess",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "excess",
+    "pronunciation": "/ɪkˈses/",
+    "meaning": [
+      "nadmierny",
+      "zbyteczny",
+      "nadmiar",
+      "ekscesy"
+    ]
+  },
+  {
+    "id": "e-excessive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "excessive",
+    "pronunciation": "ɪkˈsesɪv",
+    "meaning": [
+      "nadmierny"
+    ]
+  },
+  {
+    "id": "e-exchange",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "exchange",
+    "pronunciation": "ɪksˈʧeɪnʤ",
+    "meaning": [
+      "wymieniać się",
+      "wymieniać",
+      "wymiana",
+      "giełda",
+      "wymiana zdań",
+      "centrala",
+      "kurs wymiany",
+      "centrala telefoniczna"
+    ]
+  },
+  {
+    "id": "e-excise",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "excise",
+    "pronunciation": "/ˈeksaɪz/",
+    "meaning": [
+      "akcyza",
+      "opłata akcyzowa",
+      "wycinać",
+      "amputować"
+    ]
+  },
+  {
+    "id": "e-excitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "excitable",
+    "pronunciation": "ɪkˈsaɪtəbəl",
+    "meaning": [
+      "ekscytujący się",
+      "pobudliwy"
+    ]
+  },
+  {
+    "id": "e-excite",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "excite",
+    "pronunciation": "ɪkˈsaɪt",
+    "meaning": [
+      "ekscytować",
+      "wzniecać",
+      "podniecać"
+    ]
+  },
+  {
+    "id": "e-excitement",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "excitement",
+    "pronunciation": "ɪkˈsaɪtmənt",
+    "meaning": [
+      "podniecenie",
+      "ekscytacja",
+      "atrakcja",
+      "podnieta"
+    ]
+  },
+  {
+    "id": "e-excl.",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "preposition"
+    ],
+    "word": "excl.",
+    "pronunciation": "/ɪkˈskl/",
+    "meaning": [
+      "wyłączny",
+      "wyłączając"
+    ]
+  },
+  {
+    "id": "e-exclaim",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "exclaim",
+    "pronunciation": "ɪkˈskleɪm",
+    "meaning": [
+      "wykrzykiwać",
+      "zakrzykiwać"
+    ]
+  },
+  {
+    "id": "e-exclamation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exclamation",
+    "pronunciation": "ˌekskləˈmeɪʃən",
+    "meaning": [
+      "okrzyk",
+      "wykrzyknik"
+    ]
+  },
+  {
+    "id": "e-exclude",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "exclude",
+    "pronunciation": "ɪkˈsklu:d",
+    "meaning": [
+      "pomijać",
+      "nie włączać",
+      "wykluczać"
+    ]
+  },
+  {
+    "id": "e-excluding",
+    "level": "B1",
+    "partOfSpeech": "preposition",
+    "word": "excluding",
+    "pronunciation": "ɪkˈsklu:dɪŋ",
+    "meaning": [
+      "z wyjątkiem"
+    ]
+  },
+  {
+    "id": "e-exclusion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exclusion",
+    "pronunciation": "ɪkˈsklu:ʒən",
+    "meaning": [
+      "wydalenie",
+      "niedopuszczanie",
+      "pominięcie"
+    ]
+  },
+  {
+    "id": "e-exclusive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "exclusive",
+    "pronunciation": "ɪkˈsklu:sɪv",
+    "meaning": [
+      "eksluzywny",
+      "wyłączny"
+    ]
+  },
+  {
+    "id": "e-excommunicate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "excommunicate",
+    "pronunciation": "ˌekskəˈmju:nɪkeɪt",
+    "meaning": [
+      "wyklinać",
+      "ekskomunikować"
+    ]
+  },
+  {
+    "id": "e-excrement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "excrement",
+    "pronunciation": "ˈekskrəmənt",
+    "meaning": [
+      "stolec",
+      "ekskrementy"
+    ]
+  },
+  {
+    "id": "e-excrete",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "excrete",
+    "pronunciation": "ɪkˈskri:t",
+    "meaning": [
+      "wydzielać"
+    ]
+  },
+  {
+    "id": "e-excruciating",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "excruciating",
+    "pronunciation": "ɪkˈskru:ʃɪeɪtɪŋ",
+    "meaning": [
+      "przenikliwy",
+      "dręczący",
+      "przygniatający"
+    ]
+  },
+  {
+    "id": "e-excursion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "excursion",
+    "pronunciation": "ɪkˈskɜ:ʃən",
+    "meaning": [
+      "wyprawa",
+      "wycieczka",
+      "wypad"
+    ]
+  },
+  {
+    "id": "e-excusable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "excusable",
+    "pronunciation": "ɪkˈskju:zəbəl",
+    "meaning": [
+      "wybaczalny",
+      "do wybaczenia"
+    ]
+  },
+  {
+    "id": "e-excuse",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "excuse",
+    "pronunciation": "/ɪkˈskjuːz/",
+    "meaning": [
+      "usprawiedliwienie",
+      "wymówka",
+      "usprawiedliwiać",
+      "wybaczać",
+      "zwalniać"
+    ]
+  },
+  {
+    "id": "e-execute",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "execute",
+    "pronunciation": "ˈeksɪkju:t",
+    "meaning": [
+      "poddawać egzekucji",
+      "tracić",
+      "wykonywać",
+      "przeprowadzać"
+    ]
+  },
+  {
+    "id": "e-execution",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "execution",
+    "pronunciation": "ˌeksɪkˈju:ʃən",
+    "meaning": [
+      "egzekucja",
+      "wykonywanie"
+    ]
+  },
+  {
+    "id": "e-executioner",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "executioner",
+    "pronunciation": "ˌeksɪˈkju:ʃənə",
+    "meaning": [
+      "kat"
+    ]
+  },
+  {
+    "id": "e-executive",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "executive",
+    "pronunciation": "ɪgˈzekjʊtɪv",
+    "meaning": [
+      "wyższy urzędnik",
+      "menadżer",
+      "egzekutywa",
+      "organ wykonawczy",
+      "zarządzający",
+      "wykonawczy"
+    ]
+  },
+  {
+    "id": "e-executor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "executor",
+    "pronunciation": "ɪgˈzekjʊtə",
+    "meaning": [
+      "egzekutor"
+    ]
+  },
+  {
+    "id": "e-exemplary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exemplary",
+    "pronunciation": "ɪgˈzemplərɪ",
+    "meaning": [
+      "przykładowy"
+    ]
+  },
+  {
+    "id": "e-exemplify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exemplify",
+    "pronunciation": "ɪgˈzemplɪfaɪ",
+    "meaning": [
+      "stanowić przykład",
+      "podawać przykład",
+      "podawać przykłady"
+    ]
+  },
+  {
+    "id": "e-exempt",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "exempt",
+    "pronunciation": "ɪgˈzempt",
+    "meaning": [
+      "zwolniony",
+      "zwalniać"
+    ]
+  },
+  {
+    "id": "e-exercise",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "exercise",
+    "pronunciation": "ˈeksəsaɪz",
+    "meaning": [
+      "ćwiczenie",
+      "ruch fizyczny",
+      "ruch",
+      "sprawowanie",
+      "wywieranie",
+      "ćwiczyć",
+      "sprawować",
+      "wywierać",
+      "zeszyt"
+    ]
+  },
+  {
+    "id": "e-exert",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exert",
+    "pronunciation": "ɪgˈzɜ:t",
+    "meaning": [
+      "wywierać"
+    ]
+  },
+  {
+    "id": "e-exertion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exertion",
+    "pronunciation": "ɪgˈzɜ:ʃən",
+    "meaning": [
+      "wysiłek"
+    ]
+  },
+  {
+    "id": "e-exhale",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "exhale",
+    "pronunciation": "eksˈheɪl",
+    "meaning": [
+      "wydychać"
+    ]
+  },
+  {
+    "id": "e-exhaust",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "exhaust",
+    "pronunciation": "ɪgˈzɔ:st",
+    "meaning": [
+      "wyczerpywać",
+      "rura wydechowa",
+      "spaliny"
+    ]
+  },
+  {
+    "id": "e-exhaustion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "exhaustion",
+    "pronunciation": "ɪgˈzɔ:sʧən",
+    "meaning": [
+      "wyczerpanie"
+    ]
+  },
+  {
+    "id": "e-exhaustive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exhaustive",
+    "pronunciation": "ɪgˈzɔ:stɪv",
+    "meaning": [
+      "wyczerpujący"
+    ]
+  },
+  {
+    "id": "e-exhibit",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "exhibit",
+    "pronunciation": "ɪgˈzɪbɪt",
+    "meaning": [
+      "wykazywać",
+      "przedstawiać",
+      "pokazywać",
+      "eksponować",
+      "eksponat",
+      "dowód rzeczowy"
+    ]
+  },
+  {
+    "id": "e-exhibition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "exhibition",
+    "pronunciation": "ˌegzɪˈbɪʃən",
+    "meaning": [
+      "wystawa",
+      "ekspozycja",
+      "przedstawianie"
+    ]
+  },
+  {
+    "id": "e-exhibitionism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "exhibitionism",
+    "pronunciation": "ˌegzɪˈbɪʃənɪzəm",
+    "meaning": [
+      "ekshibicjonizm"
+    ]
+  },
+  {
+    "id": "e-exhibitionist",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "exhibitionist",
+    "pronunciation": "ˌegzɪˈbɪʃənɪst",
+    "meaning": [
+      "ekshibicjonista"
+    ]
+  },
+  {
+    "id": "e-exhibitor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exhibitor",
+    "pronunciation": "ɪgˈzɪbɪtə",
+    "meaning": [
+      "wystawca"
+    ]
+  },
+  {
+    "id": "e-exhilarate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exhilarate",
+    "pronunciation": "ɪgˈzɪləreɪt",
+    "meaning": [
+      "rozradować się",
+      "rozradować",
+      "rozweselić się",
+      "rozweselić"
+    ]
+  },
+  {
+    "id": "e-exhort",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exhort",
+    "pronunciation": "ɪgˈzɔ:t",
+    "meaning": [
+      "nawoływać"
+    ]
+  },
+  {
+    "id": "e-exhume",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "exhume",
+    "pronunciation": "eksˈhju:m",
+    "meaning": [
+      "ekshumować"
+    ]
+  },
+  {
+    "id": "e-exile",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "exile",
+    "pronunciation": "ˈeksaɪl",
+    "meaning": [
+      "wygnanie",
+      "wygnaniec",
+      "skazywać na wygnanie"
+    ]
+  },
+  {
+    "id": "e-exist",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "exist",
+    "pronunciation": "ɪgˈzɪst",
+    "meaning": [
+      "istnieć"
+    ]
+  },
+  {
+    "id": "e-existence",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "existence",
+    "pronunciation": "ɪgˈzɪstəns",
+    "meaning": [
+      "istnienie",
+      "egzystencja"
+    ]
+  },
+  {
+    "id": "e-existential",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "existential",
+    "pronunciation": "ˌegzɪˈstenʃəl",
+    "meaning": [
+      "egzystencjalny"
+    ]
+  },
+  {
+    "id": "e-exit",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "exit",
+    "pronunciation": "ˈegzɪt",
+    "meaning": [
+      "wyjście",
+      "wyjazd",
+      "wychodzić"
+    ]
+  },
+  {
+    "id": "e-exodus",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "exodus",
+    "pronunciation": "ˈeksədəs",
+    "meaning": [
+      "eksodus"
+    ]
+  },
+  {
+    "id": "e-exonerate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "exonerate",
+    "pronunciation": "ɪgˈzɒnəreɪt",
+    "meaning": [
+      "oczyszczać",
+      "uwalniać"
+    ]
+  },
+  {
+    "id": "e-exorbitant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exorbitant",
+    "pronunciation": "ɪgˈzɔ:bɪtənt",
+    "meaning": [
+      "wygórowany"
+    ]
+  },
+  {
+    "id": "e-exorcise",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exorcise",
+    "pronunciation": "ˈeksɔ:saɪz",
+    "meaning": [
+      "egzorcyzmować"
+    ]
+  },
+  {
+    "id": "e-exorcism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exorcism",
+    "pronunciation": "ˈeksɔ:sɪzəm",
+    "meaning": [
+      "egzorcyzm"
+    ]
+  },
+  {
+    "id": "e-exotic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "exotic",
+    "pronunciation": "ɪgˈzɒtɪk",
+    "meaning": [
+      "egzotyczny"
+    ]
+  },
+  {
+    "id": "e-expanse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expanse",
+    "pronunciation": "ɪkˈspæns",
+    "meaning": [
+      "przestwór",
+      "bezmiar"
+    ]
+  },
+  {
+    "id": "e-expansion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expansion",
+    "pronunciation": "ɪkˈspænʃən",
+    "meaning": [
+      "rozrost",
+      "ekspansja",
+      "rozszerzenie"
+    ]
+  },
+  {
+    "id": "e-expansionism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "expansionism",
+    "pronunciation": "ɪkˈspænʃənɪzəm",
+    "meaning": [
+      "ekspansjonizm"
+    ]
+  },
+  {
+    "id": "e-expansionist",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "expansionist",
+    "pronunciation": "ɪkˈspænʃənɪst",
+    "meaning": [
+      "ekspansywny"
+    ]
+  },
+  {
+    "id": "e-expansive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "expansive",
+    "pronunciation": "ɪkˈspænsɪv",
+    "meaning": [
+      "wylewny"
+    ]
+  },
+  {
+    "id": "e-expatriate",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expatriate",
+    "pronunciation": "eksˈpætrɪət",
+    "meaning": [
+      "emigrant"
+    ]
+  },
+  {
+    "id": "e-expect",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "expect",
+    "pronunciation": "ɪkˈspekt",
+    "meaning": [
+      "spodziewać się",
+      "oczekiwać"
+    ]
+  },
+  {
+    "id": "e-expectancy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expectancy",
+    "pronunciation": "ɪkˈspektənsɪ",
+    "meaning": [
+      "nadzieja",
+      "widoki"
+    ]
+  },
+  {
+    "id": "e-expectant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "expectant",
+    "pronunciation": "ɪkˈspektənt",
+    "meaning": [
+      "wyczekujący",
+      "spodziewający się dziecka",
+      "spodziewający się"
+    ]
+  },
+  {
+    "id": "e-expectation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expectation",
+    "pronunciation": "ˌekspekˈteɪʃən",
+    "meaning": [
+      "oczekiwanie",
+      "wyczekiwanie",
+      "spodziewanie się"
+    ]
+  },
+  {
+    "id": "e-expediency",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "expediency",
+    "pronunciation": "ɪkˈspedɪənsɪ",
+    "meaning": [
+      "korzyść",
+      "to, co korzystne"
+    ]
+  },
+  {
+    "id": "e-expedient",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "expedient",
+    "pronunciation": "ɪkˈspedɪənt",
+    "meaning": [
+      "środek",
+      "stosowny",
+      "dogodny"
+    ]
+  },
+  {
+    "id": "e-expedite",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expedite",
+    "pronunciation": "ˈekspədaɪt",
+    "meaning": [
+      "przyśpieszyć"
+    ]
+  },
+  {
+    "id": "e-expedition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expedition",
+    "pronunciation": "ˌekspəˈdɪʃən",
+    "meaning": [
+      "ekspedycja",
+      "wyprawa"
+    ]
+  },
+  {
+    "id": "e-expel",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expel",
+    "pronunciation": "ɪkˈspel",
+    "meaning": [
+      "wydalać",
+      "usuwać",
+      "wyrzucać"
+    ]
+  },
+  {
+    "id": "e-expend",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expend",
+    "pronunciation": "ɪkˈspend",
+    "meaning": [
+      "wydatkować",
+      "zużywać"
+    ]
+  },
+  {
+    "id": "e-expendable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "expendable",
+    "pronunciation": "ɪkˈspendəbəl",
+    "meaning": [
+      "zbyteczny"
+    ]
+  },
+  {
+    "id": "e-expenditure",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expenditure",
+    "pronunciation": "ɪkˈspendɪʧə",
+    "meaning": [
+      "wydatki",
+      "zużycie"
+    ]
+  },
+  {
+    "id": "e-expense",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expense",
+    "pronunciation": "ɪkˈspens",
+    "meaning": [
+      "nakłady",
+      "wydatki",
+      "dieta",
+      "zwrot kosztów"
+    ]
+  },
+  {
+    "id": "e-expensive",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "expensive",
+    "pronunciation": "ɪkˈspensɪv",
+    "meaning": [
+      "kosztowny",
+      "drogi"
+    ]
+  },
+  {
+    "id": "e-experience",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "experience",
+    "pronunciation": "ɪkˈspɪərɪəns",
+    "meaning": [
+      "doświadczenie",
+      "praktyka",
+      "znajomość",
+      "przeżycie",
+      "fakt",
+      "przeżywać",
+      "doświadczać"
+    ]
+  },
+  {
+    "id": "e-experienced",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "experienced",
+    "pronunciation": "ɪkˈspɪərɪənst",
+    "meaning": [
+      "doświadczony"
+    ]
+  },
+  {
+    "id": "e-experiment",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "experiment",
+    "pronunciation": "ɪkˈsperəmənt",
+    "meaning": [
+      "eksperyment",
+      "doświadczenie",
+      "eksperymentować"
+    ]
+  },
+  {
+    "id": "e-experimental",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "experimental",
+    "pronunciation": "ɪkˌsperəˈmentəl",
+    "meaning": [
+      "eksperymentalny",
+      "doświadczalny",
+      "próbny"
+    ]
+  },
+  {
+    "id": "e-expert",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "expert",
+    "pronunciation": "ˈekspɜ:t",
+    "meaning": [
+      "ekspert",
+      "znawca",
+      "wyspecjalizowany",
+      "specjalistyczny"
+    ]
+  },
+  {
+    "id": "e-expertise",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expertise",
+    "pronunciation": "ˌekspɜ:ˈti:z",
+    "meaning": [
+      "wiedza specjalistyczne",
+      "umiejętności specjalistyczne"
+    ]
+  },
+  {
+    "id": "e-expiate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "expiate",
+    "pronunciation": "ˈekspɪeɪt",
+    "meaning": [
+      "odpokutowywać"
+    ]
+  },
+  {
+    "id": "e-expiration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expiration",
+    "pronunciation": "ˌekspɪˈreɪʃən",
+    "meaning": [
+      "utrata ważności"
+    ]
+  },
+  {
+    "id": "e-expire",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "expire",
+    "pronunciation": "ɪkˈspaɪə",
+    "meaning": [
+      "tracić ważność",
+      "wyzionąć ducha"
+    ]
+  },
+  {
+    "id": "e-expiry_date",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expiry date",
+    "pronunciation": "ɪkˈspaɪərɪ deɪt",
+    "meaning": [
+      "data ważności"
+    ]
+  },
+  {
+    "id": "e-explain",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "explain",
+    "pronunciation": "ɪkˈspleɪn",
+    "meaning": [
+      "wyjaśniać",
+      "usprawiedliwiać"
+    ]
+  },
+  {
+    "id": "e-explanation",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "explanation",
+    "pronunciation": "ˌekspləˈneɪʃən",
+    "meaning": [
+      "wyjaśnienie",
+      "objaśnienie"
+    ]
+  },
+  {
+    "id": "e-explanatory",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "explanatory",
+    "pronunciation": "ɪkˈsplænətərɪ",
+    "meaning": [
+      "objaśniający",
+      "wyjaśniający"
+    ]
+  },
+  {
+    "id": "e-explicable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "explicable",
+    "pronunciation": "ɪkˈsplɪkəbəl",
+    "meaning": [
+      "wytłumaczalny"
+    ]
+  },
+  {
+    "id": "e-explicit",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "explicit",
+    "pronunciation": "ɪkˈsplɪsɪt",
+    "meaning": [
+      "otwarty",
+      "szczery",
+      "jednoznaczny"
+    ]
+  },
+  {
+    "id": "e-explode",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "explode",
+    "pronunciation": "ɪkˈspləʊd",
+    "meaning": [
+      "eksplodować",
+      "wybuchać",
+      "wzrastać wybuchowo",
+      "dyskredytować"
+    ]
+  },
+  {
+    "id": "e-exploitation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exploitation",
+    "pronunciation": "ˌeksplɔɪˈteɪʃən",
+    "meaning": [
+      "wyzysk",
+      "wykorzystywanie",
+      "eksploatacja"
+    ]
+  },
+  {
+    "id": "e-exploitative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exploitative",
+    "pronunciation": "ɪkˈsplɔɪtətɪv",
+    "meaning": [
+      "wyzyskujący"
+    ]
+  },
+  {
+    "id": "e-exploiter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exploiter",
+    "pronunciation": "ɪkˈsplɔɪtə",
+    "meaning": [
+      "wyzyskiwacz"
+    ]
+  },
+  {
+    "id": "e-exploratory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exploratory",
+    "pronunciation": "ɪkˈsplɒrətərɪ",
+    "meaning": [
+      "badawczy",
+      "rozpoznawczy"
+    ]
+  },
+  {
+    "id": "e-explore",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "explore",
+    "pronunciation": "ɪkˈsplɔ:",
+    "meaning": [
+      "badać",
+      "przeszukiwać",
+      "penetrować",
+      "analizować",
+      "przedyskutowywać"
+    ]
+  },
+  {
+    "id": "e-explorer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "explorer",
+    "pronunciation": "ɪkˈsplɔ:rə",
+    "meaning": [
+      "badacz",
+      "eksplorator"
+    ]
+  },
+  {
+    "id": "e-explosion",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "explosion",
+    "pronunciation": "ɪkˈspləʊʒən",
+    "meaning": [
+      "eksplozja",
+      "wybuch",
+      "gwałtowny przyrost"
+    ]
+  },
+  {
+    "id": "e-explosive",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "explosive",
+    "pronunciation": "ɪkˈspləʊsɪv",
+    "meaning": [
+      "środek wybuchowy",
+      "materiał wybuchowy",
+      "wybuchowy",
+      "rozrywający się",
+      "rozrywający",
+      "oszałamiający"
+    ]
+  },
+  {
+    "id": "e-exponent",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exponent",
+    "pronunciation": "ɪkˈspəʊnənt",
+    "meaning": [
+      "przedstawiciel",
+      "orędownik",
+      "wyraziciel",
+      "wykładnik"
+    ]
+  },
+  {
+    "id": "e-exponential",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "exponential",
+    "pronunciation": "ˌekspəˈnenʃəl",
+    "meaning": [
+      "wykładniczy",
+      "raptowny",
+      "zdwojony"
+    ]
+  },
+  {
+    "id": "e-export",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "export",
+    "pronunciation": "/ˈekspɔːt/",
+    "meaning": [
+      "eksportować",
+      "rozpowszechniać",
+      "eksport",
+      "artykuły eksportowe"
+    ]
+  },
+  {
+    "id": "e-exporter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "exporter",
+    "pronunciation": "ɪkˈspɔ:tə",
+    "meaning": [
+      "eksporter"
+    ]
+  },
+  {
+    "id": "e-expose",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "expose",
+    "pronunciation": "ɪkˈspəʊz",
+    "meaning": [
+      "odsłaniać",
+      "wystawiać",
+      "narażać się",
+      "narażać",
+      "demaskować"
+    ]
+  },
+  {
+    "id": "e-exposé",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "exposé",
+    "pronunciation": "ekˈspəʊzeɪ",
+    "meaning": [
+      "zdemaskowanie"
+    ]
+  },
+  {
+    "id": "e-exposition",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exposition",
+    "pronunciation": "ˌekspəˈzɪʃən",
+    "meaning": [
+      "przedstawienie",
+      "wykład"
+    ]
+  },
+  {
+    "id": "e-exposure",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exposure",
+    "pronunciation": "ɪkˈspəʊʒə",
+    "meaning": [
+      "wystawienie się",
+      "wystawienie",
+      "ekspozycja",
+      "pokazywanie",
+      "opisywanie",
+      "zdemaskowanie",
+      "zdjęcie",
+      "kadr"
+    ]
+  },
+  {
+    "id": "e-expound",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expound",
+    "pronunciation": "ɪkˈspaʊnd",
+    "meaning": [
+      "przedstawiać",
+      "objaśniać"
+    ]
+  },
+  {
+    "id": "e-express",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "express",
+    "pronunciation": "ɪkˈspres",
+    "meaning": [
+      "wyrażać się",
+      "wyrażać",
+      "przedstawiać",
+      "wyraźny",
+      "ekspresowy",
+      "ekspres"
+    ]
+  },
+  {
+    "id": "e-expression",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expression",
+    "pronunciation": "ɪkˈspreʃən",
+    "meaning": [
+      "wyrażenie",
+      "wyraz czegoś",
+      "wyraz",
+      "przejaw",
+      "przykład",
+      "ekspresja"
+    ]
+  },
+  {
+    "id": "e-expressionless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "expressionless",
+    "pronunciation": "ɪkˈspreʃənlɪs",
+    "meaning": [
+      "bez wyrazu"
+    ]
+  },
+  {
+    "id": "e-expressive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "expressive",
+    "pronunciation": "ɪkˈspresɪv",
+    "meaning": [
+      "wyrazisty",
+      "dotyczący wypowiadania się"
+    ]
+  },
+  {
+    "id": "e-expressway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expressway",
+    "pronunciation": "ɪkˈspresweɪ",
+    "meaning": [
+      "autostrada",
+      "droga szybkiego ruchu"
+    ]
+  },
+  {
+    "id": "e-expropriate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "expropriate",
+    "pronunciation": "ɪkˈsprəʊprɪeɪt",
+    "meaning": [
+      "konfiskować",
+      "zabierać"
+    ]
+  },
+  {
+    "id": "e-expulsion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expulsion",
+    "pronunciation": "ɪkˈspʌlʃən",
+    "meaning": [
+      "wydalenie"
+    ]
+  },
+  {
+    "id": "e-exquisite",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exquisite",
+    "pronunciation": "ˈekskwɪzɪt",
+    "meaning": [
+      "przepiękny",
+      "nadzwyczajny"
+    ]
+  },
+  {
+    "id": "e-ext.",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "ext.",
+    "pronunciation": "/ɪkˈst/",
+    "meaning": [
+      "zewnętrzny",
+      "zewnątrz",
+      "wewnętrzny"
+    ]
+  },
+  {
+    "id": "e-extend",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "extend",
+    "pronunciation": "ɪkˈstend",
+    "meaning": [
+      "rozpościerać się",
+      "rozpościerać",
+      "ciągnąć się",
+      "rozciągać się",
+      "rozciągać",
+      "powiększać",
+      "przedłużać",
+      "wyciągać",
+      "przedstawiać",
+      "oferować"
+    ]
+  },
+  {
+    "id": "e-extension",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extension",
+    "pronunciation": "ɪkˈstenʃən",
+    "meaning": [
+      "dobudówka",
+      "powiększenie",
+      "przedłużenie",
+      "rozszerzenie",
+      "numer wewnętrzny"
+    ]
+  },
+  {
+    "id": "e-extensive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extensive",
+    "pronunciation": "ɪkˈstensɪv",
+    "meaning": [
+      "rozległy",
+      "ogromny",
+      "obszerny",
+      "szczegółowy"
+    ]
+  },
+  {
+    "id": "e-extent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extent",
+    "pronunciation": "ɪkˈstent",
+    "meaning": [
+      "rozmiar"
+    ]
+  },
+  {
+    "id": "e-extenuate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extenuate",
+    "pronunciation": "ɪkˈstenjʊeɪt",
+    "meaning": [
+      "łagodzić"
+    ]
+  },
+  {
+    "id": "e-exterior",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "exterior",
+    "pronunciation": "ɪkˈstɪərɪə",
+    "meaning": [
+      "zewnętrzna powierzchnia",
+      "powierzchowność",
+      "wygląd zewnętrzny",
+      "zewnętrzny"
+    ]
+  },
+  {
+    "id": "e-exterminate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exterminate",
+    "pronunciation": "ɪkˈstɜ:mɪneɪt",
+    "meaning": [
+      "eksterminować",
+      "wybijać"
+    ]
+  },
+  {
+    "id": "e-extermination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extermination",
+    "pronunciation": "ɪkˌstɜ:mɪˈneɪʃən",
+    "meaning": [
+      "eksterminacja"
+    ]
+  },
+  {
+    "id": "e-external",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "external",
+    "pronunciation": "ɪkˈstɜ:nəl",
+    "meaning": [
+      "zewnętrzny",
+      "aspekty zewnętrzne"
+    ]
+  },
+  {
+    "id": "e-extinct",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "extinct",
+    "pronunciation": "ɪkˈstɪŋkt",
+    "meaning": [
+      "wymarły",
+      "nieczynny",
+      "wygasły"
+    ]
+  },
+  {
+    "id": "e-extinction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extinction",
+    "pronunciation": "ɪkˈstɪŋkʃən",
+    "meaning": [
+      "wymarcie",
+      "wygaśnięcie"
+    ]
+  },
+  {
+    "id": "e-extinguish",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "extinguish",
+    "pronunciation": "ɪkˈstɪŋgwɪʃ",
+    "meaning": [
+      "gasić",
+      "zacierać",
+      "niweczyć"
+    ]
+  },
+  {
+    "id": "e-extinguisher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extinguisher",
+    "pronunciation": "ɪkˈstɪŋgwɪʃə",
+    "meaning": [
+      "gaśnica"
+    ]
+  },
+  {
+    "id": "e-extol",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "extol",
+    "pronunciation": "ɪkˈstəʊl",
+    "meaning": [
+      "wychwalać",
+      "wysławiać"
+    ]
+  },
+  {
+    "id": "e-extort",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "extort",
+    "pronunciation": "ɪkˈstɔ:t",
+    "meaning": [
+      "wymuszać",
+      "zdzierać"
+    ]
+  },
+  {
+    "id": "e-extortionate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extortionate",
+    "pronunciation": "ɪksˈtɔ:ʃənət",
+    "meaning": [
+      "nadmierny"
+    ]
+  },
+  {
+    "id": "e-extra",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "extra",
+    "pronunciation": "ˈekstrə",
+    "meaning": [
+      "dodatkowy",
+      "dodatkowo",
+      "niezwykle",
+      "dodatek",
+      "opłata dodatkowa",
+      "statysta"
+    ]
+  },
+  {
+    "id": "e-extract",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "extract",
+    "pronunciation": "/ɪkˈstrækt/",
+    "meaning": [
+      "wydobywać",
+      "wyciągać",
+      "wycinek",
+      "wyimek",
+      "wyciąg",
+      "ekstrakt"
+    ]
+  },
+  {
+    "id": "e-extraction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extraction",
+    "pronunciation": "ɪkˈstrækʃən",
+    "meaning": [
+      "pochodzenie",
+      "wydobywanie"
+    ]
+  },
+  {
+    "id": "e-extractor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extractor",
+    "pronunciation": "ɪkˈstræktə",
+    "meaning": [
+      "wentylator okienny",
+      "wentylator"
+    ]
+  },
+  {
+    "id": "e-extra-curricular",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "extra-curricular",
+    "pronunciation": "ˌekstrə kəˈrɪkjʊlə",
+    "meaning": [
+      "nadobowiązkowy"
+    ]
+  },
+  {
+    "id": "e-extradite",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extradite",
+    "pronunciation": "ˈekstrədaɪt",
+    "meaning": [
+      "poddawać ekstradycji"
+    ]
+  },
+  {
+    "id": "e-extradition",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "extradition",
+    "pronunciation": "ˌekstrəˈdɪʃən",
+    "meaning": [
+      "ekstradycja"
+    ]
+  },
+  {
+    "id": "e-extramarital",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extramarital",
+    "pronunciation": "ˌekstrəˈmærɪtəl",
+    "meaning": [
+      "pozamałżeński"
+    ]
+  },
+  {
+    "id": "e-extra-mural",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extra-mural",
+    "pronunciation": "ˌekstrəˈmjʊərəl",
+    "meaning": [
+      "zaoczny"
+    ]
+  },
+  {
+    "id": "e-extraneous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extraneous",
+    "pronunciation": "ɪkˈstreɪnɪəs",
+    "meaning": [
+      "poboczny"
+    ]
+  },
+  {
+    "id": "e-extraordinary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "extraordinary",
+    "pronunciation": "ɪkˈstrɔ:dənərɪ",
+    "meaning": [
+      "nadzwyczajny",
+      "niezwykły"
+    ]
+  },
+  {
+    "id": "e-extravagance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extravagance",
+    "pronunciation": "ɪkˈstrævəgəns",
+    "meaning": [
+      "rozrzutność",
+      "luksus"
+    ]
+  },
+  {
+    "id": "e-extravagant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extravagant",
+    "pronunciation": "ɪkˈstrævəgənt",
+    "meaning": [
+      "rozrzutny",
+      "luksusowy",
+      "kosztowny",
+      "zmanierowany",
+      "przesadny",
+      "niepraktyczny",
+      "ekstrawagancki"
+    ]
+  },
+  {
+    "id": "e-extravaganza",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extravaganza",
+    "pronunciation": "ɪkˌstrævəˈgænzə",
+    "meaning": [
+      "ekstrawagancja"
+    ]
+  },
+  {
+    "id": "e-extremist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extremist",
+    "pronunciation": "ɪkˈstri:mɪst",
+    "meaning": [
+      "ekstremista"
+    ]
+  },
+  {
+    "id": "e-extremity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extremity",
+    "pronunciation": "ɪkˈstremɪtɪ",
+    "meaning": [
+      "kraniec",
+      "kończyna",
+      "członek",
+      "krańcowy stan",
+      "ostateczność",
+      "krańcowość"
+    ]
+  },
+  {
+    "id": "e-extricate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extricate",
+    "pronunciation": "ˈekstrɪkeɪt",
+    "meaning": [
+      "wydobywać",
+      "uwalniać"
+    ]
+  },
+  {
+    "id": "e-extrovert",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "extrovert",
+    "pronunciation": "ˈekstrəvɜ:t",
+    "meaning": [
+      "ekstrawertyk",
+      "ekstrawertyczny"
+    ]
+  },
+  {
+    "id": "e-extrude",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extrude",
+    "pronunciation": "ɪkˈstru:d",
+    "meaning": [
+      "wyciskać"
+    ]
+  },
+  {
+    "id": "e-exuberant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exuberant",
+    "pronunciation": "ɪgˈzju:bərənt",
+    "meaning": [
+      "pełen życia"
+    ]
+  },
+  {
+    "id": "e-exude",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exude",
+    "pronunciation": "ɪgˈzju:d",
+    "meaning": [
+      "emanować",
+      "wydzielać"
+    ]
+  },
+  {
+    "id": "e-exult",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "exult",
+    "pronunciation": "ɪgˈzʌlt",
+    "meaning": [
+      "radować się"
+    ]
+  },
+  {
+    "id": "e-exultant",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "exultant",
+    "pronunciation": "ɪgˈzʌltənt",
+    "meaning": [
+      "rozradowany"
+    ]
+  },
+  {
+    "id": "e-eye",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "eye",
+    "pronunciation": "aɪ",
+    "meaning": [
+      "oko",
+      "mierzyć wzrokiem"
+    ]
+  },
+  {
+    "id": "e-eyeball",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eyeball",
+    "pronunciation": "ˈaɪbɔ:l",
+    "meaning": [
+      "gałka oczna"
+    ]
+  },
+  {
+    "id": "e-eyebrow",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eyebrow",
+    "pronunciation": "ˈaɪbraʊ",
+    "meaning": [
+      "brew"
+    ]
+  },
+  {
+    "id": "e-expedite",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expedite",
+    "pronunciation": "ˈekspədaɪt",
+    "meaning": [
+      "przyśpieszyć"
+    ]
+  },
+  {
+    "id": "e-expedition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expedition",
+    "pronunciation": "ˌekspəˈdɪʃən",
+    "meaning": [
+      "ekspedycja",
+      "wyprawa"
+    ]
+  },
+  {
+    "id": "e-expel",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expel",
+    "pronunciation": "ɪkˈspel",
+    "meaning": [
+      "wydalać",
+      "usuwać",
+      "wyrzucać"
+    ]
+  },
+  {
+    "id": "e-expend",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expend",
+    "pronunciation": "ɪkˈspend",
+    "meaning": [
+      "wydatkować",
+      "zużywać"
+    ]
+  },
+  {
+    "id": "e-expendable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "expendable",
+    "pronunciation": "ɪkˈspendəbəl",
+    "meaning": [
+      "zbyteczny"
+    ]
+  },
+  {
+    "id": "e-expenditure",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expenditure",
+    "pronunciation": "ɪkˈspendɪʧə",
+    "meaning": [
+      "wydatki",
+      "zużycie"
+    ]
+  },
+  {
+    "id": "e-expense",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expense",
+    "pronunciation": "ɪkˈspens",
+    "meaning": [
+      "nakłady",
+      "wydatki",
+      "dieta",
+      "zwrot kosztów"
+    ]
+  },
+  {
+    "id": "e-expensive",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "expensive",
+    "pronunciation": "ɪkˈspensɪv",
+    "meaning": [
+      "kosztowny",
+      "drogi"
+    ]
+  },
+  {
+    "id": "e-experience",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "experience",
+    "pronunciation": "ɪkˈspɪərɪəns",
+    "meaning": [
+      "doświadczenie",
+      "praktyka",
+      "znajomość",
+      "przeżycie",
+      "fakt",
+      "przeżywać",
+      "doświadczać"
+    ]
+  },
+  {
+    "id": "e-experienced",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "experienced",
+    "pronunciation": "ɪkˈspɪərɪənst",
+    "meaning": [
+      "doświadczony"
+    ]
+  },
+  {
+    "id": "e-experiment",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "experiment",
+    "pronunciation": "ɪkˈsperəmənt",
+    "meaning": [
+      "eksperyment",
+      "doświadczenie",
+      "eksperymentować"
+    ]
+  },
+  {
+    "id": "e-experimental",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "experimental",
+    "pronunciation": "ɪkˌsperəˈmentəl",
+    "meaning": [
+      "eksperymentalny",
+      "doświadczalny",
+      "próbny"
+    ]
+  },
+  {
+    "id": "e-expert",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "expert",
+    "pronunciation": "ˈekspɜ:t",
+    "meaning": [
+      "ekspert",
+      "znawca",
+      "wyspecjalizowany",
+      "specjalistyczny"
+    ]
+  },
+  {
+    "id": "e-expertise",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expertise",
+    "pronunciation": "ˌekspɜ:ˈti:z",
+    "meaning": [
+      "wiedza specjalistyczne",
+      "umiejętności specjalistyczne"
+    ]
+  },
+  {
+    "id": "e-expiate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "expiate",
+    "pronunciation": "ˈekspɪeɪt",
+    "meaning": [
+      "odpokutowywać"
+    ]
+  },
+  {
+    "id": "e-expiration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expiration",
+    "pronunciation": "ˌekspɪˈreɪʃən",
+    "meaning": [
+      "utrata ważności"
+    ]
+  },
+  {
+    "id": "e-expire",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "expire",
+    "pronunciation": "ɪkˈspaɪə",
+    "meaning": [
+      "tracić ważność",
+      "wyzionąć ducha"
+    ]
+  },
+  {
+    "id": "e-expiry_date",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expiry date",
+    "pronunciation": "ɪkˈspaɪərɪ deɪt",
+    "meaning": [
+      "data ważności"
+    ]
+  },
+  {
+    "id": "e-explain",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "explain",
+    "pronunciation": "ɪkˈspleɪn",
+    "meaning": [
+      "wyjaśniać",
+      "usprawiedliwiać"
+    ]
+  },
+  {
+    "id": "e-explanation",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "explanation",
+    "pronunciation": "ˌekspləˈneɪʃən",
+    "meaning": [
+      "wyjaśnienie",
+      "objaśnienie"
+    ]
+  },
+  {
+    "id": "e-explanatory",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "explanatory",
+    "pronunciation": "ɪkˈsplænətərɪ",
+    "meaning": [
+      "objaśniający",
+      "wyjaśniający"
+    ]
+  },
+  {
+    "id": "e-explicable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "explicable",
+    "pronunciation": "ɪkˈsplɪkəbəl",
+    "meaning": [
+      "wytłumaczalny"
+    ]
+  },
+  {
+    "id": "e-explicit",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "explicit",
+    "pronunciation": "ɪkˈsplɪsɪt",
+    "meaning": [
+      "otwarty",
+      "szczery",
+      "jednoznaczny"
+    ]
+  },
+  {
+    "id": "e-explode",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "explode",
+    "pronunciation": "ɪkˈspləʊd",
+    "meaning": [
+      "eksplodować",
+      "wybuchać",
+      "wzrastać wybuchowo",
+      "dyskredytować"
+    ]
+  },
+  {
+    "id": "e-exploitation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exploitation",
+    "pronunciation": "ˌeksplɔɪˈteɪʃən",
+    "meaning": [
+      "wyzysk",
+      "wykorzystywanie",
+      "eksploatacja"
+    ]
+  },
+  {
+    "id": "e-exploitative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exploitative",
+    "pronunciation": "ɪkˈsplɔɪtətɪv",
+    "meaning": [
+      "wyzyskujący"
+    ]
+  },
+  {
+    "id": "e-exploiter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exploiter",
+    "pronunciation": "ɪkˈsplɔɪtə",
+    "meaning": [
+      "wyzyskiwacz"
+    ]
+  },
+  {
+    "id": "e-exploratory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exploratory",
+    "pronunciation": "ɪkˈsplɒrətərɪ",
+    "meaning": [
+      "badawczy",
+      "rozpoznawczy"
+    ]
+  },
+  {
+    "id": "e-explore",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "explore",
+    "pronunciation": "ɪkˈsplɔ:",
+    "meaning": [
+      "badać",
+      "przeszukiwać",
+      "penetrować",
+      "analizować",
+      "przedyskutowywać"
+    ]
+  },
+  {
+    "id": "e-explorer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "explorer",
+    "pronunciation": "ɪkˈsplɔ:rə",
+    "meaning": [
+      "badacz",
+      "eksplorator"
+    ]
+  },
+  {
+    "id": "e-explosion",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "explosion",
+    "pronunciation": "ɪkˈspləʊʒən",
+    "meaning": [
+      "eksplozja",
+      "wybuch",
+      "gwałtowny przyrost"
+    ]
+  },
+  {
+    "id": "e-explosive",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "explosive",
+    "pronunciation": "ɪkˈspləʊsɪv",
+    "meaning": [
+      "środek wybuchowy",
+      "materiał wybuchowy",
+      "wybuchowy",
+      "rozrywający się",
+      "rozrywający",
+      "oszałamiający"
+    ]
+  },
+  {
+    "id": "e-exponent",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exponent",
+    "pronunciation": "ɪkˈspəʊnənt",
+    "meaning": [
+      "przedstawiciel",
+      "orędownik",
+      "wyraziciel",
+      "wykładnik"
+    ]
+  },
+  {
+    "id": "e-exponential",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "exponential",
+    "pronunciation": "ˌekspəˈnenʃəl",
+    "meaning": [
+      "wykładniczy",
+      "raptowny",
+      "zdwojony"
+    ]
+  },
+  {
+    "id": "e-export",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "export",
+    "pronunciation": "/ˈekspɔːt/",
+    "meaning": [
+      "eksportować",
+      "rozpowszechniać",
+      "eksport",
+      "artykuły eksportowe"
+    ]
+  },
+  {
+    "id": "e-exporter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "exporter",
+    "pronunciation": "ɪkˈspɔ:tə",
+    "meaning": [
+      "eksporter"
+    ]
+  },
+  {
+    "id": "e-expose",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "expose",
+    "pronunciation": "ɪkˈspəʊz",
+    "meaning": [
+      "odsłaniać",
+      "wystawiać",
+      "narażać się",
+      "narażać",
+      "demaskować"
+    ]
+  },
+  {
+    "id": "e-exposé",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "exposé",
+    "pronunciation": "ekˈspəʊzeɪ",
+    "meaning": [
+      "zdemaskowanie"
+    ]
+  },
+  {
+    "id": "e-exposition",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exposition",
+    "pronunciation": "ˌekspəˈzɪʃən",
+    "meaning": [
+      "przedstawienie",
+      "wykład"
+    ]
+  },
+  {
+    "id": "e-exposure",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "exposure",
+    "pronunciation": "ɪkˈspəʊʒə",
+    "meaning": [
+      "wystawienie się",
+      "wystawienie",
+      "ekspozycja",
+      "pokazywanie",
+      "opisywanie",
+      "zdemaskowanie",
+      "zdjęcie",
+      "kadr"
+    ]
+  },
+  {
+    "id": "e-expound",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "expound",
+    "pronunciation": "ɪkˈspaʊnd",
+    "meaning": [
+      "przedstawiać",
+      "objaśniać"
+    ]
+  },
+  {
+    "id": "e-express",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "express",
+    "pronunciation": "ɪkˈspres",
+    "meaning": [
+      "wyrażać się",
+      "wyrażać",
+      "przedstawiać",
+      "wyraźny",
+      "ekspresowy",
+      "ekspres"
+    ]
+  },
+  {
+    "id": "e-expression",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expression",
+    "pronunciation": "ɪkˈspreʃən",
+    "meaning": [
+      "wyrażenie",
+      "wyraz czegoś",
+      "wyraz",
+      "przejaw",
+      "przykład",
+      "ekspresja"
+    ]
+  },
+  {
+    "id": "e-expressionless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "expressionless",
+    "pronunciation": "ɪkˈspreʃənlɪs",
+    "meaning": [
+      "bez wyrazu"
+    ]
+  },
+  {
+    "id": "e-expressive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "expressive",
+    "pronunciation": "ɪkˈspresɪv",
+    "meaning": [
+      "wyrazisty",
+      "dotyczący wypowiadania się"
+    ]
+  },
+  {
+    "id": "e-expressway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "expressway",
+    "pronunciation": "ɪkˈspresweɪ",
+    "meaning": [
+      "autostrada",
+      "droga szybkiego ruchu"
+    ]
+  },
+  {
+    "id": "e-expropriate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "expropriate",
+    "pronunciation": "ɪkˈsprəʊprɪeɪt",
+    "meaning": [
+      "konfiskować",
+      "zabierać"
+    ]
+  },
+  {
+    "id": "e-expulsion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "expulsion",
+    "pronunciation": "ɪkˈspʌlʃən",
+    "meaning": [
+      "wydalenie"
+    ]
+  },
+  {
+    "id": "e-exquisite",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exquisite",
+    "pronunciation": "ˈekskwɪzɪt",
+    "meaning": [
+      "przepiękny",
+      "nadzwyczajny"
+    ]
+  },
+  {
+    "id": "e-ext.",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "ext.",
+    "pronunciation": "/ɪkˈst/",
+    "meaning": [
+      "zewnętrzny",
+      "zewnątrz",
+      "wewnętrzny"
+    ]
+  },
+  {
+    "id": "e-extend",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "extend",
+    "pronunciation": "ɪkˈstend",
+    "meaning": [
+      "rozpościerać się",
+      "rozpościerać",
+      "ciągnąć się",
+      "rozciągać się",
+      "rozciągać",
+      "powiększać",
+      "przedłużać",
+      "wyciągać",
+      "przedstawiać",
+      "oferować"
+    ]
+  },
+  {
+    "id": "e-extension",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extension",
+    "pronunciation": "ɪkˈstenʃən",
+    "meaning": [
+      "dobudówka",
+      "powiększenie",
+      "przedłużenie",
+      "rozszerzenie",
+      "numer wewnętrzny"
+    ]
+  },
+  {
+    "id": "e-extensive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extensive",
+    "pronunciation": "ɪkˈstensɪv",
+    "meaning": [
+      "rozległy",
+      "ogromny",
+      "obszerny",
+      "szczegółowy"
+    ]
+  },
+  {
+    "id": "e-extent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extent",
+    "pronunciation": "ɪkˈstent",
+    "meaning": [
+      "rozmiar"
+    ]
+  },
+  {
+    "id": "e-extenuate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extenuate",
+    "pronunciation": "ɪkˈstenjʊeɪt",
+    "meaning": [
+      "łagodzić"
+    ]
+  },
+  {
+    "id": "e-exterior",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "exterior",
+    "pronunciation": "ɪkˈstɪərɪə",
+    "meaning": [
+      "zewnętrzna powierzchnia",
+      "powierzchowność",
+      "wygląd zewnętrzny",
+      "zewnętrzny"
+    ]
+  },
+  {
+    "id": "e-exterminate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exterminate",
+    "pronunciation": "ɪkˈstɜ:mɪneɪt",
+    "meaning": [
+      "eksterminować",
+      "wybijać"
+    ]
+  },
+  {
+    "id": "e-extermination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extermination",
+    "pronunciation": "ɪkˌstɜ:mɪˈneɪʃən",
+    "meaning": [
+      "eksterminacja"
+    ]
+  },
+  {
+    "id": "e-external",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "external",
+    "pronunciation": "ɪkˈstɜ:nəl",
+    "meaning": [
+      "zewnętrzny",
+      "aspekty zewnętrzne"
+    ]
+  },
+  {
+    "id": "e-extinct",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "extinct",
+    "pronunciation": "ɪkˈstɪŋkt",
+    "meaning": [
+      "wymarły",
+      "nieczynny",
+      "wygasły"
+    ]
+  },
+  {
+    "id": "e-extinction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extinction",
+    "pronunciation": "ɪkˈstɪŋkʃən",
+    "meaning": [
+      "wymarcie",
+      "wygaśnięcie"
+    ]
+  },
+  {
+    "id": "e-extinguish",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "extinguish",
+    "pronunciation": "ɪkˈstɪŋgwɪʃ",
+    "meaning": [
+      "gasić",
+      "zacierać",
+      "niweczyć"
+    ]
+  },
+  {
+    "id": "e-extinguisher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extinguisher",
+    "pronunciation": "ɪkˈstɪŋgwɪʃə",
+    "meaning": [
+      "gaśnica"
+    ]
+  },
+  {
+    "id": "e-extol",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "extol",
+    "pronunciation": "ɪkˈstəʊl",
+    "meaning": [
+      "wychwalać",
+      "wysławiać"
+    ]
+  },
+  {
+    "id": "e-extort",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "extort",
+    "pronunciation": "ɪkˈstɔ:t",
+    "meaning": [
+      "wymuszać",
+      "zdzierać"
+    ]
+  },
+  {
+    "id": "e-extortionate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extortionate",
+    "pronunciation": "ɪksˈtɔ:ʃənət",
+    "meaning": [
+      "nadmierny"
+    ]
+  },
+  {
+    "id": "e-extra",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "extra",
+    "pronunciation": "ˈekstrə",
+    "meaning": [
+      "dodatkowy",
+      "dodatkowo",
+      "niezwykle",
+      "dodatek",
+      "opłata dodatkowa",
+      "statysta"
+    ]
+  },
+  {
+    "id": "e-extract",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "extract",
+    "pronunciation": "/ɪkˈstrækt/",
+    "meaning": [
+      "wydobywać",
+      "wyciągać",
+      "wycinek",
+      "wyimek",
+      "wyciąg",
+      "ekstrakt"
+    ]
+  },
+  {
+    "id": "e-extraction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extraction",
+    "pronunciation": "ɪkˈstrækʃən",
+    "meaning": [
+      "pochodzenie",
+      "wydobywanie"
+    ]
+  },
+  {
+    "id": "e-extractor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "extractor",
+    "pronunciation": "ɪkˈstræktə",
+    "meaning": [
+      "wentylator okienny",
+      "wentylator"
+    ]
+  },
+  {
+    "id": "e-extra-curricular",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "extra-curricular",
+    "pronunciation": "ˌekstrə kəˈrɪkjʊlə",
+    "meaning": [
+      "nadobowiązkowy"
+    ]
+  },
+  {
+    "id": "e-extradite",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extradite",
+    "pronunciation": "ˈekstrədaɪt",
+    "meaning": [
+      "poddawać ekstradycji"
+    ]
+  },
+  {
+    "id": "e-extradition",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "extradition",
+    "pronunciation": "ˌekstrəˈdɪʃən",
+    "meaning": [
+      "ekstradycja"
+    ]
+  },
+  {
+    "id": "e-extramarital",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extramarital",
+    "pronunciation": "ˌekstrəˈmærɪtəl",
+    "meaning": [
+      "pozamałżeński"
+    ]
+  },
+  {
+    "id": "e-extra-mural",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extra-mural",
+    "pronunciation": "ˌekstrəˈmjʊərəl",
+    "meaning": [
+      "zaoczny"
+    ]
+  },
+  {
+    "id": "e-extraneous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extraneous",
+    "pronunciation": "ɪkˈstreɪnɪəs",
+    "meaning": [
+      "poboczny"
+    ]
+  },
+  {
+    "id": "e-extraordinary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "extraordinary",
+    "pronunciation": "ɪkˈstrɔ:dənərɪ",
+    "meaning": [
+      "nadzwyczajny",
+      "niezwykły"
+    ]
+  },
+  {
+    "id": "e-extravagance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extravagance",
+    "pronunciation": "ɪkˈstrævəgəns",
+    "meaning": [
+      "rozrzutność",
+      "luksus"
+    ]
+  },
+  {
+    "id": "e-extravagant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "extravagant",
+    "pronunciation": "ɪkˈstrævəgənt",
+    "meaning": [
+      "rozrzutny",
+      "luksusowy",
+      "kosztowny",
+      "zmanierowany",
+      "przesadny",
+      "niepraktyczny",
+      "ekstrawagancki"
+    ]
+  },
+  {
+    "id": "e-extravaganza",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extravaganza",
+    "pronunciation": "ɪkˌstrævəˈgænzə",
+    "meaning": [
+      "ekstrawagancja"
+    ]
+  },
+  {
+    "id": "e-extremist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extremist",
+    "pronunciation": "ɪkˈstri:mɪst",
+    "meaning": [
+      "ekstremista"
+    ]
+  },
+  {
+    "id": "e-extremity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "extremity",
+    "pronunciation": "ɪkˈstremɪtɪ",
+    "meaning": [
+      "kraniec",
+      "kończyna",
+      "członek",
+      "krańcowy stan",
+      "ostateczność",
+      "krańcowość"
+    ]
+  },
+  {
+    "id": "e-extricate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extricate",
+    "pronunciation": "ˈekstrɪkeɪt",
+    "meaning": [
+      "wydobywać",
+      "uwalniać"
+    ]
+  },
+  {
+    "id": "e-extrovert",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "extrovert",
+    "pronunciation": "ˈekstrəvɜ:t",
+    "meaning": [
+      "ekstrawertyk",
+      "ekstrawertyczny"
+    ]
+  },
+  {
+    "id": "e-extrude",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "extrude",
+    "pronunciation": "ɪkˈstru:d",
+    "meaning": [
+      "wyciskać"
+    ]
+  },
+  {
+    "id": "e-exuberant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "exuberant",
+    "pronunciation": "ɪgˈzju:bərənt",
+    "meaning": [
+      "pełen życia"
+    ]
+  },
+  {
+    "id": "e-exude",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "exude",
+    "pronunciation": "ɪgˈzju:d",
+    "meaning": [
+      "emanować",
+      "wydzielać"
+    ]
+  },
+  {
+    "id": "e-exult",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "exult",
+    "pronunciation": "ɪgˈzʌlt",
+    "meaning": [
+      "radować się"
+    ]
+  },
+  {
+    "id": "e-exultant",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "exultant",
+    "pronunciation": "ɪgˈzʌltənt",
+    "meaning": [
+      "rozradowany"
+    ]
+  },
+  {
+    "id": "e-eye",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "eye",
+    "pronunciation": "aɪ",
+    "meaning": [
+      "oko",
+      "mierzyć wzrokiem"
+    ]
+  },
+  {
+    "id": "e-eyeball",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eyeball",
+    "pronunciation": "ˈaɪbɔ:l",
+    "meaning": [
+      "gałka oczna"
+    ]
+  },
+  {
+    "id": "e-eyebrow",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eyebrow",
+    "pronunciation": "ˈaɪbraʊ",
+    "meaning": [
+      "brew"
+    ]
+  },
+  {
+    "id": "e-eye-catching",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "eye-catching",
+    "pronunciation": "ˈaɪkæʧɪŋ",
+    "meaning": [
+      "przykuwający wzrok"
+    ]
+  },
+  {
+    "id": "e-eyelash",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eyelash",
+    "pronunciation": "ˈaɪlæʃ",
+    "meaning": [
+      "rzęsa"
+    ]
+  },
+  {
+    "id": "e-eyelid",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "eyelid",
+    "pronunciation": "ˈaɪlɪd",
+    "meaning": [
+      "powieka"
+    ]
+  },
+  {
+    "id": "e-eye-opener",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "eye-opener",
+    "pronunciation": "ˈaɪəʊpənə",
+    "meaning": [
+      "rewelacja"
+    ]
+  },
+  {
+    "id": "e-eye-shadow",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "eye-shadow",
+    "pronunciation": "ˈaɪʃædəʊ",
+    "meaning": [
+      "cień do powiek"
+    ]
+  },
+  {
+    "id": "e-eyesight",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "eyesight",
+    "pronunciation": "ˈaɪsaɪt",
+    "meaning": [
+      "wzrok"
+    ]
+  },
+  {
+    "id": "e-eyesore",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "eyesore",
+    "pronunciation": "ˈaɪsɔ:",
+    "meaning": [
+      "okropieństwo",
+      "brzydactwo"
+    ]
+  },
+  {
+    "id": "e-eye-witness",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "eye-witness",
+    "pronunciation": "ˈaɪwɪtnɪs",
+    "meaning": [
+      "naoczny świadek"
+    ]
+  }
+]
