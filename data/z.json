@@ -1,0 +1,287 @@
+[
+  {
+    "id": "z-Zaire",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Zaire",
+    "pronunciation": "zaɪˈɪə",
+    "meaning": [
+      "Zair"
+    ]
+  },
+  {
+    "id": "z-Zairean",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "Zairean",
+    "pronunciation": "zaɪˈɪərɪən",
+    "meaning": [
+      "zairski"
+    ]
+  },
+  {
+    "id": "z-Zambia",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Zambia",
+    "pronunciation": "ˈzæmbɪə",
+    "meaning": [
+      "Zambia"
+    ]
+  },
+  {
+    "id": "z-Zambian",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Zambian",
+    "pronunciation": "ˈzæmbɪən",
+    "meaning": [
+      "zambijski"
+    ]
+  },
+  {
+    "id": "z-zany",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "zany",
+    "pronunciation": "ˈzeɪnɪ",
+    "meaning": [
+      "dziwaczny"
+    ]
+  },
+  {
+    "id": "z-zeal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "zeal",
+    "pronunciation": "zi:l",
+    "meaning": [
+      "zapał"
+    ]
+  },
+  {
+    "id": "z-zealous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "zealous",
+    "pronunciation": "ˈzeləs",
+    "meaning": [
+      "zapalony",
+      "fanatyczny"
+    ]
+  },
+  {
+    "id": "z-zebra",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "zebra",
+    "pronunciation": "ˈzebrə",
+    "meaning": [
+      "zebra",
+      "przejście dla pieszych"
+    ]
+  },
+  {
+    "id": "z-zenith",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "zenith",
+    "pronunciation": "ˈzenɪθ",
+    "meaning": [
+      "zenit"
+    ]
+  },
+  {
+    "id": "z-zero",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "zero",
+    "pronunciation": "ˈzɪərəʊ",
+    "meaning": [
+      "zero",
+      "zerowy"
+    ]
+  },
+  {
+    "id": "z-zest",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "zest",
+    "pronunciation": "zest",
+    "meaning": [
+      "radość życia",
+      "przyjemność"
+    ]
+  },
+  {
+    "id": "z-zigzag",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "zigzag",
+    "pronunciation": "ˈzɪgzæg",
+    "meaning": [
+      "zygzak",
+      "poruszać się zygzakiem"
+    ]
+  },
+  {
+    "id": "z-Zimbabwe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Zimbabwe",
+    "pronunciation": "zɪmˈbɑ:bwɪ",
+    "meaning": [
+      "Zimbabwe"
+    ]
+  },
+  {
+    "id": "z-zinc",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "zinc",
+    "pronunciation": "zɪŋk",
+    "meaning": [
+      "cynk"
+    ]
+  },
+  {
+    "id": "z-Zion",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Zion",
+    "pronunciation": "ˈzaɪən",
+    "meaning": [
+      "Syjon"
+    ]
+  },
+  {
+    "id": "z-Zionism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Zionism",
+    "pronunciation": "ˈzaɪənɪzəm",
+    "meaning": [
+      "syjonizm"
+    ]
+  },
+  {
+    "id": "z-Zionist",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Zionist",
+    "pronunciation": "ˈzaɪənɪst",
+    "meaning": [
+      "syjonista"
+    ]
+  },
+  {
+    "id": "z-zip",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "zip",
+    "pronunciation": "zɪp",
+    "meaning": [
+      "zamek błyskawiczny",
+      "zamykać na zamek błyskawiczny",
+      "zamykać",
+      "kod pocztowy"
+    ]
+  },
+  {
+    "id": "z-zipper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "zipper",
+    "pronunciation": "ˈzɪpə",
+    "meaning": [
+      "zamek błyskawiczny"
+    ]
+  },
+  {
+    "id": "z-zodiac",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "zodiac",
+    "pronunciation": "ˈzəʊdɪək",
+    "meaning": []
+  },
+  {
+    "id": "z-zombie",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "zombie",
+    "pronunciation": "ˈzɒmbɪ",
+    "meaning": [
+      "żywy trup"
+    ]
+  },
+  {
+    "id": "z-zone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "zone",
+    "pronunciation": "zəʊn",
+    "meaning": [
+      "strefa"
+    ]
+  },
+  {
+    "id": "z-zoo",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "zoo",
+    "pronunciation": "zu:",
+    "meaning": [
+      "zoo",
+      "ogród zoologiczny"
+    ]
+  },
+  {
+    "id": "z-zoology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "zoology",
+    "pronunciation": "zəʊˈɒləʤɪ",
+    "meaning": [
+      "zoologia"
+    ]
+  },
+  {
+    "id": "z-zoom",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "zoom",
+    "pronunciation": "zu:m",
+    "meaning": [
+      "mknąć",
+      "szybować",
+      "najeżdżać",
+      "obiektyw ze zmienną ogniskową"
+    ]
+  },
+  {
+    "id": "z-zucchini",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "zucchini",
+    "pronunciation": "zʊˈki:nɪ",
+    "meaning": [
+      "cukinia"
+    ]
+  }
+]
