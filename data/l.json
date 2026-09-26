@@ -1,0 +1,5835 @@
+[
+  {
+    "id": "l-L.A.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "L.A.",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "zgromadzenie ustawodawcze",
+      "Los Angeles"
+    ]
+  },
+  {
+    "id": "l-Lab.",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Lab.",
+    "pronunciation": "/læb/",
+    "meaning": [
+      "Partia Pracy",
+      "Pracy"
+    ]
+  },
+  {
+    "id": "l-lab",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lab",
+    "pronunciation": "læb",
+    "meaning": [
+      "laboratorium"
+    ]
+  },
+  {
+    "id": "l-label",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "label",
+    "pronunciation": "ˈleɪbəl",
+    "meaning": [
+      "etykieta",
+      "etykietować",
+      "oznaczać",
+      "obdarzać etykietą"
+    ]
+  },
+  {
+    "id": "l-laboratory",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "laboratory",
+    "pronunciation": "ləˈbɒrətərɪ",
+    "meaning": [
+      "laboratorium"
+    ]
+  },
+  {
+    "id": "l-laborious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "laborious",
+    "pronunciation": "ləˈbɔ:rɪəs",
+    "meaning": [
+      "pracochłonny"
+    ]
+  },
+  {
+    "id": "l-labour",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "labour",
+    "pronunciation": "ˈleɪbə",
+    "meaning": [
+      "praca",
+      "siła robocza",
+      "poród",
+      "pracować",
+      "być ofiarą",
+      "męczyć się",
+      "pocić się",
+      "rozwodzić się"
+    ]
+  },
+  {
+    "id": "l-labourer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "labourer",
+    "pronunciation": "ˈleɪbərə",
+    "meaning": [
+      "pracownik fizyczny",
+      "pracownik"
+    ]
+  },
+  {
+    "id": "l-labyrinth",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "labyrinth",
+    "pronunciation": "ˈlæbɪrɪnθ",
+    "meaning": [
+      "labirynt"
+    ]
+  },
+  {
+    "id": "l-lace",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lace",
+    "pronunciation": "leɪs",
+    "meaning": [
+      "koronka",
+      "sznurowadło",
+      "podprawiać",
+      "zaprawiać",
+      "sznurować"
+    ]
+  },
+  {
+    "id": "l-lacerate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "lacerate",
+    "pronunciation": "ˈlæsəreɪt",
+    "meaning": [
+      "przecinać",
+      "kaleczyć"
+    ]
+  },
+  {
+    "id": "l-lack",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lack",
+    "pronunciation": "læk",
+    "meaning": [
+      "brak",
+      "niedostatek"
+    ]
+  },
+  {
+    "id": "l-lackey",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lackey",
+    "pronunciation": "ˈlækɪ",
+    "meaning": [
+      "pachołek",
+      "sługus"
+    ]
+  },
+  {
+    "id": "l-laconic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "laconic",
+    "pronunciation": "ləˈkɒnɪk",
+    "meaning": [
+      "lakoniczny"
+    ]
+  },
+  {
+    "id": "l-lacquer",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lacquer",
+    "pronunciation": "ˈlækə",
+    "meaning": [
+      "lakier",
+      "lakierować"
+    ]
+  },
+  {
+    "id": "l-lacy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "lacy",
+    "pronunciation": "ˈleɪsɪ",
+    "meaning": [
+      "koronkowy"
+    ]
+  },
+  {
+    "id": "l-lad",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lad",
+    "pronunciation": "læd",
+    "meaning": [
+      "młodzieniec"
+    ]
+  },
+  {
+    "id": "l-ladder",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ladder",
+    "pronunciation": "ˈlædə",
+    "meaning": [
+      "drabina",
+      "hierarchia",
+      "oczko"
+    ]
+  },
+  {
+    "id": "l-laden",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "laden",
+    "pronunciation": "ˈleɪdən",
+    "meaning": [
+      "obładowany"
+    ]
+  },
+  {
+    "id": "l-ladle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ladle",
+    "pronunciation": "ˈleɪdəl",
+    "meaning": [
+      "chochla",
+      "nabierać chochlą",
+      "nabierać"
+    ]
+  },
+  {
+    "id": "l-lady",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lady",
+    "pronunciation": "ˈleɪdɪ",
+    "meaning": [
+      "pani",
+      "lady"
+    ]
+  },
+  {
+    "id": "l-ladylike",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ladylike",
+    "pronunciation": "ˈleɪdɪlaɪk",
+    "meaning": [
+      "dystyngowany"
+    ]
+  },
+  {
+    "id": "l-lager",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lager",
+    "pronunciation": "ˈlɑ:gə",
+    "meaning": [
+      "lager"
+    ]
+  },
+  {
+    "id": "l-lagoon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lagoon",
+    "pronunciation": "ləˈgu:n",
+    "meaning": [
+      "laguna"
+    ]
+  },
+  {
+    "id": "l-lair",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lair",
+    "pronunciation": "leə",
+    "meaning": [
+      "legowisko",
+      "pieczara"
+    ]
+  },
+  {
+    "id": "l-lake",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lake",
+    "pronunciation": "leɪk",
+    "meaning": [
+      "jezioro"
+    ]
+  },
+  {
+    "id": "l-lamb",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lamb",
+    "pronunciation": "læm",
+    "meaning": [
+      "jagnię",
+      "baranek",
+      "baranina"
+    ]
+  },
+  {
+    "id": "l-lame",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "lame",
+    "pronunciation": "leɪm",
+    "meaning": [
+      "kulawy"
+    ]
+  },
+  {
+    "id": "l-lament",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lament",
+    "pronunciation": "ləˈment",
+    "meaning": [
+      "opłakiwać",
+      "biadać",
+      "biadanie"
+    ]
+  },
+  {
+    "id": "l-lamentable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lamentable",
+    "pronunciation": "ləˈmentəbəl",
+    "meaning": [
+      "opłakany"
+    ]
+  },
+  {
+    "id": "l-lamp",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lamp",
+    "pronunciation": "læmp",
+    "meaning": [
+      "lampa"
+    ]
+  },
+  {
+    "id": "l-lamp-post",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lamp-post",
+    "pronunciation": "ˈlæmppəʊst",
+    "meaning": [
+      "słup latarni"
+    ]
+  },
+  {
+    "id": "l-lampshade",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lampshade",
+    "pronunciation": "ˈlæmpʃeɪd",
+    "meaning": [
+      "abażur"
+    ]
+  },
+  {
+    "id": "l-landed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "landed",
+    "pronunciation": "ˈlændɪd",
+    "meaning": [
+      "posiadający ziemię"
+    ]
+  },
+  {
+    "id": "l-landing",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "landing",
+    "pronunciation": "ˈlændɪŋ",
+    "meaning": [
+      "podest",
+      "przystań",
+      "lądowanie"
+    ]
+  },
+  {
+    "id": "l-landlady",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "landlady",
+    "pronunciation": "ˈlændleɪdɪ",
+    "meaning": [
+      "gospodyni",
+      "właścicielka"
+    ]
+  },
+  {
+    "id": "l-landlocked",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "landlocked",
+    "pronunciation": "ˈlændlɒkt",
+    "meaning": [
+      "otoczony lądem"
+    ]
+  },
+  {
+    "id": "l-landlord",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "landlord",
+    "pronunciation": "ˈlændlɔ:d",
+    "meaning": [
+      "gospodarz",
+      "właściciel"
+    ]
+  },
+  {
+    "id": "l-landmark",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "landmark",
+    "pronunciation": "ˈlændmɑ:k",
+    "meaning": [
+      "punkt orientacyjny",
+      "moment przełomowy",
+      "punkt zwrotny"
+    ]
+  },
+  {
+    "id": "l-landscape",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "landscape",
+    "pronunciation": "ˈlændskeɪp",
+    "meaning": [
+      "pejzaż",
+      "krajobraz",
+      "horyzontalny",
+      "kształtować sztucznie pejzaż",
+      "kształtować"
+    ]
+  },
+  {
+    "id": "l-landslide",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "landslide",
+    "pronunciation": "ˈlændslaɪd",
+    "meaning": [
+      "miażdżące zwycięstwo",
+      "obsunięcie się ziemi"
+    ]
+  },
+  {
+    "id": "l-lane",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lane",
+    "pronunciation": "leɪn",
+    "meaning": [
+      "alejka",
+      "dróżka",
+      "pasmo",
+      "tor"
+    ]
+  },
+  {
+    "id": "l-lang.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lang.",
+    "pronunciation": "/læŋ/",
+    "meaning": [
+      "język"
+    ]
+  },
+  {
+    "id": "l-language",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "language",
+    "pronunciation": "ˈlæŋgwɪʤ",
+    "meaning": [
+      "język"
+    ]
+  },
+  {
+    "id": "l-languid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "languid",
+    "pronunciation": "ˈlæŋgwɪd",
+    "meaning": [
+      "flegmatyczny",
+      "apatyczny"
+    ]
+  },
+  {
+    "id": "l-languor",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "languor",
+    "pronunciation": "ˈlæŋgə",
+    "meaning": [
+      "ospałość",
+      "apatyczność"
+    ]
+  },
+  {
+    "id": "l-lanky",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lanky",
+    "pronunciation": "ˈlæŋkɪ",
+    "meaning": [
+      "kościsty"
+    ]
+  },
+  {
+    "id": "l-lantern",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lantern",
+    "pronunciation": "ˈlæntən",
+    "meaning": [
+      "latarnia"
+    ]
+  },
+  {
+    "id": "l-lap",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lap",
+    "pronunciation": "læp",
+    "meaning": [
+      "kolana",
+      "okrążenie",
+      "runda",
+      "okrążać",
+      "chlapać",
+      "pluskać",
+      "chłeptać",
+      "chłeptać łapczywie",
+      "chłonąć łapczywie"
+    ]
+  },
+  {
+    "id": "l-lapel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lapel",
+    "pronunciation": "ləˈpel",
+    "meaning": [
+      "klapa"
+    ]
+  },
+  {
+    "id": "l-lapse",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lapse",
+    "pronunciation": "læps",
+    "meaning": [
+      "wyskok",
+      "zaćmienie",
+      "odwrócenie",
+      "odbiegnięcie",
+      "upływ",
+      "wpadać",
+      "upływać",
+      "kończyć się"
+    ]
+  },
+  {
+    "id": "l-laptop",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "laptop",
+    "pronunciation": "ˈlæpˌtɒp",
+    "meaning": [
+      "komputer przenośny",
+      "przenośny"
+    ]
+  },
+  {
+    "id": "l-larceny",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "larceny",
+    "pronunciation": "ˈlɑ:sənɪ",
+    "meaning": [
+      "kradzież"
+    ]
+  },
+  {
+    "id": "l-larch",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "larch",
+    "pronunciation": "lɑ:ʧ",
+    "meaning": [
+      "modrzew"
+    ]
+  },
+  {
+    "id": "l-lard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lard",
+    "pronunciation": "lɑ:d",
+    "meaning": [
+      "smalec"
+    ]
+  },
+  {
+    "id": "l-larder",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "larder",
+    "pronunciation": "ˈlɑ:də",
+    "meaning": [
+      "spiżarnia"
+    ]
+  },
+  {
+    "id": "l-largely",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "largely",
+    "pronunciation": "ˈlɑ:ʤlɪ",
+    "meaning": [
+      "w większości",
+      "głównie"
+    ]
+  },
+  {
+    "id": "l-large-scale",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "large-scale",
+    "pronunciation": "ˈlɑ:ʤskeɪl",
+    "meaning": [
+      "na dużą skalę",
+      "o dużej skali"
+    ]
+  },
+  {
+    "id": "l-lark",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lark",
+    "pronunciation": "lɑ:k",
+    "meaning": [
+      "skowronek",
+      "ubaw",
+      "dowcip",
+      "wygłupiać się"
+    ]
+  },
+  {
+    "id": "l-larva",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "larva",
+    "pronunciation": "ˈlɑ:və",
+    "meaning": [
+      "larwa"
+    ]
+  },
+  {
+    "id": "l-laryngitis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "laryngitis",
+    "pronunciation": "ˌlærɪnˈʤaɪtɪs",
+    "meaning": [
+      "zapalenie gardła"
+    ]
+  },
+  {
+    "id": "l-lascivious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lascivious",
+    "pronunciation": "ləˈsɪvɪəs",
+    "meaning": [
+      "pożądliwy"
+    ]
+  },
+  {
+    "id": "l-laser",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "laser",
+    "pronunciation": "ˈleɪzə",
+    "meaning": [
+      "laser",
+      "laserowy"
+    ]
+  },
+  {
+    "id": "l-lass",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lass",
+    "pronunciation": "læs",
+    "meaning": [
+      "dziewczyna"
+    ]
+  },
+  {
+    "id": "l-lasting",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "lasting",
+    "pronunciation": "ˈlɑ:stɪŋ",
+    "meaning": [
+      "trwały"
+    ]
+  },
+  {
+    "id": "l-lastly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "lastly",
+    "pronunciation": "ˈlɑ:stlɪ",
+    "meaning": [
+      "na końcu",
+      "w końcu"
+    ]
+  },
+  {
+    "id": "l-last-minute",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "last-minute",
+    "pronunciation": "ˌlɑ:stˈmɪnɪt",
+    "meaning": [
+      "w ostatniej chwili"
+    ]
+  },
+  {
+    "id": "l-Lat.",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Lat.",
+    "pronunciation": "/læt/",
+    "meaning": [
+      "łac.",
+      "łacina",
+      "łaciński"
+    ]
+  },
+  {
+    "id": "l-lat.",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "lat.",
+    "pronunciation": "/læt/",
+    "meaning": [
+      "szerokość"
+    ]
+  },
+  {
+    "id": "l-latch",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "latch",
+    "pronunciation": "læʧ",
+    "meaning": [
+      "zasuwa",
+      "zamek",
+      "zamykać"
+    ]
+  },
+  {
+    "id": "l-late",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "late",
+    "pronunciation": "leɪt",
+    "meaning": [
+      "późno",
+      "późny",
+      "były",
+      "śp.",
+      "niedawno zmarły",
+      "zmarły"
+    ]
+  },
+  {
+    "id": "l-latecomer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "latecomer",
+    "pronunciation": "ˈleɪtkʌmə",
+    "meaning": [
+      "spóźnialski"
+    ]
+  },
+  {
+    "id": "l-lately",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "lately",
+    "pronunciation": "ˈleɪtlɪ",
+    "meaning": [
+      "ostatnio"
+    ]
+  },
+  {
+    "id": "l-latent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "latent",
+    "pronunciation": "ˈleɪtənt",
+    "meaning": [
+      "ukryty"
+    ]
+  },
+  {
+    "id": "l-lateral",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "lateral",
+    "pronunciation": "ˈlætərəl",
+    "meaning": [
+      "boczny"
+    ]
+  },
+  {
+    "id": "l-lathe",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lathe",
+    "pronunciation": "ˈleɪð",
+    "meaning": [
+      "tokarka",
+      "toczyć"
+    ]
+  },
+  {
+    "id": "l-lather",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lather",
+    "pronunciation": "ˈlɑ:ðə",
+    "meaning": [
+      "piana",
+      "pokrywać pianą",
+      "pienić się",
+      "mydlić się"
+    ]
+  },
+  {
+    "id": "l-latitude",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "latitude",
+    "pronunciation": "ˈlætɪtju:d",
+    "meaning": [
+      "szerokość geograficzna",
+      "szerokość",
+      "swoboda"
+    ]
+  },
+  {
+    "id": "l-latrine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "latrine",
+    "pronunciation": "ləˈtri:n",
+    "meaning": [
+      "latryna"
+    ]
+  },
+  {
+    "id": "l-latter",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "latter",
+    "pronunciation": "ˈlætə",
+    "meaning": [
+      "drugi z dwóch",
+      "drugi",
+      "ostatni"
+    ]
+  },
+  {
+    "id": "l-latter-day",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "latter-day",
+    "pronunciation": "ˌlætəˈdeɪ",
+    "meaning": [
+      "nowoczesny",
+      "współczesny"
+    ]
+  },
+  {
+    "id": "l-lattice",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lattice",
+    "pronunciation": "ˈlætɪs",
+    "meaning": [
+      "kratka",
+      "kratownica"
+    ]
+  },
+  {
+    "id": "l-laudable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "laudable",
+    "pronunciation": "ˈlɔ:dəbəl",
+    "meaning": [
+      "chwalebny"
+    ]
+  },
+  {
+    "id": "l-laugh",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "laugh",
+    "pronunciation": "lɑ:f",
+    "meaning": [
+      "śmiać się",
+      "śmiech",
+      "wyśmiewać",
+      "załatwić rzecz śmiechem"
+    ]
+  },
+  {
+    "id": "l-laughable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "laughable",
+    "pronunciation": "ˈlɑ:fəbəl",
+    "meaning": [
+      "groteskowy",
+      "śmieszny"
+    ]
+  },
+  {
+    "id": "l-laughing_stock",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "laughing stock",
+    "pronunciation": "ˈlɑ:fɪŋ stɒk",
+    "meaning": [
+      "pośmiewisko"
+    ]
+  },
+  {
+    "id": "l-laughter",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "laughter",
+    "pronunciation": "ˈlɑ:ftə",
+    "meaning": [
+      "śmiech"
+    ]
+  },
+  {
+    "id": "l-launch",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "launch",
+    "pronunciation": "lɔ:nʧ",
+    "meaning": [
+      "wodować",
+      "umieszczać",
+      "wystrzeliwać",
+      "rozpoczynać",
+      "puszczać w ruch",
+      "lansować",
+      "start",
+      "wylansowanie",
+      "lansowanie",
+      "szalupa",
+      "wodowanie"
+    ]
+  },
+  {
+    "id": "l-launder",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "launder",
+    "pronunciation": "ˈlɔ:ndə",
+    "meaning": [
+      "prać"
+    ]
+  },
+  {
+    "id": "l-launderette",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "launderette",
+    "pronunciation": "ˌlɔ:ndˈret",
+    "meaning": [
+      "pralnia samoobsługowa"
+    ]
+  },
+  {
+    "id": "l-laundry",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "laundry",
+    "pronunciation": "ˈlɔ:ndrɪ",
+    "meaning": [
+      "pranie",
+      "pralnia"
+    ]
+  },
+  {
+    "id": "l-laurel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "laurel",
+    "pronunciation": "ˈlɔ:rəl",
+    "meaning": [
+      "laur",
+      "wawrzyn"
+    ]
+  },
+  {
+    "id": "l-lava",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lava",
+    "pronunciation": "ˈlɑ:və",
+    "meaning": [
+      "lawa"
+    ]
+  },
+  {
+    "id": "l-lavatory",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lavatory",
+    "pronunciation": "ˈlævətərɪ",
+    "meaning": [
+      "ubikacja"
+    ]
+  },
+  {
+    "id": "l-lavender",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lavender",
+    "pronunciation": "ˈlævɪndə",
+    "meaning": [
+      "lawenda"
+    ]
+  },
+  {
+    "id": "l-lavish",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "lavish",
+    "pronunciation": "ˈlævɪʃ",
+    "meaning": [
+      "hojny",
+      "szczodry",
+      "luksusowy",
+      "obdarowywać",
+      "zarzucać"
+    ]
+  },
+  {
+    "id": "l-law",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "law",
+    "pronunciation": "lɔ:",
+    "meaning": [
+      "prawo",
+      "ustawa",
+      "władza",
+      "policja",
+      "prawniczy",
+      "osoba naruszająca prawo",
+      "sąd"
+    ]
+  },
+  {
+    "id": "l-law-abiding",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "law-abiding",
+    "pronunciation": "ˈlɔ: əbaɪdɪŋ",
+    "meaning": [
+      "praworządny"
+    ]
+  },
+  {
+    "id": "l-lawful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lawful",
+    "pronunciation": "ˈlɔ:fʊl",
+    "meaning": [
+      "legalny"
+    ]
+  },
+  {
+    "id": "l-lawless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lawless",
+    "pronunciation": "ˈlɔ:lɪs",
+    "meaning": [
+      "nielegalny",
+      "samowolny"
+    ]
+  },
+  {
+    "id": "l-lawn",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lawn",
+    "pronunciation": "lɔ:n",
+    "meaning": [
+      "trawnik"
+    ]
+  },
+  {
+    "id": "l-lawnmower",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lawnmower",
+    "pronunciation": "ˈlɔ:nməʊə",
+    "meaning": [
+      "kosiarka do trawników",
+      "kosiarka"
+    ]
+  },
+  {
+    "id": "l-lawsuit",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lawsuit",
+    "pronunciation": "ˈlɔ:su:t",
+    "meaning": [
+      "proces sądowy",
+      "postępowanie sądowe"
+    ]
+  },
+  {
+    "id": "l-lawyer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lawyer",
+    "pronunciation": "ˈlɔ:jə",
+    "meaning": [
+      "prawnik",
+      "adwokat"
+    ]
+  },
+  {
+    "id": "l-lax",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lax",
+    "pronunciation": "læks",
+    "meaning": [
+      "luźny",
+      "nieścisły"
+    ]
+  },
+  {
+    "id": "l-laxative",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "laxative",
+    "pronunciation": "ˈlæksətɪv",
+    "meaning": [
+      "środek przeczyszczający"
+    ]
+  },
+  {
+    "id": "l-lay",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "lay",
+    "pronunciation": "leɪ",
+    "meaning": [
+      "kłaść",
+      "położyć",
+      "nakrywać",
+      "składać",
+      "zastawiać",
+      "rzucać",
+      "zrzucać",
+      "świecki",
+      "laicki",
+      "nieprofesjonalny",
+      "odkładać",
+      "wyznaczać",
+      "ustanawiać",
+      "rzucać się",
+      "zwalniać",
+      "przestawać",
+      "wystawiać się na coś",
+      "wystawiać się",
+      "wykładać",
+      "rozplanowywać"
+    ]
+  },
+  {
+    "id": "l-layabout",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "layabout",
+    "pronunciation": "ˈleɪəbaʊt",
+    "meaning": [
+      "nicpoń"
+    ]
+  },
+  {
+    "id": "l-lay-by",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lay-by",
+    "pronunciation": "ˈleɪbaɪ",
+    "meaning": [
+      "zatoka drogi",
+      "zatoka"
+    ]
+  },
+  {
+    "id": "l-layer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "layer",
+    "pronunciation": "ˈleɪə",
+    "meaning": [
+      "warstwa",
+      "powłoka"
+    ]
+  },
+  {
+    "id": "l-layman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "layman",
+    "pronunciation": "ˈleɪmən",
+    "meaning": [
+      "nieprofesjonalista",
+      "amator"
+    ]
+  },
+  {
+    "id": "l-layoff",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "layoff",
+    "pronunciation": "ˈleɪɒf",
+    "meaning": [
+      "zwolnienie"
+    ]
+  },
+  {
+    "id": "l-layout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "layout",
+    "pronunciation": "ˈleɪaʊt",
+    "meaning": [
+      "rozmieszczenie",
+      "rozplanowanie"
+    ]
+  },
+  {
+    "id": "l-laze",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "laze",
+    "pronunciation": "leɪz",
+    "meaning": [
+      "leniuchować"
+    ]
+  },
+  {
+    "id": "l-lazy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "lazy",
+    "pronunciation": "ˈleɪzɪ",
+    "meaning": [
+      "leniwy"
+    ]
+  },
+  {
+    "id": "l-lb",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lb",
+    "pronunciation": "/ˌelˈbiː/",
+    "meaning": [
+      "funt"
+    ]
+  },
+  {
+    "id": "l-LCD",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "LCD",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "ekran ciekłokrystaliczny"
+    ]
+  },
+  {
+    "id": "l-LEA",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "LEA",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "wydział oświaty"
+    ]
+  },
+  {
+    "id": "l-lead",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lead",
+    "pronunciation": "/liːd/",
+    "meaning": [
+      "prowadzić",
+      "przewodzić",
+      "doprowadzać",
+      "prowadzenie",
+      "dobry przykład",
+      "przykład",
+      "smycz",
+      "kabel",
+      "przewód",
+      "główna rola",
+      "wskazówka",
+      "prowadzący",
+      "wiodący",
+      "zmierzać",
+      "ołów",
+      "grafit",
+      "rysik"
+    ]
+  },
+  {
+    "id": "l-leaden",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "leaden",
+    "pronunciation": "ˈledən",
+    "meaning": [
+      "ołowiany",
+      "ciężki jak z ołowiu",
+      "ciężki"
+    ]
+  },
+  {
+    "id": "l-leader",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "leader",
+    "pronunciation": "ˈli:də",
+    "meaning": [
+      "lider",
+      "przywódca",
+      "prowadzący"
+    ]
+  },
+  {
+    "id": "l-leadership",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "leadership",
+    "pronunciation": "ˈli:dəʃɪp",
+    "meaning": [
+      "kierownictwo",
+      "cechy dowódcze"
+    ]
+  },
+  {
+    "id": "l-leading",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "leading",
+    "pronunciation": "ˈli:dɪŋ",
+    "meaning": [
+      "wiodący",
+      "czołowy"
+    ]
+  },
+  {
+    "id": "l-leaf",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "leaf",
+    "pronunciation": "li:f",
+    "meaning": [
+      "liść",
+      "przekartkowywać"
+    ]
+  },
+  {
+    "id": "l-leaflet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "leaflet",
+    "pronunciation": "ˈli:flɪt",
+    "meaning": [
+      "ulotka"
+    ]
+  },
+  {
+    "id": "l-leafy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "leafy",
+    "pronunciation": "ˈli:fɪ",
+    "meaning": [
+      "liściasty",
+      "pokryty zielenią"
+    ]
+  },
+  {
+    "id": "l-league",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "league",
+    "pronunciation": "li:g",
+    "meaning": [
+      "liga",
+      "związek"
+    ]
+  },
+  {
+    "id": "l-leak",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "leak",
+    "pronunciation": "li:k",
+    "meaning": [
+      "przeciekać",
+      "uciekać",
+      "wyciekać",
+      "przedostawać się",
+      "przeciek"
+    ]
+  },
+  {
+    "id": "l-leaky",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "leaky",
+    "pronunciation": "ˈli:kɪ",
+    "meaning": [
+      "nieszczelny",
+      "cieknący"
+    ]
+  },
+  {
+    "id": "l-lean",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "lean",
+    "pronunciation": "li:n",
+    "meaning": [
+      "pochylać się",
+      "wychylać się",
+      "opierać się",
+      "opierać",
+      "skłaniać się",
+      "naciskać",
+      "szczupły",
+      "chudy"
+    ]
+  },
+  {
+    "id": "l-leaning",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "leaning",
+    "pronunciation": "ˈli:nɪŋ",
+    "meaning": [
+      "ciągota",
+      "skłonność",
+      "krzywy",
+      "pochylony"
+    ]
+  },
+  {
+    "id": "l-leap",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "leap",
+    "pronunciation": "li:p",
+    "meaning": [
+      "skakać w górę",
+      "skakać",
+      "przeskakiwać",
+      "skok",
+      "rzucać się",
+      "rok przestępny"
+    ]
+  },
+  {
+    "id": "l-learn",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "learn",
+    "pronunciation": "lɜ:n",
+    "meaning": [
+      "uczyć się",
+      "nauczyć się",
+      "dowiadywać się"
+    ]
+  },
+  {
+    "id": "l-learned",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "learned",
+    "pronunciation": "ˈlɜ:nɪd",
+    "meaning": [
+      "uczony"
+    ]
+  },
+  {
+    "id": "l-learning",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "learning",
+    "pronunciation": "ˈlɜ:nɪŋ",
+    "meaning": [
+      "głęboka wiedza",
+      "wiedza"
+    ]
+  },
+  {
+    "id": "l-lease",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lease",
+    "pronunciation": "li:s",
+    "meaning": [
+      "dzierżawa",
+      "najem",
+      "wynajmować",
+      "dzierżawić"
+    ]
+  },
+  {
+    "id": "l-leash",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "leash",
+    "pronunciation": "li:ʃ",
+    "meaning": [
+      "smycz"
+    ]
+  },
+  {
+    "id": "l-least",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "least",
+    "pronunciation": "li:st",
+    "meaning": [
+      "najmniej",
+      "najmniejszy"
+    ]
+  },
+  {
+    "id": "l-leather",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "leather",
+    "pronunciation": "ˈleðə",
+    "meaning": [
+      "skóra"
+    ]
+  },
+  {
+    "id": "l-leathery",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "leathery",
+    "pronunciation": "ˈleðərɪ",
+    "meaning": [
+      "skórzasty",
+      "łykowaty"
+    ]
+  },
+  {
+    "id": "l-leave",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "leave",
+    "pronunciation": "li:v",
+    "meaning": [
+      "zostawiać",
+      "opuszczać",
+      "odjeżdżać",
+      "odchodzić",
+      "porzucać",
+      "pozostawiać",
+      "urlop",
+      "zwolnienie",
+      "przepustka",
+      "pomijać"
+    ]
+  },
+  {
+    "id": "l-Lebanese",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Lebanese",
+    "pronunciation": "lebəˈni:z",
+    "meaning": [
+      "libański",
+      "Libańczyk"
+    ]
+  },
+  {
+    "id": "l-Lebanon",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Lebanon",
+    "pronunciation": "ˈlebənɒn",
+    "meaning": [
+      "Liban"
+    ]
+  },
+  {
+    "id": "l-lecherous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "lecherous",
+    "pronunciation": "ˈleʧərəs",
+    "meaning": [
+      "lubieżny"
+    ]
+  },
+  {
+    "id": "l-lectern",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lectern",
+    "pronunciation": "ˈlektən",
+    "meaning": [
+      "pulpit"
+    ]
+  },
+  {
+    "id": "l-lecture",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lecture",
+    "pronunciation": "ˈlekʧə",
+    "meaning": [
+      "wykład",
+      "wykładać",
+      "prawić kazanie"
+    ]
+  },
+  {
+    "id": "l-lecturer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lecturer",
+    "pronunciation": "ˈlekʧərə",
+    "meaning": [
+      "wykładowca",
+      "docent"
+    ]
+  },
+  {
+    "id": "l-ledge",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ledge",
+    "pronunciation": "leʤ",
+    "meaning": [
+      "półka skalna",
+      "półka",
+      "parapet"
+    ]
+  },
+  {
+    "id": "l-ledger",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ledger",
+    "pronunciation": "ˈleʤə",
+    "meaning": [
+      "księga główna",
+      "księga rachunkowa"
+    ]
+  },
+  {
+    "id": "l-leech",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "leech",
+    "pronunciation": "li:ʧ",
+    "meaning": [
+      "pijawka"
+    ]
+  },
+  {
+    "id": "l-leek",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "leek",
+    "pronunciation": "li:k",
+    "meaning": [
+      "por"
+    ]
+  },
+  {
+    "id": "l-leer",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "leer",
+    "pronunciation": "lɪə",
+    "meaning": [
+      "lubieżny uśmieszek",
+      "uśmiechać się lubieżnie"
+    ]
+  },
+  {
+    "id": "l-leeway",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "leeway",
+    "pronunciation": "ˈli:weɪ",
+    "meaning": [
+      "luz",
+      "rezerwa"
+    ]
+  },
+  {
+    "id": "l-left",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "left",
+    "pronunciation": "left",
+    "meaning": [
+      "lewa strona",
+      "lewy",
+      "lewo"
+    ]
+  },
+  {
+    "id": "l-left-hand",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "left-hand",
+    "pronunciation": "ˈlefthænd",
+    "meaning": [
+      "lewostronny",
+      "lewy",
+      "z lewej ręki"
+    ]
+  },
+  {
+    "id": "l-left-handed",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "left-handed",
+    "pronunciation": "ˌleftˈhændɪd",
+    "meaning": [
+      "leworęczny"
+    ]
+  },
+  {
+    "id": "l-leftist",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "leftist",
+    "pronunciation": "ˈleftɪst",
+    "meaning": [
+      "lewicowiec",
+      "lewicowy"
+    ]
+  },
+  {
+    "id": "l-left-luggage_office",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "left-luggage office",
+    "pronunciation": "ˌleft ˈlʌgɪʤ ɒfɪs",
+    "meaning": [
+      "biuro rzeczy znalezionych"
+    ]
+  },
+  {
+    "id": "l-leftover",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "leftover",
+    "pronunciation": "ˈleftəʊvə",
+    "meaning": [
+      "pozostały",
+      "resztki"
+    ]
+  },
+  {
+    "id": "l-left-wing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "left-wing",
+    "pronunciation": "ˌleftˈwɪŋ",
+    "meaning": [
+      "lewicowy"
+    ]
+  },
+  {
+    "id": "l-left-winger",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "left-winger",
+    "pronunciation": "ˌleftˈwɪŋə",
+    "meaning": [
+      "lewicowiec"
+    ]
+  },
+  {
+    "id": "l-leg",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "leg",
+    "pronunciation": "leg",
+    "meaning": [
+      "noga",
+      "nogawka",
+      "etap",
+      "część"
+    ]
+  },
+  {
+    "id": "l-legacy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "legacy",
+    "pronunciation": "ˈli:gəsɪ",
+    "meaning": [
+      "spadek",
+      "legat",
+      "spuścizna"
+    ]
+  },
+  {
+    "id": "l-legal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "legal",
+    "pronunciation": "ˈli:gəl",
+    "meaning": [
+      "legalny",
+      "prawny"
+    ]
+  },
+  {
+    "id": "l-legality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "legality",
+    "pronunciation": "lɪˈgælɪtɪ",
+    "meaning": [
+      "legalność"
+    ]
+  },
+  {
+    "id": "l-legalize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "legalize",
+    "pronunciation": "ˈli:gəlaɪz",
+    "meaning": [
+      "legalizować"
+    ]
+  },
+  {
+    "id": "l-legend",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "legend",
+    "pronunciation": "ˈleʤənd",
+    "meaning": [
+      "legenda"
+    ]
+  },
+  {
+    "id": "l-legendary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "legendary",
+    "pronunciation": "ˈleʤəndərɪ",
+    "meaning": [
+      "legendarny"
+    ]
+  },
+  {
+    "id": "l-leggings",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "leggings",
+    "pronunciation": "ˈlegɪŋz",
+    "meaning": [
+      "getry"
+    ]
+  },
+  {
+    "id": "l-legible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "legible",
+    "pronunciation": "ˈleʤɪbəl",
+    "meaning": [
+      "czytelny"
+    ]
+  },
+  {
+    "id": "l-legion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "legion",
+    "pronunciation": "ˈli:ʤən",
+    "meaning": [
+      "legion",
+      "chmara"
+    ]
+  },
+  {
+    "id": "l-legislate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "legislate",
+    "pronunciation": "ˈleʤɪsleɪt",
+    "meaning": [
+      "ustanawiać prawa"
+    ]
+  },
+  {
+    "id": "l-legislation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "legislation",
+    "pronunciation": "ˌleʤɪˈsleɪʃən",
+    "meaning": [
+      "ustawodawstwo",
+      "prawodawstwo"
+    ]
+  },
+  {
+    "id": "l-legislative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "legislative",
+    "pronunciation": "ˈleʤɪslətɪv",
+    "meaning": [
+      "legislacyjny",
+      "prawny"
+    ]
+  },
+  {
+    "id": "l-legislature",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "legislature",
+    "pronunciation": "ˈleʤɪsləʧə",
+    "meaning": [
+      "legislatura"
+    ]
+  },
+  {
+    "id": "l-legitimate",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "legitimate",
+    "pronunciation": "lɪˈʤɪtɪmət",
+    "meaning": [
+      "legalny",
+      "ślubny",
+      "uzasadniony",
+      "właściwy"
+    ]
+  },
+  {
+    "id": "l-Leipzig",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Leipzig",
+    "pronunciation": "ˈlaɪptsɪg",
+    "meaning": [
+      "Lipsk"
+    ]
+  },
+  {
+    "id": "l-leisure",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "leisure",
+    "pronunciation": "ˈleʒə",
+    "meaning": [
+      "czas wolny"
+    ]
+  },
+  {
+    "id": "l-leisurely",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "leisurely",
+    "pronunciation": "ˈleʒəlɪ",
+    "meaning": [
+      "nieśpieszny",
+      "nieśpiesznie"
+    ]
+  },
+  {
+    "id": "l-lemon",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lemon",
+    "pronunciation": "ˈlemən",
+    "meaning": [
+      "cytryna"
+    ]
+  },
+  {
+    "id": "l-lemonade",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lemonade",
+    "pronunciation": "ˌleməˈneɪd",
+    "meaning": [
+      "lemoniada"
+    ]
+  },
+  {
+    "id": "l-lend",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "lend",
+    "pronunciation": "lend",
+    "meaning": [
+      "pożyczać",
+      "użyczać",
+      "udzielać",
+      "przydawać"
+    ]
+  },
+  {
+    "id": "l-lender",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lender",
+    "pronunciation": "ˈlendə",
+    "meaning": [
+      "kredytodawca"
+    ]
+  },
+  {
+    "id": "l-lengthen",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "lengthen",
+    "pronunciation": "ˈleŋθən",
+    "meaning": [
+      "wydłużać"
+    ]
+  },
+  {
+    "id": "l-lengthy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lengthy",
+    "pronunciation": "ˈleŋkθɪ",
+    "meaning": [
+      "długi",
+      "wydłużony"
+    ]
+  },
+  {
+    "id": "l-lenient",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lenient",
+    "pronunciation": "ˈli:nɪənt",
+    "meaning": [
+      "pobłażliwy"
+    ]
+  },
+  {
+    "id": "l-lens",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lens",
+    "pronunciation": "lenz",
+    "meaning": [
+      "soczewka",
+      "obiektyw"
+    ]
+  },
+  {
+    "id": "l-Lent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Lent",
+    "pronunciation": "lent",
+    "meaning": [
+      "Wielki Post"
+    ]
+  },
+  {
+    "id": "l-lentil",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lentil",
+    "pronunciation": "ˈlentɪl",
+    "meaning": [
+      "soczewica"
+    ]
+  },
+  {
+    "id": "l-Leo",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Leo",
+    "pronunciation": "ˈli:əʊ",
+    "meaning": [
+      "Lew"
+    ]
+  },
+  {
+    "id": "l-leopard",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "leopard",
+    "pronunciation": "ˈlepəd",
+    "meaning": [
+      "lampart"
+    ]
+  },
+  {
+    "id": "l-leotard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "leotard",
+    "pronunciation": "ˈlɪətɑ:d",
+    "meaning": [
+      "trykot"
+    ]
+  },
+  {
+    "id": "l-leper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "leper",
+    "pronunciation": "ˈlepə",
+    "meaning": [
+      "trędowaty"
+    ]
+  },
+  {
+    "id": "l-leprosy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "leprosy",
+    "pronunciation": "ˈleprəsɪ",
+    "meaning": [
+      "trąd"
+    ]
+  },
+  {
+    "id": "l-lesbian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "lesbian",
+    "pronunciation": "ˈlezbɪən",
+    "meaning": [
+      "lesbijski",
+      "lesbijka"
+    ]
+  },
+  {
+    "id": "l-less",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "less",
+    "pronunciation": "les",
+    "meaning": [
+      "mniejszy",
+      "mniej",
+      "odjąwszy"
+    ]
+  },
+  {
+    "id": "l-lessen",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "lessen",
+    "pronunciation": "ˈlesən",
+    "meaning": [
+      "zmniejszać się",
+      "zmniejszać"
+    ]
+  },
+  {
+    "id": "l-lesser",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "lesser",
+    "pronunciation": "ˈlesə",
+    "meaning": [
+      "mniejszy",
+      "pomniejszy"
+    ]
+  },
+  {
+    "id": "l-lesson",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lesson",
+    "pronunciation": "ˈlesən",
+    "meaning": [
+      "lekcja",
+      "nauka",
+      "korzyść"
+    ]
+  },
+  {
+    "id": "l-lest",
+    "level": "C1",
+    "partOfSpeech": "conjunction",
+    "word": "lest",
+    "pronunciation": "lest",
+    "meaning": [
+      "aby nie"
+    ]
+  },
+  {
+    "id": "l-letdown",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "letdown",
+    "pronunciation": "ˈletdaʊn",
+    "meaning": [
+      "zawód",
+      "rozczarowanie"
+    ]
+  },
+  {
+    "id": "l-lethal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lethal",
+    "pronunciation": "ˈli:θəl",
+    "meaning": [
+      "zabójczy"
+    ]
+  },
+  {
+    "id": "l-lethargic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lethargic",
+    "pronunciation": "lɪˈθɑ:ʤɪk",
+    "meaning": [
+      "letargiczny"
+    ]
+  },
+  {
+    "id": "l-letter",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "letter",
+    "pronunciation": "ˈletə",
+    "meaning": [
+      "list",
+      "litera",
+      "listowy"
+    ]
+  },
+  {
+    "id": "l-letterbox",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "letterbox",
+    "pronunciation": "ˈletəbɒks",
+    "meaning": [
+      "skrzynka pocztowa"
+    ]
+  },
+  {
+    "id": "l-lettering",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lettering",
+    "pronunciation": "ˈletərɪŋ",
+    "meaning": [
+      "liternictwo"
+    ]
+  },
+  {
+    "id": "l-letter-quality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "letter-quality",
+    "pronunciation": "ˌletə ˈkwɒlətɪ",
+    "meaning": [
+      "wysoka jakość"
+    ]
+  },
+  {
+    "id": "l-lettuce",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lettuce",
+    "pronunciation": "ˈletəs",
+    "meaning": [
+      "sałata"
+    ]
+  },
+  {
+    "id": "l-let-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "let-up",
+    "pronunciation": "ˈletʌp",
+    "meaning": [
+      "zelżenie"
+    ]
+  },
+  {
+    "id": "l-leukaemia",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "leukaemia",
+    "pronunciation": "lu:ˈki:mɪə",
+    "meaning": [
+      "białaczka"
+    ]
+  },
+  {
+    "id": "l-level-headed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "level-headed",
+    "pronunciation": "ˌlevəl ˈhedɪd",
+    "meaning": [
+      "zrównoważony",
+      "zimnokrwisty"
+    ]
+  },
+  {
+    "id": "l-lever",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lever",
+    "pronunciation": "ˈli:və",
+    "meaning": [
+      "dźwignia",
+      "uchwyt",
+      "rączka",
+      "podważać"
+    ]
+  },
+  {
+    "id": "l-leverage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "leverage",
+    "pronunciation": "ˈli:vərɪʤ",
+    "meaning": [
+      "nacisk",
+      "siła dźwigni"
+    ]
+  },
+  {
+    "id": "l-levity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "levity",
+    "pronunciation": "ˈlevɪtɪ",
+    "meaning": [
+      "lekkomyślność",
+      "płochość"
+    ]
+  },
+  {
+    "id": "l-levy",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "levy",
+    "pronunciation": "ˈlevɪ",
+    "meaning": [
+      "pobranie",
+      "pobierać",
+      "ściągać"
+    ]
+  },
+  {
+    "id": "l-lewd",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lewd",
+    "pronunciation": "ˈlu:d",
+    "meaning": [
+      "pożądliwy"
+    ]
+  },
+  {
+    "id": "l-liability",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "liability",
+    "pronunciation": "laɪəˈbɪlɪtɪ",
+    "meaning": [
+      "podatność",
+      "ciężar",
+      "skaranie boskie",
+      "płatności",
+      "zobowiązania pieniężne",
+      "zobowiązania",
+      "odpowiedzialność"
+    ]
+  },
+  {
+    "id": "l-liable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "liable",
+    "pronunciation": "ˈlaɪəbəl",
+    "meaning": [
+      "podatny",
+      "odpowiedzialny"
+    ]
+  },
+  {
+    "id": "l-liaise",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "liaise",
+    "pronunciation": "lɪˈeɪz",
+    "meaning": [
+      "współpracować"
+    ]
+  },
+  {
+    "id": "l-liaison",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "liaison",
+    "pronunciation": "lɪˈeɪzən",
+    "meaning": [
+      "porozumienie",
+      "łączność",
+      "związek miłosny"
+    ]
+  },
+  {
+    "id": "l-liar",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "liar",
+    "pronunciation": "ˈlaɪə",
+    "meaning": [
+      "kłamca"
+    ]
+  },
+  {
+    "id": "l-lib.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lib.",
+    "pronunciation": "/lɪb/",
+    "meaning": [
+      "liberalny"
+    ]
+  },
+  {
+    "id": "l-libel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "libel",
+    "pronunciation": "ˈlaɪbəl",
+    "meaning": [
+      "oszczerstwo",
+      "zniesławienie"
+    ]
+  },
+  {
+    "id": "l-libellous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "libellous",
+    "pronunciation": "ˈlaɪbələs",
+    "meaning": [
+      "oszczerczy"
+    ]
+  },
+  {
+    "id": "l-liberal",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "liberal",
+    "pronunciation": "ˈlɪbərəl",
+    "meaning": [
+      "liberalny",
+      "hojny",
+      "obfity",
+      "liberał"
+    ]
+  },
+  {
+    "id": "l-liberate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "liberate",
+    "pronunciation": "ˈlɪbəreɪt",
+    "meaning": [
+      "uwalniać",
+      "oswobadzać",
+      "wyzwalać"
+    ]
+  },
+  {
+    "id": "l-liberated",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "liberated",
+    "pronunciation": "ˈlɪbəreɪtɪd",
+    "meaning": [
+      "wyzwolony"
+    ]
+  },
+  {
+    "id": "l-liberation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "liberation",
+    "pronunciation": "ˌlɪbəˈreɪʃən",
+    "meaning": [
+      "wyzwolenie"
+    ]
+  },
+  {
+    "id": "l-Libra",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Libra",
+    "pronunciation": "ˈli:brə",
+    "meaning": [
+      "Waga"
+    ]
+  },
+  {
+    "id": "l-librarian",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "librarian",
+    "pronunciation": "laɪˈbreərɪən",
+    "meaning": [
+      "bibliotekarz"
+    ]
+  },
+  {
+    "id": "l-library",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "library",
+    "pronunciation": "ˈlaɪbrərɪ",
+    "meaning": [
+      "biblioteka"
+    ]
+  },
+  {
+    "id": "l-Libya",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Libya",
+    "pronunciation": "ˈlɪbɪə",
+    "meaning": [
+      "Libia"
+    ]
+  },
+  {
+    "id": "l-Libyan",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Libyan",
+    "pronunciation": "ˈlɪbɪən",
+    "meaning": [
+      "libijski",
+      "Libijczyk"
+    ]
+  },
+  {
+    "id": "l-licence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "licence",
+    "pronunciation": "ˈlaɪsəns",
+    "meaning": [
+      "licencja",
+      "koncesja",
+      "prawo jazdy",
+      "prawo",
+      "zezwolenie",
+      "abonament"
+    ]
+  },
+  {
+    "id": "l-license",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "license",
+    "pronunciation": "ˈlaɪsəns",
+    "meaning": [
+      "wydawać zezwolenie licencję",
+      "wydawać zezwolenie"
+    ]
+  },
+  {
+    "id": "l-licensed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "licensed",
+    "pronunciation": "ˈlaɪsənst",
+    "meaning": [
+      "upoważniony",
+      "zarejestrowany",
+      "koncesjonowany do sprzedaży alkoholu",
+      "koncesjonowany"
+    ]
+  },
+  {
+    "id": "l-licentious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "licentious",
+    "pronunciation": "laɪˈsenʃəs",
+    "meaning": [
+      "rozwiązły"
+    ]
+  },
+  {
+    "id": "l-lick",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lick",
+    "pronunciation": "lɪk",
+    "meaning": [
+      "lizać",
+      "przylać",
+      "położyć",
+      "polizanie",
+      "liźnięcie"
+    ]
+  },
+  {
+    "id": "l-lid",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lid",
+    "pronunciation": "lɪd",
+    "meaning": [
+      "pokrywka",
+      "powieka"
+    ]
+  },
+  {
+    "id": "l-lie-down",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lie-down",
+    "pronunciation": "ˌlaɪˈdaʊn",
+    "meaning": [
+      "wypoczynek"
+    ]
+  },
+  {
+    "id": "l-Lieut.",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Lieut.",
+    "pronunciation": "/lɛfˈtɛnənt/",
+    "meaning": [
+      "porucznik"
+    ]
+  },
+  {
+    "id": "l-Lieut.-Col.",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Lieut.-Col.",
+    "pronunciation": "/ˌlefˈtenənt ˈkɜːnəl/",
+    "meaning": [
+      "podpułkownik"
+    ]
+  },
+  {
+    "id": "l-lieutenant",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lieutenant",
+    "pronunciation": "lefˈtenənt",
+    "meaning": [
+      "porucznik"
+    ]
+  },
+  {
+    "id": "l-life",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "life",
+    "pronunciation": "laɪf",
+    "meaning": [
+      "życie",
+      "żywotność",
+      "długość życia",
+      "dożywotnie więzienie",
+      "kamizelka ratunkowa"
+    ]
+  },
+  {
+    "id": "l-lifebelt",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lifebelt",
+    "pronunciation": "ˈlaɪfbelt",
+    "meaning": [
+      "pas ratunkowy"
+    ]
+  },
+  {
+    "id": "l-lifeboat",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lifeboat",
+    "pronunciation": "ˈlaɪfbəʊt",
+    "meaning": [
+      "łódź ratunkowa"
+    ]
+  },
+  {
+    "id": "l-lifeguard",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lifeguard",
+    "pronunciation": "ˈlaɪfgɑ:d",
+    "meaning": [
+      "ratownik"
+    ]
+  },
+  {
+    "id": "l-lifeless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lifeless",
+    "pronunciation": "ˈlaɪflɪs",
+    "meaning": [
+      "bez życia",
+      "nieżywotny",
+      "beznamiętny"
+    ]
+  },
+  {
+    "id": "l-lifelike",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lifelike",
+    "pronunciation": "ˈlaɪflaɪk",
+    "meaning": [
+      "jak żywy"
+    ]
+  },
+  {
+    "id": "l-lifeline",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lifeline",
+    "pronunciation": "ˈlaɪflaɪn",
+    "meaning": [
+      "lina ratunkowa"
+    ]
+  },
+  {
+    "id": "l-lifelong",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lifelong",
+    "pronunciation": "ˈlaɪflɒŋ",
+    "meaning": [
+      "na całe życie",
+      "na życie"
+    ]
+  },
+  {
+    "id": "l-life-size",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "life-size",
+    "pronunciation": "ˌlaɪfˈsaɪz",
+    "meaning": [
+      "naturalnej wielkości"
+    ]
+  },
+  {
+    "id": "l-lifespan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lifespan",
+    "pronunciation": "ˈlaɪfspæn",
+    "meaning": [
+      "długość życia",
+      "życie",
+      "żywotność",
+      "trwanie"
+    ]
+  },
+  {
+    "id": "l-lifetime",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lifetime",
+    "pronunciation": "ˈlaɪftaɪm",
+    "meaning": [
+      "całe życie",
+      "życie",
+      "trwanie"
+    ]
+  },
+  {
+    "id": "l-lift",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lift",
+    "pronunciation": "lɪft",
+    "meaning": [
+      "podnosić się",
+      "podnosić",
+      "znosić",
+      "zrzynać",
+      "zwędzić",
+      "winda",
+      "podwiezienie",
+      "startować"
+    ]
+  },
+  {
+    "id": "l-ligament",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ligament",
+    "pronunciation": "ˈlɪgəmənt",
+    "meaning": [
+      "wiązadło"
+    ]
+  },
+  {
+    "id": "l-light",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective",
+      "adverb"
+    ],
+    "word": "light",
+    "pronunciation": "laɪt",
+    "meaning": [
+      "zapalać",
+      "oświetlać",
+      "światło",
+      "ogień",
+      "jasny",
+      "lekki",
+      "jasno",
+      "dzień",
+      "żarówka",
+      "światłowód",
+      "kabel światłowodowy",
+      "pióro świetlne",
+      "rozświetlać się",
+      "rozświetlać"
+    ]
+  },
+  {
+    "id": "l-lighten",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "lighten",
+    "pronunciation": "ˈlaɪtən",
+    "meaning": [
+      "rozjaśniać się",
+      "rozjaśniać",
+      "zmniejszać wagę"
+    ]
+  },
+  {
+    "id": "l-lighter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lighter",
+    "pronunciation": "/ˈlaɪtə/",
+    "meaning": [
+      "zapalniczka"
+    ]
+  },
+  {
+    "id": "l-light-headed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "light-headed",
+    "pronunciation": "ˌlaɪtˈhedɪd",
+    "meaning": [
+      "oszołomiony"
+    ]
+  },
+  {
+    "id": "l-light-hearted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "light-hearted",
+    "pronunciation": "ˌlaɪtˈhɑ:tɪd",
+    "meaning": [
+      "beztroski",
+      "wesoły",
+      "humorystyczny"
+    ]
+  },
+  {
+    "id": "l-lighthouse",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lighthouse",
+    "pronunciation": "ˈlaɪthaʊs",
+    "meaning": [
+      "latarnia morska"
+    ]
+  },
+  {
+    "id": "l-lighting",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lighting",
+    "pronunciation": "ˈlaɪtɪŋ",
+    "meaning": [
+      "oświetlenie"
+    ]
+  },
+  {
+    "id": "l-lightly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "lightly",
+    "pronunciation": "ˈlaɪtlɪ",
+    "meaning": [
+      "beztrosko",
+      "lekkomyślnie"
+    ]
+  },
+  {
+    "id": "l-lightning",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lightning",
+    "pronunciation": "ˈlaɪtnɪŋ",
+    "meaning": [
+      "błyskawica",
+      "błyskawiczny",
+      "piorunochron"
+    ]
+  },
+  {
+    "id": "l-lightweight",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "lightweight",
+    "pronunciation": "ˈlaɪtweɪt",
+    "meaning": [
+      "lekki"
+    ]
+  },
+  {
+    "id": "l-light-year",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "light-year",
+    "pronunciation": "ˈlaɪtjɪə",
+    "meaning": [
+      "rok świetlny"
+    ]
+  },
+  {
+    "id": "l-likable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "likable",
+    "pronunciation": "ˈlaɪkəbəl",
+    "meaning": [
+      "miły",
+      "sympatyczny"
+    ]
+  },
+  {
+    "id": "l-likelihood",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "likelihood",
+    "pronunciation": "ˈlaɪklɪhʊd",
+    "meaning": [
+      "prawdopodobieństwo",
+      "możliwość"
+    ]
+  },
+  {
+    "id": "l-likely",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "likely",
+    "pronunciation": "ˈlaɪklɪ",
+    "meaning": [
+      "możliwy",
+      "odpowiedni"
+    ]
+  },
+  {
+    "id": "l-like-minded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "like-minded",
+    "pronunciation": "laɪkˈmaɪndɪd",
+    "meaning": [
+      "podobnie myślący"
+    ]
+  },
+  {
+    "id": "l-liken",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "liken",
+    "pronunciation": "ˈlaɪkən",
+    "meaning": [
+      "przyrównywać"
+    ]
+  },
+  {
+    "id": "l-likeness",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "likeness",
+    "pronunciation": "ˈlaɪknɪs",
+    "meaning": [
+      "podobieństwo"
+    ]
+  },
+  {
+    "id": "l-likewise",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "likewise",
+    "pronunciation": "ˈlaɪkwaɪz",
+    "meaning": [
+      "podobnie"
+    ]
+  },
+  {
+    "id": "l-liking",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "liking",
+    "pronunciation": "ˈlaɪkɪŋ",
+    "meaning": [
+      "upodobanie"
+    ]
+  },
+  {
+    "id": "l-lilac",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "lilac",
+    "pronunciation": "ˈlaɪlək",
+    "meaning": [
+      "bez",
+      "liliowy"
+    ]
+  },
+  {
+    "id": "l-lilt",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "lilt",
+    "pronunciation": "lɪlt",
+    "meaning": [
+      "zaśpiew"
+    ]
+  },
+  {
+    "id": "l-lily",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lily",
+    "pronunciation": "ˈlɪlɪ",
+    "meaning": [
+      "lilia"
+    ]
+  },
+  {
+    "id": "l-limb",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "limb",
+    "pronunciation": "lɪm",
+    "meaning": [
+      "kończyna",
+      "odnóże"
+    ]
+  },
+  {
+    "id": "l-limber_up",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "limber up",
+    "pronunciation": "ˌlɪmbərˈʌp",
+    "meaning": [
+      "ćwiczyć",
+      "przygotowywać się"
+    ]
+  },
+  {
+    "id": "l-limbo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "limbo",
+    "pronunciation": "ˈlɪmbəʊ",
+    "meaning": [
+      "zawieszenie",
+      "zapomnienie"
+    ]
+  },
+  {
+    "id": "l-lime",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lime",
+    "pronunciation": "laɪm",
+    "meaning": [
+      "wapno",
+      "lipa",
+      "lima",
+      "limeta"
+    ]
+  },
+  {
+    "id": "l-limelight",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "limelight",
+    "pronunciation": "ˈlaɪmlaɪt",
+    "meaning": [
+      "światła rampy"
+    ]
+  },
+  {
+    "id": "l-limerick",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "limerick",
+    "pronunciation": "ˈlɪmərɪk",
+    "meaning": [
+      "limeryk"
+    ]
+  },
+  {
+    "id": "l-limitation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "limitation",
+    "pronunciation": "ˌlɪmɪˈteɪʃən",
+    "meaning": [
+      "ograniczenie"
+    ]
+  },
+  {
+    "id": "l-limited",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "limited",
+    "pronunciation": "ˈlɪmɪtɪd",
+    "meaning": [
+      "ograniczony",
+      "o ograniczonej odpowiedzialności"
+    ]
+  },
+  {
+    "id": "l-limitless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "limitless",
+    "pronunciation": "ˈlɪmɪtlɪs",
+    "meaning": [
+      "nieograniczony"
+    ]
+  },
+  {
+    "id": "l-limousine",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "limousine",
+    "pronunciation": "ˌlɪməˈzi:n",
+    "meaning": [
+      "limuzyna"
+    ]
+  },
+  {
+    "id": "l-limp",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "limp",
+    "pronunciation": "lɪmp",
+    "meaning": [
+      "kuleć",
+      "kuśtykać",
+      "kulenie",
+      "kuśtykanie",
+      "wiotki",
+      "bezwładny"
+    ]
+  },
+  {
+    "id": "l-linear",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "linear",
+    "pronunciation": "ˈlɪnɪə",
+    "meaning": [
+      "linearny",
+      "liniowy"
+    ]
+  },
+  {
+    "id": "l-linen",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "linen",
+    "pronunciation": "ˈlɪnɪn",
+    "meaning": [
+      "len",
+      "bielizna",
+      "lniany",
+      "płócienny",
+      "bieliźniany"
+    ]
+  },
+  {
+    "id": "l-liner",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "liner",
+    "pronunciation": "ˈlaɪnə",
+    "meaning": [
+      "liniowiec",
+      "statek transatlantycki",
+      "worek foliowy"
+    ]
+  },
+  {
+    "id": "l-linesman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "linesman",
+    "pronunciation": "ˈlaɪnzmən",
+    "meaning": [
+      "sędzia liniowy"
+    ]
+  },
+  {
+    "id": "l-line-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "line-up",
+    "pronunciation": "ˈlaɪnʌp",
+    "meaning": [
+      "skład",
+      "ugrupowanie"
+    ]
+  },
+  {
+    "id": "l-linger",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "linger",
+    "pronunciation": "ˈlɪŋgə",
+    "meaning": [
+      "utrzymywać się",
+      "bawić gdzieś",
+      "bawić"
+    ]
+  },
+  {
+    "id": "l-lingerie",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lingerie",
+    "pronunciation": "ˈlɒnʒərɪ",
+    "meaning": [
+      "bielizna damska"
+    ]
+  },
+  {
+    "id": "l-linguistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "linguistic",
+    "pronunciation": "lɪŋgˈwɪstɪk",
+    "meaning": [
+      "językoznawczy"
+    ]
+  },
+  {
+    "id": "l-linguistics",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "linguistics",
+    "pronunciation": "lɪŋgˈwɪstɪks",
+    "meaning": [
+      "językoznawstwo"
+    ]
+  },
+  {
+    "id": "l-lining",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lining",
+    "pronunciation": "ˈlaɪnɪŋ",
+    "meaning": [
+      "podszewka",
+      "podbicie",
+      "wyściółka"
+    ]
+  },
+  {
+    "id": "l-link",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "link",
+    "pronunciation": "lɪŋk",
+    "meaning": [
+      "łączyć",
+      "związek",
+      "połączenie",
+      "ogniwo"
+    ]
+  },
+  {
+    "id": "l-linkage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "linkage",
+    "pronunciation": "ˈlɪŋkɪʤ",
+    "meaning": [
+      "związek"
+    ]
+  },
+  {
+    "id": "l-links",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "links",
+    "pronunciation": "lɪŋks",
+    "meaning": [
+      "boisko do golfa"
+    ]
+  },
+  {
+    "id": "l-linkup",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "linkup",
+    "pronunciation": "ˈlɪŋkʌp",
+    "meaning": [
+      "połączenie"
+    ]
+  },
+  {
+    "id": "l-lion",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lion",
+    "pronunciation": "ˈlaɪən",
+    "meaning": [
+      "lew"
+    ]
+  },
+  {
+    "id": "l-lioness",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lioness",
+    "pronunciation": "ˈlaɪənɪs",
+    "meaning": [
+      "lwica"
+    ]
+  },
+  {
+    "id": "l-lip",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lip",
+    "pronunciation": "lɪp",
+    "meaning": [
+      "warga"
+    ]
+  },
+  {
+    "id": "l-lip-read",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "lip-read",
+    "pronunciation": "ˈlɪpri:d",
+    "meaning": [
+      "czytać z warg"
+    ]
+  },
+  {
+    "id": "l-lip-service",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lip-service",
+    "pronunciation": "ˈlɪpsɜ:vɪs",
+    "meaning": []
+  },
+  {
+    "id": "l-lipstick",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lipstick",
+    "pronunciation": "ˈlɪpstɪk",
+    "meaning": [
+      "kredka do ust"
+    ]
+  },
+  {
+    "id": "l-liquefy",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "liquefy",
+    "pronunciation": "ˈlɪkwɪfaɪ",
+    "meaning": [
+      "stopić",
+      "skroplić"
+    ]
+  },
+  {
+    "id": "l-liqueur",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "liqueur",
+    "pronunciation": "lɪˈkjʊə",
+    "meaning": [
+      "likier"
+    ]
+  },
+  {
+    "id": "l-liquid",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "liquid",
+    "pronunciation": "ˈlɪkwɪd",
+    "meaning": [
+      "ciecz",
+      "ciekły",
+      "płynny"
+    ]
+  },
+  {
+    "id": "l-liquid-crystal_display",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "liquid-crystal display",
+    "pronunciation": "/ˌlɪkwɪd ˈkrɪstəl dɪˈsple/",
+    "meaning": [
+      "ekran ciekłokrystaliczny"
+    ]
+  },
+  {
+    "id": "l-liquidate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "liquidate",
+    "pronunciation": "ˈlɪkwɪdeɪt",
+    "meaning": [
+      "likwidować"
+    ]
+  },
+  {
+    "id": "l-liquor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "liquor",
+    "pronunciation": "ˈlɪkə",
+    "meaning": [
+      "alkohol",
+      "trunek"
+    ]
+  },
+  {
+    "id": "l-Lisbon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Lisbon",
+    "pronunciation": "ˈlɪzbən",
+    "meaning": [
+      "Lizbona"
+    ]
+  },
+  {
+    "id": "l-lisp",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lisp",
+    "pronunciation": "lɪsp",
+    "meaning": [
+      "seplenić",
+      "seplenienie"
+    ]
+  },
+  {
+    "id": "l-list",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "list",
+    "pronunciation": "lɪst",
+    "meaning": [
+      "lista",
+      "spis",
+      "wypisywać",
+      "wyszczególniać",
+      "umieszczać na liście"
+    ]
+  },
+  {
+    "id": "l-listen",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "listen",
+    "pronunciation": "ˈlɪsən",
+    "meaning": [
+      "słuchać się",
+      "słuchać",
+      "nasłuchiwać",
+      "podsłuchiwać"
+    ]
+  },
+  {
+    "id": "l-listener",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "listener",
+    "pronunciation": "ˈlɪsənə",
+    "meaning": [
+      "słuchacz"
+    ]
+  },
+  {
+    "id": "l-listless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "listless",
+    "pronunciation": "ˈlɪstlɪs",
+    "meaning": [
+      "osowiały"
+    ]
+  },
+  {
+    "id": "l-litany",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "litany",
+    "pronunciation": "ˈlɪtənɪ",
+    "meaning": [
+      "litania"
+    ]
+  },
+  {
+    "id": "l-literacy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "literacy",
+    "pronunciation": "ˈlɪtərəsɪ",
+    "meaning": [
+      "umiejętność czytania i pisania"
+    ]
+  },
+  {
+    "id": "l-literal",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "literal",
+    "pronunciation": "ˈlɪtərəl",
+    "meaning": [
+      "dosłowny",
+      "literalny"
+    ]
+  },
+  {
+    "id": "l-literary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "literary",
+    "pronunciation": "ˈlɪtərərɪ",
+    "meaning": [
+      "literacki",
+      "poetycki"
+    ]
+  },
+  {
+    "id": "l-literate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "literate",
+    "pronunciation": "ˈlɪtərət",
+    "meaning": [
+      "piśmienny",
+      "dobrze wykształcony"
+    ]
+  },
+  {
+    "id": "l-literature",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "literature",
+    "pronunciation": "ˈlɪtrəʧə",
+    "meaning": [
+      "literatura",
+      "piśmiennictwo"
+    ]
+  },
+  {
+    "id": "l-Lithuania",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Lithuania",
+    "pronunciation": "ˌlɪθjʊˈeɪnɪə",
+    "meaning": [
+      "Litwa"
+    ]
+  },
+  {
+    "id": "l-Lithuanian",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Lithuanian",
+    "pronunciation": "ˌlɪθjʊˈeɪnɪən",
+    "meaning": [
+      "litewski",
+      "Litwin"
+    ]
+  },
+  {
+    "id": "l-litigate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "litigate",
+    "pronunciation": "ˈlɪtɪgeɪt",
+    "meaning": [
+      "procesować się"
+    ]
+  },
+  {
+    "id": "l-litigation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "litigation",
+    "pronunciation": "ˌlɪtɪˈgeɪʃən",
+    "meaning": [
+      "spór sądowy",
+      "sprawa"
+    ]
+  },
+  {
+    "id": "l-litre",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "litre",
+    "pronunciation": "ˈli:tə",
+    "meaning": [
+      "litr"
+    ]
+  },
+  {
+    "id": "l-litter",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "litter",
+    "pronunciation": "ˈlɪtə",
+    "meaning": [
+      "śmieci",
+      "miot",
+      "lęg",
+      "zaśmiecać"
+    ]
+  },
+  {
+    "id": "l-liturgy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "liturgy",
+    "pronunciation": "ˈlɪtəʤɪ",
+    "meaning": [
+      "liturgia"
+    ]
+  },
+  {
+    "id": "l-live",
+    "level": "A1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "live",
+    "pronunciation": "/lɪv/",
+    "meaning": [
+      "żyć",
+      "mieszkać",
+      "prowadzić",
+      "spędzać",
+      "zmazywać",
+      "przeżywać",
+      "przetrwać",
+      "żywić się",
+      "trwać",
+      "dotrzymywać",
+      "spełniać",
+      "żywy",
+      "bezpośredni",
+      "pod napięciem",
+      "uzbrojony",
+      "na żywo"
+    ]
+  },
+  {
+    "id": "l-livelihood",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "livelihood",
+    "pronunciation": "ˈlaɪvlɪhʊd",
+    "meaning": [
+      "źródło utrzymania"
+    ]
+  },
+  {
+    "id": "l-lively",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "lively",
+    "pronunciation": "ˈlaɪvlɪ",
+    "meaning": [
+      "żywy",
+      "ożywiony"
+    ]
+  },
+  {
+    "id": "l-liven_up",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "liven up",
+    "pronunciation": "ˌlaɪvən ˈʌp",
+    "meaning": [
+      "ożywiać się",
+      "ożywiać"
+    ]
+  },
+  {
+    "id": "l-liver",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "liver",
+    "pronunciation": "ˈlɪvə",
+    "meaning": [
+      "wątroba"
+    ]
+  },
+  {
+    "id": "l-livestock",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "livestock",
+    "pronunciation": "ˈlaɪvstɒk",
+    "meaning": [
+      "trzoda"
+    ]
+  },
+  {
+    "id": "l-livid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "livid",
+    "pronunciation": "ˈlɪvɪd",
+    "meaning": [
+      "rozjuszony",
+      "zsiniały"
+    ]
+  },
+  {
+    "id": "l-living",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "living",
+    "pronunciation": "ˈlɪvɪŋ",
+    "meaning": [
+      "żyjący",
+      "mieszkalny",
+      "utrzymanie",
+      "pokój dzienny",
+      "salonik"
+    ]
+  },
+  {
+    "id": "l-lizard",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lizard",
+    "pronunciation": "ˈlɪzəd",
+    "meaning": [
+      "jaszczurka"
+    ]
+  },
+  {
+    "id": "l-llama",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "llama",
+    "pronunciation": "ˈlɑ:mə",
+    "meaning": [
+      "lama"
+    ]
+  },
+  {
+    "id": "l-LMT",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "LMT",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "czas lokalny"
+    ]
+  },
+  {
+    "id": "l-loaded",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "loaded",
+    "pronunciation": "ˈləʊdɪd",
+    "meaning": [
+      "załadowany",
+      "obładowany",
+      "naładowany",
+      "nadziany",
+      "podchwytliwy"
+    ]
+  },
+  {
+    "id": "l-loaf",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "loaf",
+    "pronunciation": "ləʊf",
+    "meaning": [
+      "bochenek"
+    ]
+  },
+  {
+    "id": "l-loan",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "loan",
+    "pronunciation": "ləʊn",
+    "meaning": [
+      "pożyczać",
+      "pożyczka",
+      "kredyt bankowy",
+      "kredyt",
+      "pożyczenie"
+    ]
+  },
+  {
+    "id": "l-loathe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "loathe",
+    "pronunciation": "ləʊð",
+    "meaning": [
+      "nie cierpieć"
+    ]
+  },
+  {
+    "id": "l-loathing",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "loathing",
+    "pronunciation": "ˈləʊðɪŋ",
+    "meaning": [
+      "wstręt",
+      "obrzydzenie"
+    ]
+  },
+  {
+    "id": "l-lobby",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lobby",
+    "pronunciation": "ˈlɒbɪ",
+    "meaning": [
+      "hall",
+      "westybul",
+      "lobby",
+      "grupa nacisku",
+      "wywierać presję"
+    ]
+  },
+  {
+    "id": "l-lobe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lobe",
+    "pronunciation": "ləʊb",
+    "meaning": [
+      "płatek"
+    ]
+  },
+  {
+    "id": "l-lobster",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lobster",
+    "pronunciation": "ˈlɒbstə",
+    "meaning": [
+      "homar"
+    ]
+  },
+  {
+    "id": "l-local",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "local",
+    "pronunciation": "ˈləʊkəl",
+    "meaning": [
+      "lokalny",
+      "miejscowy"
+    ]
+  },
+  {
+    "id": "l-locality",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "locality",
+    "pronunciation": "ləʊˈkælɪtɪ",
+    "meaning": [
+      "miejsce"
+    ]
+  },
+  {
+    "id": "l-locate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "locate",
+    "pronunciation": "ləʊˈkeɪt",
+    "meaning": [
+      "wynajdować",
+      "lokować"
+    ]
+  },
+  {
+    "id": "l-location",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "location",
+    "pronunciation": "ləʊˈkeɪʃən",
+    "meaning": [
+      "umiejscowienie",
+      "miejsce"
+    ]
+  },
+  {
+    "id": "l-loch",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "loch",
+    "pronunciation": "ˈlɒk",
+    "meaning": [
+      "jezioro"
+    ]
+  },
+  {
+    "id": "l-lock",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lock",
+    "pronunciation": "lɒk",
+    "meaning": [
+      "zamykać na zamek",
+      "zamykać",
+      "wchodzić",
+      "blokować się",
+      "zwierać się",
+      "zamek",
+      "śluza",
+      "lok"
+    ]
+  },
+  {
+    "id": "l-locker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "locker",
+    "pronunciation": "ˈlɒkə",
+    "meaning": [
+      "schowek na bagaż",
+      "schowek"
+    ]
+  },
+  {
+    "id": "l-locket",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "locket",
+    "pronunciation": "ˈlɒkɪt",
+    "meaning": [
+      "medalion"
+    ]
+  },
+  {
+    "id": "l-locomotive",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "locomotive",
+    "pronunciation": "ˌləʊkəˈməʊtɪv",
+    "meaning": [
+      "lokomotywa"
+    ]
+  },
+  {
+    "id": "l-locust",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "locust",
+    "pronunciation": "ˈləʊkəst",
+    "meaning": [
+      "szarańcza"
+    ]
+  },
+  {
+    "id": "l-lodge",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lodge",
+    "pronunciation": "lɒʤ",
+    "meaning": [
+      "domek dozorcy",
+      "domek",
+      "lokować",
+      "przebywać",
+      "utkwić",
+      "pozostawać",
+      "składać"
+    ]
+  },
+  {
+    "id": "l-lodger",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lodger",
+    "pronunciation": "ˈlɒʤə",
+    "meaning": [
+      "lokator",
+      "sublokator"
+    ]
+  },
+  {
+    "id": "l-lodging",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lodging",
+    "pronunciation": "ˈlɒʤɪŋ",
+    "meaning": [
+      "zakwaterowanie",
+      "wynajęte mieszkanie"
+    ]
+  },
+  {
+    "id": "l-loft",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "loft",
+    "pronunciation": "lɒft",
+    "meaning": [
+      "strych"
+    ]
+  },
+  {
+    "id": "l-lofty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lofty",
+    "pronunciation": "ˈlɒftɪ",
+    "meaning": [
+      "wyniosły",
+      "wzniosły"
+    ]
+  },
+  {
+    "id": "l-loggerheads",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "loggerheads",
+    "pronunciation": "ˈlɒgəhedz",
+    "meaning": []
+  },
+  {
+    "id": "l-logic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "logic",
+    "pronunciation": "ˈlɒʤɪk",
+    "meaning": [
+      "logika"
+    ]
+  },
+  {
+    "id": "l-logical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "logical",
+    "pronunciation": "ˈlɒʤɪkəl",
+    "meaning": [
+      "logiczny"
+    ]
+  },
+  {
+    "id": "l-logistics",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "logistics",
+    "pronunciation": "ləˈʤɪstɪks",
+    "meaning": [
+      "logistyka"
+    ]
+  },
+  {
+    "id": "l-loins",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "loins",
+    "pronunciation": "lɔɪnz",
+    "meaning": [
+      "lędźwie",
+      "genitalia"
+    ]
+  },
+  {
+    "id": "l-loiter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "loiter",
+    "pronunciation": "ˈlɔɪtə",
+    "meaning": [
+      "marudzić",
+      "zwlekać"
+    ]
+  },
+  {
+    "id": "l-loll",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "loll",
+    "pronunciation": "lɒl",
+    "meaning": [
+      "rozwalać się",
+      "zwieszać się",
+      "zwieszać",
+      "wywieszać się",
+      "wywieszać"
+    ]
+  },
+  {
+    "id": "l-lollipop",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "lollipop",
+    "pronunciation": "ˈlɒlɪpɒp",
+    "meaning": [
+      "lizak"
+    ]
+  },
+  {
+    "id": "l-lolly",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lolly",
+    "pronunciation": "ˈlɒlɪ",
+    "meaning": [
+      "lizak",
+      "lody na patyku",
+      "flota"
+    ]
+  },
+  {
+    "id": "l-London",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "London",
+    "pronunciation": "ˈlʌndən",
+    "meaning": [
+      "Londyn",
+      "londyński"
+    ]
+  },
+  {
+    "id": "l-Londoner",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Londoner",
+    "pronunciation": "ˈlʌndənə",
+    "meaning": [
+      "Londyńczyk"
+    ]
+  },
+  {
+    "id": "l-lone",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lone",
+    "pronunciation": "ləʊn",
+    "meaning": [
+      "jedyny",
+      "pojedynczy"
+    ]
+  },
+  {
+    "id": "l-lonely",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "lonely",
+    "pronunciation": "ˈləʊnlɪ",
+    "meaning": [
+      "samotny",
+      "osamotniony"
+    ]
+  },
+  {
+    "id": "l-loner",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "loner",
+    "pronunciation": "ˈləʊnə",
+    "meaning": [
+      "samotnik"
+    ]
+  },
+  {
+    "id": "l-lonesome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lonesome",
+    "pronunciation": "ˈləʊnsəm",
+    "meaning": [
+      "osamotniony"
+    ]
+  },
+  {
+    "id": "l-long",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb",
+      "verb"
+    ],
+    "word": "long",
+    "pronunciation": "/lɒŋ/",
+    "meaning": [
+      "długość"
+    ]
+  },
+  {
+    "id": "l-long-distance",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "long-distance",
+    "pronunciation": "ˌlɒŋ ˈdɪstəns",
+    "meaning": [
+      "długodystansowy",
+      "zamiejscowy"
+    ]
+  },
+  {
+    "id": "l-longevity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "longevity",
+    "pronunciation": "lɒnˈʤevɪtɪ",
+    "meaning": [
+      "długowieczność"
+    ]
+  },
+  {
+    "id": "l-longitude",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "longitude",
+    "pronunciation": "ˈlɒŋɪtju:d",
+    "meaning": [
+      "długość geograficzna",
+      "długość"
+    ]
+  },
+  {
+    "id": "l-long-life",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "long-life",
+    "pronunciation": "ˌlɒŋˈlaɪf",
+    "meaning": [
+      "długotrwały",
+      "o przedłużonej trwałości"
+    ]
+  },
+  {
+    "id": "l-long-lived",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-lived",
+    "pronunciation": "ˌlɒŋˈlɪvd",
+    "meaning": [
+      "długowieczny"
+    ]
+  },
+  {
+    "id": "l-long-playing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-playing",
+    "pronunciation": "ˌlɒŋ ˈpleɪɪŋ",
+    "meaning": [
+      "długogrający"
+    ]
+  },
+  {
+    "id": "l-long-range",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-range",
+    "pronunciation": "ˌlɒŋˈreɪnʤ",
+    "meaning": [
+      "dalekosiężny",
+      "dalekiego zasięgu"
+    ]
+  },
+  {
+    "id": "l-long-sighted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-sighted",
+    "pronunciation": "ˌlɒŋˈsaɪtɪd",
+    "meaning": [
+      "dalekowzroczny"
+    ]
+  },
+  {
+    "id": "l-long-standing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "long-standing",
+    "pronunciation": "ˌlɒŋˈstændɪŋ",
+    "meaning": [
+      "długotrwały"
+    ]
+  },
+  {
+    "id": "l-long-term",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "long-term",
+    "pronunciation": "ˌlɒŋˈtɜ:m",
+    "meaning": [
+      "długoterminowy"
+    ]
+  },
+  {
+    "id": "l-long-winded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-winded",
+    "pronunciation": "ˌlɒŋˈwɪndɪd",
+    "meaning": [
+      "rozwlekły"
+    ]
+  },
+  {
+    "id": "l-loo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "loo",
+    "pronunciation": "lu:",
+    "meaning": [
+      "ubikacja"
+    ]
+  },
+  {
+    "id": "l-lookout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lookout",
+    "pronunciation": "ˈlʊkaʊt",
+    "meaning": [
+      "czujka",
+      "czata",
+      "miejsce obserwacyjne"
+    ]
+  },
+  {
+    "id": "l-loom",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "loom",
+    "pronunciation": "lu:m",
+    "meaning": [
+      "zarysowywać się",
+      "wyłaniać się",
+      "nadciągać",
+      "zbierać się",
+      "krosno"
+    ]
+  },
+  {
+    "id": "l-loony",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "loony",
+    "pronunciation": "ˈlu:nɪ",
+    "meaning": [
+      "szajbnięty",
+      "szajbus"
+    ]
+  },
+  {
+    "id": "l-long-life",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "long-life",
+    "pronunciation": "ˌlɒŋˈlaɪf",
+    "meaning": [
+      "długotrwały",
+      "o przedłużonej trwałości"
+    ]
+  },
+  {
+    "id": "l-long-lived",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-lived",
+    "pronunciation": "ˌlɒŋˈlɪvd",
+    "meaning": [
+      "długowieczny"
+    ]
+  },
+  {
+    "id": "l-long-playing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-playing",
+    "pronunciation": "ˌlɒŋ ˈpleɪɪŋ",
+    "meaning": [
+      "długogrający"
+    ]
+  },
+  {
+    "id": "l-long-range",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-range",
+    "pronunciation": "ˌlɒŋˈreɪnʤ",
+    "meaning": [
+      "dalekosiężny",
+      "dalekiego zasięgu"
+    ]
+  },
+  {
+    "id": "l-long-sighted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-sighted",
+    "pronunciation": "ˌlɒŋˈsaɪtɪd",
+    "meaning": [
+      "dalekowzroczny"
+    ]
+  },
+  {
+    "id": "l-long-standing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "long-standing",
+    "pronunciation": "ˌlɒŋˈstændɪŋ",
+    "meaning": [
+      "długotrwały"
+    ]
+  },
+  {
+    "id": "l-long-term",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "long-term",
+    "pronunciation": "ˌlɒŋˈtɜ:m",
+    "meaning": [
+      "długoterminowy"
+    ]
+  },
+  {
+    "id": "l-long-winded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "long-winded",
+    "pronunciation": "ˌlɒŋˈwɪndɪd",
+    "meaning": [
+      "rozwlekły"
+    ]
+  },
+  {
+    "id": "l-loo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "loo",
+    "pronunciation": "lu:",
+    "meaning": [
+      "ubikacja"
+    ]
+  },
+  {
+    "id": "l-lookout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lookout",
+    "pronunciation": "ˈlʊkaʊt",
+    "meaning": [
+      "czujka",
+      "czata",
+      "miejsce obserwacyjne"
+    ]
+  },
+  {
+    "id": "l-loom",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "loom",
+    "pronunciation": "lu:m",
+    "meaning": [
+      "zarysowywać się",
+      "wyłaniać się",
+      "nadciągać",
+      "zbierać się",
+      "krosno"
+    ]
+  },
+  {
+    "id": "l-loony",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "loony",
+    "pronunciation": "ˈlu:nɪ",
+    "meaning": [
+      "szajbnięty",
+      "szajbus"
+    ]
+  },
+  {
+    "id": "l-loop",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "loop",
+    "pronunciation": "lu:p",
+    "meaning": [
+      "pętla",
+      "obwiązywać",
+      "robić pętlę"
+    ]
+  },
+  {
+    "id": "l-loophole",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "loophole",
+    "pronunciation": "ˈlu:phəʊl",
+    "meaning": [
+      "luka",
+      "furtka"
+    ]
+  },
+  {
+    "id": "l-loose",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "loose",
+    "pronunciation": "lu:s",
+    "meaning": [
+      "luźny",
+      "sypki",
+      "swobodny",
+      "rozwiązły"
+    ]
+  },
+  {
+    "id": "l-loosen",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "loosen",
+    "pronunciation": "ˈlu:sən",
+    "meaning": [
+      "rozluźniać się",
+      "rozluźniać",
+      "poluźniać się",
+      "poluźniać",
+      "poluzowywać"
+    ]
+  },
+  {
+    "id": "l-loot",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "loot",
+    "pronunciation": "lu:t",
+    "meaning": [
+      "łupić",
+      "grabić",
+      "łup"
+    ]
+  },
+  {
+    "id": "l-lop",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "lop",
+    "pronunciation": "lɒp",
+    "meaning": [
+      "odrąbywać"
+    ]
+  },
+  {
+    "id": "l-lopsided",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lopsided",
+    "pronunciation": "ˌlɒpˈsaɪdɪd",
+    "meaning": [
+      "koślawy",
+      "krzywy"
+    ]
+  },
+  {
+    "id": "l-lord",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lord",
+    "pronunciation": "lɔ:d",
+    "meaning": [
+      "lord",
+      "pan",
+      "władca",
+      "Pan Bóg",
+      "Pan"
+    ]
+  },
+  {
+    "id": "l-lore",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lore",
+    "pronunciation": "lɔ:",
+    "meaning": [
+      "folklor",
+      "tradycja"
+    ]
+  },
+  {
+    "id": "l-lorry",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lorry",
+    "pronunciation": "ˈlɒrɪ",
+    "meaning": [
+      "ciężarówka"
+    ]
+  },
+  {
+    "id": "l-loser",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "loser",
+    "pronunciation": "ˈlu:zə",
+    "meaning": [
+      "przegrywający",
+      "pechowiec"
+    ]
+  },
+  {
+    "id": "l-loss",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "loss",
+    "pronunciation": "lɒs",
+    "meaning": [
+      "strata",
+      "utrata",
+      "deficyt"
+    ]
+  },
+  {
+    "id": "l-lost",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "lost",
+    "pronunciation": "lɒst",
+    "meaning": [
+      "zgubiony",
+      "stracony",
+      "rzeczy zagubione"
+    ]
+  },
+  {
+    "id": "l-lotion",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lotion",
+    "pronunciation": "ˈləʊʃən",
+    "meaning": [
+      "balsam",
+      "płyn kosmetyczny"
+    ]
+  },
+  {
+    "id": "l-lottery",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lottery",
+    "pronunciation": "ˈlɒtərɪ",
+    "meaning": [
+      "loteria"
+    ]
+  },
+  {
+    "id": "l-loud",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "loud",
+    "pronunciation": "laʊd",
+    "meaning": [
+      "głośny",
+      "hałaśliwy",
+      "krzyczący",
+      "głośno"
+    ]
+  },
+  {
+    "id": "l-loudspeaker",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "loudspeaker",
+    "pronunciation": "ˌlaʊdˈspi:kə",
+    "meaning": [
+      "głośnik"
+    ]
+  },
+  {
+    "id": "l-Louisiana",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Louisiana",
+    "pronunciation": "lu:ˌi:zɪˈænə",
+    "meaning": [
+      "Louisiana"
+    ]
+  },
+  {
+    "id": "l-lounge",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lounge",
+    "pronunciation": "laʊnʤ",
+    "meaning": [
+      "hall",
+      "rozkładać się",
+      "rozwalać się",
+      "ubranie na co dzień"
+    ]
+  },
+  {
+    "id": "l-louse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "louse",
+    "pronunciation": "laʊs",
+    "meaning": [
+      "wesz"
+    ]
+  },
+  {
+    "id": "l-lousy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lousy",
+    "pronunciation": "ˈlaʊzɪ",
+    "meaning": [
+      "wszawy",
+      "do dupy"
+    ]
+  },
+  {
+    "id": "l-lout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lout",
+    "pronunciation": "laʊt",
+    "meaning": [
+      "chuligan"
+    ]
+  },
+  {
+    "id": "l-lovable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lovable",
+    "pronunciation": "ˈlʌvəbəl",
+    "meaning": [
+      "uroczy"
+    ]
+  },
+  {
+    "id": "l-loveless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "loveless",
+    "pronunciation": "ˈlʌvlɪs",
+    "meaning": [
+      "bez miłości",
+      "nie kochany"
+    ]
+  },
+  {
+    "id": "l-lovely",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "lovely",
+    "pronunciation": "ˈlʌvlɪ",
+    "meaning": [
+      "cudowny",
+      "wspaniały"
+    ]
+  },
+  {
+    "id": "l-love-making",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "love-making",
+    "pronunciation": "ˈlʌvmeɪkɪŋ",
+    "meaning": [
+      "kochanie się"
+    ]
+  },
+  {
+    "id": "l-lover",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lover",
+    "pronunciation": "ˈlʌvə",
+    "meaning": [
+      "kochanek",
+      "miłośnik"
+    ]
+  },
+  {
+    "id": "l-loving",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "loving",
+    "pronunciation": "ˈlʌvɪŋ",
+    "meaning": [
+      "kochający",
+      "czuły"
+    ]
+  },
+  {
+    "id": "l-low-cut",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "low-cut",
+    "pronunciation": "ˈləʊkʌt",
+    "meaning": [
+      "głęboko wycięty",
+      "wydekoltowany"
+    ]
+  },
+  {
+    "id": "l-lower",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "lower",
+    "pronunciation": "ˈləʊə",
+    "meaning": [
+      "niższy",
+      "dolny",
+      "opuszczać",
+      "obniżać",
+      "zaniżać",
+      "zniżać"
+    ]
+  },
+  {
+    "id": "l-low-key",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "low-key",
+    "pronunciation": "ˌləʊˈki:",
+    "meaning": [
+      "dyskretny",
+      "z rezerwą"
+    ]
+  },
+  {
+    "id": "l-lowlands",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lowlands",
+    "pronunciation": "ˈləʊləndz",
+    "meaning": [
+      "niziny"
+    ]
+  },
+  {
+    "id": "l-lowly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lowly",
+    "pronunciation": "ˈləʊlɪ",
+    "meaning": [
+      "niski",
+      "skromny"
+    ]
+  },
+  {
+    "id": "l-loyal",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "loyal",
+    "pronunciation": "ˈlɔɪəl",
+    "meaning": [
+      "lojalny"
+    ]
+  },
+  {
+    "id": "l-loyalty",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "loyalty",
+    "pronunciation": "ˈlɔɪəltɪ",
+    "meaning": [
+      "lojalność",
+      "wierność",
+      "przywiązanie"
+    ]
+  },
+  {
+    "id": "l-lozenge",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lozenge",
+    "pronunciation": "ˈlɒzɪnʤ",
+    "meaning": [
+      "tabletka do ssania",
+      "tabletka"
+    ]
+  },
+  {
+    "id": "l-LP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "LP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "płyta długogrająca analogowa",
+      "płyta długogrająca"
+    ]
+  },
+  {
+    "id": "l-LQ",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "LQ",
+    "pronunciation": "⋅ˈ⋅",
+    "meaning": [
+      "wysoka jakość"
+    ]
+  },
+  {
+    "id": "l-LSD",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "LSD",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "LSD"
+    ]
+  },
+  {
+    "id": "l-LST",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "LST",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "czas lokalny"
+    ]
+  },
+  {
+    "id": "l-Lt.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Lt.",
+    "pronunciation": "/ˌelˈtiː/",
+    "meaning": [
+      "porucznik"
+    ]
+  },
+  {
+    "id": "l-Lt.-Col.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Lt.-Col.",
+    "pronunciation": "/ˌlefˈtenənt ˈkɜːnəl/",
+    "meaning": [
+      "podpułkownik"
+    ]
+  },
+  {
+    "id": "l-ltd.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ltd.",
+    "pronunciation": "/ˌel tiː ˈdiː/",
+    "meaning": [
+      "z o.o.",
+      "z ograniczoną odpowiedzialnością"
+    ]
+  },
+  {
+    "id": "l-lubricate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "lubricate",
+    "pronunciation": "ˈlu:brɪkeɪt",
+    "meaning": [
+      "smarować"
+    ]
+  },
+  {
+    "id": "l-lucid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lucid",
+    "pronunciation": "ˈlu:sɪd",
+    "meaning": [
+      "przejrzysty",
+      "zrozumiały",
+      "przytomny",
+      "jasny"
+    ]
+  },
+  {
+    "id": "l-luck",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "luck",
+    "pronunciation": "lʌk",
+    "meaning": [
+      "szczęście"
+    ]
+  },
+  {
+    "id": "l-luckily",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "luckily",
+    "pronunciation": "ˈlʌkɪlɪ",
+    "meaning": [
+      "na szczęście"
+    ]
+  },
+  {
+    "id": "l-lucky",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "lucky",
+    "pronunciation": "ˈlʌkɪ",
+    "meaning": [
+      "szczęśliwy",
+      "przynoszący powodzenie"
+    ]
+  },
+  {
+    "id": "l-lucrative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lucrative",
+    "pronunciation": "ˈlu:krətɪv",
+    "meaning": [
+      "lukratywny"
+    ]
+  },
+  {
+    "id": "l-ludicrous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ludicrous",
+    "pronunciation": "ˈlu:dɪkrəs",
+    "meaning": [
+      "groteskowy",
+      "śmieszny"
+    ]
+  },
+  {
+    "id": "l-lug",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "lug",
+    "pronunciation": "lʌg",
+    "meaning": [
+      "taskać",
+      "tachać"
+    ]
+  },
+  {
+    "id": "l-luggage",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "luggage",
+    "pronunciation": "ˈlʌgɪʤ",
+    "meaning": [
+      "bagaż"
+    ]
+  },
+  {
+    "id": "l-lugubrious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "lugubrious",
+    "pronunciation": "ləˈgu:brɪəs",
+    "meaning": [
+      "pogrzebowy",
+      "żałobny"
+    ]
+  },
+  {
+    "id": "l-lukewarm",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lukewarm",
+    "pronunciation": "ˌlu:kˈwɔ:m",
+    "meaning": [
+      "letni",
+      "niezainteresowany",
+      "obojętny"
+    ]
+  },
+  {
+    "id": "l-lull",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lull",
+    "pronunciation": "lʌl",
+    "meaning": [
+      "przerwa",
+      "okres ciszy",
+      "ukołysać",
+      "uśpić"
+    ]
+  },
+  {
+    "id": "l-lullaby",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lullaby",
+    "pronunciation": "ˈlʌləbaɪ",
+    "meaning": [
+      "kołysanka"
+    ]
+  },
+  {
+    "id": "l-lumber",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lumber",
+    "pronunciation": "ˈlʌmbə",
+    "meaning": [
+      "drewno ścięte",
+      "drewno",
+      "rupiecie",
+      "gramolić się",
+      "obarczać"
+    ]
+  },
+  {
+    "id": "l-luminous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "luminous",
+    "pronunciation": "ˈlu:mɪnəs",
+    "meaning": [
+      "luminescencyjny",
+      "fosforyzujący"
+    ]
+  },
+  {
+    "id": "l-lump",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lump",
+    "pronunciation": "lʌmp",
+    "meaning": [
+      "kawał",
+      "bryła",
+      "narośl",
+      "guz",
+      "kostka cukru",
+      "kostka",
+      "traktować jednakowo",
+      "skupiać",
+      "włączać",
+      "kwota ogólna"
+    ]
+  },
+  {
+    "id": "l-lumpy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lumpy",
+    "pronunciation": "ˈlʌmpɪ",
+    "meaning": [
+      "wyboisty",
+      "grudowaty"
+    ]
+  },
+  {
+    "id": "l-lunacy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "lunacy",
+    "pronunciation": "ˈlu:nəsɪ",
+    "meaning": [
+      "szaleństwo"
+    ]
+  },
+  {
+    "id": "l-lunar",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lunar",
+    "pronunciation": "ˈlu:nə",
+    "meaning": [
+      "księżycowy"
+    ]
+  },
+  {
+    "id": "l-lunatic",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "lunatic",
+    "pronunciation": "ˈlu:nətɪk",
+    "meaning": [
+      "szaleniec",
+      "szalony"
+    ]
+  },
+  {
+    "id": "l-lunch",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lunch",
+    "pronunciation": "ˈlʌnʧ(ən)",
+    "meaning": [
+      "lekki obiad",
+      "obiad",
+      "lunch",
+      "spożywać obiad",
+      "przerwa obiadowa",
+      "pora obiadowa"
+    ]
+  },
+  {
+    "id": "l-luncheon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "luncheon",
+    "pronunciation": "ˈlʌnʧ(ən)",
+    "meaning": [
+      "lunch"
+    ]
+  },
+  {
+    "id": "l-lung",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lung",
+    "pronunciation": "lʌŋ",
+    "meaning": [
+      "płuco"
+    ]
+  },
+  {
+    "id": "l-lunge",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lunge",
+    "pronunciation": "ˈlʌnʤ",
+    "meaning": [
+      "szarpnąć się",
+      "szarpnięcie się",
+      "szarpnięcie"
+    ]
+  },
+  {
+    "id": "l-lurch",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lurch",
+    "pronunciation": "lɜ:ʧ",
+    "meaning": [
+      "zataczać się",
+      "skakać",
+      "zatoczenie się"
+    ]
+  },
+  {
+    "id": "l-lure",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "lure",
+    "pronunciation": "lʊə",
+    "meaning": [
+      "wabić",
+      "przynęta"
+    ]
+  },
+  {
+    "id": "l-lurid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lurid",
+    "pronunciation": "ˈlʊərɪd",
+    "meaning": [
+      "okropny",
+      "krzykliwy"
+    ]
+  },
+  {
+    "id": "l-lurk",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "lurk",
+    "pronunciation": "lɜ:k",
+    "meaning": [
+      "czaić się"
+    ]
+  },
+  {
+    "id": "l-luscious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "luscious",
+    "pronunciation": "ˈlʌʃəs",
+    "meaning": [
+      "smakowity",
+      "rewelacyjny"
+    ]
+  },
+  {
+    "id": "l-lush",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "lush",
+    "pronunciation": "lʌʃ",
+    "meaning": [
+      "bujny",
+      "wybujały",
+      "luksusowy"
+    ]
+  },
+  {
+    "id": "l-lustful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lustful",
+    "pronunciation": "ˈlʌstfʊl",
+    "meaning": [
+      "pożądliwy"
+    ]
+  },
+  {
+    "id": "l-lustre",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lustre",
+    "pronunciation": "ˈlʌstə",
+    "meaning": [
+      "połysk",
+      "blask"
+    ]
+  },
+  {
+    "id": "l-lusty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "lusty",
+    "pronunciation": "ˈlʌstɪ",
+    "meaning": [
+      "krzepki",
+      "pełen wigoru"
+    ]
+  },
+  {
+    "id": "l-lute",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lute",
+    "pronunciation": "lu:t",
+    "meaning": [
+      "lutnia"
+    ]
+  },
+  {
+    "id": "l-luxuriant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "luxuriant",
+    "pronunciation": "lʌgˈʒʊərɪənt",
+    "meaning": [
+      "wybujały",
+      "bujny"
+    ]
+  },
+  {
+    "id": "l-luxuriate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "luxuriate",
+    "pronunciation": "lʌgˈʒʊərɪeɪt",
+    "meaning": [
+      "rozkoszować się",
+      "dobrze się czuć"
+    ]
+  },
+  {
+    "id": "l-luxurious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "luxurious",
+    "pronunciation": "lʌgˈʒʊərɪəs",
+    "meaning": [
+      "luksusowy",
+      "pełny",
+      "swobodny"
+    ]
+  },
+  {
+    "id": "l-luxury",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "luxury",
+    "pronunciation": "ˈlʌkʃərɪ",
+    "meaning": [
+      "luksus",
+      "luksusowy"
+    ]
+  },
+  {
+    "id": "l-LW",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "LW",
+    "pronunciation": "/ˌelˈdʌbjuː/",
+    "meaning": [
+      "fale długie"
+    ]
+  },
+  {
+    "id": "l-lynch",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "lynch",
+    "pronunciation": "lɪnʧ",
+    "meaning": [
+      "linczować"
+    ]
+  },
+  {
+    "id": "l-lynx",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "lynx",
+    "pronunciation": "lɪŋks",
+    "meaning": [
+      "ryś"
+    ]
+  },
+  {
+    "id": "l-lyre",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "lyre",
+    "pronunciation": "ˈlaɪə",
+    "meaning": [
+      "lira"
+    ]
+  },
+  {
+    "id": "l-lyric",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "lyric",
+    "pronunciation": "ˈlɪrɪk",
+    "meaning": [
+      "liryczny"
+    ]
+  },
+  {
+    "id": "l-lyrical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "lyrical",
+    "pronunciation": "ˈlɪrɪkəl",
+    "meaning": [
+      "liryczny"
+    ]
+  },
+  {
+    "id": "l-lyrics",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "lyrics",
+    "pronunciation": "ˈlɪrɪks",
+    "meaning": [
+      "słowa pieśni",
+      "słowa"
+    ]
+  }
+]
