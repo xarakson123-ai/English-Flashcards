@@ -1,0 +1,3233 @@
+[
+  {
+    "id": "v-vacancy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vacancy",
+    "pronunciation": "ˈveɪkənsɪ",
+    "meaning": [
+      "wolne stanowisko",
+      "wolne miejsce"
+    ]
+  },
+  {
+    "id": "v-vacant",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "vacant",
+    "pronunciation": "ˈveɪkənt",
+    "meaning": [
+      "wolny",
+      "nie zajęty",
+      "rozproszony"
+    ]
+  },
+  {
+    "id": "v-vacate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "vacate",
+    "pronunciation": "vəˈkeɪt",
+    "meaning": [
+      "zwalniać"
+    ]
+  },
+  {
+    "id": "v-vacation",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vacation",
+    "pronunciation": "vəˈkeɪʃən",
+    "meaning": [
+      "wakacje",
+      "urlop"
+    ]
+  },
+  {
+    "id": "v-vaccinate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "vaccinate",
+    "pronunciation": "ˈvæksɪneɪt",
+    "meaning": [
+      "szczepić"
+    ]
+  },
+  {
+    "id": "v-vaccination",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vaccination",
+    "pronunciation": "ˌvæksɪˈneɪʃən",
+    "meaning": [
+      "szczepienie"
+    ]
+  },
+  {
+    "id": "v-vaccine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vaccine",
+    "pronunciation": "ˈvæksi:n",
+    "meaning": [
+      "szczepionka"
+    ]
+  },
+  {
+    "id": "v-vacuum",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vacuum",
+    "pronunciation": "ˈvækjʊəm",
+    "meaning": [
+      "próżnia",
+      "pustka",
+      "odkurzacz",
+      "odkurzać"
+    ]
+  },
+  {
+    "id": "v-vagina",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vagina",
+    "pronunciation": "vəˈʤaɪnə",
+    "meaning": [
+      "pochwa"
+    ]
+  },
+  {
+    "id": "v-vaginal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vaginal",
+    "pronunciation": "vəˈʤaɪnəl",
+    "meaning": [
+      "dopochwowy",
+      "pochwowy"
+    ]
+  },
+  {
+    "id": "v-vagrant",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "vagrant",
+    "pronunciation": "ˈveɪgrənt",
+    "meaning": [
+      "włóczęga"
+    ]
+  },
+  {
+    "id": "v-vague",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vague",
+    "pronunciation": "veɪg",
+    "meaning": [
+      "mętny",
+      "niejasny",
+      "niewyraźny"
+    ]
+  },
+  {
+    "id": "v-vain",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vain",
+    "pronunciation": "veɪn",
+    "meaning": [
+      "próżny",
+      "daremny"
+    ]
+  },
+  {
+    "id": "v-valentine",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "valentine",
+    "pronunciation": "ˈvæləntaɪn",
+    "meaning": [
+      "kartka z życzeniami na św. Walentego"
+    ]
+  },
+  {
+    "id": "v-valet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "valet",
+    "pronunciation": "ˈvælɪt",
+    "meaning": [
+      "lokaj"
+    ]
+  },
+  {
+    "id": "v-valiant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "valiant",
+    "pronunciation": "ˈvæljənt",
+    "meaning": [
+      "bohaterski",
+      "dzielny"
+    ]
+  },
+  {
+    "id": "v-valid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "valid",
+    "pronunciation": "ˈvælɪd",
+    "meaning": [
+      "ważny",
+      "uzasadniony"
+    ]
+  },
+  {
+    "id": "v-validate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "validate",
+    "pronunciation": "ˈvælɪdeɪt",
+    "meaning": [
+      "potwierdzać"
+    ]
+  },
+  {
+    "id": "v-validity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "validity",
+    "pronunciation": "væˈlɪdɪtɪ",
+    "meaning": [
+      "ważność"
+    ]
+  },
+  {
+    "id": "v-valley",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "valley",
+    "pronunciation": "ˈvælɪ",
+    "meaning": [
+      "dolina"
+    ]
+  },
+  {
+    "id": "v-valour",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "valour",
+    "pronunciation": "ˈvælə",
+    "meaning": [
+      "bohaterstwo",
+      "odwaga"
+    ]
+  },
+  {
+    "id": "v-valuable",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "valuable",
+    "pronunciation": "ˈvæljʊəbəl",
+    "meaning": [
+      "cenny",
+      "przedmioty wartościowe"
+    ]
+  },
+  {
+    "id": "v-valuation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "valuation",
+    "pronunciation": "ˌvæljʊˈeɪʃən",
+    "meaning": [
+      "wycena",
+      "ocena"
+    ]
+  },
+  {
+    "id": "v-value",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "value",
+    "pronunciation": "ˈvælju:",
+    "meaning": [
+      "wartość",
+      "zaleta",
+      "cenić",
+      "wyceniać"
+    ]
+  },
+  {
+    "id": "v-value-added_tax",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "value-added tax",
+    "pronunciation": "ˌvælju: ˈædɪd tæks",
+    "meaning": [
+      "podatek od wartości dodanej",
+      "VAT"
+    ]
+  },
+  {
+    "id": "v-valued",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "valued",
+    "pronunciation": "ˈvælju:d",
+    "meaning": [
+      "ceniony"
+    ]
+  },
+  {
+    "id": "v-valueless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "valueless",
+    "pronunciation": "ˈvæljʊlɪs",
+    "meaning": [
+      "bezwartościowy"
+    ]
+  },
+  {
+    "id": "v-valve",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "valve",
+    "pronunciation": "vælv",
+    "meaning": [
+      "zawór"
+    ]
+  },
+  {
+    "id": "v-vampire",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vampire",
+    "pronunciation": "ˈvæmpaɪə",
+    "meaning": [
+      "wampir"
+    ]
+  },
+  {
+    "id": "v-van",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "van",
+    "pronunciation": "væn",
+    "meaning": [
+      "furgonetka"
+    ]
+  },
+  {
+    "id": "v-vandal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vandal",
+    "pronunciation": "ˈvændəl",
+    "meaning": [
+      "wandal"
+    ]
+  },
+  {
+    "id": "v-vandalism",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vandalism",
+    "pronunciation": "ˈvændəlɪzəm",
+    "meaning": [
+      "wandalizm"
+    ]
+  },
+  {
+    "id": "v-vandalize",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "vandalize",
+    "pronunciation": "ˈvændəlaɪz",
+    "meaning": [
+      "niszczyć po chuligańsku",
+      "niszczyć"
+    ]
+  },
+  {
+    "id": "v-vanguard",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vanguard",
+    "pronunciation": "ˈvængɑ:d",
+    "meaning": [
+      "awangarda"
+    ]
+  },
+  {
+    "id": "v-vanilla",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vanilla",
+    "pronunciation": "vəˈnɪlə",
+    "meaning": [
+      "wanilia"
+    ]
+  },
+  {
+    "id": "v-vanish",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "vanish",
+    "pronunciation": "ˈvænɪʃ",
+    "meaning": [
+      "znikać",
+      "ginąć"
+    ]
+  },
+  {
+    "id": "v-vanity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vanity",
+    "pronunciation": "ˈvænɪtɪ",
+    "meaning": [
+      "próżność",
+      "kosmetyczka"
+    ]
+  },
+  {
+    "id": "v-vanquish",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "vanquish",
+    "pronunciation": "ˈvæŋkwɪʃ",
+    "meaning": [
+      "pokonywać doszczętnie",
+      "pokonywać"
+    ]
+  },
+  {
+    "id": "v-vantage_point",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vantage point",
+    "pronunciation": "ˈvɑ:ntɪʤ pɔɪnt",
+    "meaning": [
+      "dobry punkt obserwacyjny",
+      "dobry punkt"
+    ]
+  },
+  {
+    "id": "v-vapour",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vapour",
+    "pronunciation": "ˈveɪpə",
+    "meaning": [
+      "para"
+    ]
+  },
+  {
+    "id": "v-variability",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "variability",
+    "pronunciation": "ˌveərɪəˈbɪlɪtɪ",
+    "meaning": [
+      "zmienność"
+    ]
+  },
+  {
+    "id": "v-variable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "variable",
+    "pronunciation": "ˈveərɪəbəl",
+    "meaning": [
+      "zmienny",
+      "zmienna"
+    ]
+  },
+  {
+    "id": "v-variance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "variance",
+    "pronunciation": "ˈveərɪəns",
+    "meaning": []
+  },
+  {
+    "id": "v-variant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "variant",
+    "pronunciation": "ˈveərɪənt",
+    "meaning": [
+      "wariant",
+      "odmiana",
+      "wariantowy"
+    ]
+  },
+  {
+    "id": "v-varicose_veins",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "varicose veins",
+    "pronunciation": "ˌværɪkəʊs ˈveɪnz",
+    "meaning": [
+      "żylaki"
+    ]
+  },
+  {
+    "id": "v-varied",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "varied",
+    "pronunciation": "ˈveərɪd",
+    "meaning": [
+      "różnorodny"
+    ]
+  },
+  {
+    "id": "v-variegated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "variegated",
+    "pronunciation": "ˈveərɪəgeɪtɪd",
+    "meaning": [
+      "różnokolorowy"
+    ]
+  },
+  {
+    "id": "v-variety",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "variety",
+    "pronunciation": "vəˈraɪətɪ",
+    "meaning": [
+      "różnorodność",
+      "rodzaj",
+      "odmiana",
+      "variété"
+    ]
+  },
+  {
+    "id": "v-various",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "various",
+    "pronunciation": "ˈveərɪəs",
+    "meaning": [
+      "różnorodny",
+      "rozmaity"
+    ]
+  },
+  {
+    "id": "v-variously",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "variously",
+    "pronunciation": "ˈveərɪəslɪ",
+    "meaning": [
+      "rozmaicie"
+    ]
+  },
+  {
+    "id": "v-varnish",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "varnish",
+    "pronunciation": "ˈvɑ:nɪʃ",
+    "meaning": [
+      "pokost",
+      "werniks",
+      "lakier",
+      "pokostować",
+      "werniksować"
+    ]
+  },
+  {
+    "id": "v-vary",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "vary",
+    "pronunciation": "ˈveərɪ",
+    "meaning": [
+      "różnić się",
+      "wahać się",
+      "zmieniać się",
+      "różnicować"
+    ]
+  },
+  {
+    "id": "v-vase",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vase",
+    "pronunciation": "vɑ:z",
+    "meaning": [
+      "wazon"
+    ]
+  },
+  {
+    "id": "v-vast",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "vast",
+    "pronunciation": "vɑ:st",
+    "meaning": [
+      "ogromny"
+    ]
+  },
+  {
+    "id": "v-vastly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "vastly",
+    "pronunciation": "ˈvɑ:stlɪ",
+    "meaning": [
+      "ogromnie",
+      "niebywale"
+    ]
+  },
+  {
+    "id": "v-VAT",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "VAT",
+    "pronunciation": "/ˌviː eɪ ˈtiː/",
+    "meaning": [
+      "VAT",
+      "podatek od wartości dodanej"
+    ]
+  },
+  {
+    "id": "v-vat",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vat",
+    "pronunciation": "væt",
+    "meaning": [
+      "beczka",
+      "kadź"
+    ]
+  },
+  {
+    "id": "v-vault",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vault",
+    "pronunciation": "vɔ:lt",
+    "meaning": [
+      "skarbiec",
+      "krypta",
+      "sklepienie",
+      "przeskakiwać"
+    ]
+  },
+  {
+    "id": "v-VCR",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "VCR",
+    "pronunciation": "ˌvɪ:si:ˈɑ:",
+    "meaning": [
+      "magnetowid",
+      "video"
+    ]
+  },
+  {
+    "id": "v-VD",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "VD",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "choroba weneryczna"
+    ]
+  },
+  {
+    "id": "v-VDU",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "VDU",
+    "pronunciation": "ˌvɪ:di:ˈju:",
+    "meaning": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "v-veal",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "veal",
+    "pronunciation": "vi:l",
+    "meaning": [
+      "cielęcina"
+    ]
+  },
+  {
+    "id": "v-veer",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "veer",
+    "pronunciation": "vɪə",
+    "meaning": [
+      "zbaczać nagle",
+      "zbaczać",
+      "zmieniać kierunek"
+    ]
+  },
+  {
+    "id": "v-vegetable",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "vegetable",
+    "pronunciation": "ˈveʤɪtəbəl",
+    "meaning": [
+      "jarzyna",
+      "warzywo",
+      "roślinny"
+    ]
+  },
+  {
+    "id": "v-vegetarian",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vegetarian",
+    "pronunciation": "ˌveʤɪˈteərɪən",
+    "meaning": [
+      "jarosz",
+      "wegetarianin",
+      "jarski",
+      "wegetariański"
+    ]
+  },
+  {
+    "id": "v-vegetate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "vegetate",
+    "pronunciation": "ˈveʤɪteɪt",
+    "meaning": [
+      "wegetować"
+    ]
+  },
+  {
+    "id": "v-vegetation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vegetation",
+    "pronunciation": "ˌveʤɪˈteɪʃən",
+    "meaning": [
+      "roślinność",
+      "wegetacja"
+    ]
+  },
+  {
+    "id": "v-vehemence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vehemence",
+    "pronunciation": "ˈvi:əməns",
+    "meaning": [
+      "zaciekłość",
+      "porywczość"
+    ]
+  },
+  {
+    "id": "v-vehement",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vehement",
+    "pronunciation": "ˈvi:əmənt",
+    "meaning": [
+      "gwałtowny",
+      "zaciekły",
+      "porywczy"
+    ]
+  },
+  {
+    "id": "v-vehicle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vehicle",
+    "pronunciation": "ˈvi:ɪkəl",
+    "meaning": [
+      "pojazd",
+      "środek",
+      "narzędzie"
+    ]
+  },
+  {
+    "id": "v-veil",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "veil",
+    "pronunciation": "vi:l",
+    "meaning": [
+      "welon",
+      "zasłona",
+      "zasłaniać welonem"
+    ]
+  },
+  {
+    "id": "v-veiled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "veiled",
+    "pronunciation": "vi:ld",
+    "meaning": [
+      "zawoalowany"
+    ]
+  },
+  {
+    "id": "v-vein",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vein",
+    "pronunciation": "veɪn",
+    "meaning": [
+      "żyła",
+      "żyłka",
+      "styl",
+      "duch"
+    ]
+  },
+  {
+    "id": "v-velocity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "velocity",
+    "pronunciation": "vəˈlɒsɪtɪ",
+    "meaning": [
+      "prędkość"
+    ]
+  },
+  {
+    "id": "v-velvet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "velvet",
+    "pronunciation": "ˈvelvɪt",
+    "meaning": [
+      "aksamit"
+    ]
+  },
+  {
+    "id": "v-velvety",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "velvety",
+    "pronunciation": "ˈvelvətɪ",
+    "meaning": [
+      "aksamitny"
+    ]
+  },
+  {
+    "id": "v-ven.",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ven.",
+    "pronunciation": "/ˈven/",
+    "meaning": [
+      "czcigodny"
+    ]
+  },
+  {
+    "id": "v-vending_machine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vending machine",
+    "pronunciation": "ˈvendɪŋməˌʃi:n",
+    "meaning": [
+      "automat",
+      "maszyna do sprzedaży"
+    ]
+  },
+  {
+    "id": "v-vendor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vendor",
+    "pronunciation": "ˈvendə",
+    "meaning": [
+      "sprzedawca",
+      "kiosk"
+    ]
+  },
+  {
+    "id": "v-veneer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "veneer",
+    "pronunciation": "vɪˈnɪə",
+    "meaning": [
+      "warstwa",
+      "fornir",
+      "laminat",
+      "fornirować",
+      "okładać"
+    ]
+  },
+  {
+    "id": "v-venerable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "venerable",
+    "pronunciation": "ˈvenərəbəl",
+    "meaning": [
+      "czcigodny"
+    ]
+  },
+  {
+    "id": "v-venereal",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "venereal",
+    "pronunciation": "vɪˈnɪərɪəl",
+    "meaning": [
+      "weneryczny"
+    ]
+  },
+  {
+    "id": "v-venetian_blind",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "venetian blind",
+    "pronunciation": "vɪˌni:ʃən ˈblaɪnd",
+    "meaning": [
+      "żaluzja nastawna",
+      "żaluzja"
+    ]
+  },
+  {
+    "id": "v-Venezuela",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Venezuela",
+    "pronunciation": "ˌvenəˈzweɪlə",
+    "meaning": [
+      "Wenezuela"
+    ]
+  },
+  {
+    "id": "v-Venezuelan",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Venezuelan",
+    "pronunciation": "ˌvenəˈzweɪlən",
+    "meaning": [
+      "wenezuelski",
+      "Wenezuelczyk"
+    ]
+  },
+  {
+    "id": "v-vengeful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vengeful",
+    "pronunciation": "ˈvenʤfʊl",
+    "meaning": [
+      "mściwy"
+    ]
+  },
+  {
+    "id": "v-venison",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "venison",
+    "pronunciation": "ˈvenɪsən",
+    "meaning": [
+      "dziczyzna"
+    ]
+  },
+  {
+    "id": "v-venom",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "venom",
+    "pronunciation": "ˈvenəm",
+    "meaning": [
+      "jad"
+    ]
+  },
+  {
+    "id": "v-venomous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "venomous",
+    "pronunciation": "ˈvenəməs",
+    "meaning": [
+      "jadowity"
+    ]
+  },
+  {
+    "id": "v-vent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vent",
+    "pronunciation": "vent",
+    "meaning": [
+      "otwór wentylacyjny",
+      "wylot",
+      "wyładowywać"
+    ]
+  },
+  {
+    "id": "v-ventilate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ventilate",
+    "pronunciation": "ˈventɪleɪt",
+    "meaning": [
+      "wentylować"
+    ]
+  },
+  {
+    "id": "v-ventilation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ventilation",
+    "pronunciation": "ˌventɪˈleɪʃən",
+    "meaning": [
+      "wentylacja"
+    ]
+  },
+  {
+    "id": "v-ventilator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ventilator",
+    "pronunciation": "ˈventɪleɪtə",
+    "meaning": [
+      "wywietrznik"
+    ]
+  },
+  {
+    "id": "v-ventriloquist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ventriloquist",
+    "pronunciation": "venˈtrɪləkwɪst",
+    "meaning": [
+      "brzuchomówca"
+    ]
+  },
+  {
+    "id": "v-venture",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "venture",
+    "pronunciation": "ˈvenʧə",
+    "meaning": [
+      "ryzykowne przedsięwzięcie",
+      "przedsięwzięcie",
+      "puszczać się na ryzyko",
+      "ośmielać się",
+      "ryzykować"
+    ]
+  },
+  {
+    "id": "v-venue",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "venue",
+    "pronunciation": "ˈvenju:",
+    "meaning": [
+      "miejsce"
+    ]
+  },
+  {
+    "id": "v-veranda",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "veranda",
+    "pronunciation": "vəˈrændə",
+    "meaning": [
+      "weranda"
+    ]
+  },
+  {
+    "id": "v-verb",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "verb",
+    "pronunciation": "vɜ:b",
+    "meaning": [
+      "czasownik"
+    ]
+  },
+  {
+    "id": "v-verbal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "verbal",
+    "pronunciation": "ˈvɜ:bəl",
+    "meaning": [
+      "werbalny",
+      "słowny",
+      "czasownikowy"
+    ]
+  },
+  {
+    "id": "v-verbatim",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "verbatim",
+    "pronunciation": "vɜ:ˈbeɪtɪm",
+    "meaning": [
+      "dosłowny",
+      "dosłownie"
+    ]
+  },
+  {
+    "id": "v-verbose",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "verbose",
+    "pronunciation": "vɜ:ˈbəʊs",
+    "meaning": [
+      "rozwlekły"
+    ]
+  },
+  {
+    "id": "v-verdict",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "verdict",
+    "pronunciation": "ˈvɜ:dɪkt",
+    "meaning": [
+      "werdykt"
+    ]
+  },
+  {
+    "id": "v-verification",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "verification",
+    "pronunciation": "verɪfɪˈkeɪʃən",
+    "meaning": [
+      "sprawdzenie",
+      "potwierdzenie"
+    ]
+  },
+  {
+    "id": "v-verify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "verify",
+    "pronunciation": "ˈverɪfaɪ",
+    "meaning": [
+      "sprawdzać",
+      "weryfikować",
+      "potwierdzać"
+    ]
+  },
+  {
+    "id": "v-veritable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "veritable",
+    "pronunciation": "ˈverɪtəbəl",
+    "meaning": [
+      "prawdziwy",
+      "istny"
+    ]
+  },
+  {
+    "id": "v-vermin",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vermin",
+    "pronunciation": "ˈvɜ:mɪn",
+    "meaning": [
+      "szkodnik",
+      "robactwo"
+    ]
+  },
+  {
+    "id": "v-Vermont",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Vermont",
+    "pronunciation": "vəˈmɒnt",
+    "meaning": [
+      "Vermont"
+    ]
+  },
+  {
+    "id": "v-vermouth",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vermouth",
+    "pronunciation": "ˈvɜ:məθ",
+    "meaning": [
+      "wermut"
+    ]
+  },
+  {
+    "id": "v-vernacular",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "vernacular",
+    "pronunciation": "vəˈnækjələ",
+    "meaning": [
+      "dialekt",
+      "język miejscowy",
+      "miejscowy"
+    ]
+  },
+  {
+    "id": "v-versatile",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "versatile",
+    "pronunciation": "ˈvɜ:sətaɪl",
+    "meaning": [
+      "wszechstronny"
+    ]
+  },
+  {
+    "id": "v-verse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "verse",
+    "pronunciation": "vɜ:s",
+    "meaning": [
+      "wiersz",
+      "zwrotka",
+      "strofa",
+      "werset"
+    ]
+  },
+  {
+    "id": "v-versed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "versed",
+    "pronunciation": "ˈvɜ:st",
+    "meaning": []
+  },
+  {
+    "id": "v-version",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "version",
+    "pronunciation": "ˈvɜ:ʃən",
+    "meaning": [
+      "wersja"
+    ]
+  },
+  {
+    "id": "v-versus",
+    "level": "B1",
+    "partOfSpeech": "preposition",
+    "word": "versus",
+    "pronunciation": "ˈvɜ:səs",
+    "meaning": [
+      "przeciw",
+      "wobec"
+    ]
+  },
+  {
+    "id": "v-vertebra",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "vertebra",
+    "pronunciation": "ˈvɜ:tɪbrə",
+    "meaning": [
+      "krąg"
+    ]
+  },
+  {
+    "id": "v-vertebrate",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vertebrate",
+    "pronunciation": "ˈvɜ:tɪbrət",
+    "meaning": [
+      "kręgowiec",
+      "kręgowy"
+    ]
+  },
+  {
+    "id": "v-vertical",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "vertical",
+    "pronunciation": "ˈvɜ:tɪkəl",
+    "meaning": [
+      "pionowy"
+    ]
+  },
+  {
+    "id": "v-vertigo",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vertigo",
+    "pronunciation": "ˈvɜ:tɪgəʊ",
+    "meaning": [
+      "zawrót głowy"
+    ]
+  },
+  {
+    "id": "v-verve",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "verve",
+    "pronunciation": "vɜ:v",
+    "meaning": [
+      "werwa"
+    ]
+  },
+  {
+    "id": "v-very",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "very",
+    "pronunciation": "ˈverɪ",
+    "meaning": [
+      "bardzo",
+      "sam",
+      "właśnie ten"
+    ]
+  },
+  {
+    "id": "v-vest",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vest",
+    "pronunciation": "vest",
+    "meaning": [
+      "podkoszulek",
+      "kamizelka"
+    ]
+  },
+  {
+    "id": "v-vested",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vested",
+    "pronunciation": "ˈvestɪd",
+    "meaning": [
+      "nabyty",
+      "wyposażony",
+      "przekazany"
+    ]
+  },
+  {
+    "id": "v-vestibule",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vestibule",
+    "pronunciation": "ˈvestɪbju:l",
+    "meaning": [
+      "westybul"
+    ]
+  },
+  {
+    "id": "v-vestige",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "vestige",
+    "pronunciation": "ˈvestɪʤ",
+    "meaning": [
+      "ślad",
+      "pozostałość"
+    ]
+  },
+  {
+    "id": "v-vestry",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "vestry",
+    "pronunciation": "ˈvestrɪ",
+    "meaning": [
+      "zakrystia"
+    ]
+  },
+  {
+    "id": "v-vet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vet",
+    "pronunciation": "vet",
+    "meaning": [
+      "weterynarz",
+      "sprawdzać drobiazgowo"
+    ]
+  },
+  {
+    "id": "v-veteran",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "veteran",
+    "pronunciation": "ˈvetərən",
+    "meaning": [
+      "weteran",
+      "kombatant",
+      "uczestnik wojny"
+    ]
+  },
+  {
+    "id": "v-veterinarian",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "veterinarian",
+    "pronunciation": "ˌvetərɪˈneərɪən",
+    "meaning": [
+      "weterynarz"
+    ]
+  },
+  {
+    "id": "v-veterinary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "veterinary",
+    "pronunciation": "ˈvetərɪnərɪ",
+    "meaning": [
+      "weterynaryjny",
+      "weterynarz"
+    ]
+  },
+  {
+    "id": "v-veto",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "veto",
+    "pronunciation": "ˈvi:təʊ",
+    "meaning": [
+      "weto",
+      "prawo weta",
+      "zakładać weto"
+    ]
+  },
+  {
+    "id": "v-vex",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "vex",
+    "pronunciation": "veks",
+    "meaning": [
+      "irytować"
+    ]
+  },
+  {
+    "id": "v-vexed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vexed",
+    "pronunciation": "ˈvekst",
+    "meaning": [
+      "zirytowany",
+      "trudny",
+      "zawikłany"
+    ]
+  },
+  {
+    "id": "v-VHF",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "VHF",
+    "pronunciation": "ˌvi:eɪʧˈef",
+    "meaning": [
+      "UKF",
+      "VHF"
+    ]
+  },
+  {
+    "id": "v-via",
+    "level": "B1",
+    "partOfSpeech": "preposition",
+    "word": "via",
+    "pronunciation": "ˈvaɪə",
+    "meaning": [
+      "przez"
+    ]
+  },
+  {
+    "id": "v-viable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "viable",
+    "pronunciation": "ˈvaɪəbəl",
+    "meaning": [
+      "możliwy do wykonania"
+    ]
+  },
+  {
+    "id": "v-viaduct",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viaduct",
+    "pronunciation": "ˈvaɪədʌkt",
+    "meaning": [
+      "wiadukt"
+    ]
+  },
+  {
+    "id": "v-vibrant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vibrant",
+    "pronunciation": "ˈvaɪbrənt",
+    "meaning": [
+      "dynamiczny",
+      "przesycony energią",
+      "rozjarzony",
+      "jaskrawy",
+      "emocjonalny"
+    ]
+  },
+  {
+    "id": "v-vibrate",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "vibrate",
+    "pronunciation": "vaɪˈbreɪt",
+    "meaning": [
+      "wibrować",
+      "drgać"
+    ]
+  },
+  {
+    "id": "v-vibration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vibration",
+    "pronunciation": "vaɪˈbreɪʃən",
+    "meaning": [
+      "drganie",
+      "wibracja"
+    ]
+  },
+  {
+    "id": "v-vicar",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vicar",
+    "pronunciation": "ˈvɪkə",
+    "meaning": [
+      "wikariusz",
+      "pastor"
+    ]
+  },
+  {
+    "id": "v-vicarage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vicarage",
+    "pronunciation": "ˈvɪkərɪʤ",
+    "meaning": [
+      "wikariat",
+      "plebania"
+    ]
+  },
+  {
+    "id": "v-vicarious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "vicarious",
+    "pronunciation": "vɪˈkeərɪəs",
+    "meaning": [
+      "pośredni",
+      "zastępczy"
+    ]
+  },
+  {
+    "id": "v-vice",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vice",
+    "pronunciation": "vaɪs",
+    "meaning": [
+      "wada",
+      "przestępstwo",
+      "występek",
+      "imadło"
+    ]
+  },
+  {
+    "id": "v-vice-",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vice-",
+    "pronunciation": "vaɪs",
+    "meaning": [
+      "wice",
+      "vice"
+    ]
+  },
+  {
+    "id": "v-vicinity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vicinity",
+    "pronunciation": "vɪˈsɪnɪtɪ",
+    "meaning": [
+      "bliskość",
+      "pobliże"
+    ]
+  },
+  {
+    "id": "v-vicious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vicious",
+    "pronunciation": "ˈvɪʃəs",
+    "meaning": [
+      "podstępny",
+      "występny"
+    ]
+  },
+  {
+    "id": "v-victim",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "victim",
+    "pronunciation": "ˈvɪktɪm",
+    "meaning": [
+      "ofiara"
+    ]
+  },
+  {
+    "id": "v-victimize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "victimize",
+    "pronunciation": "ˈvɪktɪmaɪz",
+    "meaning": [
+      "represjonować"
+    ]
+  },
+  {
+    "id": "v-victor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "victor",
+    "pronunciation": "ˈvɪktə",
+    "meaning": [
+      "zwycięzca"
+    ]
+  },
+  {
+    "id": "v-Victorian",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Victorian",
+    "pronunciation": "vɪkˈtɔ:rɪən",
+    "meaning": [
+      "wiktoriański"
+    ]
+  },
+  {
+    "id": "v-victorious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "victorious",
+    "pronunciation": "vɪkˈtɔ:rɪəs",
+    "meaning": [
+      "zwycięski"
+    ]
+  },
+  {
+    "id": "v-victory",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "victory",
+    "pronunciation": "ˈvɪktərɪ",
+    "meaning": [
+      "zwycięstwo"
+    ]
+  },
+  {
+    "id": "v-video",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "video",
+    "pronunciation": "ˈvɪdɪəʊ",
+    "meaning": [
+      "video",
+      "wideo",
+      "nagranie wideo",
+      "nagrywać na wideo",
+      "magnetowid"
+    ]
+  },
+  {
+    "id": "v-vie",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "vie",
+    "pronunciation": "vaɪ",
+    "meaning": [
+      "rywalizować"
+    ]
+  },
+  {
+    "id": "v-Vienna",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Vienna",
+    "pronunciation": "vɪˈenə",
+    "meaning": [
+      "Wiedeń"
+    ]
+  },
+  {
+    "id": "v-Vietnam",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Vietnam",
+    "pronunciation": "ˌvi:etˈnæm",
+    "meaning": [
+      "Wietnam"
+    ]
+  },
+  {
+    "id": "v-Vietnamese",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Vietnamese",
+    "pronunciation": "vɪˌetnəˈmi:z",
+    "meaning": [
+      "wietnamski",
+      "Wietnamczyk"
+    ]
+  },
+  {
+    "id": "v-view",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "view",
+    "pronunciation": "vju:",
+    "meaning": [
+      "pogląd",
+      "opinia",
+      "widok",
+      "zapatrywać się",
+      "odbierać",
+      "oglądać"
+    ]
+  },
+  {
+    "id": "v-viewer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "viewer",
+    "pronunciation": "ˈvju:ə",
+    "meaning": [
+      "widz",
+      "rzutnik"
+    ]
+  },
+  {
+    "id": "v-viewfinder",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viewfinder",
+    "pronunciation": "ˈvju:faɪndə",
+    "meaning": [
+      "wizjer"
+    ]
+  },
+  {
+    "id": "v-viewpoint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viewpoint",
+    "pronunciation": "ˈvju:pɔɪnt",
+    "meaning": [
+      "punkt widzenia",
+      "punkt widokowy"
+    ]
+  },
+  {
+    "id": "v-vigil",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vigil",
+    "pronunciation": "ˈvɪʤɪl",
+    "meaning": [
+      "czuwanie"
+    ]
+  },
+  {
+    "id": "v-vigilant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vigilant",
+    "pronunciation": "ˈvɪʤɪlənt",
+    "meaning": [
+      "czujny"
+    ]
+  },
+  {
+    "id": "v-vigorous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vigorous",
+    "pronunciation": "ˈvɪgərəs",
+    "meaning": [
+      "energiczny"
+    ]
+  },
+  {
+    "id": "v-vigour",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vigour",
+    "pronunciation": "ˈvɪgə",
+    "meaning": [
+      "energia"
+    ]
+  },
+  {
+    "id": "v-vile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vile",
+    "pronunciation": "vaɪl",
+    "meaning": [
+      "niegodziwy"
+    ]
+  },
+  {
+    "id": "v-villa",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "villa",
+    "pronunciation": "ˈvɪlə",
+    "meaning": [
+      "willa"
+    ]
+  },
+  {
+    "id": "v-village",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "village",
+    "pronunciation": "ˈvɪlɪʤ",
+    "meaning": [
+      "wioska"
+    ]
+  },
+  {
+    "id": "v-villager",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "villager",
+    "pronunciation": "ˈvɪlɪʤə",
+    "meaning": [
+      "wieśniak",
+      "mieszkaniec wsi"
+    ]
+  },
+  {
+    "id": "v-villain",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "villain",
+    "pronunciation": "ˈvɪlən",
+    "meaning": [
+      "łotr",
+      "czarny charakter"
+    ]
+  },
+  {
+    "id": "v-Vilnius",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Vilnius",
+    "pronunciation": "ˈvɪlnɪəs",
+    "meaning": [
+      "Wilno"
+    ]
+  },
+  {
+    "id": "v-vindicate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "vindicate",
+    "pronunciation": "ˈvɪndɪkeɪt",
+    "meaning": [
+      "rekompensować",
+      "wybronić"
+    ]
+  },
+  {
+    "id": "v-vindictive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vindictive",
+    "pronunciation": "vɪnˈdɪktɪv",
+    "meaning": [
+      "mściwy"
+    ]
+  },
+  {
+    "id": "v-vine",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vine",
+    "pronunciation": "vaɪn",
+    "meaning": [
+      "latorośl",
+      "winorośl"
+    ]
+  },
+  {
+    "id": "v-vinegar",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "vinegar",
+    "pronunciation": "ˈvɪnɪgə",
+    "meaning": [
+      "ocet"
+    ]
+  },
+  {
+    "id": "v-vineyard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vineyard",
+    "pronunciation": "ˈvɪnjəd",
+    "meaning": [
+      "winnica"
+    ]
+  },
+  {
+    "id": "v-vintage",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vintage",
+    "pronunciation": "ˈvɪntɪʤ",
+    "meaning": [
+      "z najlepszego okresu",
+      "wino z dobrego rocznika"
+    ]
+  },
+  {
+    "id": "v-vinyl",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vinyl",
+    "pronunciation": "ˈvaɪnəl",
+    "meaning": [
+      "winylowy",
+      "winyl"
+    ]
+  },
+  {
+    "id": "v-viola",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "viola",
+    "pronunciation": "vɪˈəʊlə",
+    "meaning": [
+      "wiola",
+      "altówka"
+    ]
+  },
+  {
+    "id": "v-violate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "violate",
+    "pronunciation": "ˈvaɪəleɪt",
+    "meaning": [
+      "gwałcić",
+      "zakłócać",
+      "bezcześcić"
+    ]
+  },
+  {
+    "id": "v-violence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "violence",
+    "pronunciation": "ˈvaɪələns",
+    "meaning": [
+      "przemoc",
+      "gwałtowność"
+    ]
+  },
+  {
+    "id": "v-violent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "violent",
+    "pronunciation": "ˈvaɪələnt",
+    "meaning": [
+      "gwałtowny",
+      "z użyciem siły",
+      "nagły",
+      "zbyt jaskrawy"
+    ]
+  },
+  {
+    "id": "v-violet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "violet",
+    "pronunciation": "ˈvaɪələt",
+    "meaning": [
+      "fiołek",
+      "fiolet",
+      "fioletowy"
+    ]
+  },
+  {
+    "id": "v-violin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "violin",
+    "pronunciation": "ˌvaɪəˈlɪn",
+    "meaning": [
+      "skrzypce"
+    ]
+  },
+  {
+    "id": "v-violinist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "violinist",
+    "pronunciation": "ˌvaɪəˈlɪnɪst",
+    "meaning": [
+      "skrzypek"
+    ]
+  },
+  {
+    "id": "v-VIP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "VIP",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "bardzo ważna osoba"
+    ]
+  },
+  {
+    "id": "v-viper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viper",
+    "pronunciation": "ˈvaɪpə",
+    "meaning": [
+      "żmija"
+    ]
+  },
+  {
+    "id": "v-virgin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "virgin",
+    "pronunciation": "ˈvɜ:ʤɪn",
+    "meaning": [
+      "dziewica",
+      "dziewiczy"
+    ]
+  },
+  {
+    "id": "v-Virginia",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Virginia",
+    "pronunciation": "vəˈʤɪnɪə",
+    "meaning": [
+      "Wirginia"
+    ]
+  },
+  {
+    "id": "v-Virgo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Virgo",
+    "pronunciation": "ˈvɜ:gəʊ",
+    "meaning": [
+      "Panna"
+    ]
+  },
+  {
+    "id": "v-virile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "virile",
+    "pronunciation": "ˈvɪraɪl",
+    "meaning": [
+      "męski"
+    ]
+  },
+  {
+    "id": "v-virtual",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "virtual",
+    "pronunciation": "ˈvɜ:ʧʊəl",
+    "meaning": [
+      "faktyczny",
+      "właściwy"
+    ]
+  },
+  {
+    "id": "v-virtually",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "virtually",
+    "pronunciation": "ˈvɜ:ʧʊəlɪ",
+    "meaning": [
+      "właściwie",
+      "na dobrą sprawę"
+    ]
+  },
+  {
+    "id": "v-virtue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "virtue",
+    "pronunciation": "ˈvɜ:ʧu:",
+    "meaning": [
+      "cnota",
+      "zaleta"
+    ]
+  },
+  {
+    "id": "v-virtuoso",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "virtuoso",
+    "pronunciation": "ˌvɜ:ʧʊˈəʊsəʊ",
+    "meaning": [
+      "wirtuoz"
+    ]
+  },
+  {
+    "id": "v-virtuous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "virtuous",
+    "pronunciation": "ˈvɜ:ʧʊəs",
+    "meaning": [
+      "cnotliwy"
+    ]
+  },
+  {
+    "id": "v-virulent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "virulent",
+    "pronunciation": "ˈvɪrʊlənt",
+    "meaning": [
+      "jadowity",
+      "złośliwy"
+    ]
+  },
+  {
+    "id": "v-virus",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "virus",
+    "pronunciation": "ˈvaɪərəs",
+    "meaning": [
+      "wirus"
+    ]
+  },
+  {
+    "id": "v-visa",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "visa",
+    "pronunciation": "ˈvi:zə",
+    "meaning": [
+      "wiza"
+    ]
+  },
+  {
+    "id": "v-visibility",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "visibility",
+    "pronunciation": "ˌvɪzɪˈbɪlɪtɪ",
+    "meaning": [
+      "widoczność"
+    ]
+  },
+  {
+    "id": "v-viewer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "viewer",
+    "pronunciation": "ˈvju:ə",
+    "meaning": [
+      "widz",
+      "rzutnik"
+    ]
+  },
+  {
+    "id": "v-viewfinder",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viewfinder",
+    "pronunciation": "ˈvju:faɪndə",
+    "meaning": [
+      "wizjer"
+    ]
+  },
+  {
+    "id": "v-viewpoint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viewpoint",
+    "pronunciation": "ˈvju:pɔɪnt",
+    "meaning": [
+      "punkt widzenia",
+      "punkt widokowy"
+    ]
+  },
+  {
+    "id": "v-vigil",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vigil",
+    "pronunciation": "ˈvɪʤɪl",
+    "meaning": [
+      "czuwanie"
+    ]
+  },
+  {
+    "id": "v-vigilant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vigilant",
+    "pronunciation": "ˈvɪʤɪlənt",
+    "meaning": [
+      "czujny"
+    ]
+  },
+  {
+    "id": "v-vigorous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vigorous",
+    "pronunciation": "ˈvɪgərəs",
+    "meaning": [
+      "energiczny"
+    ]
+  },
+  {
+    "id": "v-vigour",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vigour",
+    "pronunciation": "ˈvɪgə",
+    "meaning": [
+      "energia"
+    ]
+  },
+  {
+    "id": "v-vile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vile",
+    "pronunciation": "vaɪl",
+    "meaning": [
+      "niegodziwy"
+    ]
+  },
+  {
+    "id": "v-villa",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "villa",
+    "pronunciation": "ˈvɪlə",
+    "meaning": [
+      "willa"
+    ]
+  },
+  {
+    "id": "v-village",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "village",
+    "pronunciation": "ˈvɪlɪʤ",
+    "meaning": [
+      "wioska"
+    ]
+  },
+  {
+    "id": "v-villager",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "villager",
+    "pronunciation": "ˈvɪlɪʤə",
+    "meaning": [
+      "wieśniak",
+      "mieszkaniec wsi"
+    ]
+  },
+  {
+    "id": "v-villain",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "villain",
+    "pronunciation": "ˈvɪlən",
+    "meaning": [
+      "łotr",
+      "czarny charakter"
+    ]
+  },
+  {
+    "id": "v-Vilnius",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Vilnius",
+    "pronunciation": "ˈvɪlnɪəs",
+    "meaning": [
+      "Wilno"
+    ]
+  },
+  {
+    "id": "v-vindicate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "vindicate",
+    "pronunciation": "ˈvɪndɪkeɪt",
+    "meaning": [
+      "rekompensować",
+      "wybronić"
+    ]
+  },
+  {
+    "id": "v-vindictive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vindictive",
+    "pronunciation": "vɪnˈdɪktɪv",
+    "meaning": [
+      "mściwy"
+    ]
+  },
+  {
+    "id": "v-vine",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vine",
+    "pronunciation": "vaɪn",
+    "meaning": [
+      "latorośl",
+      "winorośl"
+    ]
+  },
+  {
+    "id": "v-vinegar",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "vinegar",
+    "pronunciation": "ˈvɪnɪgə",
+    "meaning": [
+      "ocet"
+    ]
+  },
+  {
+    "id": "v-vineyard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vineyard",
+    "pronunciation": "ˈvɪnjəd",
+    "meaning": [
+      "winnica"
+    ]
+  },
+  {
+    "id": "v-vintage",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vintage",
+    "pronunciation": "ˈvɪntɪʤ",
+    "meaning": [
+      "z najlepszego okresu",
+      "wino z dobrego rocznika"
+    ]
+  },
+  {
+    "id": "v-vinyl",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vinyl",
+    "pronunciation": "ˈvaɪnəl",
+    "meaning": [
+      "winylowy",
+      "winyl"
+    ]
+  },
+  {
+    "id": "v-viola",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "viola",
+    "pronunciation": "vɪˈəʊlə",
+    "meaning": [
+      "wiola",
+      "altówka"
+    ]
+  },
+  {
+    "id": "v-violate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "violate",
+    "pronunciation": "ˈvaɪəleɪt",
+    "meaning": [
+      "gwałcić",
+      "zakłócać",
+      "bezcześcić"
+    ]
+  },
+  {
+    "id": "v-violence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "violence",
+    "pronunciation": "ˈvaɪələns",
+    "meaning": [
+      "przemoc",
+      "gwałtowność"
+    ]
+  },
+  {
+    "id": "v-violent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "violent",
+    "pronunciation": "ˈvaɪələnt",
+    "meaning": [
+      "gwałtowny",
+      "z użyciem siły",
+      "nagły",
+      "zbyt jaskrawy"
+    ]
+  },
+  {
+    "id": "v-violet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "violet",
+    "pronunciation": "ˈvaɪələt",
+    "meaning": [
+      "fiołek",
+      "fiolet",
+      "fioletowy"
+    ]
+  },
+  {
+    "id": "v-violin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "violin",
+    "pronunciation": "ˌvaɪəˈlɪn",
+    "meaning": [
+      "skrzypce"
+    ]
+  },
+  {
+    "id": "v-violinist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "violinist",
+    "pronunciation": "ˌvaɪəˈlɪnɪst",
+    "meaning": [
+      "skrzypek"
+    ]
+  },
+  {
+    "id": "v-VIP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "VIP",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "bardzo ważna osoba"
+    ]
+  },
+  {
+    "id": "v-viper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viper",
+    "pronunciation": "ˈvaɪpə",
+    "meaning": [
+      "żmija"
+    ]
+  },
+  {
+    "id": "v-virgin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "virgin",
+    "pronunciation": "ˈvɜ:ʤɪn",
+    "meaning": [
+      "dziewica",
+      "dziewiczy"
+    ]
+  },
+  {
+    "id": "v-Virginia",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Virginia",
+    "pronunciation": "vəˈʤɪnɪə",
+    "meaning": [
+      "Wirginia"
+    ]
+  },
+  {
+    "id": "v-Virgo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Virgo",
+    "pronunciation": "ˈvɜ:gəʊ",
+    "meaning": [
+      "Panna"
+    ]
+  },
+  {
+    "id": "v-virile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "virile",
+    "pronunciation": "ˈvɪraɪl",
+    "meaning": [
+      "męski"
+    ]
+  },
+  {
+    "id": "v-virtual",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "virtual",
+    "pronunciation": "ˈvɜ:ʧʊəl",
+    "meaning": [
+      "faktyczny",
+      "właściwy"
+    ]
+  },
+  {
+    "id": "v-virtually",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "virtually",
+    "pronunciation": "ˈvɜ:ʧʊəlɪ",
+    "meaning": [
+      "właściwie",
+      "na dobrą sprawę"
+    ]
+  },
+  {
+    "id": "v-virtue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "virtue",
+    "pronunciation": "ˈvɜ:ʧu:",
+    "meaning": [
+      "cnota",
+      "zaleta"
+    ]
+  },
+  {
+    "id": "v-virtuoso",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "virtuoso",
+    "pronunciation": "ˌvɜ:ʧʊˈəʊsəʊ",
+    "meaning": [
+      "wirtuoz"
+    ]
+  },
+  {
+    "id": "v-virtuous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "virtuous",
+    "pronunciation": "ˈvɜ:ʧʊəs",
+    "meaning": [
+      "cnotliwy"
+    ]
+  },
+  {
+    "id": "v-virulent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "virulent",
+    "pronunciation": "ˈvɪrʊlənt",
+    "meaning": [
+      "jadowity",
+      "złośliwy"
+    ]
+  },
+  {
+    "id": "v-virus",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "virus",
+    "pronunciation": "ˈvaɪərəs",
+    "meaning": [
+      "wirus"
+    ]
+  },
+  {
+    "id": "v-visa",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "visa",
+    "pronunciation": "ˈvi:zə",
+    "meaning": [
+      "wiza"
+    ]
+  },
+  {
+    "id": "v-visibility",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "visibility",
+    "pronunciation": "ˌvɪzɪˈbɪlɪtɪ",
+    "meaning": [
+      "widoczność"
+    ]
+  },
+  {
+    "id": "v-visible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "visible",
+    "pronunciation": "ˈvɪzɪbəl",
+    "meaning": [
+      "widoczny"
+    ]
+  },
+  {
+    "id": "v-vision",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vision",
+    "pronunciation": "ˈvɪʒən",
+    "meaning": [
+      "obraz",
+      "wizja",
+      "widzenie"
+    ]
+  },
+  {
+    "id": "v-visionary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "visionary",
+    "pronunciation": "ˈvɪʒənərɪ",
+    "meaning": [
+      "wizjoner",
+      "wizjonerski",
+      "dalekowzroczny"
+    ]
+  },
+  {
+    "id": "v-visit",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "visit",
+    "pronunciation": "ˈvɪzɪt",
+    "meaning": [
+      "odwiedzać",
+      "odwiedziny",
+      "pobyt"
+    ]
+  },
+  {
+    "id": "v-visitor",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "visitor",
+    "pronunciation": "ˈvɪzɪtə",
+    "meaning": [
+      "gość",
+      "zwiedzający"
+    ]
+  },
+  {
+    "id": "v-visor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "visor",
+    "pronunciation": "ˈvaɪzə",
+    "meaning": [
+      "przyłbica",
+      "daszek",
+      "osłona twarzy"
+    ]
+  },
+  {
+    "id": "v-vista",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vista",
+    "pronunciation": "ˈvɪstə",
+    "meaning": [
+      "obraz",
+      "perspektywa"
+    ]
+  },
+  {
+    "id": "v-Vistula",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Vistula",
+    "pronunciation": "ˈvɪstjʊlə",
+    "meaning": []
+  },
+  {
+    "id": "v-visual",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "visual",
+    "pronunciation": "ˈvɪʒʊəl",
+    "meaning": [
+      "wzrokowy",
+      "wizualny",
+      "wizualna pomoc szkolna",
+      "pomoc szkolna",
+      "monitor"
+    ]
+  },
+  {
+    "id": "v-visualize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "visualize",
+    "pronunciation": "ˈvɪʒʊəlaɪz",
+    "meaning": [
+      "unaoczniać sobie",
+      "unaoczniać",
+      "wyobrażać sobie",
+      "wyobrażać"
+    ]
+  },
+  {
+    "id": "v-vital",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vital",
+    "pronunciation": "ˈvaɪtəl",
+    "meaning": [
+      "niezbędny",
+      "zasadniczy",
+      "żywotny",
+      "witalny",
+      "wymiary kobiece",
+      "wymiary"
+    ]
+  },
+  {
+    "id": "v-vitamin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vitamin",
+    "pronunciation": "ˈvɪtəmɪn",
+    "meaning": [
+      "witamina"
+    ]
+  },
+  {
+    "id": "v-vitiate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "vitiate",
+    "pronunciation": "ˈvɪʃɪeɪt",
+    "meaning": [
+      "psuć",
+      "kazić"
+    ]
+  },
+  {
+    "id": "v-viva",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "viva",
+    "pronunciation": "ˈvaɪvə",
+    "meaning": [
+      "egzamin ustny"
+    ]
+  },
+  {
+    "id": "v-vivacious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vivacious",
+    "pronunciation": "vɪˈveɪʃəs",
+    "meaning": [
+      "żywy",
+      "energiczny"
+    ]
+  },
+  {
+    "id": "v-vivid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vivid",
+    "pronunciation": "ˈvɪvɪd",
+    "meaning": [
+      "żywy"
+    ]
+  },
+  {
+    "id": "v-viz.",
+    "level": "C2",
+    "partOfSpeech": "adverb",
+    "word": "viz.",
+    "pronunciation": "/ˈvɪz/",
+    "meaning": [
+      "tzn.",
+      "to znaczy"
+    ]
+  },
+  {
+    "id": "v-vocabulary",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vocabulary",
+    "pronunciation": "vəˈkæbjʊlərɪ",
+    "meaning": [
+      "słownictwo"
+    ]
+  },
+  {
+    "id": "v-vocal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vocal",
+    "pronunciation": "ˈvəʊkəl",
+    "meaning": [
+      "rozgłośny",
+      "wokalny",
+      "część wokalna",
+      "struny głosowe"
+    ]
+  },
+  {
+    "id": "v-vocalist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vocalist",
+    "pronunciation": "ˈvəʊkəlɪst",
+    "meaning": [
+      "wokalista"
+    ]
+  },
+  {
+    "id": "v-vocation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vocation",
+    "pronunciation": "vəʊˈkeɪʃən",
+    "meaning": [
+      "powołanie"
+    ]
+  },
+  {
+    "id": "v-vocational",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vocational",
+    "pronunciation": "vəʊˈkeɪʃənəl",
+    "meaning": [
+      "zawodowy"
+    ]
+  },
+  {
+    "id": "v-vociferous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "vociferous",
+    "pronunciation": "vəˈsɪfərəs",
+    "meaning": [
+      "krzykliwy"
+    ]
+  },
+  {
+    "id": "v-vodka",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vodka",
+    "pronunciation": "ˈvɒdkə",
+    "meaning": [
+      "wódka"
+    ]
+  },
+  {
+    "id": "v-vogue",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vogue",
+    "pronunciation": "vəʊg",
+    "meaning": [
+      "moda"
+    ]
+  },
+  {
+    "id": "v-voice",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "voice",
+    "pronunciation": "vɔɪs",
+    "meaning": [
+      "głos",
+      "prawo głosu",
+      "strona",
+      "wyrażać",
+      "wygłaszać"
+    ]
+  },
+  {
+    "id": "v-vol.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vol.",
+    "pronunciation": "/vɒl/",
+    "meaning": [
+      "tom",
+      "objętość"
+    ]
+  },
+  {
+    "id": "v-volatile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "volatile",
+    "pronunciation": "ˈvɒlətaɪl",
+    "meaning": [
+      "lotny",
+      "szybko zmieniający się"
+    ]
+  },
+  {
+    "id": "v-volcanic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "volcanic",
+    "pronunciation": "vɒlˈkænɪk",
+    "meaning": [
+      "wulkaniczny"
+    ]
+  },
+  {
+    "id": "v-volcano",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "volcano",
+    "pronunciation": "vɒlˈkeɪnəʊ",
+    "meaning": [
+      "wulkan"
+    ]
+  },
+  {
+    "id": "v-volition",
+    "level": "C2",
+    "partOfSpeech": "noun",
+    "word": "volition",
+    "pronunciation": "vəˈlɪʃən",
+    "meaning": []
+  },
+  {
+    "id": "v-volley",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "volley",
+    "pronunciation": "ˈvɒlɪ",
+    "meaning": [
+      "salwa",
+      "kanonada",
+      "wolej",
+      "odbijać wolejem"
+    ]
+  },
+  {
+    "id": "v-volleyball",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "volleyball",
+    "pronunciation": "ˈvɒlɪbɔ:l",
+    "meaning": [
+      "siatkówka",
+      "piłka siatkowa"
+    ]
+  },
+  {
+    "id": "v-volt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "volt",
+    "pronunciation": "vəʊlt",
+    "meaning": [
+      "wolt"
+    ]
+  },
+  {
+    "id": "v-voltage",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "voltage",
+    "pronunciation": "ˈvəʊltɪʤ",
+    "meaning": [
+      "napięcie"
+    ]
+  },
+  {
+    "id": "v-volte-face",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "volte-face",
+    "pronunciation": "ˌvɒltˈfɑ:s",
+    "meaning": [
+      "radykalny zwrot"
+    ]
+  },
+  {
+    "id": "v-voluble",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "voluble",
+    "pronunciation": "ˈvɒljʊbəl",
+    "meaning": [
+      "wymowny"
+    ]
+  },
+  {
+    "id": "v-volume",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "volume",
+    "pronunciation": "ˈvɒlju:m",
+    "meaning": [
+      "książka",
+      "tom",
+      "objętość",
+      "ilość",
+      "zakres",
+      "natężenie głosu"
+    ]
+  },
+  {
+    "id": "v-voluminous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "voluminous",
+    "pronunciation": "vəˈlju:mɪnəs",
+    "meaning": [
+      "obszerny"
+    ]
+  },
+  {
+    "id": "v-voluntary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "voluntary",
+    "pronunciation": "ˈvɒləntərɪ",
+    "meaning": [
+      "ochotniczy",
+      "dobrowolny"
+    ]
+  },
+  {
+    "id": "v-volunteer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "volunteer",
+    "pronunciation": "ˌvɒlənˈtɪə",
+    "meaning": [
+      "ochotnik",
+      "zgłaszać się na ochotnika",
+      "zgłaszać się dobrowolnie",
+      "oferować"
+    ]
+  },
+  {
+    "id": "v-voluptuous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "voluptuous",
+    "pronunciation": "vəˈlʌpʃʊəs",
+    "meaning": [
+      "ponętny"
+    ]
+  },
+  {
+    "id": "v-vomit",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vomit",
+    "pronunciation": "ˈvɒmɪt",
+    "meaning": [
+      "zwracać",
+      "wymiotować",
+      "wymiociny"
+    ]
+  },
+  {
+    "id": "v-voracious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "voracious",
+    "pronunciation": "vəˈreɪʃəs",
+    "meaning": [
+      "żarłoczny"
+    ]
+  },
+  {
+    "id": "v-vortex",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vortex",
+    "pronunciation": "ˈvɔ:teks",
+    "meaning": [
+      "wir"
+    ]
+  },
+  {
+    "id": "v-vote",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "vote",
+    "pronunciation": "vəʊt",
+    "meaning": [
+      "głos",
+      "głosowanie",
+      "wybory",
+      "liczba głosów",
+      "prawo głosu",
+      "głosować"
+    ]
+  },
+  {
+    "id": "v-voter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "voter",
+    "pronunciation": "ˈvəʊtə",
+    "meaning": [
+      "wyborca"
+    ]
+  },
+  {
+    "id": "v-vouch_for",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "vouch for",
+    "pronunciation": "vaʊʧ ˈfə",
+    "meaning": [
+      "ręczyć",
+      "zaręczać"
+    ]
+  },
+  {
+    "id": "v-voucher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "voucher",
+    "pronunciation": "ˈvaʊʧə",
+    "meaning": [
+      "bon",
+      "bloczek"
+    ]
+  },
+  {
+    "id": "v-vow",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vow",
+    "pronunciation": "vaʊ",
+    "meaning": [
+      "ślubować",
+      "ślub",
+      "przysięga"
+    ]
+  },
+  {
+    "id": "v-vowel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "vowel",
+    "pronunciation": "ˈvaʊəl",
+    "meaning": [
+      "samogłoska"
+    ]
+  },
+  {
+    "id": "v-voyage",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "voyage",
+    "pronunciation": "ˈvɔɪɪʤ",
+    "meaning": [
+      "podróż morska"
+    ]
+  },
+  {
+    "id": "v-voyager",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "voyager",
+    "pronunciation": "ˈvɔɪɪʤə",
+    "meaning": [
+      "podróżnik"
+    ]
+  },
+  {
+    "id": "v-VP",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "VP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "wiceprezes",
+      "wiceprezydent"
+    ]
+  },
+  {
+    "id": "v-vs.",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "vs.",
+    "pronunciation": "/ˌviːˈes/",
+    "meaning": [
+      "przeciw",
+      "wobec"
+    ]
+  },
+  {
+    "id": "v-vulgar",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "vulgar",
+    "pronunciation": "ˈvʌlgə",
+    "meaning": [
+      "wulgarny"
+    ]
+  },
+  {
+    "id": "v-vulnerable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "vulnerable",
+    "pronunciation": "ˈvʌlnərəbəl",
+    "meaning": [
+      "wrażliwy",
+      "podatny na zranienie",
+      "podatny"
+    ]
+  },
+  {
+    "id": "v-vulture",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "vulture",
+    "pronunciation": "ˈvʌlʧə",
+    "meaning": [
+      "sęp"
+    ]
+  }
+]
