@@ -33,8 +33,10 @@
 const LEVELS=["A1","A2","B1","B2","C1"];
 const CHAPTER_TITLES=["Podstawy i codzienne życie","Ludzie i relacje","Dom i otoczenie","Jedzenie i zakupy","Szkoła i nauka","Czas i rutyna","Miasto i miejsca","Podróże i transport","Praca i obowiązki","Zdrowie i ciało","Hobby i rozrywka","Przyroda i pogoda","Technologia i media","Emocje i opinie","Czasowniki i zwroty","Przymiotniki i opisy","Rzeczowniki i pojęcia","Komunikacja","Życie społeczne","Powtórka poziomu"];
 let words=[],deck=[],index=0,score=0,current=null,level="A1",testDeck=[],testIndex=0,testScore=0,testAnswered=false;
-const completed=JSON.parse(localStorage.getItem("flashcardsCompleted")||"[]");
-const progress=JSON.parse(localStorage.getItem("flashcardsProgress")||"{}");
+let completed=[];
+let progress={};
+try{completed=JSON.parse(localStorage.getItem("flashcardsCompleted")||"[]");if(!Array.isArray(completed))completed=[]}catch(e){completed=[]}
+try{progress=JSON.parse(localStorage.getItem("flashcardsProgress")||"{}");if(!progress||typeof progress!=="object")progress={}}catch(e){progress={}}
 function save(){localStorage.setItem("flashcardsCompleted",JSON.stringify(completed));localStorage.setItem("flashcardsProgress",JSON.stringify(progress))}
 async function load(){
  try{
@@ -193,7 +195,7 @@ function menu(){renderMenu();screen("menu")}
 function showLibrary(){screen("library");renderLibrary()}
 function renderLibrary(){const q=(document.getElementById("search").value||"").toLowerCase();const arr=words.filter(w=>(w.en+" "+w.pl).toLowerCase().includes(q)).slice(0,300);document.getElementById("list").innerHTML=arr.map(w=>"<div class='row'><b>"+esc(w.en)+"</b><span>"+esc(w.pl)+"</span></div>").join("")||"<div class='muted'>Brak wyników</div>"}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]))}
-load();
+load().catch(e=>{document.getElementById("err").textContent="Błąd aplikacji: "+e.message});
 </script>
 <script>if("serviceWorker"in navigator){navigator.serviceWorker.register("sw.js")}</script></body>
 </html>
