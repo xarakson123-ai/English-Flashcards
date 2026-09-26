@@ -1,0 +1,4250 @@
+[
+  {
+    "id": "u-ubiquitous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "ubiquitous",
+    "pronunciation": "ju:ˈbɪkwɪtəs",
+    "meaning": [
+      "wszechobecny"
+    ]
+  },
+  {
+    "id": "u-udder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "udder",
+    "pronunciation": "ˈʌdə",
+    "meaning": [
+      "wymię"
+    ]
+  },
+  {
+    "id": "u-Uganda",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Uganda",
+    "pronunciation": "ju:ˈgændə",
+    "meaning": [
+      "Uganda"
+    ]
+  },
+  {
+    "id": "u-Ugandan",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Ugandan",
+    "pronunciation": "ju:ˈgændən",
+    "meaning": [
+      "ugandyjski",
+      "Ugandyjczyk"
+    ]
+  },
+  {
+    "id": "u-ugly",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "ugly",
+    "pronunciation": "ˈʌglɪ",
+    "meaning": [
+      "brzydki",
+      "paskudny"
+    ]
+  },
+  {
+    "id": "u-Ukrainian",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Ukrainian",
+    "pronunciation": "ju:ˈkreɪnɪən",
+    "meaning": [
+      "ukraiński",
+      "Ukrainiec"
+    ]
+  },
+  {
+    "id": "u-ulcer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ulcer",
+    "pronunciation": "ˈʌlsə",
+    "meaning": [
+      "wrzód"
+    ]
+  },
+  {
+    "id": "u-ult.",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ult.",
+    "pronunciation": "/ʌlt/",
+    "meaning": [
+      "ubiegłego miesiąca"
+    ]
+  },
+  {
+    "id": "u-ulterior",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ulterior",
+    "pronunciation": "ʌlˈtɪərɪə",
+    "meaning": [
+      "dalszy"
+    ]
+  },
+  {
+    "id": "u-ultimate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ultimate",
+    "pronunciation": "ˈʌltɪmət",
+    "meaning": [
+      "ostateczny",
+      "najwyższy"
+    ]
+  },
+  {
+    "id": "u-ultimately",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "ultimately",
+    "pronunciation": "ˈʌltɪmətlɪ",
+    "meaning": [
+      "ostatecznie"
+    ]
+  },
+  {
+    "id": "u-ultimatum",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ultimatum",
+    "pronunciation": "ˌʌltɪˈmeɪtəm",
+    "meaning": [
+      "ultimatum"
+    ]
+  },
+  {
+    "id": "u-ultraviolet",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ultraviolet",
+    "pronunciation": "ˌʌltrəˈvaɪələt",
+    "meaning": [
+      "ultrafioletowy"
+    ]
+  },
+  {
+    "id": "u-umbilical_cord",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "umbilical cord",
+    "pronunciation": "ʌmˌbɪlɪkəl ˈkɔ:d",
+    "meaning": [
+      "pępowina"
+    ]
+  },
+  {
+    "id": "u-umbrella",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "umbrella",
+    "pronunciation": "ʌmˈbrələ",
+    "meaning": [
+      "parasol"
+    ]
+  },
+  {
+    "id": "u-umpire",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "umpire",
+    "pronunciation": "ˈʌmpaɪə",
+    "meaning": [
+      "sędzia",
+      "sędziować"
+    ]
+  },
+  {
+    "id": "u-umpteen",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "umpteen",
+    "pronunciation": "ˈʌmpˈti:n",
+    "meaning": [
+      "tysiąc",
+      "niezliczona ilość"
+    ]
+  },
+  {
+    "id": "u-UN",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "UN",
+    "pronunciation": "ˌju:ˈen",
+    "meaning": [
+      "ONZ"
+    ]
+  },
+  {
+    "id": "u-unabashed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unabashed",
+    "pronunciation": "ˌʌnəˈbæʃt",
+    "meaning": [
+      "nie zbity z tropu"
+    ]
+  },
+  {
+    "id": "u-unabated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unabated",
+    "pronunciation": "ˌʌnəˈbeɪtɪd",
+    "meaning": [
+      "nie słabnący",
+      "niezmniejszony"
+    ]
+  },
+  {
+    "id": "u-unable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unable",
+    "pronunciation": "ʌnˈeɪbəl",
+    "meaning": []
+  },
+  {
+    "id": "u-unacceptable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unacceptable",
+    "pronunciation": "ˌʌnəkˈseptəbəl",
+    "meaning": [
+      "nie do przyjęcia"
+    ]
+  },
+  {
+    "id": "u-unaccompanied",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unaccompanied",
+    "pronunciation": "ˌʌnəˈkʌmpənɪd",
+    "meaning": [
+      "bez opieki",
+      "bez towarzyszenia instrumentu"
+    ]
+  },
+  {
+    "id": "u-unaccountable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unaccountable",
+    "pronunciation": "ˌʌnəˈkaʊntəbəl",
+    "meaning": [
+      "nie wyjaśniony",
+      "nie do wyjaśnienia",
+      "niewytłumaczalny"
+    ]
+  },
+  {
+    "id": "u-unaccustomed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unaccustomed",
+    "pronunciation": "ˌʌnəˈkʌstəmd",
+    "meaning": [
+      "nieprzywykły",
+      "niezwyczajny"
+    ]
+  },
+  {
+    "id": "u-unanimous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unanimous",
+    "pronunciation": "ju:ˈnænɪməs",
+    "meaning": [
+      "jednogłośny"
+    ]
+  },
+  {
+    "id": "u-unarmed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unarmed",
+    "pronunciation": "ʌnˈɑ:md",
+    "meaning": [
+      "nieuzbrojony"
+    ]
+  },
+  {
+    "id": "u-unassuming",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unassuming",
+    "pronunciation": "ˌʌnəˈsju:mɪŋ",
+    "meaning": [
+      "bezpretensjonalny",
+      "skromny"
+    ]
+  },
+  {
+    "id": "u-unattached",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unattached",
+    "pronunciation": "ˌʌnəˈtæʧ",
+    "meaning": [
+      "nie związany",
+      "samotny",
+      "nie związany małżeństwem"
+    ]
+  },
+  {
+    "id": "u-unattended",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unattended",
+    "pronunciation": "ˌʌnəˈtendɪd",
+    "meaning": [
+      "bez opieki"
+    ]
+  },
+  {
+    "id": "u-unauthorized",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unauthorized",
+    "pronunciation": "ʌnˈɔ:θəraɪzd",
+    "meaning": [
+      "nieupoważniony",
+      "bez upoważnienia"
+    ]
+  },
+  {
+    "id": "u-unavoidable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unavoidable",
+    "pronunciation": "ˌʌnəˈvɔɪdəbəl",
+    "meaning": [
+      "nie do uniknięcia"
+    ]
+  },
+  {
+    "id": "u-unaware",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unaware",
+    "pronunciation": "ˌʌnəˈweə",
+    "meaning": []
+  },
+  {
+    "id": "u-unawares",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "unawares",
+    "pronunciation": "ˌʌnəˈweəz",
+    "meaning": []
+  },
+  {
+    "id": "u-unbearable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unbearable",
+    "pronunciation": "ʌnˈbeərəbəl",
+    "meaning": [
+      "nie do zniesienia"
+    ]
+  },
+  {
+    "id": "u-unbeatable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unbeatable",
+    "pronunciation": "ʌnˈbi:təbəl",
+    "meaning": [
+      "nie do pokonania",
+      "nie do prześcignięcia"
+    ]
+  },
+  {
+    "id": "u-unbelievable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unbelievable",
+    "pronunciation": "ˌʌnbɪˈli:vəbəl",
+    "meaning": [
+      "niewiarygodny"
+    ]
+  },
+  {
+    "id": "u-unborn",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unborn",
+    "pronunciation": "ʌnˈbɔ:n",
+    "meaning": [
+      "nienarodzony"
+    ]
+  },
+  {
+    "id": "u-unbounded",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unbounded",
+    "pronunciation": "ʌnˈbaʊndɪd",
+    "meaning": [
+      "bezgraniczny"
+    ]
+  },
+  {
+    "id": "u-unbroken",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unbroken",
+    "pronunciation": "ʌnˈbrəʊkən",
+    "meaning": [
+      "bez zakłóceń",
+      "bez przerwy"
+    ]
+  },
+  {
+    "id": "u-unbutton",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unbutton",
+    "pronunciation": "ʌnˈbʌtən",
+    "meaning": [
+      "rozpinać"
+    ]
+  },
+  {
+    "id": "u-uncalled-for",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uncalled-for",
+    "pronunciation": "ʌnˈkɔ:ld fɔ:",
+    "meaning": [
+      "nieproszony"
+    ]
+  },
+  {
+    "id": "u-uncanny",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uncanny",
+    "pronunciation": "ʌŋˈkænɪ",
+    "meaning": [
+      "zadziwiający",
+      "zagadkowy"
+    ]
+  },
+  {
+    "id": "u-unceasing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unceasing",
+    "pronunciation": "ʌnˈsi:sɪŋ",
+    "meaning": [
+      "nieustanny"
+    ]
+  },
+  {
+    "id": "u-unceremonious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unceremonious",
+    "pronunciation": "ˌʌnserɪˈməʊnɪəs",
+    "meaning": [
+      "bezceremonialny"
+    ]
+  },
+  {
+    "id": "u-uncertain",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uncertain",
+    "pronunciation": "ʌnˈsɜ:tən",
+    "meaning": [
+      "niepewny"
+    ]
+  },
+  {
+    "id": "u-uncertainty",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "uncertainty",
+    "pronunciation": "ʌnˈsɜ:təntɪ",
+    "meaning": [
+      "niepewność",
+      "wątpliwość"
+    ]
+  },
+  {
+    "id": "u-unchallenged",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unchallenged",
+    "pronunciation": "ʌnˈʧælənʤd",
+    "meaning": [
+      "niekwestionowalny",
+      "niekwestionowany"
+    ]
+  },
+  {
+    "id": "u-unchecked",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unchecked",
+    "pronunciation": "ʌnˈʧekt",
+    "meaning": [
+      "niepohamowany"
+    ]
+  },
+  {
+    "id": "u-uncivilized",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uncivilized",
+    "pronunciation": "ʌnˈsɪvɪlaɪzd",
+    "meaning": [
+      "barbarzyński",
+      "nieludzki"
+    ]
+  },
+  {
+    "id": "u-uncle",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "uncle",
+    "pronunciation": "ˈʌŋkəl",
+    "meaning": [
+      "wujek",
+      "wuj",
+      "stryjek",
+      "stryj"
+    ]
+  },
+  {
+    "id": "u-unclear",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unclear",
+    "pronunciation": "ʌŋˈklɪə",
+    "meaning": [
+      "niejasny"
+    ]
+  },
+  {
+    "id": "u-uncomfortable",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "uncomfortable",
+    "pronunciation": "ʌŋˈkʌmfətəbəl",
+    "meaning": [
+      "niewygodny",
+      "niepewny",
+      "źle się czujący"
+    ]
+  },
+  {
+    "id": "u-uncommitted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uncommitted",
+    "pronunciation": "ˌʌŋkəˈmɪtɪd",
+    "meaning": [
+      "neutralny",
+      "niezaangażowany",
+      "nie związany"
+    ]
+  },
+  {
+    "id": "u-uncommon",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uncommon",
+    "pronunciation": "ʌŋˈkɒmən",
+    "meaning": [
+      "niepospolity",
+      "rzadki"
+    ]
+  },
+  {
+    "id": "u-uncomprehending",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uncomprehending",
+    "pronunciation": "ˌʌŋkɒmprɪˈhendɪŋ",
+    "meaning": [
+      "nie pojmujący"
+    ]
+  },
+  {
+    "id": "u-uncompromising",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uncompromising",
+    "pronunciation": "ʌŋˈkɒmprəmaɪzɪŋ",
+    "meaning": [
+      "bezkompromisowy"
+    ]
+  },
+  {
+    "id": "u-unconcerned",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unconcerned",
+    "pronunciation": "ˌʌŋkənˈsɜ:nd",
+    "meaning": [
+      "niezainteresowany",
+      "nie troszczący się"
+    ]
+  },
+  {
+    "id": "u-unconditional",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unconditional",
+    "pronunciation": "ˌʌŋkənˈdɪʃənəl",
+    "meaning": [
+      "bezwarunkowy"
+    ]
+  },
+  {
+    "id": "u-unconscious",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "unconscious",
+    "pronunciation": "ʌŋˈkɒnʃəs",
+    "meaning": [
+      "nieprzytomny",
+      "nie zdający sobie sprawy",
+      "podświadomy",
+      "podświadomość"
+    ]
+  },
+  {
+    "id": "u-uncontrolled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uncontrolled",
+    "pronunciation": "ˌʌŋkənˈtrəʊld",
+    "meaning": [
+      "niekontrolowany",
+      "niepowstrzymany"
+    ]
+  },
+  {
+    "id": "u-uncork",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "uncork",
+    "pronunciation": "ʌŋˈkɔ:k",
+    "meaning": [
+      "odkorkować"
+    ]
+  },
+  {
+    "id": "u-uncountable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uncountable",
+    "pronunciation": "ʌŋˈkaʊntəbəl",
+    "meaning": [
+      "niepoliczalny"
+    ]
+  },
+  {
+    "id": "u-uncouth",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uncouth",
+    "pronunciation": "ʌŋˈku:θ",
+    "meaning": [
+      "nieokrzesany"
+    ]
+  },
+  {
+    "id": "u-uncover",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "uncover",
+    "pronunciation": "ʌŋˈkʌvə",
+    "meaning": [
+      "odkrywać"
+    ]
+  },
+  {
+    "id": "u-undaunted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "undaunted",
+    "pronunciation": "ʌnˈdɔ:ntɪd",
+    "meaning": [
+      "niezastraszony",
+      "nie powstrzymany"
+    ]
+  },
+  {
+    "id": "u-undecided",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "undecided",
+    "pronunciation": "ˌʌndɪˈsaɪdɪd",
+    "meaning": [
+      "niezdecydowany"
+    ]
+  },
+  {
+    "id": "u-undeniable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "undeniable",
+    "pronunciation": "ˌʌndɪˈnaɪəbəl",
+    "meaning": [
+      "niezaprzeczalny"
+    ]
+  },
+  {
+    "id": "u-undercarriage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "undercarriage",
+    "pronunciation": "ˈʌndəkærɪʤ",
+    "meaning": [
+      "podwozie"
+    ]
+  },
+  {
+    "id": "u-underclothes",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "underclothes",
+    "pronunciation": "ˈʌndəkləʊðz",
+    "meaning": [
+      "bielizna"
+    ]
+  },
+  {
+    "id": "u-undercover",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "undercover",
+    "pronunciation": "ˈʌndəkʌvə",
+    "meaning": [
+      "tajny"
+    ]
+  },
+  {
+    "id": "u-undercurrent",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "undercurrent",
+    "pronunciation": "ˈʌndəkʌrənt",
+    "meaning": [
+      "ukryty nurt"
+    ]
+  },
+  {
+    "id": "u-undercut",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "undercut",
+    "pronunciation": "ˌʌndəˈkʌt",
+    "meaning": [
+      "sprzedawać taniej",
+      "podcinać"
+    ]
+  },
+  {
+    "id": "u-underdeveloped",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "underdeveloped",
+    "pronunciation": "ˌʌndədɪˈvelɒpt",
+    "meaning": [
+      "słabo rozwinięty"
+    ]
+  },
+  {
+    "id": "u-underdog",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "underdog",
+    "pronunciation": "ˈʌndədɒg",
+    "meaning": [
+      "słabsza strona"
+    ]
+  },
+  {
+    "id": "u-underdone",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "underdone",
+    "pronunciation": "ˌʌndəˈdʌn",
+    "meaning": [
+      "niedopieczony",
+      "niedogotowany"
+    ]
+  },
+  {
+    "id": "u-underestimate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "underestimate",
+    "pronunciation": "ˌʌndərˈestɪmeɪt",
+    "meaning": [
+      "niedoceniać"
+    ]
+  },
+  {
+    "id": "u-underfed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "underfed",
+    "pronunciation": "ˌʌndəˈfed",
+    "meaning": [
+      "niedożywiony"
+    ]
+  },
+  {
+    "id": "u-underfoot",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "underfoot",
+    "pronunciation": "ˌʌndəˈfʊt",
+    "meaning": [
+      "pod stopami",
+      "pod nogami"
+    ]
+  },
+  {
+    "id": "u-undergo",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "undergo",
+    "pronunciation": "ˌʌndəˈgəʊ",
+    "meaning": [
+      "przechodzić",
+      "poddawać się"
+    ]
+  },
+  {
+    "id": "u-undergraduate",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "undergraduate",
+    "pronunciation": "ˌʌndəˈgrædjʊət",
+    "meaning": [
+      "student"
+    ]
+  },
+  {
+    "id": "u-underground",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "underground",
+    "pronunciation": "ˈʌndəgraʊnd",
+    "meaning": [
+      "podziemny",
+      "w podziemiu",
+      "metro"
+    ]
+  },
+  {
+    "id": "u-undergrowth",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "undergrowth",
+    "pronunciation": "ˈʌndəgrəʊθ",
+    "meaning": [
+      "poszycie"
+    ]
+  },
+  {
+    "id": "u-underhand",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "underhand",
+    "pronunciation": "ˌʌndəˈhænd",
+    "meaning": [
+      "potajemny",
+      "skryty"
+    ]
+  },
+  {
+    "id": "u-underlie",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "underlie",
+    "pronunciation": "ˌʌndəˈlaɪ",
+    "meaning": [
+      "znajdować się u podstaw"
+    ]
+  },
+  {
+    "id": "u-underline",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "underline",
+    "pronunciation": "ˌʌndəˈlaɪn",
+    "meaning": [
+      "podkreślać"
+    ]
+  },
+  {
+    "id": "u-underling",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "underling",
+    "pronunciation": "ˈʌndəlɪŋ",
+    "meaning": [
+      "podwładny"
+    ]
+  },
+  {
+    "id": "u-undermine",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "undermine",
+    "pronunciation": "ˌʌndəˈmaɪn",
+    "meaning": [
+      "podkopywać"
+    ]
+  },
+  {
+    "id": "u-underneath",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "underneath",
+    "pronunciation": "ˌʌndəˈni:θ",
+    "meaning": [
+      "pod",
+      "pod spodem",
+      "dolny",
+      "spodni",
+      "spód"
+    ]
+  },
+  {
+    "id": "u-underpaid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "underpaid",
+    "pronunciation": "ˌʌndəˈpeɪd",
+    "meaning": [
+      "niedopłacany"
+    ]
+  },
+  {
+    "id": "u-underpants",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "underpants",
+    "pronunciation": "ˈʌndəpænts",
+    "meaning": [
+      "majtki",
+      "kalesony"
+    ]
+  },
+  {
+    "id": "u-underpass",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "underpass",
+    "pronunciation": "ˈʌndəpɑ:s",
+    "meaning": [
+      "przejście podziemne",
+      "przejazd"
+    ]
+  },
+  {
+    "id": "u-underprivileged",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "underprivileged",
+    "pronunciation": "ˌʌndəˈprɪvɪlɪʤd",
+    "meaning": [
+      "upośledzony",
+      "nie mający przywilejów"
+    ]
+  },
+  {
+    "id": "u-underrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "underrate",
+    "pronunciation": "ˌʌndəˈreɪt",
+    "meaning": [
+      "nie doceniać"
+    ]
+  },
+  {
+    "id": "u-undershirt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "undershirt",
+    "pronunciation": "ˈʌndəʃɜ:t",
+    "meaning": [
+      "podkoszulek",
+      "koszulka"
+    ]
+  },
+  {
+    "id": "u-underside",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "underside",
+    "pronunciation": "ˈʌndəsaɪd",
+    "meaning": [
+      "spód"
+    ]
+  },
+  {
+    "id": "u-understaffed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "understaffed",
+    "pronunciation": "ˌʌndəˈstɑ:ft",
+    "meaning": []
+  },
+  {
+    "id": "u-understand",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "understand",
+    "pronunciation": "ˌʌndəˈstænd",
+    "meaning": [
+      "rozumieć",
+      "pojmować"
+    ]
+  },
+  {
+    "id": "u-understandable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "understandable",
+    "pronunciation": "ˌʌndəˈstændəbəl",
+    "meaning": [
+      "zrozumiały"
+    ]
+  },
+  {
+    "id": "u-understanding",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "understanding",
+    "pronunciation": "ˌʌndəˈstændɪŋ",
+    "meaning": [
+      "rozumienie",
+      "pojmowanie",
+      "zrozumienie",
+      "zgoda",
+      "porozumienie",
+      "wyrozumiały"
+    ]
+  },
+  {
+    "id": "u-understatement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "understatement",
+    "pronunciation": "ˌʌndəˈsteɪtmənt",
+    "meaning": [
+      "niedomówienie"
+    ]
+  },
+  {
+    "id": "u-understudy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "understudy",
+    "pronunciation": "ˈʌndəstʌdɪ",
+    "meaning": [
+      "dubler"
+    ]
+  },
+  {
+    "id": "u-undertake",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "undertake",
+    "pronunciation": "ˌʌndəˈteɪk",
+    "meaning": [
+      "podejmować się",
+      "zobowiązywać się"
+    ]
+  },
+  {
+    "id": "u-undertaker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "undertaker",
+    "pronunciation": "ˌʌndəˈteɪkə",
+    "meaning": [
+      "przedsiębiorca pogrzebowy"
+    ]
+  },
+  {
+    "id": "u-undertaking",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "undertaking",
+    "pronunciation": "ˌʌndəˈteɪkɪŋ",
+    "meaning": [
+      "przedsięwzięcie",
+      "zobowiązanie"
+    ]
+  },
+  {
+    "id": "u-undertone",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "undertone",
+    "pronunciation": "ˈʌndətəʊn",
+    "meaning": [
+      "nuta",
+      "odcień"
+    ]
+  },
+  {
+    "id": "u-undervalue",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "undervalue",
+    "pronunciation": "ˌʌndəˈvælju:",
+    "meaning": [
+      "niedoceniać"
+    ]
+  },
+  {
+    "id": "u-underwater",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "underwater",
+    "pronunciation": "ˌʌndəˈwɔ:tə",
+    "meaning": [
+      "podwodny",
+      "podmorski"
+    ]
+  },
+  {
+    "id": "u-underway",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "underway",
+    "pronunciation": "ˌʌndəˈweɪ",
+    "meaning": []
+  },
+  {
+    "id": "u-underwear",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "underwear",
+    "pronunciation": "ˈʌndəweə",
+    "meaning": [
+      "bielizna"
+    ]
+  },
+  {
+    "id": "u-underweight",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "underweight",
+    "pronunciation": "ˌʌndəˈweɪt",
+    "meaning": [
+      "niedowaga"
+    ]
+  },
+  {
+    "id": "u-underworld",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "underworld",
+    "pronunciation": "ˈʌndəwɜ:ld",
+    "meaning": [
+      "podziemie",
+      "świat przestępczy"
+    ]
+  },
+  {
+    "id": "u-underwriter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "underwriter",
+    "pronunciation": "ˌʌndəˈraɪtə",
+    "meaning": [
+      "agent ubezpieczeniowy"
+    ]
+  },
+  {
+    "id": "u-undesirable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "undesirable",
+    "pronunciation": "ˌʌndɪˈzaɪərəbəl",
+    "meaning": [
+      "niepożądany"
+    ]
+  },
+  {
+    "id": "u-undies",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "undies",
+    "pronunciation": "ˈʌndɪz",
+    "meaning": [
+      "bielizna"
+    ]
+  },
+  {
+    "id": "u-undo",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "undo",
+    "pronunciation": "ʌnˈdu:",
+    "meaning": [
+      "rozwiązywać",
+      "rozpinać",
+      "niszczyć",
+      "zaprzeczać"
+    ]
+  },
+  {
+    "id": "u-undoing",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "undoing",
+    "pronunciation": "ʌnˈdu:ɪŋ",
+    "meaning": [
+      "klęska",
+      "ruina"
+    ]
+  },
+  {
+    "id": "u-undone",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "undone",
+    "pronunciation": "ʌnˈdʌn",
+    "meaning": [
+      "rozwiązany"
+    ]
+  },
+  {
+    "id": "u-undoubted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "undoubted",
+    "pronunciation": "ʌnˈdaʊtɪd",
+    "meaning": [
+      "niezaprzeczalny"
+    ]
+  },
+  {
+    "id": "u-undress",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "undress",
+    "pronunciation": "ʌnˈdres",
+    "meaning": [
+      "rozbierać się",
+      "rozbierać"
+    ]
+  },
+  {
+    "id": "u-undue",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "undue",
+    "pronunciation": "ʌnˈdju:",
+    "meaning": [
+      "nadmierny"
+    ]
+  },
+  {
+    "id": "u-undulate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "undulate",
+    "pronunciation": "ˈʌndjəleɪt",
+    "meaning": [
+      "falować"
+    ]
+  },
+  {
+    "id": "u-unduly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "unduly",
+    "pronunciation": "ʌnˈdju:lɪ",
+    "meaning": [
+      "nadmiernie"
+    ]
+  },
+  {
+    "id": "u-unearth",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "unearth",
+    "pronunciation": "ʌnˈɜ:θ",
+    "meaning": [
+      "odkopywać",
+      "wydobywać na światło dzienne"
+    ]
+  },
+  {
+    "id": "u-unearthly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unearthly",
+    "pronunciation": "ʌnˈɜ:θlɪ",
+    "meaning": [
+      "nieziemski",
+      "nieludzki"
+    ]
+  },
+  {
+    "id": "u-unease",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "unease",
+    "pronunciation": "ʌnˈi:z",
+    "meaning": [
+      "niepokój"
+    ]
+  },
+  {
+    "id": "u-uneasy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uneasy",
+    "pronunciation": "ʌnˈi:zɪ",
+    "meaning": [
+      "niespokojny",
+      "niepewny"
+    ]
+  },
+  {
+    "id": "u-unemployed",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unemployed",
+    "pronunciation": "ˌʌnɪmˈplɔɪd",
+    "meaning": [
+      "bezrobotny"
+    ]
+  },
+  {
+    "id": "u-unemployment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "unemployment",
+    "pronunciation": "ˌʌnɪmˈplɔɪmənt",
+    "meaning": [
+      "bezrobocie"
+    ]
+  },
+  {
+    "id": "u-unending",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unending",
+    "pronunciation": "ʌnˈendɪŋ",
+    "meaning": [
+      "nie kończący się"
+    ]
+  },
+  {
+    "id": "u-unequivocal",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unequivocal",
+    "pronunciation": "ˌʌnɪkˈwɪvəkəl",
+    "meaning": [
+      "niedwuznaczny",
+      "jasny"
+    ]
+  },
+  {
+    "id": "u-unerring",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unerring",
+    "pronunciation": "ʌnˈɜ:rɪŋ",
+    "meaning": [
+      "nieomylny"
+    ]
+  },
+  {
+    "id": "u-uneven",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uneven",
+    "pronunciation": "ʌnˈi:vən",
+    "meaning": [
+      "nierówny"
+    ]
+  },
+  {
+    "id": "u-uneventful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uneventful",
+    "pronunciation": "ʌnɪˈventfʊl",
+    "meaning": [
+      "jednostajny",
+      "bez wydarzeń"
+    ]
+  },
+  {
+    "id": "u-unexpected",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unexpected",
+    "pronunciation": "ˌʌnɪksˈpektɪd",
+    "meaning": [
+      "niespodziewany"
+    ]
+  },
+  {
+    "id": "u-unfailing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unfailing",
+    "pronunciation": "ʌnˈfeɪlɪŋ",
+    "meaning": [
+      "niezawodny"
+    ]
+  },
+  {
+    "id": "u-unfair",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unfair",
+    "pronunciation": "ʌnˈfeə",
+    "meaning": [
+      "niesprawiedliwy"
+    ]
+  },
+  {
+    "id": "u-unfaithful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unfaithful",
+    "pronunciation": "ʌnˈfeɪθfʊl",
+    "meaning": [
+      "niewierny"
+    ]
+  },
+  {
+    "id": "u-unfamiliar",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unfamiliar",
+    "pronunciation": "ˌʌnfəˈmɪlɪə",
+    "meaning": [
+      "nieznajomy",
+      "nie zaznajomiony"
+    ]
+  },
+  {
+    "id": "u-unfasten",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "unfasten",
+    "pronunciation": "ʌnˈfɑ:sən",
+    "meaning": [
+      "rozpinać"
+    ]
+  },
+  {
+    "id": "u-unfavourable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unfavourable",
+    "pronunciation": "ʌnˈfeɪvərəbəl",
+    "meaning": [
+      "niekorzystny",
+      "nie sprzyjający"
+    ]
+  },
+  {
+    "id": "u-unfeeling",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unfeeling",
+    "pronunciation": "ʌnˈfi:lɪŋ",
+    "meaning": [
+      "nieczuły"
+    ]
+  },
+  {
+    "id": "u-unfit",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unfit",
+    "pronunciation": "ʌnˈfɪt",
+    "meaning": [
+      "nie w formie",
+      "niezdatny"
+    ]
+  },
+  {
+    "id": "u-unfold",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unfold",
+    "pronunciation": "ʌnˈfəʊld",
+    "meaning": [
+      "rozwijać się",
+      "rozwijać",
+      "odsłaniać"
+    ]
+  },
+  {
+    "id": "u-unforeseen",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unforeseen",
+    "pronunciation": "ˌʌnfəˈsi:n",
+    "meaning": [
+      "nieprzewidziany"
+    ]
+  },
+  {
+    "id": "u-unforgettable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unforgettable",
+    "pronunciation": "ˌʌnfəˈgetəbəl",
+    "meaning": [
+      "niezapomniany"
+    ]
+  },
+  {
+    "id": "u-unforgivable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unforgivable",
+    "pronunciation": "ˌʌnfəˈgɪvəbəl",
+    "meaning": [
+      "niewybaczalny"
+    ]
+  },
+  {
+    "id": "u-unfortunate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unfortunate",
+    "pronunciation": "ʌnˈfɔ:ʧənət",
+    "meaning": [
+      "nieszczęśliwy",
+      "nie mający powodzenia",
+      "nieszczęsny",
+      "niedobry"
+    ]
+  },
+  {
+    "id": "u-unfounded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unfounded",
+    "pronunciation": "ʌnˈfaʊndɪd",
+    "meaning": [
+      "bezpodstawny"
+    ]
+  },
+  {
+    "id": "u-unfriendly",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unfriendly",
+    "pronunciation": "ʌnˈfrendlɪ",
+    "meaning": [
+      "nieprzyjazny"
+    ]
+  },
+  {
+    "id": "u-unfurnished",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unfurnished",
+    "pronunciation": "ʌnˈfɜ:nɪʃt",
+    "meaning": [
+      "nie umeblowany"
+    ]
+  },
+  {
+    "id": "u-ungainly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ungainly",
+    "pronunciation": "ʌnˈgeɪnlɪ",
+    "meaning": [
+      "niezgrabny"
+    ]
+  },
+  {
+    "id": "u-unhappy",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "unhappy",
+    "pronunciation": "ʌnˈhæpɪ",
+    "meaning": [
+      "nieszczęśliwy",
+      "niezadowolony",
+      "nieszczęsny",
+      "pożałowania godny"
+    ]
+  },
+  {
+    "id": "u-unharmed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unharmed",
+    "pronunciation": "ʌnˈhɑ:md",
+    "meaning": [
+      "nienaruszony",
+      "bez uszczerbku"
+    ]
+  },
+  {
+    "id": "u-unhealthy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unhealthy",
+    "pronunciation": "ʌnˈhelθɪ",
+    "meaning": [
+      "niezdrowy",
+      "chorobliwy"
+    ]
+  },
+  {
+    "id": "u-unheard-of",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unheard-of",
+    "pronunciation": "ʌnˈhɜ:dəv",
+    "meaning": [
+      "niesłychany"
+    ]
+  },
+  {
+    "id": "u-UNICEF",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "UNICEF",
+    "pronunciation": "ˈju:nɪsef",
+    "meaning": [
+      "Fundusz Narodów Zjednoczonych Pomocy Dzieciom"
+    ]
+  },
+  {
+    "id": "u-unicorn",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "unicorn",
+    "pronunciation": "ˈju:nɪkɔ:n",
+    "meaning": [
+      "jednorożec"
+    ]
+  },
+  {
+    "id": "u-unification",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "unification",
+    "pronunciation": "ˌju:nɪfɪˈkeɪʃən",
+    "meaning": [
+      "zjednoczenie",
+      "unifikacja"
+    ]
+  },
+  {
+    "id": "u-uniform",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "uniform",
+    "pronunciation": "ˈju:nɪfɔ:m",
+    "meaning": [
+      "mundur",
+      "jednolity"
+    ]
+  },
+  {
+    "id": "u-uniformity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uniformity",
+    "pronunciation": "ˌjʊnɪˈfɔ:mɪtɪ",
+    "meaning": [
+      "ujednolicenie"
+    ]
+  },
+  {
+    "id": "u-unify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "unify",
+    "pronunciation": "ˈju:nɪfaɪ",
+    "meaning": [
+      "jednoczyć",
+      "unifikować"
+    ]
+  },
+  {
+    "id": "u-unilateral",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unilateral",
+    "pronunciation": "ˌju:nɪˈlætərəl",
+    "meaning": [
+      "jednostronny"
+    ]
+  },
+  {
+    "id": "u-uninhabitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uninhabitable",
+    "pronunciation": "ˌʌnɪnˈhæbɪtəbəl",
+    "meaning": [
+      "nie nadający się do zamieszkania"
+    ]
+  },
+  {
+    "id": "u-uninhabited",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uninhabited",
+    "pronunciation": "ˌʌnɪnˈhæbɪtɪd",
+    "meaning": [
+      "niezamieszkany",
+      "niezamieszkały"
+    ]
+  },
+  {
+    "id": "u-unique",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unique",
+    "pronunciation": "ju:ˈni:k",
+    "meaning": [
+      "unikalny",
+      "unikatowy",
+      "wyłączny",
+      "ograniczony",
+      "wyjątkowy"
+    ]
+  },
+  {
+    "id": "u-unisex",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unisex",
+    "pronunciation": "ˈju:nɪseks",
+    "meaning": [
+      "obupłciowy",
+      "dla obu płci"
+    ]
+  },
+  {
+    "id": "u-unison",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "unison",
+    "pronunciation": "ˈju:nɪsən",
+    "meaning": []
+  },
+  {
+    "id": "u-unit",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "unit",
+    "pronunciation": "ˈju:nɪt",
+    "meaning": [
+      "jednostka",
+      "całość",
+      "grupa",
+      "zespół"
+    ]
+  },
+  {
+    "id": "u-Unitarian",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Unitarian",
+    "pronunciation": "ju:nɪˈteərɪən",
+    "meaning": [
+      "unitariański",
+      "unitarianin"
+    ]
+  },
+  {
+    "id": "u-unite",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "unite",
+    "pronunciation": "ju:ˈnaɪt",
+    "meaning": [
+      "jednoczyć się",
+      "jednoczyć"
+    ]
+  },
+  {
+    "id": "u-unity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "unity",
+    "pronunciation": "ˈju:nɪtɪ",
+    "meaning": [
+      "jedność"
+    ]
+  },
+  {
+    "id": "u-univ.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "univ.",
+    "pronunciation": "/ˌjuːnɪˈvɜːsɪti/",
+    "meaning": [
+      "uniwersytet"
+    ]
+  },
+  {
+    "id": "u-universal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "universal",
+    "pronunciation": "ˌju:nɪˈvɜ:səl",
+    "meaning": [
+      "powszechny",
+      "uniwersalny"
+    ]
+  },
+  {
+    "id": "u-universe",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "universe",
+    "pronunciation": "ˈju:nɪvɜ:s",
+    "meaning": [
+      "wszechświat"
+    ]
+  },
+  {
+    "id": "u-university",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "university",
+    "pronunciation": "ˌju:nɪˈvɜ:sɪtɪ",
+    "meaning": [
+      "uniwersytet"
+    ]
+  },
+  {
+    "id": "u-unjust",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unjust",
+    "pronunciation": "ʌnˈʤʌst",
+    "meaning": [
+      "niesprawiedliwy"
+    ]
+  },
+  {
+    "id": "u-unjustified",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unjustified",
+    "pronunciation": "ʌnˈʤʌstɪfaɪd",
+    "meaning": [
+      "niezrozumiały",
+      "nieuzasadniony"
+    ]
+  },
+  {
+    "id": "u-unkempt",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unkempt",
+    "pronunciation": "ʌŋˈkempt",
+    "meaning": [
+      "źle utrzymany",
+      "rozczochrany"
+    ]
+  },
+  {
+    "id": "u-unkind",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unkind",
+    "pronunciation": "ʌŋˈkaɪnd",
+    "meaning": [
+      "niedobry",
+      "okrutny"
+    ]
+  },
+  {
+    "id": "u-unknown",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unknown",
+    "pronunciation": "ʌnˈnəʊn",
+    "meaning": [
+      "nieznany",
+      "nieznajomy"
+    ]
+  },
+  {
+    "id": "u-unlawful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unlawful",
+    "pronunciation": "ʌnˈlɔ:fʊl",
+    "meaning": [
+      "bezprawny"
+    ]
+  },
+  {
+    "id": "u-unleaded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unleaded",
+    "pronunciation": "ʌnˈledɪd",
+    "meaning": [
+      "bezołowiowy"
+    ]
+  },
+  {
+    "id": "u-unleash",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "unleash",
+    "pronunciation": "ʌnˈli:ʃ",
+    "meaning": [
+      "uwalniać",
+      "spuszczać ze smyczy"
+    ]
+  },
+  {
+    "id": "u-unless",
+    "level": "A2",
+    "partOfSpeech": "conjunction",
+    "word": "unless",
+    "pronunciation": "ʌnˈles",
+    "meaning": [
+      "jeżeli nie",
+      "o ile nie"
+    ]
+  },
+  {
+    "id": "u-unlike",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unlike",
+    "pronunciation": "ʌnˈlaɪk",
+    "meaning": [
+      "w przeciwieństwie do",
+      "w odróżnieniu od",
+      "niepodobny"
+    ]
+  },
+  {
+    "id": "u-unlikely",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unlikely",
+    "pronunciation": "ʌnˈlaɪklɪ",
+    "meaning": [
+      "nieprawdopodobny",
+      "mało prawdopodobny"
+    ]
+  },
+  {
+    "id": "u-unlit",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unlit",
+    "pronunciation": "ʌnˈlɪt",
+    "meaning": [
+      "niezapalony",
+      "nieoświetlony"
+    ]
+  },
+  {
+    "id": "u-unload",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "unload",
+    "pronunciation": "ʌnˈləʊd",
+    "meaning": [
+      "wyładowywać",
+      "pozbywać się"
+    ]
+  },
+  {
+    "id": "u-unlock",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "unlock",
+    "pronunciation": "ʌnˈlɒk",
+    "meaning": [
+      "otwierać"
+    ]
+  },
+  {
+    "id": "u-unlucky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unlucky",
+    "pronunciation": "ʌnˈlʌkɪ",
+    "meaning": [
+      "pechowy"
+    ]
+  },
+  {
+    "id": "u-unmade",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unmade",
+    "pronunciation": "ʌmˈmeɪd",
+    "meaning": [
+      "nieposłany"
+    ]
+  },
+  {
+    "id": "u-unmarked",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unmarked",
+    "pronunciation": "ʌmˈmɑ:kt",
+    "meaning": [
+      "nieoznaczony",
+      "nieruszony"
+    ]
+  },
+  {
+    "id": "u-unmistakable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unmistakable",
+    "pronunciation": "ˌʌmmɪˈsteɪkəbəl",
+    "meaning": [
+      "łatwy do poznania",
+      "niewątpliwy"
+    ]
+  },
+  {
+    "id": "u-unmitigated",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unmitigated",
+    "pronunciation": "ʌmˈmɪtɪgeɪtɪd",
+    "meaning": [
+      "niepoprawny",
+      "całkowity"
+    ]
+  },
+  {
+    "id": "u-unnecessary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unnecessary",
+    "pronunciation": "ʌnˈnesəsərɪ",
+    "meaning": [
+      "zbędny",
+      "niepotrzebny"
+    ]
+  },
+  {
+    "id": "u-unnerve",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "unnerve",
+    "pronunciation": "ʌnˈnɜ:v",
+    "meaning": [
+      "odbierać odwagę"
+    ]
+  },
+  {
+    "id": "u-unnoticed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unnoticed",
+    "pronunciation": "ʌnˈnəʊtɪst",
+    "meaning": [
+      "niezauważony"
+    ]
+  },
+  {
+    "id": "u-UNO",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "UNO",
+    "pronunciation": "ˈju:nəʊ",
+    "meaning": [
+      "ONZ"
+    ]
+  },
+  {
+    "id": "u-unobtrusive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unobtrusive",
+    "pronunciation": "ˌʌnəbˈtru:sɪv",
+    "meaning": [
+      "nie narzucający się"
+    ]
+  },
+  {
+    "id": "u-unofficial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unofficial",
+    "pronunciation": "ˌʌnəˈfɪʃəl",
+    "meaning": [
+      "nieoficjalny"
+    ]
+  },
+  {
+    "id": "u-unorthodox",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unorthodox",
+    "pronunciation": "ʌnˈɔ:θədɒks",
+    "meaning": [
+      "nieortodoksyjny"
+    ]
+  },
+  {
+    "id": "u-unpack",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unpack",
+    "pronunciation": "ʌnˈpæk",
+    "meaning": [
+      "rozpakowywać"
+    ]
+  },
+  {
+    "id": "u-unpaid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unpaid",
+    "pronunciation": "ʌnˈpeɪd",
+    "meaning": [
+      "bezpłatny",
+      "niezapłacony"
+    ]
+  },
+  {
+    "id": "u-unpalatable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unpalatable",
+    "pronunciation": "ʌnˈpælətəbəl",
+    "meaning": [
+      "nie do przełknięcia",
+      "nie do przyjęcia"
+    ]
+  },
+  {
+    "id": "u-unparalleled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unparalleled",
+    "pronunciation": "ʌnˈpærəleld",
+    "meaning": [
+      "niezrównany"
+    ]
+  },
+  {
+    "id": "u-unpleasant",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unpleasant",
+    "pronunciation": "ʌnˈplezənt",
+    "meaning": [
+      "nieprzyjemny"
+    ]
+  },
+  {
+    "id": "u-unplug",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "unplug",
+    "pronunciation": "ʌnˈplʌg",
+    "meaning": [
+      "wyłączać z sieci",
+      "wyłączać"
+    ]
+  },
+  {
+    "id": "u-unprecedented",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unprecedented",
+    "pronunciation": "ʌnˈpresɪdentɪd",
+    "meaning": [
+      "bezprecedensowy"
+    ]
+  },
+  {
+    "id": "u-unpredictable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unpredictable",
+    "pronunciation": "ˌʌnprɪˈdɪktəbəl",
+    "meaning": [
+      "nie do przewidzenia"
+    ]
+  },
+  {
+    "id": "u-unprofitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unprofitable",
+    "pronunciation": "ʌnˈprɒfɪtəbəl",
+    "meaning": [
+      "niezyskowny",
+      "niedochodowy"
+    ]
+  },
+  {
+    "id": "u-unqualified",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unqualified",
+    "pronunciation": "ʌnˈkwɒlɪfaɪd",
+    "meaning": [
+      "niewykwalifikowany",
+      "bez kwalifikacji",
+      "kompletny"
+    ]
+  },
+  {
+    "id": "u-unquestionable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unquestionable",
+    "pronunciation": "ʌnˈkwesʧənəbəl",
+    "meaning": [
+      "niekwestionowany"
+    ]
+  },
+  {
+    "id": "u-unravel",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unravel",
+    "pronunciation": "ʌnˈrævəl",
+    "meaning": [
+      "rozplątywać się",
+      "rozplątywać",
+      "rozwikływać"
+    ]
+  },
+  {
+    "id": "u-unreal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unreal",
+    "pronunciation": "ʌnˈrɪəl",
+    "meaning": [
+      "nierealny"
+    ]
+  },
+  {
+    "id": "u-unrealistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unrealistic",
+    "pronunciation": "ˌʌnrɪəˈlɪstɪk",
+    "meaning": [
+      "nierealistyczny"
+    ]
+  },
+  {
+    "id": "u-unreasonable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unreasonable",
+    "pronunciation": "ʌnˈri:zənəbəl",
+    "meaning": [
+      "nierozsądny"
+    ]
+  },
+  {
+    "id": "u-unrecognizable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unrecognizable",
+    "pronunciation": "ʌnˈrekəgnaɪzəbəl",
+    "meaning": [
+      "nierozpoznawalny",
+      "nie do odróżnienia"
+    ]
+  },
+  {
+    "id": "u-unrelated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unrelated",
+    "pronunciation": "ˌʌnrɪˈleɪtɪd",
+    "meaning": [
+      "nie związany"
+    ]
+  },
+  {
+    "id": "u-unrelenting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unrelenting",
+    "pronunciation": "ˌʌnrɪˈlentɪŋ",
+    "meaning": [
+      "nieustanny",
+      "bez skrupułów"
+    ]
+  },
+  {
+    "id": "u-unreliable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unreliable",
+    "pronunciation": "ˌʌnrɪˈlaɪəbəl",
+    "meaning": [
+      "nieodpowiedzialny"
+    ]
+  },
+  {
+    "id": "u-unremitting",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unremitting",
+    "pronunciation": "ˌʌnrɪˈmɪtɪŋ",
+    "meaning": [
+      "nieustanny",
+      "niestrudzony"
+    ]
+  },
+  {
+    "id": "u-unreserved",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unreserved",
+    "pronunciation": "ˌʌnrɪˈzɜ:vd",
+    "meaning": [
+      "całkowity",
+      "bez zastrzeżeń"
+    ]
+  },
+  {
+    "id": "u-unrest",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "unrest",
+    "pronunciation": "ˈʌnrest",
+    "meaning": [
+      "niepokój"
+    ]
+  },
+  {
+    "id": "u-unrewarding",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unrewarding",
+    "pronunciation": "ˌʌnrɪˈwɔ:dɪŋ",
+    "meaning": [
+      "nie dający satysfakcji"
+    ]
+  },
+  {
+    "id": "u-unripe",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unripe",
+    "pronunciation": "ʌnˈraɪp",
+    "meaning": [
+      "niedojrzały"
+    ]
+  },
+  {
+    "id": "u-unrivalled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unrivalled",
+    "pronunciation": "ʌnˈraɪvəld",
+    "meaning": [
+      "niezrównany"
+    ]
+  },
+  {
+    "id": "u-unroll",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unroll",
+    "pronunciation": "ʌnˈrəʊl",
+    "meaning": [
+      "rozwijać"
+    ]
+  },
+  {
+    "id": "u-unruly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unruly",
+    "pronunciation": "ʌnˈru:lɪ",
+    "meaning": [
+      "nieposłuszny",
+      "niesforny"
+    ]
+  },
+  {
+    "id": "u-unsafe",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unsafe",
+    "pronunciation": "ʌnˈseɪf",
+    "meaning": [
+      "niebezpieczny",
+      "niepewny",
+      "zagrożony"
+    ]
+  },
+  {
+    "id": "u-unsatisfactory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unsatisfactory",
+    "pronunciation": "ˌʌnsætɪsˈfæktərɪ",
+    "meaning": [
+      "niezadowalający"
+    ]
+  },
+  {
+    "id": "u-unsavoury",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unsavoury",
+    "pronunciation": "ʌnˈseɪvərɪ",
+    "meaning": [
+      "odrażający"
+    ]
+  },
+  {
+    "id": "u-unscathed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unscathed",
+    "pronunciation": "ʌnˈskeɪðd",
+    "meaning": [
+      "nie draśnięty"
+    ]
+  },
+  {
+    "id": "u-unscrew",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unscrew",
+    "pronunciation": "ʌnˈskru:",
+    "meaning": [
+      "odkręcać"
+    ]
+  },
+  {
+    "id": "u-unscrupulous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unscrupulous",
+    "pronunciation": "ʌnˈskru:pjʊləs",
+    "meaning": [
+      "bez skrupułów"
+    ]
+  },
+  {
+    "id": "u-unseen",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unseen",
+    "pronunciation": "ʌnˈsi:n",
+    "meaning": [
+      "nie widziany"
+    ]
+  },
+  {
+    "id": "u-unsettled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unsettled",
+    "pronunciation": "ʌnˈsetəld",
+    "meaning": [
+      "nieustabilizowany",
+      "rozkojarzony",
+      "nierozstrzygnięty"
+    ]
+  },
+  {
+    "id": "u-unshakable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unshakable",
+    "pronunciation": "ʌnˈʃeɪkəbəl",
+    "meaning": [
+      "niezachwiany"
+    ]
+  },
+  {
+    "id": "u-unshaven",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unshaven",
+    "pronunciation": "ʌnˈʃeɪvən",
+    "meaning": [
+      "nieogolony"
+    ]
+  },
+  {
+    "id": "u-unsightly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unsightly",
+    "pronunciation": "ʌnˈsaɪtlɪ",
+    "meaning": [
+      "nieładny",
+      "mało atrakcyjny"
+    ]
+  },
+  {
+    "id": "u-unskilled",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unskilled",
+    "pronunciation": "ʌnˈskɪld",
+    "meaning": [
+      "niewykwalifikowany"
+    ]
+  },
+  {
+    "id": "u-unsophisticated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unsophisticated",
+    "pronunciation": "ˌʌnsəˈfɪstɪkeɪtɪd",
+    "meaning": [
+      "nieskomplikowany",
+      "prosty",
+      "niewyrafinowany"
+    ]
+  },
+  {
+    "id": "u-unsound",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unsound",
+    "pronunciation": "ʌnˈsaʊnd",
+    "meaning": [
+      "błędny",
+      "zagrożony"
+    ]
+  },
+  {
+    "id": "u-unspeakable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unspeakable",
+    "pronunciation": "ʌnˈspi:kəbəl",
+    "meaning": [
+      "niewypowiedziany"
+    ]
+  },
+  {
+    "id": "u-unspecified",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unspecified",
+    "pronunciation": "ʌnˈspesɪfaɪd",
+    "meaning": [
+      "niewyszczególniony"
+    ]
+  },
+  {
+    "id": "u-unstable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unstable",
+    "pronunciation": "ʌnˈsteɪbəl",
+    "meaning": [
+      "niestabilny",
+      "źle przymocowany",
+      "rozchwiany"
+    ]
+  },
+  {
+    "id": "u-unsteady",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unsteady",
+    "pronunciation": "ʌnˈstedɪ",
+    "meaning": [
+      "niepewny",
+      "roztrzęsiony",
+      "niestabilny"
+    ]
+  },
+  {
+    "id": "u-unsuccessful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unsuccessful",
+    "pronunciation": "ˌʌnsəkˈsesfʊl",
+    "meaning": [
+      "nieudany",
+      "bezowocny",
+      "bez powodzenia"
+    ]
+  },
+  {
+    "id": "u-unsuitable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unsuitable",
+    "pronunciation": "ʌnˈsu:təbəl",
+    "meaning": [
+      "nieodpowiedni"
+    ]
+  },
+  {
+    "id": "u-unsuited",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unsuited",
+    "pronunciation": "ʌnˈsu:tɪd",
+    "meaning": [
+      "nieodpowiedni",
+      "niedobrany"
+    ]
+  },
+  {
+    "id": "u-unsure",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unsure",
+    "pronunciation": "ʌnˈʃʊə",
+    "meaning": [
+      "niepewny"
+    ]
+  },
+  {
+    "id": "u-unsympathetic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unsympathetic",
+    "pronunciation": "ˌʌnsɪmpəˈθetɪk",
+    "meaning": [
+      "nieczuły",
+      "nie współczujący"
+    ]
+  },
+  {
+    "id": "u-untangle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "untangle",
+    "pronunciation": "ʌnˈtæŋgəl",
+    "meaning": [
+      "rozplątywać"
+    ]
+  },
+  {
+    "id": "u-untapped",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untapped",
+    "pronunciation": "ʌnˈtæpt",
+    "meaning": [
+      "nienaruszony"
+    ]
+  },
+  {
+    "id": "u-untenable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "untenable",
+    "pronunciation": "ʌnˈtenəbəl",
+    "meaning": [
+      "nie do obrony",
+      "nie do utrzymania"
+    ]
+  },
+  {
+    "id": "u-unthinkable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unthinkable",
+    "pronunciation": "ʌnˈθɪŋkəbəl",
+    "meaning": [
+      "nie do pomyślenia"
+    ]
+  },
+  {
+    "id": "u-untidy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "untidy",
+    "pronunciation": "ʌnˈtaɪdɪ",
+    "meaning": [
+      "niechlujny",
+      "zaniedbany"
+    ]
+  },
+  {
+    "id": "u-untie",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "untie",
+    "pronunciation": "ʌnˈtaɪ",
+    "meaning": [
+      "rozwiązywać"
+    ]
+  },
+  {
+    "id": "u-until",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "until",
+    "pronunciation": "ʌnˈtɪl",
+    "meaning": [
+      "aż do",
+      "do",
+      "dopóki"
+    ]
+  },
+  {
+    "id": "u-untimely",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untimely",
+    "pronunciation": "ʌnˈtaɪmlɪ",
+    "meaning": [
+      "przedwczesny"
+    ]
+  },
+  {
+    "id": "u-untold",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untold",
+    "pronunciation": "ʌnˈtəʊld",
+    "meaning": [
+      "niewypowiedziany"
+    ]
+  },
+  {
+    "id": "u-untoward",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untoward",
+    "pronunciation": "ˌʌntəˈwɔ:d",
+    "meaning": [
+      "niekorzystny",
+      "niedobry"
+    ]
+  },
+  {
+    "id": "u-untranslatable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "untranslatable",
+    "pronunciation": "ʌntrænsˈleɪtəbəl",
+    "meaning": [
+      "nieprzetłumaczalny"
+    ]
+  },
+  {
+    "id": "u-untreated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "untreated",
+    "pronunciation": "ʌnˈtri:tɪd",
+    "meaning": [
+      "nieleczony",
+      "nieoczyszczony"
+    ]
+  },
+  {
+    "id": "u-unused",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unused",
+    "pronunciation": "/ʌnˈjuːzd/",
+    "meaning": [
+      "nieużywany",
+      "nieprzywykły"
+    ]
+  },
+  {
+    "id": "u-unusual",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unusual",
+    "pronunciation": "ʌnˈju:ʒʊəl",
+    "meaning": [
+      "niezwykły"
+    ]
+  },
+  {
+    "id": "u-unusually",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "unusually",
+    "pronunciation": "ʌnˈju:ʒʊəlɪ",
+    "meaning": [
+      "niezwykle",
+      "co niezwykłe"
+    ]
+  },
+  {
+    "id": "u-unveil",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "unveil",
+    "pronunciation": "ʌnˈveɪl",
+    "meaning": [
+      "odsłonić",
+      "ukazać"
+    ]
+  },
+  {
+    "id": "u-unwary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unwary",
+    "pronunciation": "ʌnˈweərɪ",
+    "meaning": [
+      "nieostrożny",
+      "nie spodziewający się niczego złego",
+      "nie spodziewający się"
+    ]
+  },
+  {
+    "id": "u-unwelcome",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwelcome",
+    "pronunciation": "ʌnˈwelkəm",
+    "meaning": [
+      "nieproszony",
+      "niepożądany",
+      "przykry"
+    ]
+  },
+  {
+    "id": "u-unwell",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwell",
+    "pronunciation": "ʌnˈwel",
+    "meaning": [
+      "chory",
+      "niedysponowany"
+    ]
+  },
+  {
+    "id": "u-unwieldy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unwieldy",
+    "pronunciation": "ʌnˈwi:ldɪ",
+    "meaning": [
+      "nieporęczny",
+      "niemrawy"
+    ]
+  },
+  {
+    "id": "u-unwilling",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwilling",
+    "pronunciation": "ʌnˈwɪlɪŋ",
+    "meaning": [
+      "niechętny"
+    ]
+  },
+  {
+    "id": "u-unwind",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unwind",
+    "pronunciation": "ʌnˈwaɪnd",
+    "meaning": [
+      "odprężyć się",
+      "rozwijać"
+    ]
+  },
+  {
+    "id": "u-unwise",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwise",
+    "pronunciation": "ʌnˈwaɪz",
+    "meaning": [
+      "niemądry"
+    ]
+  },
+  {
+    "id": "u-unwitting",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unwitting",
+    "pronunciation": "ʌnˈwɪtɪŋ",
+    "meaning": [
+      "bezwolny",
+      "nieświadomy"
+    ]
+  },
+  {
+    "id": "u-unworkable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unworkable",
+    "pronunciation": "ʌnˈwɜ:kəbəl",
+    "meaning": [
+      "niepraktyczny",
+      "nie do przeprowadzenia"
+    ]
+  },
+  {
+    "id": "u-unworthy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unworthy",
+    "pronunciation": "ʌnˈwɜ:ðɪ",
+    "meaning": [
+      "niegodny"
+    ]
+  },
+  {
+    "id": "u-unwrap",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "unwrap",
+    "pronunciation": "ʌnˈræp",
+    "meaning": [
+      "rozpakowywać"
+    ]
+  },
+  {
+    "id": "u-unwritten",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwritten",
+    "pronunciation": "ʌnˈrɪtən",
+    "meaning": [
+      "niepisany"
+    ]
+  },
+  {
+    "id": "u-unzip",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unzip",
+    "pronunciation": "ʌnˈzɪp",
+    "meaning": [
+      "rozpinać"
+    ]
+  },
+  {
+    "id": "u-up-and-coming",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "up-and-coming",
+    "pronunciation": "ˌʌpənˈkʌmɪŋ",
+    "meaning": [
+      "wybijający się w górę"
+    ]
+  },
+  {
+    "id": "u-upbringing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "upbringing",
+    "pronunciation": "ˈʌpbrɪŋɪŋ",
+    "meaning": [
+      "wychowanie"
+    ]
+  },
+  {
+    "id": "u-update",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "update",
+    "pronunciation": "ʌpˈdeɪt",
+    "meaning": [
+      "modernizować",
+      "aktualizować"
+    ]
+  },
+  {
+    "id": "u-upheaval",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upheaval",
+    "pronunciation": "ʌpˈhi:vəl",
+    "meaning": [
+      "niepokój",
+      "przewrót społeczny",
+      "przewrót"
+    ]
+  },
+  {
+    "id": "u-uphill",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uphill",
+    "pronunciation": "ˌʌpˈhɪl",
+    "meaning": [
+      "do góry",
+      "w górę",
+      "ciężki",
+      "jak pod górę"
+    ]
+  },
+  {
+    "id": "u-uphold",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "uphold",
+    "pronunciation": "ʌpˈhəʊld",
+    "meaning": [
+      "podtrzymywać",
+      "utrzymywać"
+    ]
+  },
+  {
+    "id": "u-upholstered",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "upholstered",
+    "pronunciation": "ʌpˈhəʊlstəd",
+    "meaning": [
+      "tapicerowany"
+    ]
+  },
+  {
+    "id": "u-upholstery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upholstery",
+    "pronunciation": "ʌpˈhəʊlstərɪ",
+    "meaning": [
+      "tapicerka"
+    ]
+  },
+  {
+    "id": "u-upkeep",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "upkeep",
+    "pronunciation": "ˈʌpki:p",
+    "meaning": [
+      "koszty utrzymania"
+    ]
+  },
+  {
+    "id": "u-upland",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upland",
+    "pronunciation": "ˈʌplænd",
+    "meaning": [
+      "wysoko położony",
+      "tereny wysoko położone"
+    ]
+  },
+  {
+    "id": "u-upon",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "upon",
+    "pronunciation": "əˈpɒn",
+    "meaning": [
+      "na",
+      "po",
+      "za"
+    ]
+  },
+  {
+    "id": "u-upper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "upper",
+    "pronunciation": "ˈʌpə",
+    "meaning": [
+      "górny",
+      "wierzch buta",
+      "wierzch",
+      "warstwa wyższa",
+      "burżuazja"
+    ]
+  },
+  {
+    "id": "u-uppermost",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uppermost",
+    "pronunciation": "ˈʌpəməʊst",
+    "meaning": [
+      "najwyższy",
+      "najwyżej",
+      "najważniejszy"
+    ]
+  },
+  {
+    "id": "u-upright",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "upright",
+    "pronunciation": "ˈʌpraɪt",
+    "meaning": [
+      "wyprostowany",
+      "pionowy",
+      "prawy",
+      "uczciwy"
+    ]
+  },
+  {
+    "id": "u-uprising",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uprising",
+    "pronunciation": "ˈʌpraɪzɪŋ",
+    "meaning": [
+      "powstanie"
+    ]
+  },
+  {
+    "id": "u-uproar",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uproar",
+    "pronunciation": "ˈʌprɔ:",
+    "meaning": [
+      "wrzawa",
+      "tumult",
+      "zamieszanie"
+    ]
+  },
+  {
+    "id": "u-uproot",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "uproot",
+    "pronunciation": "ʌpˈru:t",
+    "meaning": [
+      "wykorzeniać się",
+      "wykorzeniać"
+    ]
+  },
+  {
+    "id": "u-upshot",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upshot",
+    "pronunciation": "ˈʌpʃɒt",
+    "meaning": []
+  },
+  {
+    "id": "u-upstairs",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "upstairs",
+    "pronunciation": "ˌʌpˈsteəz",
+    "meaning": [
+      "na górę",
+      "do góry",
+      "na górze",
+      "górny",
+      "góra"
+    ]
+  },
+  {
+    "id": "u-untangle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "untangle",
+    "pronunciation": "ʌnˈtæŋgəl",
+    "meaning": [
+      "rozplątywać"
+    ]
+  },
+  {
+    "id": "u-untapped",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untapped",
+    "pronunciation": "ʌnˈtæpt",
+    "meaning": [
+      "nienaruszony"
+    ]
+  },
+  {
+    "id": "u-untenable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "untenable",
+    "pronunciation": "ʌnˈtenəbəl",
+    "meaning": [
+      "nie do obrony",
+      "nie do utrzymania"
+    ]
+  },
+  {
+    "id": "u-unthinkable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unthinkable",
+    "pronunciation": "ʌnˈθɪŋkəbəl",
+    "meaning": [
+      "nie do pomyślenia"
+    ]
+  },
+  {
+    "id": "u-untidy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "untidy",
+    "pronunciation": "ʌnˈtaɪdɪ",
+    "meaning": [
+      "niechlujny",
+      "zaniedbany"
+    ]
+  },
+  {
+    "id": "u-untie",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "untie",
+    "pronunciation": "ʌnˈtaɪ",
+    "meaning": [
+      "rozwiązywać"
+    ]
+  },
+  {
+    "id": "u-until",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "until",
+    "pronunciation": "ʌnˈtɪl",
+    "meaning": [
+      "aż do",
+      "do",
+      "dopóki"
+    ]
+  },
+  {
+    "id": "u-untimely",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untimely",
+    "pronunciation": "ʌnˈtaɪmlɪ",
+    "meaning": [
+      "przedwczesny"
+    ]
+  },
+  {
+    "id": "u-untold",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untold",
+    "pronunciation": "ʌnˈtəʊld",
+    "meaning": [
+      "niewypowiedziany"
+    ]
+  },
+  {
+    "id": "u-untoward",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "untoward",
+    "pronunciation": "ˌʌntəˈwɔ:d",
+    "meaning": [
+      "niekorzystny",
+      "niedobry"
+    ]
+  },
+  {
+    "id": "u-untranslatable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "untranslatable",
+    "pronunciation": "ʌntrænsˈleɪtəbəl",
+    "meaning": [
+      "nieprzetłumaczalny"
+    ]
+  },
+  {
+    "id": "u-untreated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "untreated",
+    "pronunciation": "ʌnˈtri:tɪd",
+    "meaning": [
+      "nieleczony",
+      "nieoczyszczony"
+    ]
+  },
+  {
+    "id": "u-unused",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "unused",
+    "pronunciation": "/ʌnˈjuːzd/",
+    "meaning": [
+      "nieużywany",
+      "nieprzywykły"
+    ]
+  },
+  {
+    "id": "u-unusual",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unusual",
+    "pronunciation": "ʌnˈju:ʒʊəl",
+    "meaning": [
+      "niezwykły"
+    ]
+  },
+  {
+    "id": "u-unusually",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "unusually",
+    "pronunciation": "ʌnˈju:ʒʊəlɪ",
+    "meaning": [
+      "niezwykle",
+      "co niezwykłe"
+    ]
+  },
+  {
+    "id": "u-unveil",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "unveil",
+    "pronunciation": "ʌnˈveɪl",
+    "meaning": [
+      "odsłonić",
+      "ukazać"
+    ]
+  },
+  {
+    "id": "u-unwary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unwary",
+    "pronunciation": "ʌnˈweərɪ",
+    "meaning": [
+      "nieostrożny",
+      "nie spodziewający się niczego złego",
+      "nie spodziewający się"
+    ]
+  },
+  {
+    "id": "u-unwelcome",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwelcome",
+    "pronunciation": "ʌnˈwelkəm",
+    "meaning": [
+      "nieproszony",
+      "niepożądany",
+      "przykry"
+    ]
+  },
+  {
+    "id": "u-unwell",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwell",
+    "pronunciation": "ʌnˈwel",
+    "meaning": [
+      "chory",
+      "niedysponowany"
+    ]
+  },
+  {
+    "id": "u-unwieldy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unwieldy",
+    "pronunciation": "ʌnˈwi:ldɪ",
+    "meaning": [
+      "nieporęczny",
+      "niemrawy"
+    ]
+  },
+  {
+    "id": "u-unwilling",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwilling",
+    "pronunciation": "ʌnˈwɪlɪŋ",
+    "meaning": [
+      "niechętny"
+    ]
+  },
+  {
+    "id": "u-unwind",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unwind",
+    "pronunciation": "ʌnˈwaɪnd",
+    "meaning": [
+      "odprężyć się",
+      "rozwijać"
+    ]
+  },
+  {
+    "id": "u-unwise",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwise",
+    "pronunciation": "ʌnˈwaɪz",
+    "meaning": [
+      "niemądry"
+    ]
+  },
+  {
+    "id": "u-unwitting",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "unwitting",
+    "pronunciation": "ʌnˈwɪtɪŋ",
+    "meaning": [
+      "bezwolny",
+      "nieświadomy"
+    ]
+  },
+  {
+    "id": "u-unworkable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unworkable",
+    "pronunciation": "ʌnˈwɜ:kəbəl",
+    "meaning": [
+      "niepraktyczny",
+      "nie do przeprowadzenia"
+    ]
+  },
+  {
+    "id": "u-unworthy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "unworthy",
+    "pronunciation": "ʌnˈwɜ:ðɪ",
+    "meaning": [
+      "niegodny"
+    ]
+  },
+  {
+    "id": "u-unwrap",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "unwrap",
+    "pronunciation": "ʌnˈræp",
+    "meaning": [
+      "rozpakowywać"
+    ]
+  },
+  {
+    "id": "u-unwritten",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "unwritten",
+    "pronunciation": "ʌnˈrɪtən",
+    "meaning": [
+      "niepisany"
+    ]
+  },
+  {
+    "id": "u-unzip",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "unzip",
+    "pronunciation": "ʌnˈzɪp",
+    "meaning": [
+      "rozpinać"
+    ]
+  },
+  {
+    "id": "u-up-and-coming",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "up-and-coming",
+    "pronunciation": "ˌʌpənˈkʌmɪŋ",
+    "meaning": [
+      "wybijający się w górę"
+    ]
+  },
+  {
+    "id": "u-upbringing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "upbringing",
+    "pronunciation": "ˈʌpbrɪŋɪŋ",
+    "meaning": [
+      "wychowanie"
+    ]
+  },
+  {
+    "id": "u-update",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "update",
+    "pronunciation": "ʌpˈdeɪt",
+    "meaning": [
+      "modernizować",
+      "aktualizować"
+    ]
+  },
+  {
+    "id": "u-upheaval",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upheaval",
+    "pronunciation": "ʌpˈhi:vəl",
+    "meaning": [
+      "niepokój",
+      "przewrót społeczny",
+      "przewrót"
+    ]
+  },
+  {
+    "id": "u-uphill",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uphill",
+    "pronunciation": "ˌʌpˈhɪl",
+    "meaning": [
+      "do góry",
+      "w górę",
+      "ciężki",
+      "jak pod górę"
+    ]
+  },
+  {
+    "id": "u-uphold",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "uphold",
+    "pronunciation": "ʌpˈhəʊld",
+    "meaning": [
+      "podtrzymywać",
+      "utrzymywać"
+    ]
+  },
+  {
+    "id": "u-upholstered",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "upholstered",
+    "pronunciation": "ʌpˈhəʊlstəd",
+    "meaning": [
+      "tapicerowany"
+    ]
+  },
+  {
+    "id": "u-upholstery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upholstery",
+    "pronunciation": "ʌpˈhəʊlstərɪ",
+    "meaning": [
+      "tapicerka"
+    ]
+  },
+  {
+    "id": "u-upkeep",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "upkeep",
+    "pronunciation": "ˈʌpki:p",
+    "meaning": [
+      "koszty utrzymania"
+    ]
+  },
+  {
+    "id": "u-upland",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upland",
+    "pronunciation": "ˈʌplænd",
+    "meaning": [
+      "wysoko położony",
+      "tereny wysoko położone"
+    ]
+  },
+  {
+    "id": "u-upon",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "upon",
+    "pronunciation": "əˈpɒn",
+    "meaning": [
+      "na",
+      "po",
+      "za"
+    ]
+  },
+  {
+    "id": "u-upper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "upper",
+    "pronunciation": "ˈʌpə",
+    "meaning": [
+      "górny",
+      "wierzch buta",
+      "wierzch",
+      "warstwa wyższa",
+      "burżuazja"
+    ]
+  },
+  {
+    "id": "u-uppermost",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "uppermost",
+    "pronunciation": "ˈʌpəməʊst",
+    "meaning": [
+      "najwyższy",
+      "najwyżej",
+      "najważniejszy"
+    ]
+  },
+  {
+    "id": "u-upright",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "upright",
+    "pronunciation": "ˈʌpraɪt",
+    "meaning": [
+      "wyprostowany",
+      "pionowy",
+      "prawy",
+      "uczciwy"
+    ]
+  },
+  {
+    "id": "u-uprising",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uprising",
+    "pronunciation": "ˈʌpraɪzɪŋ",
+    "meaning": [
+      "powstanie"
+    ]
+  },
+  {
+    "id": "u-uproar",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uproar",
+    "pronunciation": "ˈʌprɔ:",
+    "meaning": [
+      "wrzawa",
+      "tumult",
+      "zamieszanie"
+    ]
+  },
+  {
+    "id": "u-uproot",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "uproot",
+    "pronunciation": "ʌpˈru:t",
+    "meaning": [
+      "wykorzeniać się",
+      "wykorzeniać"
+    ]
+  },
+  {
+    "id": "u-upshot",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upshot",
+    "pronunciation": "ˈʌpʃɒt",
+    "meaning": []
+  },
+  {
+    "id": "u-upstairs",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "upstairs",
+    "pronunciation": "ˌʌpˈsteəz",
+    "meaning": [
+      "na górę",
+      "do góry",
+      "na górze",
+      "górny",
+      "góra"
+    ]
+  },
+  {
+    "id": "u-upstart",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "upstart",
+    "pronunciation": "ˈʌpstɑ:t",
+    "meaning": [
+      "nowicjusz"
+    ]
+  },
+  {
+    "id": "u-upstream",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "upstream",
+    "pronunciation": "ˌʌpˈstri:m",
+    "meaning": [
+      "w górę rzeki",
+      "w górę",
+      "w górze rzeki",
+      "w górze"
+    ]
+  },
+  {
+    "id": "u-upsurge",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "upsurge",
+    "pronunciation": "ˈʌpsɜ:ʤ",
+    "meaning": [
+      "wzrost"
+    ]
+  },
+  {
+    "id": "u-uptake",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uptake",
+    "pronunciation": "ˈʌpteɪk",
+    "meaning": []
+  },
+  {
+    "id": "u-uptight",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uptight",
+    "pronunciation": "ˈʌptaɪt",
+    "meaning": [
+      "spięty"
+    ]
+  },
+  {
+    "id": "u-up-to-date",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "up-to-date",
+    "pronunciation": "ˌʌptəˈdeɪt",
+    "meaning": [
+      "nowoczesny",
+      "zorientowany"
+    ]
+  },
+  {
+    "id": "u-uptown",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "uptown",
+    "pronunciation": "ˌʌpˈtaʊn",
+    "meaning": [
+      "od centrum śródmieścia",
+      "od centrum",
+      "dzielnice poza śródmieściem"
+    ]
+  },
+  {
+    "id": "u-upturn",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "upturn",
+    "pronunciation": "ˈʌptɜ:n",
+    "meaning": [
+      "hossa",
+      "zwyżka"
+    ]
+  },
+  {
+    "id": "u-upturned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "upturned",
+    "pronunciation": "ˌʌpˈtɜ:nd",
+    "meaning": [
+      "zadarty",
+      "odwrócony"
+    ]
+  },
+  {
+    "id": "u-upward",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "upward",
+    "pronunciation": "ˈʌpwəd",
+    "meaning": [
+      "górny",
+      "do góry"
+    ]
+  },
+  {
+    "id": "u-upwards",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "upwards",
+    "pronunciation": "ˈʌpwədz",
+    "meaning": [
+      "do góry",
+      "w górę"
+    ]
+  },
+  {
+    "id": "u-uranium",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uranium",
+    "pronunciation": "ju:ˈreɪnɪəm",
+    "meaning": [
+      "uran"
+    ]
+  },
+  {
+    "id": "u-urban",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "urban",
+    "pronunciation": "ˈɜ:bən",
+    "meaning": [
+      "miejski"
+    ]
+  },
+  {
+    "id": "u-urbane",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "urbane",
+    "pronunciation": "ɜ:ˈbeɪn",
+    "meaning": [
+      "kurtuazyjny",
+      "uprzejmy"
+    ]
+  },
+  {
+    "id": "u-urchin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "urchin",
+    "pronunciation": "ˈɜ:ʧɪn",
+    "meaning": [
+      "łobuz"
+    ]
+  },
+  {
+    "id": "u-urge",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "urge",
+    "pronunciation": "ɜ:ʤ",
+    "meaning": [
+      "popęd",
+      "żądza",
+      "przynaglać",
+      "zalecać",
+      "kłaść nacisk"
+    ]
+  },
+  {
+    "id": "u-urgency",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "urgency",
+    "pronunciation": "ˈɜ:ʤənsɪ",
+    "meaning": [
+      "nagła potrzeba"
+    ]
+  },
+  {
+    "id": "u-urgent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "urgent",
+    "pronunciation": "ˈɜ:ʤənt",
+    "meaning": [
+      "pilny",
+      "naglący",
+      "natarczywy"
+    ]
+  },
+  {
+    "id": "u-urinal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "urinal",
+    "pronunciation": "ˈjʊərɪnəl",
+    "meaning": [
+      "pisuar"
+    ]
+  },
+  {
+    "id": "u-urinate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "urinate",
+    "pronunciation": "ˈjʊərɪneɪt",
+    "meaning": [
+      "oddawać mocz"
+    ]
+  },
+  {
+    "id": "u-urine",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "urine",
+    "pronunciation": "ˈjʊərɪn",
+    "meaning": [
+      "mocz"
+    ]
+  },
+  {
+    "id": "u-urn",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "urn",
+    "pronunciation": "ɜ:n",
+    "meaning": [
+      "urna",
+      "termos na kawę",
+      "termos"
+    ]
+  },
+  {
+    "id": "u-Uruguay",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Uruguay",
+    "pronunciation": "ˈjʊərəgwaɪ",
+    "meaning": [
+      "Urugwaj"
+    ]
+  },
+  {
+    "id": "u-Uruguayan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Uruguayan",
+    "pronunciation": "ˌjʊərəˈgwaɪən",
+    "meaning": [
+      "urugwajski",
+      "Urugwajczyk"
+    ]
+  },
+  {
+    "id": "u-usable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "usable",
+    "pronunciation": "ˈju:zəbəl",
+    "meaning": [
+      "zdatny do użycia"
+    ]
+  },
+  {
+    "id": "u-USAF",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "USAF",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "siły powietrzne USA"
+    ]
+  },
+  {
+    "id": "u-usage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "usage",
+    "pronunciation": "ˈju:sɪʤ",
+    "meaning": [
+      "użycie języka",
+      "użycie",
+      "znaczenie"
+    ]
+  },
+  {
+    "id": "u-useful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "useful",
+    "pronunciation": "ˈju:sfʊl",
+    "meaning": [
+      "użyteczny"
+    ]
+  },
+  {
+    "id": "u-useless",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "useless",
+    "pronunciation": "ˈju:slɪs",
+    "meaning": [
+      "bezużyteczny",
+      "beznadziejny"
+    ]
+  },
+  {
+    "id": "u-user",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "user",
+    "pronunciation": "ˈju:zə",
+    "meaning": [
+      "użytkownik"
+    ]
+  },
+  {
+    "id": "u-usher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "usher",
+    "pronunciation": "ˈʌʃə",
+    "meaning": [
+      "prowadzić na miejsce",
+      "bileter"
+    ]
+  },
+  {
+    "id": "u-usherette",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "usherette",
+    "pronunciation": "ˈʌʃərət",
+    "meaning": [
+      "bileterka"
+    ]
+  },
+  {
+    "id": "u-USN",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "USN",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "marynarka USA"
+    ]
+  },
+  {
+    "id": "u-USS",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "USS",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "statek USA",
+      "okręt USA"
+    ]
+  },
+  {
+    "id": "u-USSR",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "USSR",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "ZSRR"
+    ]
+  },
+  {
+    "id": "u-usual",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "usual",
+    "pronunciation": "ˈju:ʒʊəl",
+    "meaning": [
+      "zwyczajny",
+      "zwyczajowy"
+    ]
+  },
+  {
+    "id": "u-usually",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "usually",
+    "pronunciation": "ˈju:ʒʊəlɪ",
+    "meaning": [
+      "zazwyczaj"
+    ]
+  },
+  {
+    "id": "u-usurer",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "usurer",
+    "pronunciation": "ˈju:ʒərə",
+    "meaning": [
+      "lichwiarz"
+    ]
+  },
+  {
+    "id": "u-usurp",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "usurp",
+    "pronunciation": "ju:ˈzɜ:p",
+    "meaning": [
+      "uzurpować"
+    ]
+  },
+  {
+    "id": "u-usury",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "usury",
+    "pronunciation": "ˈju:ʒərɪ",
+    "meaning": [
+      "lichwa"
+    ]
+  },
+  {
+    "id": "u-Utah",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Utah",
+    "pronunciation": "ˈju:tɑ:",
+    "meaning": [
+      "Utah"
+    ]
+  },
+  {
+    "id": "u-utensil",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "utensil",
+    "pronunciation": "ju:ˈtensɪl",
+    "meaning": [
+      "przybór",
+      "przyrząd"
+    ]
+  },
+  {
+    "id": "u-uterus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "uterus",
+    "pronunciation": "ˈju:tərəs",
+    "meaning": [
+      "macica"
+    ]
+  },
+  {
+    "id": "u-utilitarian",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "utilitarian",
+    "pronunciation": "ˌju:tɪlɪˈteərɪən",
+    "meaning": [
+      "użytkowy",
+      "utylitarny"
+    ]
+  },
+  {
+    "id": "u-utility",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "utility",
+    "pronunciation": "ju:ˈtɪlɪtɪ",
+    "meaning": [
+      "użyteczność",
+      "usługa komunalna",
+      "przedsiębiorstwo użyteczności publicznej"
+    ]
+  },
+  {
+    "id": "u-utilize",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "utilize",
+    "pronunciation": "ˈju:tɪlaɪz",
+    "meaning": [
+      "posiłkować się",
+      "stosować"
+    ]
+  },
+  {
+    "id": "u-utmost",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "utmost",
+    "pronunciation": "ˈʌtməʊst",
+    "meaning": [
+      "najwyższy"
+    ]
+  },
+  {
+    "id": "u-utopia",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "utopia",
+    "pronunciation": "ju:ˈtəʊpɪə",
+    "meaning": [
+      "utopia"
+    ]
+  },
+  {
+    "id": "u-utopian",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "utopian",
+    "pronunciation": "ju:ˈtəʊpɪən",
+    "meaning": [
+      "utopijny"
+    ]
+  },
+  {
+    "id": "u-utter",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "utter",
+    "pronunciation": "ˈʌtə",
+    "meaning": [
+      "wypowiadać",
+      "wydawać",
+      "całkowity",
+      "kompletny"
+    ]
+  },
+  {
+    "id": "u-utterance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "utterance",
+    "pronunciation": "ˈʌtərəns",
+    "meaning": [
+      "wypowiedź"
+    ]
+  },
+  {
+    "id": "u-U-turn",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "U-turn",
+    "pronunciation": "ˈju: tɜ:n",
+    "meaning": [
+      "zawrócenie samochodu",
+      "zawrócenie"
+    ]
+  }
+]
