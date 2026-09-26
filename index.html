@@ -15,7 +15,7 @@
 <h2>📚 Kurs angielskiego</h2>
 <p class="muted">Uczysz się jak z książki: poziomy, rozdziały i powtórki. Wyższy poziom odblokuje się dopiero po ukończeniu poprzedniego.</p>
 <div class="levels" id="levels"></div>
-<div class="chapters" id="chapters"></div>
+<div class="chapters" id="chapters"></div><button class="btn secondary" onclick="showUnknown()">📌 Słówka do powtórki <span id="unknownCount"></span></button>
 </div>
 <div id="game" class="screen panel">
 <div class="stats"><div class="pill" id="progressText"></div><div class="pill" id="scoreText"></div><div class="pill" id="chapterText"></div></div>
@@ -32,12 +32,16 @@
 <script>
 const LEVELS=["A1","A2","B1","B2","C1"];
 const CHAPTER_TITLES=["Podstawy i codzienne życie","Ludzie i relacje","Dom i otoczenie","Jedzenie i zakupy","Szkoła i nauka","Czas i rutyna","Miasto i miejsca","Podróże i transport","Praca i obowiązki","Zdrowie i ciało","Hobby i rozrywka","Przyroda i pogoda","Technologia i media","Emocje i opinie","Czasowniki i zwroty","Przymiotniki i opisy","Rzeczowniki i pojęcia","Komunikacja","Życie społeczne","Powtórka poziomu"];
-let words=[],deck=[],index=0,score=0,current=null,level="A1",testDeck=[],testIndex=0,testScore=0,testAnswered=false;
+let words=[],deck=[],index=0,score=0,current=null,level="A1",testDeck=[],testIndex=0,testScore=0,testAnswered=false,unknownWords=[];
 let completed=[];
 let progress={};
+try{unknownWords=JSON.parse(localStorage.getItem("flashcardsUnknown")||"[]");if(!Array.isArray(unknownWords))unknownWords=[]}catch(e){unknownWords=[]}
 try{completed=JSON.parse(localStorage.getItem("flashcardsCompleted")||"[]");if(!Array.isArray(completed))completed=[]}catch(e){completed=[]}
 try{progress=JSON.parse(localStorage.getItem("flashcardsProgress")||"{}");if(!progress||typeof progress!=="object")progress={}}catch(e){progress={}}
-function save(){localStorage.setItem("flashcardsCompleted",JSON.stringify(completed));localStorage.setItem("flashcardsProgress",JSON.stringify(progress))}
+function save(){localStorage.setItem("flashcardsCompleted",JSON.stringify(completed));localStorage.setItem("flashcardsProgress",JSON.stringify(progress));localStorage.setItem("flashcardsUnknown",JSON.stringify(unknownWords))}
+function chapterState(l,c){const v=progress[key(l,c)];return v&&typeof v==="object"?v:{index:0,score:0}}
+function chapterPercent(l,c){const s=chapterState(l,c);return Math.round(((s.score||0)/400)*100)}
+function syncUnknown(){unknownWords=unknownWords.filter((w,i,a)=>a.findIndex(x=>x.level===w.level&&x.chapter===w.chapter&&x.en===w.en&&x.pl===w.pl)===i)}
 async function load(){
  try{
   document.getElementById("count").textContent="40 000 słówek";
@@ -63,7 +67,7 @@ function renderMenu(){
   const prev=c===1||chapterDone(level,c-1);
   const can=unlocked(level)&&prev&&exists;
   const done=chapterDone(level,c);
-  const p=chapterProgress(level,c);
+  const p=chapterPercent(level,c);
   const title=CHAPTER_TITLES[c-1];
   const b=document.createElement("button");
   b.className="chapter "+(done?"done ":"")+(can?"":"locked");
@@ -83,12 +87,18 @@ async function startChapter(l,c){
   const pool=await r.json();
   if(!pool.length)throw Error();
   deck=shuffle(pool);
-  index=0;score=0;screen("game");render();
+  const state=chapterState(l,c);
+  index=Math.min(state.index||0,deck.length);
+  score=state.score||0;
+  screen("game");render();
  }catch(e){
   document.getElementById("err").textContent="Nie udało się wczytać rozdziału. Odśwież stronę.";
  }
 }
-function retry(){if(current)startChapter(current.level,current.chapter)}
+function retry(){if(current){progress[key(current.level,current.chapter)]={index:0,score:0};save();startChapter(current.level,current.chapter)}}
+function leaveChapter(){save();current=null;menu()}
+function showUnknown(){renderLibrary();screen("library")}
+
 function continueToTest(){
  if(score/deck.length<.8)return;
  testDeck=buildTest(deck);
@@ -152,7 +162,7 @@ function finishTest(){
  const k=key(current.level,current.chapter);
  if(pct>=80){
   if(!completed.includes(k))completed.push(k);
-  progress[k]=100;
+  progress[k]={index:400,score};
   save();
   document.getElementById("resultTitle").textContent="🏆 Test zaliczony!";
   document.getElementById("finalText").textContent="Wynik testu: "+testScore+" / "+testDeck.length+" ("+pct+"%). Odblokowano kolejny rozdział.";
@@ -177,12 +187,17 @@ function render(){
 }
 function flip(){document.getElementById("card").classList.toggle("flipped")}
 function answer(ok){
- if(ok)score++;
+ const w=deck[index];
+ if(ok){score++;unknownWords=unknownWords.filter(x=>!(x.level===current.level&&x.chapter===current.chapter&&x.en===w.en&&x.pl===w.pl));}
+ else if(w)unknownWords.push({en:w.en,pl:w.pl,level:current.level,chapter:current.chapter});
+ syncUnknown();
  index++;
+ progress[key(current.level,current.chapter)]={index,score};
+ save();
  if(index>=deck.length){
   const pct=Math.round(score/deck.length*100);
   const k=key(current.level,current.chapter);
-  progress[k]=Math.max(progress[k]||0,pct);
+  progress[k]={index:deck.length,score};
   save();
   document.getElementById("finalScore").textContent=score+" / "+deck.length;
   document.getElementById("resultTitle").textContent=pct>=80?"🎉 Rozdział ukończony!":"💪 Spróbuj jeszcze raz";
@@ -193,7 +208,7 @@ function answer(ok){
 function screen(id){document.querySelectorAll(".screen").forEach(x=>x.classList.remove("active"));document.getElementById(id).classList.add("active")}
 function menu(){renderMenu();screen("menu")}
 function showLibrary(){screen("library");renderLibrary()}
-function renderLibrary(){const q=(document.getElementById("search").value||"").toLowerCase();const arr=words.filter(w=>(w.en+" "+w.pl).toLowerCase().includes(q)).slice(0,300);document.getElementById("list").innerHTML=arr.map(w=>"<div class='row'><b>"+esc(w.en)+"</b><span>"+esc(w.pl)+"</span></div>").join("")||"<div class='muted'>Brak wyników</div>"}
+function renderLibrary(){const q=(document.getElementById("search").value||"").toLowerCase();const arr=unknownWords.filter(w=>(w.en+" "+w.pl).toLowerCase().includes(q));document.getElementById("list").innerHTML=arr.map(w=>"<div class='row'><b>"+esc(w.en)+"</b><span>"+esc(w.pl)+"</span></div>").join("")||"<div class='muted'>Nie masz jeszcze słówek do powtórki 🎉</div>"}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]))}
 load().catch(e=>{document.getElementById("err").textContent="Błąd aplikacji: "+e.message});
 </script>
