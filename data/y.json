@@ -1,0 +1,555 @@
+[
+  {
+    "id": "y-yacht",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "yacht",
+    "pronunciation": "jɒt",
+    "meaning": [
+      "jacht"
+    ]
+  },
+  {
+    "id": "y-yachting",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "yachting",
+    "pronunciation": "ˈjɒtɪŋ",
+    "meaning": [
+      "żeglarstwo"
+    ]
+  },
+  {
+    "id": "y-Yank",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Yank",
+    "pronunciation": "jæŋk",
+    "meaning": [
+      "Amerykaniec"
+    ]
+  },
+  {
+    "id": "y-yank",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "yank",
+    "pronunciation": "jæŋk",
+    "meaning": [
+      "wyszarpywać"
+    ]
+  },
+  {
+    "id": "y-Yankee",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Yankee",
+    "pronunciation": "ˈjæŋki:",
+    "meaning": [
+      "jankes"
+    ]
+  },
+  {
+    "id": "y-yap",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "yap",
+    "pronunciation": "jæp",
+    "meaning": [
+      "ujadać",
+      "kłapać jadaczką"
+    ]
+  },
+  {
+    "id": "y-yard",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "yard",
+    "pronunciation": "jɑ:d",
+    "meaning": [
+      "jard",
+      "podwórko",
+      "zakład"
+    ]
+  },
+  {
+    "id": "y-yardstick",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "yardstick",
+    "pronunciation": "ˈjɑ:dstɪk",
+    "meaning": [
+      "miara"
+    ]
+  },
+  {
+    "id": "y-yarn",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "yarn",
+    "pronunciation": "jɑ:n",
+    "meaning": [
+      "nić",
+      "bajda",
+      "bajka"
+    ]
+  },
+  {
+    "id": "y-yawn",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "yawn",
+    "pronunciation": "jɔ:n",
+    "meaning": [
+      "ziewać",
+      "ziać",
+      "rozwierać się",
+      "ziewnięcie"
+    ]
+  },
+  {
+    "id": "y-yd",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "yd",
+    "pronunciation": "/waɪˈdiː/",
+    "meaning": [
+      "jard"
+    ]
+  },
+  {
+    "id": "y-yeah",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "yeah",
+    "pronunciation": "jeə",
+    "meaning": [
+      "aha",
+      "no"
+    ]
+  },
+  {
+    "id": "y-year",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "year",
+    "pronunciation": "jɪə",
+    "meaning": [
+      "rok"
+    ]
+  },
+  {
+    "id": "y-yearly",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "yearly",
+    "pronunciation": "ˈjɪəlɪ",
+    "meaning": [
+      "roczny",
+      "coroczny",
+      "rocznie",
+      "corocznie"
+    ]
+  },
+  {
+    "id": "y-yearn",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "yearn",
+    "pronunciation": "jɜ:n",
+    "meaning": [
+      "tęsknić"
+    ]
+  },
+  {
+    "id": "y-yearning",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "yearning",
+    "pronunciation": "ˈjɜ:nɪŋ",
+    "meaning": [
+      "tęsknota"
+    ]
+  },
+  {
+    "id": "y-yeast",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "yeast",
+    "pronunciation": "ji:st",
+    "meaning": [
+      "drożdże"
+    ]
+  },
+  {
+    "id": "y-yell",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "yell",
+    "pronunciation": "jel",
+    "meaning": [
+      "wrzeszczeć",
+      "wrzask"
+    ]
+  },
+  {
+    "id": "y-yellow",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "yellow",
+    "pronunciation": "ˈjeləʊ",
+    "meaning": [
+      "żółty",
+      "żółknąć",
+      "żółta febra"
+    ]
+  },
+  {
+    "id": "y-yelp",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "yelp",
+    "pronunciation": "jelp",
+    "meaning": [
+      "zaskowytać",
+      "zakrzyknąć",
+      "zakrzyknięcie"
+    ]
+  },
+  {
+    "id": "y-Yemen",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Yemen",
+    "pronunciation": "ˈjemən",
+    "meaning": [
+      "Jemen"
+    ]
+  },
+  {
+    "id": "y-Yemeni",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Yemeni",
+    "pronunciation": "ˈjemənɪ",
+    "meaning": [
+      "jemeński",
+      "Jemeńczyk"
+    ]
+  },
+  {
+    "id": "y-yen",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "yen",
+    "pronunciation": "jen",
+    "meaning": [
+      "ochota",
+      "chętka",
+      "jen"
+    ]
+  },
+  {
+    "id": "y-yes",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "yes",
+    "pronunciation": "jes",
+    "meaning": [
+      "tak",
+      "nie"
+    ]
+  },
+  {
+    "id": "y-yes-man",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "yes-man",
+    "pronunciation": "ˈjesmən",
+    "meaning": [
+      "potakiwacz"
+    ]
+  },
+  {
+    "id": "y-yesterday",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "yesterday",
+    "pronunciation": "ˈjestədɪ",
+    "meaning": [
+      "wczoraj"
+    ]
+  },
+  {
+    "id": "y-yet",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "yet",
+    "pronunciation": "jet",
+    "meaning": [
+      "jeszcze",
+      "przynajmniej",
+      "a jednak",
+      "jednak",
+      "dotąd",
+      "do tej pory"
+    ]
+  },
+  {
+    "id": "y-yew",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "yew",
+    "pronunciation": "ju:",
+    "meaning": [
+      "cis"
+    ]
+  },
+  {
+    "id": "y-YHA",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "YHA",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Związek Schronisk Młodzieżowych"
+    ]
+  },
+  {
+    "id": "y-yield",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "yield",
+    "pronunciation": "ji:ld",
+    "meaning": [
+      "ustępować",
+      "oddawać",
+      "dawać",
+      "zysk",
+      "plon"
+    ]
+  },
+  {
+    "id": "y-YMCA",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "YMCA",
+    "pronunciation": "ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "Stowarzyszenie Męskiej Młodzieży Chrześcijańskiej"
+    ]
+  },
+  {
+    "id": "y-yoghurt",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "yoghurt",
+    "pronunciation": "ˈjɒgət",
+    "meaning": [
+      "jogurt"
+    ]
+  },
+  {
+    "id": "y-yoke",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "yoke",
+    "pronunciation": "jəʊk",
+    "meaning": [
+      "jarzmo"
+    ]
+  },
+  {
+    "id": "y-yolk",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "yolk",
+    "pronunciation": "jəʊk",
+    "meaning": [
+      "żółtko"
+    ]
+  },
+  {
+    "id": "y-yonder",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "yonder",
+    "pronunciation": "ˈjɒndə",
+    "meaning": [
+      "tam",
+      "tamten"
+    ]
+  },
+  {
+    "id": "y-you",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "you",
+    "pronunciation": "ju:",
+    "meaning": [
+      "ty",
+      "wy",
+      "pan",
+      "pani",
+      "panowie",
+      "panie"
+    ]
+  },
+  {
+    "id": "y-young",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "young",
+    "pronunciation": "jʌŋ",
+    "meaning": [
+      "młody",
+      "młode"
+    ]
+  },
+  {
+    "id": "y-youngish",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "youngish",
+    "pronunciation": "ˈjʌŋgɪʃ",
+    "meaning": [
+      "dość młody"
+    ]
+  },
+  {
+    "id": "y-youngster",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "youngster",
+    "pronunciation": "ˈjʌŋstə",
+    "meaning": [
+      "dziecko",
+      "chłopiec"
+    ]
+  },
+  {
+    "id": "y-your",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "your",
+    "pronunciation": "jɔ:",
+    "meaning": [
+      "twój",
+      "wasz",
+      "pana",
+      "pani",
+      "swój",
+      "własny"
+    ]
+  },
+  {
+    "id": "y-yours",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "yours",
+    "pronunciation": "jɔ:z",
+    "meaning": [
+      "twój",
+      "wasz",
+      "pana",
+      "pani"
+    ]
+  },
+  {
+    "id": "y-yourself",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "yourself",
+    "pronunciation": "jɔ:ˈself",
+    "meaning": [
+      "się",
+      "siebie",
+      "sobie",
+      "sam"
+    ]
+  },
+  {
+    "id": "y-youth",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "youth",
+    "pronunciation": "ju:θ",
+    "meaning": [
+      "młodość",
+      "młody człowiek",
+      "schronisko młodzieżowe"
+    ]
+  },
+  {
+    "id": "y-youthful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "youthful",
+    "pronunciation": "ˈju:θfʊl",
+    "meaning": [
+      "młodzieńczy",
+      "młody"
+    ]
+  },
+  {
+    "id": "y-yr.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "yr.",
+    "pronunciation": "/jɜː/",
+    "meaning": [
+      "rok"
+    ]
+  },
+  {
+    "id": "y-Yugoslav",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Yugoslav",
+    "pronunciation": "ˈju:gəʊslɑ:v",
+    "meaning": [
+      "jugosłowiański"
+    ]
+  },
+  {
+    "id": "y-Yugoslavia",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Yugoslavia",
+    "pronunciation": "ˌju:gəʊˈslɑ:vɪə",
+    "meaning": [
+      "Jugosławia"
+    ]
+  },
+  {
+    "id": "y-YWCA",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "YWCA",
+    "pronunciation": "ˌ⋅⋅⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "Stowarzyszenie Żeńskiej Młodzieży Chrześcijańskiej"
+    ]
+  }
+]
