@@ -34,7 +34,10 @@ jobs:
                   meanings=w.get("meaning") or []
                   pl=str(w.get("pl") or (meanings[0] if meanings else "")).strip()
                   level=str(w.get("level") or "").upper().strip()
+                  import re
                   if not en or not pl or level not in levels:
+                      continue
+                  if re.fullmatch(r"[A-Za-z]{1,6}\\.",en):
                       continue
                   key=(en.lower(),pl.lower())
                   if key in seen:
@@ -53,7 +56,10 @@ jobs:
                       pl=parts[0].strip()
                       en=parts[1].strip()
                       key=(en.lower(),pl.lower())
+                      import re
                       if not en or not pl or key in seen:
+                          continue
+                      if re.fullmatch(r"[A-Za-z]{1,6}\\.",en):
                           continue
                       seen.add(key)
                       rows.append({"en":en,"pl":pl,"level":None,"sourceLevel":False})
