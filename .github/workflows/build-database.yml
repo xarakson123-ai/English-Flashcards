@@ -1,0 +1,48 @@
+name: Build 40000 word database
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build database
+        shell: python
+        run: |
+          import json, urllib.request
+          from pathlib import Path
+          if Path("words.json").exists():
+              raise SystemExit(0)
+          url="https://raw.githubusercontent.com/open-dict-data/wikidict-en/master/data/pl-en_wiki.txt"
+          raw=urllib.request.urlopen(url).read().decode("utf-8", "ignore")
+          out=[]
+          seen=set()
+          for line in raw.splitlines():
+              parts=line.split("\t")
+              if len(parts)<2:
+                  continue
+              pl=parts[0].strip()
+              en=parts[1].strip()
+              if not pl or not en:
+                  continue
+              key=(en.lower(),pl.lower())
+              if key in seen:
+                  continue
+              seen.add(key)
+              out.append({"en":en,"pl":pl})
+              if len(out)>=40000:
+                  break
+          if len(out)<40000:
+              raise SystemExit(f"Only {len(out)} entries found")
+          Path("words.json").write_text(json.dumps(out,ensure_ascii=False,separators=(",",":")),"utf-8")
+      - name: Commit database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add words.json
+          git commit -m "Dodaj bazę 40000 słówek"
+          git push
