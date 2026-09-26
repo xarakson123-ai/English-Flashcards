@@ -1,0 +1,65 @@
+[
+  {
+    "id": "x-xenophobia",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "xenophobia",
+    "pronunciation": "ˌzenəˈfəʊbɪə",
+    "meaning": [
+      "ksenofobia"
+    ]
+  },
+  {
+    "id": "x-Xerox",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "Xerox",
+    "pronunciation": "ˈzɪərɒks",
+    "meaning": [
+      "kserograf",
+      "odbitka kserograficzna",
+      "kserografować",
+      "kserować"
+    ]
+  },
+  {
+    "id": "x-Xmas",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Xmas",
+    "pronunciation": "/ˈkrɪsməs/",
+    "meaning": [
+      "Boże Narodzenie"
+    ]
+  },
+  {
+    "id": "x-X-ray",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "X-ray",
+    "pronunciation": "ˈeksreɪ",
+    "meaning": [
+      "promień rentgena",
+      "prześwietlenie rentgenowskie",
+      "zdjęcie rentgenowskie",
+      "prześwietlać się promieniami rentgena",
+      "prześwietlać się"
+    ]
+  },
+  {
+    "id": "x-xylophone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "xylophone",
+    "pronunciation": "ˈzaɪləfəʊn",
+    "meaning": [
+      "ksylofon"
+    ]
+  }
+]
