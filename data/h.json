@@ -1,0 +1,6988 @@
+[
+  {
+    "id": "h-h.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "h.",
+    "pronunciation": "/eɪtʃ/",
+    "meaning": [
+      "godz.",
+      "godzina",
+      "wysokość"
+    ]
+  },
+  {
+    "id": "h-ha",
+    "level": "A2",
+    "partOfSpeech": [
+      "exclamation",
+      "noun"
+    ],
+    "word": "ha",
+    "pronunciation": "/hɑː/",
+    "meaning": [
+      "ha",
+      "hektar"
+    ]
+  },
+  {
+    "id": "h-haberdashery",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "haberdashery",
+    "pronunciation": "ˈhæbədæʃərɪ",
+    "meaning": [
+      "artykuły pasmanteryjne",
+      "męskie ubrania"
+    ]
+  },
+  {
+    "id": "h-habit",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "habit",
+    "pronunciation": "ˈhæbɪt",
+    "meaning": [
+      "przyzwyczajenie",
+      "zwyczaj",
+      "habit"
+    ]
+  },
+  {
+    "id": "h-habitable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "habitable",
+    "pronunciation": "ˈhæbɪtəbəl",
+    "meaning": [
+      "zdatny do zamieszkania"
+    ]
+  },
+  {
+    "id": "h-habitat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "habitat",
+    "pronunciation": "ˈhæbɪtæt",
+    "meaning": [
+      "siedlisko",
+      "habitat"
+    ]
+  },
+  {
+    "id": "h-habitation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "habitation",
+    "pronunciation": "ˌhæbɪˈteɪʃən",
+    "meaning": [
+      "zamieszkiwanie",
+      "mieszkanie"
+    ]
+  },
+  {
+    "id": "h-habitual",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "habitual",
+    "pronunciation": "həˈbɪtjʊəl",
+    "meaning": [
+      "zwyczajowy",
+      "zwykły",
+      "zatwardziały",
+      "nałogowy"
+    ]
+  },
+  {
+    "id": "h-hack",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hack",
+    "pronunciation": "hæk",
+    "meaning": [
+      "rąbać",
+      "siekać",
+      "wyrobnik literacki",
+      "murzyn"
+    ]
+  },
+  {
+    "id": "h-hackneyed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hackneyed",
+    "pronunciation": "ˈhæknɪd",
+    "meaning": [
+      "wyświechtany"
+    ]
+  },
+  {
+    "id": "h-hacksaw",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hacksaw",
+    "pronunciation": "ˈhæksɔ:",
+    "meaning": [
+      "piła do metalu"
+    ]
+  },
+  {
+    "id": "h-haddock",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "haddock",
+    "pronunciation": "ˈhædək",
+    "meaning": [
+      "łupacz ryba",
+      "łupacz"
+    ]
+  },
+  {
+    "id": "h-haemophilia",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "haemophilia",
+    "pronunciation": "ˌhi:məˈfɪlɪə",
+    "meaning": [
+      "hemofilia"
+    ]
+  },
+  {
+    "id": "h-haemophiliac",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "haemophiliac",
+    "pronunciation": "ˌhi:məˈfɪlɪæk",
+    "meaning": [
+      "chory na hemofilię"
+    ]
+  },
+  {
+    "id": "h-haemorrhage",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "haemorrhage",
+    "pronunciation": "ˈhemərɪʤ",
+    "meaning": [
+      "krwotok",
+      "wykrwawiać się",
+      "dostawać krowotoku"
+    ]
+  },
+  {
+    "id": "h-hag",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hag",
+    "pronunciation": "hæg",
+    "meaning": [
+      "jędza"
+    ]
+  },
+  {
+    "id": "h-haggard",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "haggard",
+    "pronunciation": "ˈhægəd",
+    "meaning": [
+      "wynędzniały",
+      "wymęczony"
+    ]
+  },
+  {
+    "id": "h-haggle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "haggle",
+    "pronunciation": "ˈhægəl",
+    "meaning": [
+      "targować się",
+      "targować"
+    ]
+  },
+  {
+    "id": "h-Hague",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Hague",
+    "pronunciation": "heɪg",
+    "meaning": []
+  },
+  {
+    "id": "h-hail",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hail",
+    "pronunciation": "heɪl",
+    "meaning": [
+      "grad",
+      "zatrzymywać",
+      "przyzywać",
+      "wysławiać",
+      "wynosić pod niebiosa",
+      "witać",
+      "obwoływać"
+    ]
+  },
+  {
+    "id": "h-hailstone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hailstone",
+    "pronunciation": "ˈheɪlstəʊn",
+    "meaning": [
+      "kulka gradu"
+    ]
+  },
+  {
+    "id": "h-hailstorm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hailstorm",
+    "pronunciation": "ˈheɪlstɔ:m",
+    "meaning": [
+      "burza gradowa"
+    ]
+  },
+  {
+    "id": "h-hair",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hair",
+    "pronunciation": "heə",
+    "meaning": [
+      "włos",
+      "włosy",
+      "włosek",
+      "wyrostek"
+    ]
+  },
+  {
+    "id": "h-haircut",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "haircut",
+    "pronunciation": "ˈheəkʌt",
+    "meaning": [
+      "strzyżenie",
+      "fryzura"
+    ]
+  },
+  {
+    "id": "h-hairdo",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hairdo",
+    "pronunciation": "ˈheədu:",
+    "meaning": [
+      "fryzura"
+    ]
+  },
+  {
+    "id": "h-hairdresser",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hairdresser",
+    "pronunciation": "ˈheədresə",
+    "meaning": [
+      "fryzjer"
+    ]
+  },
+  {
+    "id": "h-hairdryer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hairdryer",
+    "pronunciation": "ˈheədraɪə",
+    "meaning": [
+      "suszarka do włosów",
+      "suszarka"
+    ]
+  },
+  {
+    "id": "h-hairless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hairless",
+    "pronunciation": "ˈheəlɪs",
+    "meaning": [
+      "nieowłosiony"
+    ]
+  },
+  {
+    "id": "h-hairline",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "hairline",
+    "pronunciation": "ˈheəlaɪn",
+    "meaning": [
+      "linia zarostu",
+      "jak włos",
+      "na włos"
+    ]
+  },
+  {
+    "id": "h-hairnet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hairnet",
+    "pronunciation": "ˈheənet",
+    "meaning": [
+      "siatka do włosów"
+    ]
+  },
+  {
+    "id": "h-hairpin",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hairpin",
+    "pronunciation": "ˈheəpɪn",
+    "meaning": [
+      "spinka do włosów",
+      "spinka",
+      "serpentyna"
+    ]
+  },
+  {
+    "id": "h-hair-rising",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hair-rising",
+    "pronunciation": "ˈheəˌreɪzɪŋ",
+    "meaning": [
+      "jeżący włosy"
+    ]
+  },
+  {
+    "id": "h-hair-s_breadth",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "hair's breadth",
+    "pronunciation": "ˈheəzbretθ",
+    "meaning": []
+  },
+  {
+    "id": "h-hairstyle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hairstyle",
+    "pronunciation": "ˈheəstaɪl",
+    "meaning": [
+      "fryzura"
+    ]
+  },
+  {
+    "id": "h-hairy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "hairy",
+    "pronunciation": "ˈheərɪ",
+    "meaning": [
+      "włochaty",
+      "owłosiony",
+      "paskudny"
+    ]
+  },
+  {
+    "id": "h-halcyon",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "halcyon",
+    "pronunciation": "ˈhælsɪən",
+    "meaning": [
+      "cichy",
+      "spokojny"
+    ]
+  },
+  {
+    "id": "h-hale",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hale",
+    "pronunciation": "heɪl",
+    "meaning": [
+      "krzepki"
+    ]
+  },
+  {
+    "id": "h-half",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "word": "half",
+    "pronunciation": "hɑ:f",
+    "meaning": [
+      "pół",
+      "połowa",
+      "połówka",
+      "na wpół",
+      "na pół",
+      "wpół",
+      "przyrodni",
+      "ze zniżką 50"
+    ]
+  },
+  {
+    "id": "h-half-baked",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "half-baked",
+    "pronunciation": "hɑ:fˈbeɪkt",
+    "meaning": [
+      "niedowarzony"
+    ]
+  },
+  {
+    "id": "h-half-caste",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "half-caste",
+    "pronunciation": "ˈhɑ:fkɑ:st",
+    "meaning": [
+      "mieszany rasowo"
+    ]
+  },
+  {
+    "id": "h-half-hearted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "half-hearted",
+    "pronunciation": "ˌhɑ:fˈhɑ:tɪd",
+    "meaning": [
+      "połowiczny",
+      "bez zapału"
+    ]
+  },
+  {
+    "id": "h-halfpenny",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "halfpenny",
+    "pronunciation": "ˈheɪpnɪ",
+    "meaning": [
+      "półpensówka"
+    ]
+  },
+  {
+    "id": "h-half-term",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "half-term",
+    "pronunciation": "ˌhɑ:fˈtɜ:m",
+    "meaning": [
+      "ferie"
+    ]
+  },
+  {
+    "id": "h-half-time",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "half-time",
+    "pronunciation": "ˌhɑ:fˈtaɪm",
+    "meaning": [
+      "przerwa w meczu",
+      "przerwa"
+    ]
+  },
+  {
+    "id": "h-halfway",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "halfway",
+    "pronunciation": "ˈhɑ:fweɪ",
+    "meaning": [
+      "w pół drogi",
+      "w połowie"
+    ]
+  },
+  {
+    "id": "h-hall",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hall",
+    "pronunciation": "hɔ:l",
+    "meaning": [
+      "korytarz",
+      "przedpokój",
+      "hall",
+      "sala",
+      "sala zebrań",
+      "sala koncertowa",
+      "aula",
+      "dom akademicki"
+    ]
+  },
+  {
+    "id": "h-hallmark",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hallmark",
+    "pronunciation": "ˈhɔ:lmɑ:k",
+    "meaning": [
+      "cecha charakterystyczna",
+      "próba",
+      "cecha"
+    ]
+  },
+  {
+    "id": "h-hallowed",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "hallowed",
+    "pronunciation": "ˈhæləʊd",
+    "meaning": [
+      "uświęcony",
+      "czcigodny"
+    ]
+  },
+  {
+    "id": "h-Halloween",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Halloween",
+    "pronunciation": "ˌhaləʊˈi:n",
+    "meaning": [
+      "przeddzień Wszystkich Świętych gdy dzieci udają duchy",
+      "przeddzień Wszystkich Świętych"
+    ]
+  },
+  {
+    "id": "h-hallucinate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hallucinate",
+    "pronunciation": "həˈlu:sɪneɪt",
+    "meaning": [
+      "mieć halucynacje"
+    ]
+  },
+  {
+    "id": "h-hallucination",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "hallucination",
+    "pronunciation": "həˌlu:sɪˈneɪʃən",
+    "meaning": [
+      "halucynacja"
+    ]
+  },
+  {
+    "id": "h-hallway",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hallway",
+    "pronunciation": "ˈhɔ:lweɪ",
+    "meaning": [
+      "korytarz",
+      "przedpokój"
+    ]
+  },
+  {
+    "id": "h-halo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "halo",
+    "pronunciation": "ˈheɪləʊ",
+    "meaning": [
+      "aureola"
+    ]
+  },
+  {
+    "id": "h-halt",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "halt",
+    "pronunciation": "hɔ:lt",
+    "meaning": [
+      "zatrzymywać się",
+      "zatrzymywać"
+    ]
+  },
+  {
+    "id": "h-halting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "halting",
+    "pronunciation": "ˈhɔ:ltɪŋ",
+    "meaning": [
+      "wahający się",
+      "pełen wahania"
+    ]
+  },
+  {
+    "id": "h-halve",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "halve",
+    "pronunciation": "hɑ:v",
+    "meaning": [
+      "przepoławiać się",
+      "przepoławiać",
+      "obcinać o połowę"
+    ]
+  },
+  {
+    "id": "h-ham",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ham",
+    "pronunciation": "hæm",
+    "meaning": [
+      "szynka"
+    ]
+  },
+  {
+    "id": "h-hamlet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hamlet",
+    "pronunciation": "ˈhæmlət",
+    "meaning": [
+      "sioło",
+      "wioska"
+    ]
+  },
+  {
+    "id": "h-hammer",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hammer",
+    "pronunciation": "ˈhæmə",
+    "meaning": [
+      "młotek",
+      "młot",
+      "wbijać",
+      "bębnić",
+      "tyrać",
+      "pracować",
+      "wypracowywać"
+    ]
+  },
+  {
+    "id": "h-hammock",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hammock",
+    "pronunciation": "ˈhæmək",
+    "meaning": [
+      "hamak"
+    ]
+  },
+  {
+    "id": "h-hamper",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hamper",
+    "pronunciation": "ˈhæmpə",
+    "meaning": [
+      "ograniczać",
+      "krępować",
+      "koszyk na jedzenie",
+      "koszyk"
+    ]
+  },
+  {
+    "id": "h-Hampshire",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Hampshire",
+    "pronunciation": "ˈhæmpʃə",
+    "meaning": [
+      "Hampshire"
+    ]
+  },
+  {
+    "id": "h-hamster",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hamster",
+    "pronunciation": "ˈhæmstə",
+    "meaning": [
+      "chomik"
+    ]
+  },
+  {
+    "id": "h-hamstring",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hamstring",
+    "pronunciation": "ˈhæmstrɪŋ",
+    "meaning": [
+      "ścięgno podkolanowe",
+      "ścięgno",
+      "krępować"
+    ]
+  },
+  {
+    "id": "h-handbag",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "handbag",
+    "pronunciation": "ˈhændbæg",
+    "meaning": [
+      "torebka"
+    ]
+  },
+  {
+    "id": "h-handbook",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handbook",
+    "pronunciation": "ˈhændbʊk",
+    "meaning": [
+      "podręcznik",
+      "poradnik"
+    ]
+  },
+  {
+    "id": "h-handbrake",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handbrake",
+    "pronunciation": "ˈhændbreɪk",
+    "meaning": [
+      "hamulec ręczny"
+    ]
+  },
+  {
+    "id": "h-handcart",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handcart",
+    "pronunciation": "ˈhændkɑ:t",
+    "meaning": [
+      "wózek ręczny",
+      "wózek"
+    ]
+  },
+  {
+    "id": "h-handclap",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handclap",
+    "pronunciation": "ˈhændklæp",
+    "meaning": []
+  },
+  {
+    "id": "h-handcuff",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "handcuff",
+    "pronunciation": "ˈhændkʌf",
+    "meaning": [
+      "zakuwać w kajdanki"
+    ]
+  },
+  {
+    "id": "h-handcuffs",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "handcuffs",
+    "pronunciation": "ˈhændkʌfs",
+    "meaning": [
+      "kajdanki"
+    ]
+  },
+  {
+    "id": "h-handful",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "handful",
+    "pronunciation": "ˈhændfʊl",
+    "meaning": [
+      "garść",
+      "garstka",
+      "psotnik",
+      "psotnica"
+    ]
+  },
+  {
+    "id": "h-handicap",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "handicap",
+    "pronunciation": "ˈhændɪkæp",
+    "meaning": [
+      "upośledzenie",
+      "trudność",
+      "for",
+      "handikap",
+      "upośledzać",
+      "stawiać w trudnym położeniu"
+    ]
+  },
+  {
+    "id": "h-handicraft",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "handicraft",
+    "pronunciation": "ˈhændɪkrɑ:ft",
+    "meaning": [
+      "rzemiosło",
+      "rękodzieło",
+      "rękodzielniczy",
+      "wyrób rękodzielniczy"
+    ]
+  },
+  {
+    "id": "h-handiwork",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "handiwork",
+    "pronunciation": "ˈhændɪwɜ:k",
+    "meaning": [
+      "dzieło własnych rąk",
+      "dzieło"
+    ]
+  },
+  {
+    "id": "h-handkerchief",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "handkerchief",
+    "pronunciation": "ˈhæŋkəʧɪf",
+    "meaning": [
+      "chusteczka do nosa",
+      "chusteczka"
+    ]
+  },
+  {
+    "id": "h-handle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "handle",
+    "pronunciation": "ˈhændəl",
+    "meaning": [
+      "klamka",
+      "rączka",
+      "uchwyt",
+      "przenosić",
+      "przemieszczać",
+      "dawać sobie radę",
+      "chodzić",
+      "zajmować się",
+      "być odpowiedzialnym",
+      "obchodzić się"
+    ]
+  },
+  {
+    "id": "h-handlebar",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handlebar",
+    "pronunciation": "ˈhændəlbɑ:",
+    "meaning": [
+      "kierownica"
+    ]
+  },
+  {
+    "id": "h-handler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handler",
+    "pronunciation": "ˈhændlə",
+    "meaning": [
+      "treser"
+    ]
+  },
+  {
+    "id": "h-handmade",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "handmade",
+    "pronunciation": "ˌhændˈmeɪd",
+    "meaning": [
+      "ręcznie robiony"
+    ]
+  },
+  {
+    "id": "h-handout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handout",
+    "pronunciation": "ˈhændaʊt",
+    "meaning": [
+      "datek",
+      "wsparcie",
+      "zapomoga",
+      "folder",
+      "ulotka"
+    ]
+  },
+  {
+    "id": "h-hand-picked",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hand-picked",
+    "pronunciation": "ˌhændˈpɪkt",
+    "meaning": [
+      "wyselekcjonowany",
+      "starannie dobrany"
+    ]
+  },
+  {
+    "id": "h-handshake",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "handshake",
+    "pronunciation": "ˈhændʃeɪk",
+    "meaning": [
+      "uścisk dłoni"
+    ]
+  },
+  {
+    "id": "h-handsome",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "handsome",
+    "pronunciation": "ˈhænsəm",
+    "meaning": [
+      "przystojny",
+      "postawny",
+      "atrakcyjny",
+      "pokaźny"
+    ]
+  },
+  {
+    "id": "h-hand-to-mouth",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hand-to-mouth",
+    "pronunciation": "ˌhændtəˈmaʊθ",
+    "meaning": [
+      "ledwie starczający",
+      "ledwie ledwie"
+    ]
+  },
+  {
+    "id": "h-handwriting",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "handwriting",
+    "pronunciation": "ˈhændˌraɪtɪŋ",
+    "meaning": [
+      "pismo odręczne"
+    ]
+  },
+  {
+    "id": "h-handwritten",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "handwritten",
+    "pronunciation": "ˈhændrɪtən",
+    "meaning": [
+      "ręcznie napisany"
+    ]
+  },
+  {
+    "id": "h-handy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "handy",
+    "pronunciation": "ˈhændɪ",
+    "meaning": [
+      "poręczny",
+      "przydatny",
+      "zręczny",
+      "pod ręką"
+    ]
+  },
+  {
+    "id": "h-handyman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "handyman",
+    "pronunciation": "ˈhændɪmən",
+    "meaning": [
+      "złota rączka",
+      "majster do wszystkiego"
+    ]
+  },
+  {
+    "id": "h-hangar",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hangar",
+    "pronunciation": "ˈhæŋə",
+    "meaning": [
+      "hangar"
+    ]
+  },
+  {
+    "id": "h-hanger",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hanger",
+    "pronunciation": "ˈhæŋə",
+    "meaning": [
+      "wieszak"
+    ]
+  },
+  {
+    "id": "h-hanger-on",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hanger-on",
+    "pronunciation": "ˌhæŋərˈɒn",
+    "meaning": [
+      "pochlebca"
+    ]
+  },
+  {
+    "id": "h-hang-glider",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hang-glider",
+    "pronunciation": "ˈhæŋglaɪdə",
+    "meaning": [
+      "lotnia"
+    ]
+  },
+  {
+    "id": "h-hanging",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hanging",
+    "pronunciation": "ˈhæŋɪŋ",
+    "meaning": [
+      "powieszenie",
+      "wieszanie",
+      "draperia",
+      "obicie",
+      "kotara"
+    ]
+  },
+  {
+    "id": "h-hangman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hangman",
+    "pronunciation": "ˈhæŋmən",
+    "meaning": [
+      "kat"
+    ]
+  },
+  {
+    "id": "h-hangover",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hangover",
+    "pronunciation": "ˈhæŋəʊvə",
+    "meaning": [
+      "kac",
+      "kociokwik",
+      "przeżytek"
+    ]
+  },
+  {
+    "id": "h-hang-up",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hang-up",
+    "pronunciation": "ˈhæŋʌp",
+    "meaning": [
+      "strach",
+      "obawa"
+    ]
+  },
+  {
+    "id": "h-hank",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hank",
+    "pronunciation": "hæŋk",
+    "meaning": [
+      "zwój",
+      "kłąb"
+    ]
+  },
+  {
+    "id": "h-hanker",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hanker",
+    "pronunciation": "ˈhæŋkə",
+    "meaning": [
+      "pragnąć"
+    ]
+  },
+  {
+    "id": "h-hankering",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hankering",
+    "pronunciation": "ˈhæŋkərɪŋ",
+    "meaning": [
+      "pragnienie",
+      "potrzeba"
+    ]
+  },
+  {
+    "id": "h-hanky",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hanky",
+    "pronunciation": "ˈhæŋkɪ",
+    "meaning": [
+      "chusteczka"
+    ]
+  },
+  {
+    "id": "h-haphazard",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "haphazard",
+    "pronunciation": "ˌhæpˈhæzəd",
+    "meaning": [
+      "chaotyczny",
+      "przypadkowy"
+    ]
+  },
+  {
+    "id": "h-happen",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "happen",
+    "pronunciation": "ˈhæpən",
+    "meaning": [
+      "zdarzać się",
+      "wydarzać się",
+      "przydarzać się"
+    ]
+  },
+  {
+    "id": "h-happening",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "happening",
+    "pronunciation": "ˈhæpənɪŋ",
+    "meaning": [
+      "zdarzenie"
+    ]
+  },
+  {
+    "id": "h-happy",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "happy",
+    "pronunciation": "ˈhæpɪ",
+    "meaning": [
+      "szczęśliwy",
+      "zadowolony",
+      "wszystkiego najlepszego z okazji",
+      "dobry"
+    ]
+  },
+  {
+    "id": "h-happy-go-lucky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "happy-go-lucky",
+    "pronunciation": "ˌhæpɪgəʊˈlʌkɪ",
+    "meaning": [
+      "beztroski"
+    ]
+  },
+  {
+    "id": "h-harangue",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "harangue",
+    "pronunciation": "həˈræŋ",
+    "meaning": [
+      "tyrada",
+      "perora",
+      "przekonywać"
+    ]
+  },
+  {
+    "id": "h-harass",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "harass",
+    "pronunciation": "ˈhærəs",
+    "meaning": [
+      "nękać",
+      "prześladować"
+    ]
+  },
+  {
+    "id": "h-harassment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "harassment",
+    "pronunciation": "ˈhærəsmənt",
+    "meaning": [
+      "prześladowanie",
+      "znęcanie się"
+    ]
+  },
+  {
+    "id": "h-harbour",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "harbour",
+    "pronunciation": "ˈhɑ:bə",
+    "meaning": [
+      "przystań",
+      "port",
+      "ukrywać",
+      "żywić"
+    ]
+  },
+  {
+    "id": "h-hard-and-fast",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hard-and-fast",
+    "pronunciation": "ˌhɑ:dənˈfɑ:st",
+    "meaning": [
+      "bezwzględny",
+      "ścisły"
+    ]
+  },
+  {
+    "id": "h-hardback",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hardback",
+    "pronunciation": "ˈhɑ:dbæk",
+    "meaning": [
+      "książka w sztywnej oprawie",
+      "w sztywnej oprawie"
+    ]
+  },
+  {
+    "id": "h-hardboard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hardboard",
+    "pronunciation": "ˈhɑ:dbɔ:d",
+    "meaning": [
+      "płyta pilśniowa"
+    ]
+  },
+  {
+    "id": "h-hard-boiled",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hard-boiled",
+    "pronunciation": "ˌhɑ:dˈbɔɪld",
+    "meaning": [
+      "gotowany na twardo",
+      "na twardo"
+    ]
+  },
+  {
+    "id": "h-harden",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "harden",
+    "pronunciation": "ˈhɑ:dən",
+    "meaning": [
+      "twardnieć",
+      "utwardzać",
+      "robić zatwardziałym",
+      "robić twardym"
+    ]
+  },
+  {
+    "id": "h-hard-headed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hard-headed",
+    "pronunciation": "ˌhɑ:dˈhedɪd",
+    "meaning": [
+      "niesentymentalny",
+      "trzeźwy"
+    ]
+  },
+  {
+    "id": "h-hard-hearted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hard-hearted",
+    "pronunciation": "ˌhɑ:dˈhɑ:tɪd",
+    "meaning": [
+      "nieczuły",
+      "o twardym sercu"
+    ]
+  },
+  {
+    "id": "h-hardly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "hardly",
+    "pronunciation": "ˈhɑ:dlɪ",
+    "meaning": [
+      "prawie nie",
+      "ledwo",
+      "niezbyt"
+    ]
+  },
+  {
+    "id": "h-hard-pressed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hard-pressed",
+    "pronunciation": "ˌhɑ:dˈprest",
+    "meaning": [
+      "znękany"
+    ]
+  },
+  {
+    "id": "h-hardship",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hardship",
+    "pronunciation": "ˈhɑ:dʃɪp",
+    "meaning": [
+      "problem",
+      "ciężar"
+    ]
+  },
+  {
+    "id": "h-hard-up",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hard-up",
+    "pronunciation": "ˌhɑ:dˈʌp",
+    "meaning": [
+      "bez pieniędzy"
+    ]
+  },
+  {
+    "id": "h-hardware",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hardware",
+    "pronunciation": "ˈhɑ:dweə",
+    "meaning": [
+      "narzędzia metalowe",
+      "sprzęt"
+    ]
+  },
+  {
+    "id": "h-hard-wearing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hard-wearing",
+    "pronunciation": "hɑ:dˈweərɪŋ",
+    "meaning": [
+      "trwały"
+    ]
+  },
+  {
+    "id": "h-hardy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hardy",
+    "pronunciation": "ˈhɑ:dɪ",
+    "meaning": [
+      "wytrwały",
+      "wytrzymały",
+      "mrozoodporny"
+    ]
+  },
+  {
+    "id": "h-harebrained",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "harebrained",
+    "pronunciation": "ˈheəbreɪnd",
+    "meaning": [
+      "głupi"
+    ]
+  },
+  {
+    "id": "h-harm",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "harm",
+    "pronunciation": "hɑ:m",
+    "meaning": [
+      "krzywda",
+      "szkoda",
+      "krzywdzić",
+      "szkodzić"
+    ]
+  },
+  {
+    "id": "h-harmful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "harmful",
+    "pronunciation": "ˈhɑ:mfʊl",
+    "meaning": [
+      "szkodliwy"
+    ]
+  },
+  {
+    "id": "h-harmless",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "harmless",
+    "pronunciation": "ˈhɑ:mlɪs",
+    "meaning": [
+      "nieszkodliwy"
+    ]
+  },
+  {
+    "id": "h-harmonica",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "harmonica",
+    "pronunciation": "hɑ:ˈmɒnɪkə",
+    "meaning": [
+      "organki",
+      "harmonijka"
+    ]
+  },
+  {
+    "id": "h-harmonious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "harmonious",
+    "pronunciation": "hɑ:ˈməʊnɪəs",
+    "meaning": [
+      "harmonijny",
+      "zharmonizowany",
+      "zgodny"
+    ]
+  },
+  {
+    "id": "h-harmonize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "harmonize",
+    "pronunciation": "ˈhɑ:mənaɪz",
+    "meaning": [
+      "harmonizować"
+    ]
+  },
+  {
+    "id": "h-harmony",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "harmony",
+    "pronunciation": "ˈhɑ:mənɪ",
+    "meaning": [
+      "harmonia",
+      "zgoda"
+    ]
+  },
+  {
+    "id": "h-harness",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "harness",
+    "pronunciation": "ˈhɑ:nɪs",
+    "meaning": [
+      "uprząż",
+      "pasy mocujące",
+      "zaprzęgać",
+      "czynić użytecznym"
+    ]
+  },
+  {
+    "id": "h-harp",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "harp",
+    "pronunciation": "hɑ:p",
+    "meaning": [
+      "harfa",
+      "narzekać",
+      "skarżyć się"
+    ]
+  },
+  {
+    "id": "h-harpoon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "harpoon",
+    "pronunciation": "hɑ:ˈpu:n",
+    "meaning": [
+      "harpun"
+    ]
+  },
+  {
+    "id": "h-harpsichord",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "harpsichord",
+    "pronunciation": "ˈhɑ:psɪkɔ:d",
+    "meaning": [
+      "klawesyn"
+    ]
+  },
+  {
+    "id": "h-harrowing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "harrowing",
+    "pronunciation": "ˈhærəʊɪŋ",
+    "meaning": [
+      "przygnębiający"
+    ]
+  },
+  {
+    "id": "h-harsh",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "harsh",
+    "pronunciation": "hɑ:ʃ",
+    "meaning": [
+      "ostry",
+      "szorstki"
+    ]
+  },
+  {
+    "id": "h-harvest",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "harvest",
+    "pronunciation": "ˈhɑ:vəst",
+    "meaning": [
+      "żniwa",
+      "plon",
+      "zbiór",
+      "zbierać plony",
+      "zbierać"
+    ]
+  },
+  {
+    "id": "h-harvester",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "harvester",
+    "pronunciation": "ˈhɑ:vəstə",
+    "meaning": [
+      "kombajn"
+    ]
+  },
+  {
+    "id": "h-has-been",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "has-been",
+    "pronunciation": "ˈhæzbi:n",
+    "meaning": [
+      "zapomniana sława"
+    ]
+  },
+  {
+    "id": "h-hash",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hash",
+    "pronunciation": "hæʃ",
+    "meaning": []
+  },
+  {
+    "id": "h-hassle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hassle",
+    "pronunciation": "ˈhæsəl",
+    "meaning": [
+      "mordęga",
+      "sprzeczka",
+      "mordować",
+      "dręczyć"
+    ]
+  },
+  {
+    "id": "h-haste",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "haste",
+    "pronunciation": "heɪst",
+    "meaning": [
+      "pośpiech"
+    ]
+  },
+  {
+    "id": "h-hasten",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hasten",
+    "pronunciation": "ˈheɪsən",
+    "meaning": [
+      "przyśpieszać",
+      "śpieszyć się",
+      "pośpieszyć"
+    ]
+  },
+  {
+    "id": "h-hasty",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hasty",
+    "pronunciation": "ˈheɪstɪ",
+    "meaning": [
+      "pośpieszny"
+    ]
+  },
+  {
+    "id": "h-hat",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hat",
+    "pronunciation": "hæt",
+    "meaning": [
+      "kapelusz"
+    ]
+  },
+  {
+    "id": "h-hatch",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hatch",
+    "pronunciation": "hæʧ",
+    "meaning": [
+      "wykluwać się",
+      "knuć",
+      "luk",
+      "właz",
+      "wewnętrzne okno",
+      "otwór"
+    ]
+  },
+  {
+    "id": "h-hatchet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hatchet",
+    "pronunciation": "ˈhæʧət",
+    "meaning": [
+      "toporek"
+    ]
+  },
+  {
+    "id": "h-hate",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hate",
+    "pronunciation": "heɪt",
+    "meaning": [
+      "nienawidzić",
+      "nienawiść"
+    ]
+  },
+  {
+    "id": "h-hateful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hateful",
+    "pronunciation": "ˈheɪtfʊl",
+    "meaning": [
+      "nienawistny"
+    ]
+  },
+  {
+    "id": "h-hatred",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hatred",
+    "pronunciation": "ˈheɪtrɪd",
+    "meaning": [
+      "nienawiść"
+    ]
+  },
+  {
+    "id": "h-haughty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "haughty",
+    "pronunciation": "ˈhɔ:tɪ",
+    "meaning": [
+      "wyniosły"
+    ]
+  },
+  {
+    "id": "h-haul",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "haul",
+    "pronunciation": "hɔ:l",
+    "meaning": [
+      "wyciągać",
+      "ciągnąć",
+      "zaciągać"
+    ]
+  },
+  {
+    "id": "h-haunch",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "haunch",
+    "pronunciation": "ˈhɔ:nʧ",
+    "meaning": [
+      "pośladek",
+      "biodro"
+    ]
+  },
+  {
+    "id": "h-haunt",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "haunt",
+    "pronunciation": "hɔ:nt",
+    "meaning": [
+      "nawiedzać",
+      "prześladować",
+      "miejsce chętnie odwiedzane",
+      "miejsce"
+    ]
+  },
+  {
+    "id": "h-haunting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "haunting",
+    "pronunciation": "ˈhɔ:ntɪŋ",
+    "meaning": [
+      "urzekający",
+      "chwytliwy"
+    ]
+  },
+  {
+    "id": "h-haven",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "haven",
+    "pronunciation": "ˈheɪvən",
+    "meaning": [
+      "przystań",
+      "schronienie"
+    ]
+  },
+  {
+    "id": "h-haversack",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "haversack",
+    "pronunciation": "ˈhævəsæk",
+    "meaning": [
+      "plecak",
+      "chlebak"
+    ]
+  },
+  {
+    "id": "h-havoc",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "havoc",
+    "pronunciation": "ˈhævək",
+    "meaning": [
+      "chaos",
+      "zamieszanie",
+      "spustoszenie"
+    ]
+  },
+  {
+    "id": "h-Hawaii",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Hawaii",
+    "pronunciation": "həˈwaɪɪ",
+    "meaning": [
+      "Hawaje"
+    ]
+  },
+  {
+    "id": "h-Hawaiian",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Hawaiian",
+    "pronunciation": "həˈwaɪən",
+    "meaning": [
+      "hawajski"
+    ]
+  },
+  {
+    "id": "h-hawk",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hawk",
+    "pronunciation": "hɔ:k",
+    "meaning": [
+      "jastrząb",
+      "obnosić się"
+    ]
+  },
+  {
+    "id": "h-hawthorn",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hawthorn",
+    "pronunciation": "ˈhɔ:θɔ:n",
+    "meaning": [
+      "głóg"
+    ]
+  },
+  {
+    "id": "h-hay",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hay",
+    "pronunciation": "heɪ",
+    "meaning": [
+      "siano",
+      "katar sienny"
+    ]
+  },
+  {
+    "id": "h-haystack",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "haystack",
+    "pronunciation": "ˈheɪstæk",
+    "meaning": [
+      "stóg",
+      "kopa siana",
+      "kopa"
+    ]
+  },
+  {
+    "id": "h-haywire",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "haywire",
+    "pronunciation": "ˈheɪwaɪə",
+    "meaning": []
+  },
+  {
+    "id": "h-hazard",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hazard",
+    "pronunciation": "ˈhæzəd",
+    "meaning": [
+      "ryzyko",
+      "niebezpieczeństwo",
+      "ryzykować"
+    ]
+  },
+  {
+    "id": "h-hazardous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hazardous",
+    "pronunciation": "ˈhæzədəs",
+    "meaning": [
+      "niebezpieczny",
+      "ryzykowny"
+    ]
+  },
+  {
+    "id": "h-haze",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "haze",
+    "pronunciation": "heɪz",
+    "meaning": [
+      "mgiełka",
+      "opary"
+    ]
+  },
+  {
+    "id": "h-hazel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "hazel",
+    "pronunciation": "ˈheɪzəl",
+    "meaning": [
+      "leszczyna",
+      "orzechowy",
+      "piwny"
+    ]
+  },
+  {
+    "id": "h-hazelnut",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hazelnut",
+    "pronunciation": "ˈheɪzəlnʌt",
+    "meaning": [
+      "orzech laskowy"
+    ]
+  },
+  {
+    "id": "h-hazy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hazy",
+    "pronunciation": "ˈheɪzɪ",
+    "meaning": [
+      "zamglony",
+      "niejasny",
+      "niepewny"
+    ]
+  },
+  {
+    "id": "h-H-bomb",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "H-bomb",
+    "pronunciation": "ˈeɪʧ bɒm",
+    "meaning": [
+      "bomba wodorowa"
+    ]
+  },
+  {
+    "id": "h-he",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "he",
+    "pronunciation": "/hiː/",
+    "meaning": [
+      "on",
+      "samiec"
+    ]
+  },
+  {
+    "id": "h-head",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "head",
+    "pronunciation": "hed",
+    "meaning": [
+      "głowa",
+      "szczyt",
+      "zwierzchnik",
+      "dyrektor",
+      "kierownik",
+      "reszka",
+      "zarządzać",
+      "kierować",
+      "otwierać",
+      "być na pierwszym miejscu",
+      "tytułować",
+      "zmierzać",
+      "odbijać główką",
+      "główkować",
+      "przewaga"
+    ]
+  },
+  {
+    "id": "h-headache",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "headache",
+    "pronunciation": "ˈhedeɪk",
+    "meaning": [
+      "ból głowy",
+      "problem"
+    ]
+  },
+  {
+    "id": "h-headdress",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "headdress",
+    "pronunciation": "ˈheddres",
+    "meaning": [
+      "przybranie głowy"
+    ]
+  },
+  {
+    "id": "h-head-first",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "head-first",
+    "pronunciation": "ˌhedˈfɜ:st",
+    "meaning": [
+      "głową naprzód",
+      "na głowę"
+    ]
+  },
+  {
+    "id": "h-headgear",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "headgear",
+    "pronunciation": "ˈhedgɪə",
+    "meaning": [
+      "nakrycie głowy"
+    ]
+  },
+  {
+    "id": "h-heading",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "heading",
+    "pronunciation": "ˈhedɪŋ",
+    "meaning": [
+      "nagłówek",
+      "tytuł"
+    ]
+  },
+  {
+    "id": "h-headlamp",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "headlamp",
+    "pronunciation": "ˈhedlæmp",
+    "meaning": [
+      "światło przednie",
+      "reflektor przedni"
+    ]
+  },
+  {
+    "id": "h-headland",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "headland",
+    "pronunciation": "ˈhedlənd",
+    "meaning": [
+      "cypel"
+    ]
+  },
+  {
+    "id": "h-headlight",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "headlight",
+    "pronunciation": "ˈhedlaɪt",
+    "meaning": [
+      "światło przednie",
+      "reflektor przedni"
+    ]
+  },
+  {
+    "id": "h-headline",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "headline",
+    "pronunciation": "ˈhedlaɪn",
+    "meaning": [
+      "nagłówek",
+      "najważniejsze wydarzenia"
+    ]
+  },
+  {
+    "id": "h-headlong",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "headlong",
+    "pronunciation": "ˈhedlɒŋ",
+    "meaning": [
+      "na łeb",
+      "na szyję",
+      "bez namysłu"
+    ]
+  },
+  {
+    "id": "h-headmaster",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "headmaster",
+    "pronunciation": "ˈhedmɑ:stə",
+    "meaning": [
+      "dyrektor szkoły",
+      "dyrektor"
+    ]
+  },
+  {
+    "id": "h-headmistress",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "headmistress",
+    "pronunciation": "ˈhedmɪstrəs",
+    "meaning": [
+      "dyrektorka szkoły",
+      "dyrektorka"
+    ]
+  },
+  {
+    "id": "h-head-on",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "head-on",
+    "pronunciation": "ˌhedˈɒn",
+    "meaning": [
+      "czołowy",
+      "bezpośredni"
+    ]
+  },
+  {
+    "id": "h-headphones",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "headphones",
+    "pronunciation": "ˈhedfəʊnz",
+    "meaning": [
+      "słuchawki na uszy",
+      "słuchawki"
+    ]
+  },
+  {
+    "id": "h-headquarters",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "headquarters",
+    "pronunciation": "ˈhedkwɔ:təz",
+    "meaning": [
+      "kwatera główna",
+      "centrala"
+    ]
+  },
+  {
+    "id": "h-headroom",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "headroom",
+    "pronunciation": "ˈhedru:m",
+    "meaning": [
+      "dopuszczalna wysokość pojazdu",
+      "dopuszczalna wysokość"
+    ]
+  },
+  {
+    "id": "h-headstone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "headstone",
+    "pronunciation": "ˈhedstəʊn",
+    "meaning": [
+      "płyta nagrobna"
+    ]
+  },
+  {
+    "id": "h-headway",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "headway",
+    "pronunciation": "ˈhedweɪ",
+    "meaning": []
+  },
+  {
+    "id": "h-headwind",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "headwind",
+    "pronunciation": "ˈhedwɪnd",
+    "meaning": [
+      "wiatr czołowy"
+    ]
+  },
+  {
+    "id": "h-heady",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "heady",
+    "pronunciation": "ˈhedɪ",
+    "meaning": [
+      "ekscytujący",
+      "oszałamiający",
+      "ciężki",
+      "uderzający do głowy"
+    ]
+  },
+  {
+    "id": "h-heal",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "heal",
+    "pronunciation": "hi:l",
+    "meaning": [
+      "goić się",
+      "goić",
+      "leczyć",
+      "wyleczyć",
+      "zdrowieć"
+    ]
+  },
+  {
+    "id": "h-health",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "health",
+    "pronunciation": "helθ",
+    "meaning": [
+      "zdrowie",
+      "powodzenie",
+      "dobry stan"
+    ]
+  },
+  {
+    "id": "h-healthy",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "healthy",
+    "pronunciation": "ˈhelθɪ",
+    "meaning": [
+      "zdrowy",
+      "niezły"
+    ]
+  },
+  {
+    "id": "h-heap",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "heap",
+    "pronunciation": "hi:p",
+    "meaning": [
+      "sterta",
+      "kupa",
+      "masa",
+      "zwalać na kupę",
+      "zwalać",
+      "obsypywać",
+      "gromadzić"
+    ]
+  },
+  {
+    "id": "h-hear",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "hear",
+    "pronunciation": "hɪə",
+    "meaning": [
+      "słyszeć",
+      "słuchać",
+      "dowiadywać się",
+      "dostawać wiadomości",
+      "rozpatrywać",
+      "sądzić",
+      "przeprowadzać",
+      "wysłuchać"
+    ]
+  },
+  {
+    "id": "h-hearing",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hearing",
+    "pronunciation": "ˈhɪərɪŋ",
+    "meaning": [
+      "słuch",
+      "przesłuchanie",
+      "aparat słuchowy"
+    ]
+  },
+  {
+    "id": "h-hearsay",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hearsay",
+    "pronunciation": "ˈhɪəseɪ",
+    "meaning": [
+      "pogłoski"
+    ]
+  },
+  {
+    "id": "h-hearse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hearse",
+    "pronunciation": "hɜ:s",
+    "meaning": [
+      "karawan"
+    ]
+  },
+  {
+    "id": "h-heart",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "heart",
+    "pronunciation": "hɑ:t",
+    "meaning": [
+      "serce",
+      "sedno",
+      "centrum",
+      "głąb",
+      "kier"
+    ]
+  },
+  {
+    "id": "h-heartbeat",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "heartbeat",
+    "pronunciation": "ˈhɑ:tbi:t",
+    "meaning": [
+      "bicie serca"
+    ]
+  },
+  {
+    "id": "h-heartbreak",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "heartbreak",
+    "pronunciation": "ˈhɑ:tbreɪk",
+    "meaning": [
+      "zgryzota",
+      "smutek"
+    ]
+  },
+  {
+    "id": "h-heartbreaking",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "heartbreaking",
+    "pronunciation": "ˈhɑ:tbreɪkɪŋ",
+    "meaning": [
+      "rozdzierający serce"
+    ]
+  },
+  {
+    "id": "h-heartbroken",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "heartbroken",
+    "pronunciation": "ˈhɑ:tbrəʊkən",
+    "meaning": []
+  },
+  {
+    "id": "h-heartburn",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "heartburn",
+    "pronunciation": "ˈhɑ:tbɜ:n",
+    "meaning": [
+      "zgaga"
+    ]
+  },
+  {
+    "id": "h-hearten",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "hearten",
+    "pronunciation": "ˈhɑ:tən",
+    "meaning": [
+      "dodawać otuchy",
+      "pokrzepiać"
+    ]
+  },
+  {
+    "id": "h-heartfelt",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "heartfelt",
+    "pronunciation": "ˈhɑ:tfelt",
+    "meaning": [
+      "szczery",
+      "głęboki"
+    ]
+  },
+  {
+    "id": "h-hearth",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hearth",
+    "pronunciation": "hɑ:θ",
+    "meaning": [
+      "palenisko"
+    ]
+  },
+  {
+    "id": "h-heartless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "heartless",
+    "pronunciation": "ˈhɑ:tlɪs",
+    "meaning": [
+      "bez serca",
+      "bezlitosny"
+    ]
+  },
+  {
+    "id": "h-heartrending",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "heartrending",
+    "pronunciation": "ˈhɑ:trendɪŋ",
+    "meaning": [
+      "rozdzierający serce"
+    ]
+  },
+  {
+    "id": "h-hearty",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hearty",
+    "pronunciation": "ˈhɑ:tɪ",
+    "meaning": [
+      "serdeczny",
+      "obfity"
+    ]
+  },
+  {
+    "id": "h-heat",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "heat",
+    "pronunciation": "hi:t",
+    "meaning": [
+      "ciepło",
+      "ciepłota",
+      "ogień",
+      "upał",
+      "gorąco",
+      "uniesienie",
+      "roznamiętnienie",
+      "gorączka",
+      "szczyt",
+      "eliminacje",
+      "ogrzewać",
+      "podgrzewać"
+    ]
+  },
+  {
+    "id": "h-heated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "heated",
+    "pronunciation": "ˈhi:tɪd",
+    "meaning": [
+      "rozemocjonowany",
+      "podekscytowany"
+    ]
+  },
+  {
+    "id": "h-heater",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "heater",
+    "pronunciation": "ˈhi:tə",
+    "meaning": [
+      "grzejnik",
+      "ogrzewacz wody",
+      "ogrzewacz"
+    ]
+  },
+  {
+    "id": "h-heath",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heath",
+    "pronunciation": "hi:θ",
+    "meaning": [
+      "wrzosowisko"
+    ]
+  },
+  {
+    "id": "h-heathen",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "heathen",
+    "pronunciation": "ˈhi:ðən",
+    "meaning": [
+      "poganin",
+      "pogański"
+    ]
+  },
+  {
+    "id": "h-heather",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "heather",
+    "pronunciation": "ˈheðə",
+    "meaning": [
+      "wrzos",
+      "wrzosiec"
+    ]
+  },
+  {
+    "id": "h-heave",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "heave",
+    "pronunciation": "hi:v",
+    "meaning": [
+      "ciągnąć z wysiłkiem",
+      "ciągnąć",
+      "dźwigać się",
+      "dźwigać",
+      "falować",
+      "mieć mdłości",
+      "wymiotować",
+      "pociągnięcie z wysiłkiem",
+      "pociągnięcie",
+      "dźwignięcie"
+    ]
+  },
+  {
+    "id": "h-heaven",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "heaven",
+    "pronunciation": "ˈhevən",
+    "meaning": [
+      "niebo",
+      "niebiosa",
+      "raj",
+      "nieboskłon"
+    ]
+  },
+  {
+    "id": "h-heavenly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "heavenly",
+    "pronunciation": "ˈhevənlɪ",
+    "meaning": [
+      "niebiański"
+    ]
+  },
+  {
+    "id": "h-heavenward",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "heavenward",
+    "pronunciation": "ˈhevənwəd(z)",
+    "meaning": [
+      "do niebios"
+    ]
+  },
+  {
+    "id": "h-heavy",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "heavy",
+    "pronunciation": "ˈhevɪ",
+    "meaning": [
+      "ciężki",
+      "duży",
+      "obciążony"
+    ]
+  },
+  {
+    "id": "h-heavy-duty",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "heavy-duty",
+    "pronunciation": "ˌhevɪˈdju:tɪ",
+    "meaning": [
+      "o dużej wytrzymałości"
+    ]
+  },
+  {
+    "id": "h-heavy-handed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "heavy-handed",
+    "pronunciation": "ˌhevɪˈhændɪd",
+    "meaning": [
+      "o ciężkiej ręce"
+    ]
+  },
+  {
+    "id": "h-heavyweight",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "heavyweight",
+    "pronunciation": "ˈhevɪweɪt",
+    "meaning": [
+      "zawodnik wagi ciężkiej",
+      "wagi ciężkiej"
+    ]
+  },
+  {
+    "id": "h-Hebrew",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Hebrew",
+    "pronunciation": "ˈhi:bru:",
+    "meaning": [
+      "hebrajski",
+      "Hebrajczyk"
+    ]
+  },
+  {
+    "id": "h-heckle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "heckle",
+    "pronunciation": "ˈhekəl",
+    "meaning": [
+      "przeszkadzać"
+    ]
+  },
+  {
+    "id": "h-hectic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hectic",
+    "pronunciation": "ˈhektɪk",
+    "meaning": [
+      "gorączkowy",
+      "rozgorączkowany"
+    ]
+  },
+  {
+    "id": "h-hedge",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hedge",
+    "pronunciation": "heʤ",
+    "meaning": [
+      "żywopłot",
+      "wykręcać się"
+    ]
+  },
+  {
+    "id": "h-hedgehog",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hedgehog",
+    "pronunciation": "ˈheʤhɒg",
+    "meaning": [
+      "jeż"
+    ]
+  },
+  {
+    "id": "h-hedgerow",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hedgerow",
+    "pronunciation": "ˈheʤrəʊ",
+    "meaning": [
+      "żywopłot"
+    ]
+  },
+  {
+    "id": "h-heed",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "heed",
+    "pronunciation": "ˈhi:d",
+    "meaning": [
+      "powodować się",
+      "słuchać"
+    ]
+  },
+  {
+    "id": "h-heedless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "heedless",
+    "pronunciation": "ˈhi:dlɪs",
+    "meaning": [
+      "nie zważający",
+      "nieuważny"
+    ]
+  },
+  {
+    "id": "h-heel",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "heel",
+    "pronunciation": "hi:l",
+    "meaning": [
+      "pięta",
+      "obcas"
+    ]
+  },
+  {
+    "id": "h-hefty",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hefty",
+    "pronunciation": "ˈheftɪ",
+    "meaning": [
+      "zwalisty",
+      "wielki"
+    ]
+  },
+  {
+    "id": "h-heifer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heifer",
+    "pronunciation": "ˈhefə",
+    "meaning": [
+      "jałówka"
+    ]
+  },
+  {
+    "id": "h-height",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "height",
+    "pronunciation": "haɪt",
+    "meaning": [
+      "wysokość",
+      "duży wzrost",
+      "wzrost",
+      "szczyt",
+      "wierzchołki"
+    ]
+  },
+  {
+    "id": "h-heighten",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "heighten",
+    "pronunciation": "ˈhaɪtən",
+    "meaning": [
+      "wzmagać się",
+      "wzmagać"
+    ]
+  },
+  {
+    "id": "h-heir",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heir",
+    "pronunciation": "eə",
+    "meaning": [
+      "dziedzic",
+      "spadkobierca"
+    ]
+  },
+  {
+    "id": "h-heiress",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heiress",
+    "pronunciation": "ˈeərəs",
+    "meaning": [
+      "dziedziczka",
+      "spadkobierczyni"
+    ]
+  },
+  {
+    "id": "h-heirloom",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heirloom",
+    "pronunciation": "ˈeəlu:m",
+    "meaning": [
+      "rodzinna pamiątka"
+    ]
+  },
+  {
+    "id": "h-helicopter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "helicopter",
+    "pronunciation": "ˈhelɪkɒptə",
+    "meaning": [
+      "helikopter"
+    ]
+  },
+  {
+    "id": "h-hell",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hell",
+    "pronunciation": "hel",
+    "meaning": [
+      "piekło",
+      "cholera jasna",
+      "cholera"
+    ]
+  },
+  {
+    "id": "h-hellish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hellish",
+    "pronunciation": "ˈhelɪʃ",
+    "meaning": [
+      "piekielny",
+      "cholerny"
+    ]
+  },
+  {
+    "id": "h-hello",
+    "level": "A1",
+    "partOfSpeech": [
+      "interjection",
+      "exclamation"
+    ],
+    "word": "hello",
+    "pronunciation": "həˈləʊ",
+    "meaning": [
+      "cześć",
+      "dzień dobry",
+      "halo",
+      "hej"
+    ]
+  },
+  {
+    "id": "h-helm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "helm",
+    "pronunciation": "helm",
+    "meaning": [
+      "ster"
+    ]
+  },
+  {
+    "id": "h-helmet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "helmet",
+    "pronunciation": "ˈhelmət",
+    "meaning": [
+      "kask",
+      "hełm"
+    ]
+  },
+  {
+    "id": "h-helmsman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "helmsman",
+    "pronunciation": "ˈhelmzmən",
+    "meaning": [
+      "sternik"
+    ]
+  },
+  {
+    "id": "h-helper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "helper",
+    "pronunciation": "ˈhelpə",
+    "meaning": [
+      "pomocnik"
+    ]
+  },
+  {
+    "id": "h-helpful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "helpful",
+    "pronunciation": "ˈhelpfʊl",
+    "meaning": [
+      "pomocny"
+    ]
+  },
+  {
+    "id": "h-helping",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "helping",
+    "pronunciation": "ˈhelpɪŋ",
+    "meaning": [
+      "porcja"
+    ]
+  },
+  {
+    "id": "h-helpless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "helpless",
+    "pronunciation": "ˈhelplɪs",
+    "meaning": [
+      "bezradny"
+    ]
+  },
+  {
+    "id": "h-hem",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hem",
+    "pronunciation": "hem",
+    "meaning": [
+      "rąbek",
+      "skraj",
+      "obrębiać",
+      "otoczyć"
+    ]
+  },
+  {
+    "id": "h-hemisphere",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hemisphere",
+    "pronunciation": "ˈhemɪsfɪə",
+    "meaning": [
+      "półkula"
+    ]
+  },
+  {
+    "id": "h-hemophilia",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "hemophilia",
+    "pronunciation": "ˌhi:məˈfɪlɪə",
+    "meaning": [
+      "hemofilia"
+    ]
+  },
+  {
+    "id": "h-hemophiliac",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "hemophiliac",
+    "pronunciation": "ˌhi:məˈfɪlɪæk",
+    "meaning": [
+      "chory na hemofilię"
+    ]
+  },
+  {
+    "id": "h-hemorrhage",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hemorrhage",
+    "pronunciation": "ˈhemərɪʤ",
+    "meaning": [
+      "krwotok",
+      "wykrwawiać się",
+      "dostawać krwotoku"
+    ]
+  },
+  {
+    "id": "h-hemp",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hemp",
+    "pronunciation": "hemp",
+    "meaning": [
+      "konopie"
+    ]
+  },
+  {
+    "id": "h-hen",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hen",
+    "pronunciation": "hen",
+    "meaning": [
+      "kwoka",
+      "kura"
+    ]
+  },
+  {
+    "id": "h-hence",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "hence",
+    "pronunciation": "hens",
+    "meaning": [
+      "stąd",
+      "dlatego",
+      "od dzisiaj"
+    ]
+  },
+  {
+    "id": "h-henceforth",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "henceforth",
+    "pronunciation": "ˌhensˈfɔ:θ",
+    "meaning": [
+      "odtąd"
+    ]
+  },
+  {
+    "id": "h-henchman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "henchman",
+    "pronunciation": "ˈhenʧmən",
+    "meaning": [
+      "zausznik",
+      "fagas"
+    ]
+  },
+  {
+    "id": "h-herald",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "herald",
+    "pronunciation": "ˈherəld",
+    "meaning": [
+      "zwiastun",
+      "herold",
+      "zwiastować",
+      "ogłaszać"
+    ]
+  },
+  {
+    "id": "h-heraldry",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "heraldry",
+    "pronunciation": "ˈherəldrɪ",
+    "meaning": [
+      "heraldyka"
+    ]
+  },
+  {
+    "id": "h-herb",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "herb",
+    "pronunciation": "hɜ:b",
+    "meaning": [
+      "ziele",
+      "zioło",
+      "ziołowy"
+    ]
+  },
+  {
+    "id": "h-herd",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "herd",
+    "pronunciation": "hɜ:d",
+    "meaning": [
+      "stado",
+      "zaganiać"
+    ]
+  },
+  {
+    "id": "h-here",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "here",
+    "pronunciation": "hɪə",
+    "meaning": [
+      "tutaj",
+      "tu"
+    ]
+  },
+  {
+    "id": "h-hereafter",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "hereafter",
+    "pronunciation": "ˌhɪərˈɑ:ftə",
+    "meaning": [
+      "poniżej",
+      "od tej chwili",
+      "życie pozagrobowe"
+    ]
+  },
+  {
+    "id": "h-hereby",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "hereby",
+    "pronunciation": "ˌhɪəˈbaɪ",
+    "meaning": [
+      "niniejszym"
+    ]
+  },
+  {
+    "id": "h-hereditary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hereditary",
+    "pronunciation": "həˈredɪtərɪ",
+    "meaning": [
+      "dziedziczny"
+    ]
+  },
+  {
+    "id": "h-heredity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heredity",
+    "pronunciation": "hɪˈredɪtɪ",
+    "meaning": [
+      "dziedziczność",
+      "dziedziczenie"
+    ]
+  },
+  {
+    "id": "h-heresy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heresy",
+    "pronunciation": "ˈherəsɪ",
+    "meaning": [
+      "herezja"
+    ]
+  },
+  {
+    "id": "h-heretic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heretic",
+    "pronunciation": "ˈherətɪk",
+    "meaning": [
+      "heretyk"
+    ]
+  },
+  {
+    "id": "h-heretical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "heretical",
+    "pronunciation": "həˈretɪcal",
+    "meaning": [
+      "heretycki"
+    ]
+  },
+  {
+    "id": "h-herewith",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "herewith",
+    "pronunciation": "ˌhɪəˈwɪθ",
+    "meaning": [
+      "z niniejszym"
+    ]
+  },
+  {
+    "id": "h-heritage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heritage",
+    "pronunciation": "ˈherɪtɪʤ",
+    "meaning": [
+      "dziedzictwo"
+    ]
+  },
+  {
+    "id": "h-hermit",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hermit",
+    "pronunciation": "ˈhɜ:mɪt",
+    "meaning": [
+      "pustelnik"
+    ]
+  },
+  {
+    "id": "h-hernia",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hernia",
+    "pronunciation": "ˈhɜ:nɪə",
+    "meaning": [
+      "przepuklina"
+    ]
+  },
+  {
+    "id": "h-hero",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hero",
+    "pronunciation": "ˈhɪərəʊ",
+    "meaning": [
+      "bohater",
+      "idol"
+    ]
+  },
+  {
+    "id": "h-heroic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "heroic",
+    "pronunciation": "hɪˈrəʊɪk",
+    "meaning": [
+      "heroiczny",
+      "bohaterski"
+    ]
+  },
+  {
+    "id": "h-heroin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heroin",
+    "pronunciation": "ˈherəʊɪn",
+    "meaning": [
+      "heroina"
+    ]
+  },
+  {
+    "id": "h-heroine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "heroine",
+    "pronunciation": "ˈherəʊɪn",
+    "meaning": [
+      "bohaterka"
+    ]
+  },
+  {
+    "id": "h-heroism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heroism",
+    "pronunciation": "ˈherəʊɪzəm",
+    "meaning": [
+      "bohaterstwo",
+      "heroizm"
+    ]
+  },
+  {
+    "id": "h-heron",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "heron",
+    "pronunciation": "ˈherən",
+    "meaning": [
+      "czapla"
+    ]
+  },
+  {
+    "id": "h-herring",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "herring",
+    "pronunciation": "ˈherɪŋ",
+    "meaning": [
+      "śledź"
+    ]
+  },
+  {
+    "id": "h-hers",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "hers",
+    "pronunciation": "/hɜːz/",
+    "meaning": [
+      "jej"
+    ]
+  },
+  {
+    "id": "h-herself",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "herself",
+    "pronunciation": "həˈself",
+    "meaning": [
+      "się",
+      "siebie",
+      "sobie",
+      "sama"
+    ]
+  },
+  {
+    "id": "h-hesitant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hesitant",
+    "pronunciation": "ˈhezɪtənt",
+    "meaning": [
+      "niepewny",
+      "wahający się"
+    ]
+  },
+  {
+    "id": "h-hesitate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "hesitate",
+    "pronunciation": "ˈhezɪteɪt",
+    "meaning": [
+      "wahać się",
+      "nie móc się zdecydować"
+    ]
+  },
+  {
+    "id": "h-hesitation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hesitation",
+    "pronunciation": "ˌhezɪˈteɪʃən",
+    "meaning": [
+      "zawahanie się",
+      "zawahanie",
+      "niezdecydowanie"
+    ]
+  },
+  {
+    "id": "h-heterogenous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "heterogenous",
+    "pronunciation": "ˌhetərəˈʤi:nɪəs",
+    "meaning": [
+      "heterogeniczny",
+      "różnorodny"
+    ]
+  },
+  {
+    "id": "h-heterosexual",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "heterosexual",
+    "pronunciation": "ˌhetərəˈsekʃʊəl",
+    "meaning": [
+      "heteroseksualny"
+    ]
+  },
+  {
+    "id": "h-het_up",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "het up",
+    "pronunciation": "ˌhetˈʌp",
+    "meaning": []
+  },
+  {
+    "id": "h-hew",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hew",
+    "pronunciation": "hju:",
+    "meaning": [
+      "ciosać",
+      "kuć",
+      "łamać"
+    ]
+  },
+  {
+    "id": "h-hexagon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hexagon",
+    "pronunciation": "ˈheksəgən",
+    "meaning": [
+      "sześciokąt"
+    ]
+  },
+  {
+    "id": "h-hey",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "hey",
+    "pronunciation": "heɪ",
+    "meaning": [
+      "hej"
+    ]
+  },
+  {
+    "id": "h-heyday",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "heyday",
+    "pronunciation": "ˈheɪdeɪ",
+    "meaning": [
+      "pełnia",
+      "okres rozkwitu"
+    ]
+  },
+  {
+    "id": "h-hi",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "hi",
+    "pronunciation": "haɪ",
+    "meaning": [
+      "cześć",
+      "siemasz",
+      "hej"
+    ]
+  },
+  {
+    "id": "h-hiatus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hiatus",
+    "pronunciation": "haɪˈeɪtəs",
+    "meaning": [
+      "luka",
+      "puste miejsce"
+    ]
+  },
+  {
+    "id": "h-hibernate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "hibernate",
+    "pronunciation": "ˈhaɪbəneɪt",
+    "meaning": [
+      "zapadać w sen zimowy"
+    ]
+  },
+  {
+    "id": "h-hiccup",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hiccup",
+    "pronunciation": "ˈhɪkʌp",
+    "meaning": [
+      "czkawka",
+      "czkać"
+    ]
+  },
+  {
+    "id": "h-hide",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hide",
+    "pronunciation": "haɪd",
+    "meaning": [
+      "ukrywać się",
+      "ukrywać",
+      "chować się",
+      "chować",
+      "skrywać",
+      "przykrywać",
+      "zakrywać",
+      "skóra"
+    ]
+  },
+  {
+    "id": "h-hideous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hideous",
+    "pronunciation": "ˈhɪdɪəs",
+    "meaning": [
+      "ohydny",
+      "obrzydliwy"
+    ]
+  },
+  {
+    "id": "h-hiding",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hiding",
+    "pronunciation": "ˈhaɪdɪŋ",
+    "meaning": [
+      "ukrycie",
+      "lanie"
+    ]
+  },
+  {
+    "id": "h-hierarchy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hierarchy",
+    "pronunciation": "ˈhaɪərɑ:kɪ",
+    "meaning": [
+      "hierarchia",
+      "władze"
+    ]
+  },
+  {
+    "id": "h-hieroglyphics",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "hieroglyphics",
+    "pronunciation": "ˌhaɪərəˈglɪfɪks",
+    "meaning": [
+      "hieroglify"
+    ]
+  },
+  {
+    "id": "h-high",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb",
+      "noun"
+    ],
+    "word": "high",
+    "pronunciation": "haɪ",
+    "meaning": [
+      "wysoki",
+      "wysoki na",
+      "o wysokości",
+      "wysokości",
+      "wyższy",
+      "doskonały",
+      "pełny",
+      "w kulminacji",
+      "wysoko",
+      "wysokość",
+      "szkoła średnia",
+      "główna ulica",
+      "podwieczorek",
+      "kolacja",
+      "wysoka fala",
+      "przypływ"
+    ]
+  },
+  {
+    "id": "h-highbrow",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "highbrow",
+    "pronunciation": "ˈhaɪbraʊ",
+    "meaning": [
+      "intelektualny",
+      "uczony"
+    ]
+  },
+  {
+    "id": "h-high-class",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "high-class",
+    "pronunciation": "ˌhaɪˈklɑ:s",
+    "meaning": [
+      "wysokiej klasy"
+    ]
+  },
+  {
+    "id": "h-high-handed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "high-handed",
+    "pronunciation": "ˌhaɪˈhændɪd",
+    "meaning": [
+      "arbitralny",
+      "despotyczny"
+    ]
+  },
+  {
+    "id": "h-high-heeled",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "high-heeled",
+    "pronunciation": "haɪˈhi:ld",
+    "meaning": [
+      "na wysokich obcasach"
+    ]
+  },
+  {
+    "id": "h-highlands",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "highlands",
+    "pronunciation": "ˈhaɪləndz",
+    "meaning": [
+      "pogórze",
+      "góry"
+    ]
+  },
+  {
+    "id": "h-high-level",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "high-level",
+    "pronunciation": "ˌhaɪˈlevəl",
+    "meaning": [
+      "na wysokim szczeblu"
+    ]
+  },
+  {
+    "id": "h-highlight",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "highlight",
+    "pronunciation": "ˈhaɪlaɪt",
+    "meaning": [
+      "uwypuklać",
+      "uwydatniać",
+      "najważniejszy punkt",
+      "kulminacja"
+    ]
+  },
+  {
+    "id": "h-highly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "highly",
+    "pronunciation": "ˈhaɪlɪ",
+    "meaning": [
+      "bardzo",
+      "wysoce",
+      "wysoko",
+      "pochlebnie"
+    ]
+  },
+  {
+    "id": "h-highly-strung",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "highly-strung",
+    "pronunciation": "ˌhaɪlɪˈstrʌŋ",
+    "meaning": [
+      "napięty",
+      "nerwowy"
+    ]
+  },
+  {
+    "id": "h-high-minded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "high-minded",
+    "pronunciation": "ˌhaɪˈmaɪndɪd",
+    "meaning": [
+      "pryncypialny"
+    ]
+  },
+  {
+    "id": "h-Highness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Highness",
+    "pronunciation": "ˈhaɪnɪs",
+    "meaning": []
+  },
+  {
+    "id": "h-high-pitched",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "high-pitched",
+    "pronunciation": "ˌhaɪˈpɪʧt",
+    "meaning": [
+      "przeraźliwy",
+      "przenikliwy"
+    ]
+  },
+  {
+    "id": "h-high-powered",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "high-powered",
+    "pronunciation": "ˌhaɪˈpaʊəd",
+    "meaning": [
+      "potężny",
+      "dynamiczny",
+      "efektywny"
+    ]
+  },
+  {
+    "id": "h-high-rise",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "high-rise",
+    "pronunciation": "ˈhaɪraɪz",
+    "meaning": [
+      "wysokościowy",
+      "wysokościowiec"
+    ]
+  },
+  {
+    "id": "h-high-spirited",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "high-spirited",
+    "pronunciation": "ˌhaɪˈspɪrɪtɪd",
+    "meaning": [
+      "pełen energii",
+      "żywy",
+      "ożywiony"
+    ]
+  },
+  {
+    "id": "h-highway",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "highway",
+    "pronunciation": "ˈhaɪweɪ",
+    "meaning": [
+      "szosa",
+      "główna droga"
+    ]
+  },
+  {
+    "id": "h-hijack",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "hijack",
+    "pronunciation": "ˈhaɪʤæk",
+    "meaning": [
+      "porywać"
+    ]
+  },
+  {
+    "id": "h-hike",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hike",
+    "pronunciation": "haɪk",
+    "meaning": [
+      "wycieczka",
+      "wędrować"
+    ]
+  },
+  {
+    "id": "h-hilarious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hilarious",
+    "pronunciation": "hɪˈleərɪəs",
+    "meaning": [
+      "rozśmieszający"
+    ]
+  },
+  {
+    "id": "h-hilarity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hilarity",
+    "pronunciation": "hɪˈlærɪtɪ",
+    "meaning": [
+      "wesołość",
+      "zabawa"
+    ]
+  },
+  {
+    "id": "h-hill",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hill",
+    "pronunciation": "hɪl",
+    "meaning": [
+      "wzgórze"
+    ]
+  },
+  {
+    "id": "h-hillside",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hillside",
+    "pronunciation": "ˈhɪlsaɪd",
+    "meaning": [
+      "zbocze"
+    ]
+  },
+  {
+    "id": "h-hilltop",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hilltop",
+    "pronunciation": "ˈhɪltɒp",
+    "meaning": [
+      "szczyt wzgórza",
+      "szczyt"
+    ]
+  },
+  {
+    "id": "h-hilly",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "hilly",
+    "pronunciation": "ˈhɪlɪ",
+    "meaning": [
+      "pagórkowaty"
+    ]
+  },
+  {
+    "id": "h-hilt",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hilt",
+    "pronunciation": "hɪlt",
+    "meaning": [
+      "rękojeść"
+    ]
+  },
+  {
+    "id": "h-Himalayas",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Himalayas",
+    "pronunciation": "ˌhɪməˈleɪəz",
+    "meaning": []
+  },
+  {
+    "id": "h-himself",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "himself",
+    "pronunciation": "hɪmˈself",
+    "meaning": [
+      "się",
+      "siebie",
+      "sobie",
+      "sam"
+    ]
+  },
+  {
+    "id": "h-hind",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hind",
+    "pronunciation": "haɪnd",
+    "meaning": [
+      "tylny",
+      "zadni"
+    ]
+  },
+  {
+    "id": "h-hinder",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hinder",
+    "pronunciation": "ˈhɪndə",
+    "meaning": [
+      "wstrzymywać"
+    ]
+  },
+  {
+    "id": "h-hindrance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hindrance",
+    "pronunciation": "ˈhɪndrəns",
+    "meaning": [
+      "przeszkoda"
+    ]
+  },
+  {
+    "id": "h-hindsight",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hindsight",
+    "pronunciation": "ˈhaɪndsaɪt",
+    "meaning": [
+      "wiedza po fakcie",
+      "doświadczenie"
+    ]
+  },
+  {
+    "id": "h-Hindu",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Hindu",
+    "pronunciation": "ˈhɪndu:",
+    "meaning": [
+      "Hindus",
+      "hinduistyczny"
+    ]
+  },
+  {
+    "id": "h-hint",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hint",
+    "pronunciation": "hɪnt",
+    "meaning": [
+      "aluzja",
+      "napomknienie",
+      "sugestia",
+      "wskazówka",
+      "wysuwać sugestie"
+    ]
+  },
+  {
+    "id": "h-hip",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hip",
+    "pronunciation": "hɪp",
+    "meaning": [
+      "biodro"
+    ]
+  },
+  {
+    "id": "h-hippie",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hippie",
+    "pronunciation": "ˈhɪpɪ",
+    "meaning": [
+      "hipis"
+    ]
+  },
+  {
+    "id": "h-hippo",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hippo",
+    "pronunciation": "ˈhɪpəʊ",
+    "meaning": [
+      "hipcio",
+      "hipopotam"
+    ]
+  },
+  {
+    "id": "h-hippopotamus",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hippopotamus",
+    "pronunciation": "ˌhɪpəˈpɒtəməs",
+    "meaning": [
+      "hipopotam"
+    ]
+  },
+  {
+    "id": "h-hippy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hippy",
+    "pronunciation": "ˈhɪpɪ",
+    "meaning": [
+      "hippis"
+    ]
+  },
+  {
+    "id": "h-hire",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hire",
+    "pronunciation": "ˈhaɪə",
+    "meaning": [
+      "wynajmować",
+      "wynajęcie",
+      "wypożyczać",
+      "kupno na raty"
+    ]
+  },
+  {
+    "id": "h-his",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "his",
+    "pronunciation": "hɪz",
+    "meaning": [
+      "jego"
+    ]
+  },
+  {
+    "id": "h-hiss",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hiss",
+    "pronunciation": "hɪs",
+    "meaning": [
+      "syczeć",
+      "wygwizdywać",
+      "syk"
+    ]
+  },
+  {
+    "id": "h-historian",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "historian",
+    "pronunciation": "hɪˈstɔ:rɪən",
+    "meaning": [
+      "historyk"
+    ]
+  },
+  {
+    "id": "h-historic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "historic",
+    "pronunciation": "hɪˈstɒrɪk",
+    "meaning": [
+      "historyczny",
+      "przełomowy"
+    ]
+  },
+  {
+    "id": "h-historical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "historical",
+    "pronunciation": "hɪsˈtɒrɪkəl",
+    "meaning": [
+      "historyczny"
+    ]
+  },
+  {
+    "id": "h-history",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "history",
+    "pronunciation": "ˈhɪstərɪ",
+    "meaning": [
+      "historia",
+      "dzieje"
+    ]
+  },
+  {
+    "id": "h-histrionic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "histrionic",
+    "pronunciation": "ˌhɪstrɪˈɒnɪk",
+    "meaning": [
+      "teatralny"
+    ]
+  },
+  {
+    "id": "h-hit-and-run",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "hit-and-run",
+    "pronunciation": "ˌhɪtənˈrʌn",
+    "meaning": []
+  },
+  {
+    "id": "h-hitch",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hitch",
+    "pronunciation": "hɪʧ",
+    "meaning": [
+      "przytwierdzać",
+      "jechać stopem",
+      "jechać autostopem",
+      "problem",
+      "podciągać"
+    ]
+  },
+  {
+    "id": "h-hitch-hike",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hitch-hike",
+    "pronunciation": "ˈhɪʧhaɪk",
+    "meaning": [
+      "jechać stopem",
+      "jechać autostopem"
+    ]
+  },
+  {
+    "id": "h-hitherto",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "hitherto",
+    "pronunciation": "ˌhɪðəˈtu:",
+    "meaning": [
+      "dotychczas"
+    ]
+  },
+  {
+    "id": "h-hive",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hive",
+    "pronunciation": "haɪv",
+    "meaning": [
+      "ul",
+      "rojowisko",
+      "rozsadnik"
+    ]
+  },
+  {
+    "id": "h-HM",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "HM",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Jego Wysokość",
+      "Jej Wysokość"
+    ]
+  },
+  {
+    "id": "h-HMS",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "HMS",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "okręt Jej Królewskiej Mości",
+      "okręt Jego Królewskiej Mości",
+      "okręt wojenny Jej Królewskiej Mości",
+      "okręt wojenny Jego Królewskiej Mości"
+    ]
+  },
+  {
+    "id": "h-hoard",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hoard",
+    "pronunciation": "hɔ:d",
+    "meaning": [
+      "gromadzić",
+      "zasób"
+    ]
+  },
+  {
+    "id": "h-hoarding",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hoarding",
+    "pronunciation": "ˈhɔ:dɪŋ",
+    "meaning": [
+      "parkan",
+      "tablica ogłoszeniowa",
+      "tablica reklamowa"
+    ]
+  },
+  {
+    "id": "h-hoarse",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "hoarse",
+    "pronunciation": "hɔ:s",
+    "meaning": [
+      "ochrypły"
+    ]
+  },
+  {
+    "id": "h-hoary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hoary",
+    "pronunciation": "ˈhɔ:rɪ",
+    "meaning": [
+      "siwy",
+      "omszały",
+      "zamierzchły"
+    ]
+  },
+  {
+    "id": "h-hoax",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hoax",
+    "pronunciation": "həʊks",
+    "meaning": [
+      "nabieranie",
+      "fałszywy alarm"
+    ]
+  },
+  {
+    "id": "h-hobble",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hobble",
+    "pronunciation": "ˈhɒbəl",
+    "meaning": [
+      "kuleć",
+      "utykać",
+      "krępować",
+      "pętać"
+    ]
+  },
+  {
+    "id": "h-hobby",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hobby",
+    "pronunciation": "ˈhɒbɪ",
+    "meaning": [
+      "hobby",
+      "konik"
+    ]
+  },
+  {
+    "id": "h-hobo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hobo",
+    "pronunciation": "ˈhəʊbəʊ",
+    "meaning": [
+      "tramp",
+      "włóczęga"
+    ]
+  },
+  {
+    "id": "h-hock",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hock",
+    "pronunciation": "hɒk",
+    "meaning": [
+      "białe wino reńskie"
+    ]
+  },
+  {
+    "id": "h-hockey",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hockey",
+    "pronunciation": "ˈhɒkɪ",
+    "meaning": [
+      "hokej"
+    ]
+  },
+  {
+    "id": "h-hoe",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hoe",
+    "pronunciation": "həʊ",
+    "meaning": [
+      "motyka",
+      "okopywać"
+    ]
+  },
+  {
+    "id": "h-hog",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hog",
+    "pronunciation": "hɒg",
+    "meaning": [
+      "wieprz",
+      "zagarniać"
+    ]
+  },
+  {
+    "id": "h-hoist",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hoist",
+    "pronunciation": "hɔɪst",
+    "meaning": [
+      "dźwigać",
+      "podnosić",
+      "wyciąg",
+      "podnośnik"
+    ]
+  },
+  {
+    "id": "h-holdall",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "holdall",
+    "pronunciation": "ˈhəʊldɔ:l",
+    "meaning": [
+      "torba"
+    ]
+  },
+  {
+    "id": "h-holder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "holder",
+    "pronunciation": "ˈhəʊldə",
+    "meaning": [
+      "opakowanie",
+      "właściciel",
+      "okaziciel",
+      "posiadacz"
+    ]
+  },
+  {
+    "id": "h-holding",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "holding",
+    "pronunciation": "ˈhəʊldɪŋ",
+    "meaning": [
+      "pakiet akcji",
+      "aktywa",
+      "zasoby",
+      "dzierżawa",
+      "powstrzymujący"
+    ]
+  },
+  {
+    "id": "h-hold-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hold-up",
+    "pronunciation": "ˈhəʊldʌp",
+    "meaning": [
+      "napad z bronią",
+      "napad",
+      "zator"
+    ]
+  },
+  {
+    "id": "h-hole",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hole",
+    "pronunciation": "həʊl",
+    "meaning": [
+      "dziura",
+      "nora",
+      "dziurawić",
+      "zaszywać się",
+      "skrywać się"
+    ]
+  },
+  {
+    "id": "h-holiday",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "holiday",
+    "pronunciation": "ˈhɒlədeɪ",
+    "meaning": [
+      "święto",
+      "wczasy",
+      "urlop",
+      "wakacje",
+      "ośrodek wypoczynkowy",
+      "wczasowicz",
+      "urlopowicz"
+    ]
+  },
+  {
+    "id": "h-holiness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "holiness",
+    "pronunciation": "ˈhəʊlɪnɪs",
+    "meaning": [
+      "świętość"
+    ]
+  },
+  {
+    "id": "h-Holland",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Holland",
+    "pronunciation": "ˈhɒlənd",
+    "meaning": [
+      "Holandia"
+    ]
+  },
+  {
+    "id": "h-holler",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "holler",
+    "pronunciation": "ˈhɒlə",
+    "meaning": [
+      "ryczeć"
+    ]
+  },
+  {
+    "id": "h-hollow",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "hollow",
+    "pronunciation": "ˈhɒləʊ",
+    "meaning": [
+      "wydrążony",
+      "pusty",
+      "zapadnięty",
+      "wklęsły",
+      "jałowy",
+      "zagłębienie",
+      "dołek",
+      "wydrążać"
+    ]
+  },
+  {
+    "id": "h-holly",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "holly",
+    "pronunciation": "ˈhɒlɪ",
+    "meaning": [
+      "ostrokrzew"
+    ]
+  },
+  {
+    "id": "h-holster",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "holster",
+    "pronunciation": "ˈhəʊlstə",
+    "meaning": [
+      "kabura",
+      "pochwa"
+    ]
+  },
+  {
+    "id": "h-holy",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "interjection"
+    ],
+    "word": "holy",
+    "pronunciation": "ˈhəʊlɪ",
+    "meaning": [
+      "święty"
+    ]
+  },
+  {
+    "id": "h-homage",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "homage",
+    "pronunciation": "ˈhɒmɪʤ",
+    "meaning": [
+      "hołd"
+    ]
+  },
+  {
+    "id": "h-homecoming",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "homecoming",
+    "pronunciation": "ˈhəʊmkʌmɪŋ",
+    "meaning": [
+      "powrót",
+      "powrót do domu",
+      "powrót ojczyzny"
+    ]
+  },
+  {
+    "id": "h-homeland",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "homeland",
+    "pronunciation": "ˈhəʊmlənd",
+    "meaning": [
+      "ojczyzna"
+    ]
+  },
+  {
+    "id": "h-homeless",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "homeless",
+    "pronunciation": "ˈhəʊmlɪs",
+    "meaning": [
+      "bezdomny"
+    ]
+  },
+  {
+    "id": "h-homely",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "homely",
+    "pronunciation": "ˈhəʊmlɪ",
+    "meaning": [
+      "prosty",
+      "skromny",
+      "zwykły"
+    ]
+  },
+  {
+    "id": "h-home-made",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "home-made",
+    "pronunciation": "ˌhəʊmˈmeɪd",
+    "meaning": [
+      "domowy"
+    ]
+  },
+  {
+    "id": "h-homesick",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "homesick",
+    "pronunciation": "ˈhəʊmsɪk",
+    "meaning": [
+      "stęskniony za domem",
+      "stęskniony za ojczyzną"
+    ]
+  },
+  {
+    "id": "h-homesickness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "homesickness",
+    "pronunciation": "ˈhəʊmsɪknɪs",
+    "meaning": [
+      "nostalgia"
+    ]
+  },
+  {
+    "id": "h-homeward",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "homeward",
+    "pronunciation": "ˈhəʊmwəd(z)",
+    "meaning": [
+      "powrotny",
+      "ku domowi"
+    ]
+  },
+  {
+    "id": "h-homework",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "homework",
+    "pronunciation": "ˈhəʊmwɜ:k",
+    "meaning": [
+      "praca domowa",
+      "zadanie domowe"
+    ]
+  },
+  {
+    "id": "h-homicide",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "homicide",
+    "pronunciation": "ˈhɒmɪsaɪd",
+    "meaning": [
+      "morderstwo"
+    ]
+  },
+  {
+    "id": "h-homing",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "homing",
+    "pronunciation": "ˈhəʊmɪŋ",
+    "meaning": [
+      "samonaprowadzający się"
+    ]
+  },
+  {
+    "id": "h-homogeneity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "homogeneity",
+    "pronunciation": "ˌhɒməʤɪˈni:ɪtɪ",
+    "meaning": [
+      "jednorodność",
+      "homogeniczność"
+    ]
+  },
+  {
+    "id": "h-homogeneous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "homogeneous",
+    "pronunciation": "ˌhəʊməˈʤi:nɪəs",
+    "meaning": [
+      "jednorodny",
+      "homogeniczny"
+    ]
+  },
+  {
+    "id": "h-homosexual",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "homosexual",
+    "pronunciation": "ˌhəʊməˈsekʃʊəl",
+    "meaning": [
+      "homoseksualny",
+      "homoseksualista"
+    ]
+  },
+  {
+    "id": "h-homosexuality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "homosexuality",
+    "pronunciation": "ˌhəʊməsekʃʊˈælɪtɪ",
+    "meaning": [
+      "homoseksualizm"
+    ]
+  },
+  {
+    "id": "h-hon.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hon.",
+    "pronunciation": "/ˈɒn/",
+    "meaning": [
+      "czcigodny",
+      "honorowy"
+    ]
+  },
+  {
+    "id": "h-hone",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "hone",
+    "pronunciation": "həʊn",
+    "meaning": [
+      "ostrzyć"
+    ]
+  },
+  {
+    "id": "h-honest",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "honest",
+    "pronunciation": "ˈɒnɪst",
+    "meaning": [
+      "uczciwy",
+      "szczery"
+    ]
+  },
+  {
+    "id": "h-honestly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "honestly",
+    "pronunciation": "ˈɒnɪstlɪ",
+    "meaning": [
+      "szczerze",
+      "naprawdę"
+    ]
+  },
+  {
+    "id": "h-honesty",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "honesty",
+    "pronunciation": "ˈɒnɪstɪ",
+    "meaning": [
+      "szczerość",
+      "uczciwość"
+    ]
+  },
+  {
+    "id": "h-honey",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "honey",
+    "pronunciation": "ˈhʌnɪ",
+    "meaning": [
+      "miód"
+    ]
+  },
+  {
+    "id": "h-honeycomb",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "honeycomb",
+    "pronunciation": "ˈhʌnɪkəʊm",
+    "meaning": [
+      "plaster"
+    ]
+  },
+  {
+    "id": "h-honeymoon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "honeymoon",
+    "pronunciation": "ˈhʌnɪmu:n",
+    "meaning": [
+      "miesiąc miodowy"
+    ]
+  },
+  {
+    "id": "h-honk",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "honk",
+    "pronunciation": "hɒŋk",
+    "meaning": [
+      "trąbić"
+    ]
+  },
+  {
+    "id": "h-honorary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "honorary",
+    "pronunciation": "ˈɒnərərɪ",
+    "meaning": [
+      "honorowy"
+    ]
+  },
+  {
+    "id": "h-honour",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "honour",
+    "pronunciation": "ˈɒnə",
+    "meaning": [
+      "honor",
+      "zaszczyt",
+      "wyróżnienie",
+      "honorować",
+      "uznawać",
+      "uhonorowywać",
+      "wyróżniać",
+      "przestrzegać",
+      "dotrzymywać"
+    ]
+  },
+  {
+    "id": "h-honourable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "honourable",
+    "pronunciation": "ˈɒnərəbəl",
+    "meaning": [
+      "prawy",
+      "uczciwy",
+      "czcigodny"
+    ]
+  },
+  {
+    "id": "h-hood",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hood",
+    "pronunciation": "hʊd",
+    "meaning": [
+      "kaptur",
+      "osłona",
+      "buda",
+      "okap",
+      "maska"
+    ]
+  },
+  {
+    "id": "h-hoodwink",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "hoodwink",
+    "pronunciation": "ˈhʊdwɪŋk",
+    "meaning": [
+      "mydlić komuś oczy",
+      "mydlić oczy"
+    ]
+  },
+  {
+    "id": "h-hoof",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hoof",
+    "pronunciation": "hu:f",
+    "meaning": [
+      "kopyto"
+    ]
+  },
+  {
+    "id": "h-hooker",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hooker",
+    "pronunciation": "ˈhʊkə",
+    "meaning": [
+      "dziwka"
+    ]
+  },
+  {
+    "id": "h-hook-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hook-up",
+    "pronunciation": "ˈhʊkʌp",
+    "meaning": [
+      "połączenie",
+      "łącze"
+    ]
+  },
+  {
+    "id": "h-hooligan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hooligan",
+    "pronunciation": "ˈhu:lɪgən",
+    "meaning": [
+      "chuligan"
+    ]
+  },
+  {
+    "id": "h-hoop",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hoop",
+    "pronunciation": "hu:p",
+    "meaning": [
+      "obręcz"
+    ]
+  },
+  {
+    "id": "h-hooray",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "hooray",
+    "pronunciation": "həˈreɪ",
+    "meaning": [
+      "hura"
+    ]
+  },
+  {
+    "id": "h-hoot",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hoot",
+    "pronunciation": "hu:t",
+    "meaning": [
+      "huczeć",
+      "dawać sygnał dźwiękowy",
+      "dawać sygnał",
+      "pohukiwać",
+      "piszczeć",
+      "sygnał",
+      "pisk",
+      "popiskiwanie",
+      "pohukiwanie"
+    ]
+  },
+  {
+    "id": "h-hooter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hooter",
+    "pronunciation": "ˈhu:tə",
+    "meaning": [
+      "sygnał dźwiękowy",
+      "sygnał"
+    ]
+  },
+  {
+    "id": "h-hoover",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hoover",
+    "pronunciation": "ˈhu:və",
+    "meaning": [
+      "odkurzacz",
+      "odkurzać"
+    ]
+  },
+  {
+    "id": "h-hop",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hop",
+    "pronunciation": "hɒp",
+    "meaning": [
+      "podskakiwać",
+      "wyskakiwać",
+      "wskakiwać",
+      "skok",
+      "podskok",
+      "chmiel"
+    ]
+  },
+  {
+    "id": "h-hope",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hope",
+    "pronunciation": "həʊp",
+    "meaning": [
+      "spodziewać się",
+      "oczekiwać",
+      "mieć nadzieję",
+      "nadzieja"
+    ]
+  },
+  {
+    "id": "h-hopeful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "hopeful",
+    "pronunciation": "ˈhəʊpfʊl",
+    "meaning": [
+      "pełen nadziei",
+      "optymistyczny",
+      "obiecujący",
+      "dobrze się zapowiadający"
+    ]
+  },
+  {
+    "id": "h-hopefully",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "hopefully",
+    "pronunciation": "ˈhəʊpfʊlɪ",
+    "meaning": [
+      "z nadzieją",
+      "należy mieć nadzieję",
+      "miejmy nadzieję"
+    ]
+  },
+  {
+    "id": "h-hopeless",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "hopeless",
+    "pronunciation": "ˈhəʊplɪs",
+    "meaning": [
+      "rozpaczliwy",
+      "beznadziejny",
+      "okropny",
+      "straszliwy"
+    ]
+  },
+  {
+    "id": "h-horde",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "horde",
+    "pronunciation": "hɔ:d",
+    "meaning": [
+      "zgraja",
+      "horda"
+    ]
+  },
+  {
+    "id": "h-horizon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "horizon",
+    "pronunciation": "həˈraɪzən",
+    "meaning": [
+      "horyzont"
+    ]
+  },
+  {
+    "id": "h-horizontal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "horizontal",
+    "pronunciation": "ˌhɒrɪˈzɒntəl",
+    "meaning": [
+      "poziomy",
+      "horyzontalny"
+    ]
+  },
+  {
+    "id": "h-hormonal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hormonal",
+    "pronunciation": "hɔ:ˈməʊnəl",
+    "meaning": [
+      "hormonalny"
+    ]
+  },
+  {
+    "id": "h-hormone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hormone",
+    "pronunciation": "ˈhɔ:məʊn",
+    "meaning": [
+      "hormon"
+    ]
+  },
+  {
+    "id": "h-horn",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "horn",
+    "pronunciation": "hɔ:n",
+    "meaning": [
+      "róg",
+      "sygnał dźwiękowy",
+      "sygnał",
+      "klakson",
+      "waltornia"
+    ]
+  },
+  {
+    "id": "h-hornet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hornet",
+    "pronunciation": "ˈhɔ:nɪt",
+    "meaning": [
+      "szerszeń"
+    ]
+  },
+  {
+    "id": "h-horny",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "horny",
+    "pronunciation": "ˈhɔ:nɪ",
+    "meaning": [
+      "rogowy",
+      "z rogu",
+      "stwardniały",
+      "zrogowaciały"
+    ]
+  },
+  {
+    "id": "h-horoscope",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "horoscope",
+    "pronunciation": "ˈhɒrəskəʊp",
+    "meaning": [
+      "horoskop"
+    ]
+  },
+  {
+    "id": "h-horrendous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "horrendous",
+    "pronunciation": "həˈrendəs",
+    "meaning": [
+      "horrendalny",
+      "straszliwy"
+    ]
+  },
+  {
+    "id": "h-horrible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "horrible",
+    "pronunciation": "ˈhɒrəbəl",
+    "meaning": [
+      "okropny",
+      "straszliwy"
+    ]
+  },
+  {
+    "id": "h-horrid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "horrid",
+    "pronunciation": "ˈhɒrɪd",
+    "meaning": [
+      "okropny"
+    ]
+  },
+  {
+    "id": "h-horrific",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "horrific",
+    "pronunciation": "həˈrɪfɪk",
+    "meaning": [
+      "straszliwy",
+      "przerażający"
+    ]
+  },
+  {
+    "id": "h-horrify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "horrify",
+    "pronunciation": "ˈhɒrɪfaɪ",
+    "meaning": [
+      "przerażać"
+    ]
+  },
+  {
+    "id": "h-horror",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "horror",
+    "pronunciation": "ˈhɒrə",
+    "meaning": [
+      "przerażenie",
+      "zgroza",
+      "horror",
+      "makabra"
+    ]
+  },
+  {
+    "id": "h-hors_d-ouevre",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "hors d'ouevre",
+    "pronunciation": "ˌɔ:ˈdɜ:v",
+    "meaning": [
+      "przystawka"
+    ]
+  },
+  {
+    "id": "h-horse",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "horse",
+    "pronunciation": "hɔ:s",
+    "meaning": [
+      "koń",
+      "wyścigi konne"
+    ]
+  },
+  {
+    "id": "h-horseback",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "horseback",
+    "pronunciation": "ˈhɔ:sbæk",
+    "meaning": []
+  },
+  {
+    "id": "h-horseman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "horseman",
+    "pronunciation": "ˈhɔ:smən",
+    "meaning": [
+      "jeździec"
+    ]
+  },
+  {
+    "id": "h-horsepower",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "horsepower",
+    "pronunciation": "ˈhɔ:spaʊə",
+    "meaning": [
+      "koń mechaniczny"
+    ]
+  },
+  {
+    "id": "h-horseradish",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "horseradish",
+    "pronunciation": "ˈhɔ:srædɪʃ",
+    "meaning": [
+      "chrzan"
+    ]
+  },
+  {
+    "id": "h-horseshoe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "horseshoe",
+    "pronunciation": "ˈhɔ:sʃu:",
+    "meaning": [
+      "podkowa"
+    ]
+  },
+  {
+    "id": "h-horticulture",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "horticulture",
+    "pronunciation": "ˈhɔ:tɪkʌlʧə",
+    "meaning": [
+      "ogrodnictwo"
+    ]
+  },
+  {
+    "id": "h-hose",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hose",
+    "pronunciation": "həʊz",
+    "meaning": [
+      "wąż",
+      "przewód",
+      "skrapiać",
+      "polewać wężem",
+      "polewać",
+      "zlać wodą",
+      "zlać",
+      "zmyć"
+    ]
+  },
+  {
+    "id": "h-hosiery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hosiery",
+    "pronunciation": "ˈhəʊzɪərɪ",
+    "meaning": [
+      "wyroby pończosznicze"
+    ]
+  },
+  {
+    "id": "h-hosp.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hosp.",
+    "pronunciation": "/ˈhɒsp/",
+    "meaning": [
+      "szpital"
+    ]
+  },
+  {
+    "id": "h-hospitable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hospitable",
+    "pronunciation": "ˈhɒspɪtəbəl",
+    "meaning": [
+      "gościnny"
+    ]
+  },
+  {
+    "id": "h-hospital",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hospital",
+    "pronunciation": "ˈhɒspɪtəl",
+    "meaning": [
+      "szpital"
+    ]
+  },
+  {
+    "id": "h-hospitality",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hospitality",
+    "pronunciation": "ˌhɒspɪˈtælɪtɪ",
+    "meaning": [
+      "gościnność"
+    ]
+  },
+  {
+    "id": "h-hospitalize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hospitalize",
+    "pronunciation": "ˈhɒspɪtəlaɪz",
+    "meaning": [
+      "hospitalizować"
+    ]
+  },
+  {
+    "id": "h-host",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "host",
+    "pronunciation": "həʊst",
+    "meaning": [
+      "gospodarz",
+      "mnóstwo",
+      "gromada",
+      "gościć",
+      "goszczący"
+    ]
+  },
+  {
+    "id": "h-hostage",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hostage",
+    "pronunciation": "ˈhɒstɪʤ",
+    "meaning": [
+      "zakładnik"
+    ]
+  },
+  {
+    "id": "h-hostel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hostel",
+    "pronunciation": "ˈhɒstəl",
+    "meaning": [
+      "dom",
+      "dom wycieczkowy",
+      "dom studencki",
+      "hotel robotniczy",
+      "internat",
+      "schronisko"
+    ]
+  },
+  {
+    "id": "h-hostess",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hostess",
+    "pronunciation": "ˈhəʊstɪs",
+    "meaning": [
+      "gospodyni",
+      "stewardesa",
+      "hostesa"
+    ]
+  },
+  {
+    "id": "h-hostile",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hostile",
+    "pronunciation": "ˈhɒstaɪl",
+    "meaning": [
+      "wrogi",
+      "nieprzyjazny",
+      "niesprzyjający"
+    ]
+  },
+  {
+    "id": "h-hostility",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hostility",
+    "pronunciation": "hɒˈstɪlɪtɪ",
+    "meaning": [
+      "wrogość",
+      "dezaprobata",
+      "wrogie kroki",
+      "wrogie posunięcia"
+    ]
+  },
+  {
+    "id": "h-hot",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "hot",
+    "pronunciation": "hɒt",
+    "meaning": [
+      "gorący",
+      "upalny",
+      "ostry",
+      "zapalczywy"
+    ]
+  },
+  {
+    "id": "h-hotbed",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hotbed",
+    "pronunciation": "ˈhɒtbed",
+    "meaning": [
+      "rozsadnik"
+    ]
+  },
+  {
+    "id": "h-hot-blooded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hot-blooded",
+    "pronunciation": "ˌhɒtˈblʌdɪd",
+    "meaning": [
+      "krewki",
+      "zapalczywy"
+    ]
+  },
+  {
+    "id": "h-hotel",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hotel",
+    "pronunciation": "həʊˈtel",
+    "meaning": [
+      "hotel"
+    ]
+  },
+  {
+    "id": "h-hotelier",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hotelier",
+    "pronunciation": "həʊˈtelɪə",
+    "meaning": [
+      "właściciel hotelu",
+      "dyrektor hotelu"
+    ]
+  },
+  {
+    "id": "h-hot-headed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hot-headed",
+    "pronunciation": "ˌhɒtˈhedɪd",
+    "meaning": [
+      "zapalczywy",
+      "krewki"
+    ]
+  },
+  {
+    "id": "h-hothouse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hothouse",
+    "pronunciation": "ˈhɒthaʊs",
+    "meaning": [
+      "cieplarnia"
+    ]
+  },
+  {
+    "id": "h-hotly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "hotly",
+    "pronunciation": "ˈhɒtlɪ",
+    "meaning": [
+      "zapalczywie",
+      "gorąco"
+    ]
+  },
+  {
+    "id": "h-hot-water_bottle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hot-water bottle",
+    "pronunciation": "ˌhɒtˈwɔ:təbɒtəl",
+    "meaning": [
+      "termofor"
+    ]
+  },
+  {
+    "id": "h-hound",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hound",
+    "pronunciation": "haʊnd",
+    "meaning": [
+      "pies myśliwski",
+      "szczuć",
+      "prześladować"
+    ]
+  },
+  {
+    "id": "h-hour",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hour",
+    "pronunciation": "ˈaʊə",
+    "meaning": [
+      "godzina",
+      "czas",
+      "okres pracy",
+      "okres"
+    ]
+  },
+  {
+    "id": "h-hourly",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "hourly",
+    "pronunciation": "ˈaʊərlɪ",
+    "meaning": [
+      "cogodzinny",
+      "na godzinę",
+      "godzinowy"
+    ]
+  },
+  {
+    "id": "h-house",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "house",
+    "pronunciation": "/haʊs/",
+    "meaning": [
+      "budynek",
+      "dom",
+      "wydawnictwo",
+      "pracownia",
+      "bank",
+      "izba",
+      "widownia",
+      "dynastia",
+      "mieścić"
+    ]
+  },
+  {
+    "id": "h-houseboat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "houseboat",
+    "pronunciation": "ˈhaʊsbəʊt",
+    "meaning": [
+      "łódź mieszkalna"
+    ]
+  },
+  {
+    "id": "h-housebreaking",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "housebreaking",
+    "pronunciation": "ˈhaʊsbreɪkɪŋ",
+    "meaning": [
+      "włamanie"
+    ]
+  },
+  {
+    "id": "h-household",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "household",
+    "pronunciation": "ˈhaʊshəʊld",
+    "meaning": [
+      "rodzina",
+      "domownicy",
+      "gospodarstwo",
+      "gospodarczy",
+      "domowy",
+      "obiegowy",
+      "powszechnie znany"
+    ]
+  },
+  {
+    "id": "h-householder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "householder",
+    "pronunciation": "ˈhaʊshəʊldə",
+    "meaning": [
+      "główny lokator"
+    ]
+  },
+  {
+    "id": "h-housekeeper",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "housekeeper",
+    "pronunciation": "ˈhaʊski:pə",
+    "meaning": [
+      "gosposia",
+      "pomoc domowa"
+    ]
+  },
+  {
+    "id": "h-housekeeping",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "housekeeping",
+    "pronunciation": "ˈhaʊski:pɪŋ",
+    "meaning": [
+      "utrzymywanie domu",
+      "pieniądze na utrzymanie domu",
+      "pieniądze"
+    ]
+  },
+  {
+    "id": "h-housewife",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "housewife",
+    "pronunciation": "ˈhaʊswaɪf",
+    "meaning": [
+      "gospodyni domowa",
+      "pani domu"
+    ]
+  },
+  {
+    "id": "h-housework",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "housework",
+    "pronunciation": "ˈhaʊswɜ:k",
+    "meaning": [
+      "utrzymanie domu w porządku",
+      "utrzymanie domu",
+      "prace domowe"
+    ]
+  },
+  {
+    "id": "h-housing",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "housing",
+    "pronunciation": "ˈhaʊzɪŋ",
+    "meaning": [
+      "zabudowa",
+      "budowlany",
+      "mieszkaniowy",
+      "osiedle mieszkaniowe"
+    ]
+  },
+  {
+    "id": "h-hovel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hovel",
+    "pronunciation": "ˈhəʊvəl",
+    "meaning": [
+      "chałupa",
+      "buda"
+    ]
+  },
+  {
+    "id": "h-hover",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "hover",
+    "pronunciation": "ˈhɒvə",
+    "meaning": [
+      "unosić się",
+      "krążyć",
+      "wahać się"
+    ]
+  },
+  {
+    "id": "h-hovercraft",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hovercraft",
+    "pronunciation": "ˈhɒvəkrɑ:ft",
+    "meaning": [
+      "poduszkowiec"
+    ]
+  },
+  {
+    "id": "h-how",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "how",
+    "pronunciation": "haʊ",
+    "meaning": [
+      "jak"
+    ]
+  },
+  {
+    "id": "h-however",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "however",
+    "pronunciation": "haʊˈevə",
+    "meaning": [
+      "jednak",
+      "jakkolwiek"
+    ]
+  },
+  {
+    "id": "h-howl",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "howl",
+    "pronunciation": "haʊl",
+    "meaning": [
+      "wyć",
+      "wycie",
+      "zakrzyczeć"
+    ]
+  },
+  {
+    "id": "h-HP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "HP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "na raty"
+    ]
+  },
+  {
+    "id": "h-housewife",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "housewife",
+    "pronunciation": "ˈhaʊswaɪf",
+    "meaning": [
+      "gospodyni domowa",
+      "pani domu"
+    ]
+  },
+  {
+    "id": "h-housework",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "housework",
+    "pronunciation": "ˈhaʊswɜ:k",
+    "meaning": [
+      "utrzymanie domu w porządku",
+      "utrzymanie domu",
+      "prace domowe"
+    ]
+  },
+  {
+    "id": "h-housing",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "housing",
+    "pronunciation": "ˈhaʊzɪŋ",
+    "meaning": [
+      "zabudowa",
+      "budowlany",
+      "mieszkaniowy",
+      "osiedle mieszkaniowe"
+    ]
+  },
+  {
+    "id": "h-hovel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hovel",
+    "pronunciation": "ˈhəʊvəl",
+    "meaning": [
+      "chałupa",
+      "buda"
+    ]
+  },
+  {
+    "id": "h-hover",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "hover",
+    "pronunciation": "ˈhɒvə",
+    "meaning": [
+      "unosić się",
+      "krążyć",
+      "wahać się"
+    ]
+  },
+  {
+    "id": "h-hovercraft",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hovercraft",
+    "pronunciation": "ˈhɒvəkrɑ:ft",
+    "meaning": [
+      "poduszkowiec"
+    ]
+  },
+  {
+    "id": "h-how",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "how",
+    "pronunciation": "haʊ",
+    "meaning": [
+      "jak"
+    ]
+  },
+  {
+    "id": "h-however",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "however",
+    "pronunciation": "haʊˈevə",
+    "meaning": [
+      "jednak",
+      "jakkolwiek"
+    ]
+  },
+  {
+    "id": "h-howl",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "howl",
+    "pronunciation": "haʊl",
+    "meaning": [
+      "wyć",
+      "wycie",
+      "zakrzyczeć"
+    ]
+  },
+  {
+    "id": "h-HP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "HP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "na raty"
+    ]
+  },
+  {
+    "id": "h-hp",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hp",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "koń mechaniczny"
+    ]
+  },
+  {
+    "id": "h-HQ",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "HQ",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "kwatera główna"
+    ]
+  },
+  {
+    "id": "h-hr",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hr",
+    "pronunciation": "/ˌeɪtʃˈɑː/",
+    "meaning": [
+      "godz.",
+      "godzina"
+    ]
+  },
+  {
+    "id": "h-HRH",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "HRH",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Jego Królewska Wysokość",
+      "Jej Królewska Wysokość"
+    ]
+  },
+  {
+    "id": "h-hub",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hub",
+    "pronunciation": "hʌb",
+    "meaning": [
+      "piasta",
+      "ośrodek"
+    ]
+  },
+  {
+    "id": "h-hubbub",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hubbub",
+    "pronunciation": "ˈhʌbʌb",
+    "meaning": [
+      "zgiełk",
+      "wrzawa"
+    ]
+  },
+  {
+    "id": "h-hubcap",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hubcap",
+    "pronunciation": "ˈhʌbkæp",
+    "meaning": [
+      "kołpak koła",
+      "kołpak"
+    ]
+  },
+  {
+    "id": "h-huddle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "huddle",
+    "pronunciation": "ˈhʌdəl",
+    "meaning": [
+      "skupiać się",
+      "tulić się",
+      "kupa"
+    ]
+  },
+  {
+    "id": "h-hue",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hue",
+    "pronunciation": "hju:",
+    "meaning": [
+      "odcień",
+      "barwa",
+      "wrzawa",
+      "protest"
+    ]
+  },
+  {
+    "id": "h-huff",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "huff",
+    "pronunciation": "hʌf",
+    "meaning": []
+  },
+  {
+    "id": "h-hug",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hug",
+    "pronunciation": "hʌg",
+    "meaning": [
+      "ściskać",
+      "przyciskać",
+      "uścisk"
+    ]
+  },
+  {
+    "id": "h-huge",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "huge",
+    "pronunciation": "hju:ʤ",
+    "meaning": [
+      "ogromny"
+    ]
+  },
+  {
+    "id": "h-hulk",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hulk",
+    "pronunciation": "hʌlk",
+    "meaning": [
+      "kolos",
+      "bryła"
+    ]
+  },
+  {
+    "id": "h-hulking",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hulking",
+    "pronunciation": "ˈhʌlkɪŋ",
+    "meaning": [
+      "niezgrabny"
+    ]
+  },
+  {
+    "id": "h-hull",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hull",
+    "pronunciation": "hʌl",
+    "meaning": [
+      "kadłub"
+    ]
+  },
+  {
+    "id": "h-hullo",
+    "level": "A1",
+    "partOfSpeech": [
+      "interjection",
+      "noun"
+    ],
+    "word": "hullo",
+    "pronunciation": "həˈləʊ",
+    "meaning": [
+      "halo",
+      "hej"
+    ]
+  },
+  {
+    "id": "h-hum",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hum",
+    "pronunciation": "hʌm",
+    "meaning": [
+      "szum",
+      "brzęczenie",
+      "szumieć",
+      "brzęczeć",
+      "melodię nucić",
+      "nucić",
+      "mruczeć"
+    ]
+  },
+  {
+    "id": "h-human",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "human",
+    "pronunciation": "ˈhju:mən",
+    "meaning": [
+      "ludzki",
+      "człowieczy",
+      "istota ludzka",
+      "człowiek"
+    ]
+  },
+  {
+    "id": "h-humane",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "humane",
+    "pronunciation": "hju:ˈmeɪn",
+    "meaning": [
+      "ludzki"
+    ]
+  },
+  {
+    "id": "h-humanism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "humanism",
+    "pronunciation": "ˈhju:mənɪzəm",
+    "meaning": [
+      "humanizm"
+    ]
+  },
+  {
+    "id": "h-humanitarian",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "humanitarian",
+    "pronunciation": "hju:ˌmænɪˈteərɪən",
+    "meaning": [
+      "humanitarny",
+      "wyznawca humanitaryzmu"
+    ]
+  },
+  {
+    "id": "h-humanity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "humanity",
+    "pronunciation": "hju:ˈmænɪtɪ",
+    "meaning": [
+      "ludzkość",
+      "humanitaryzm",
+      "przedmioty humanistyczne"
+    ]
+  },
+  {
+    "id": "h-humble",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "humble",
+    "pronunciation": "ˈhʌmbəl",
+    "meaning": [
+      "skromny",
+      "pokorny",
+      "niski"
+    ]
+  },
+  {
+    "id": "h-humbug",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "humbug",
+    "pronunciation": "ˈhʌmbʌg",
+    "meaning": [
+      "miętus",
+      "miętówka",
+      "humbug",
+      "oszustwo"
+    ]
+  },
+  {
+    "id": "h-humdrum",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "humdrum",
+    "pronunciation": "ˈhʌmdrʌm",
+    "meaning": [
+      "pospolity",
+      "zwyczajny"
+    ]
+  },
+  {
+    "id": "h-humid",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "humid",
+    "pronunciation": "ˈhju:mɪd",
+    "meaning": [
+      "wilgotny"
+    ]
+  },
+  {
+    "id": "h-humidity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "humidity",
+    "pronunciation": "hju:ˈmɪdɪtɪ",
+    "meaning": [
+      "wilgoć"
+    ]
+  },
+  {
+    "id": "h-humiliate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "humiliate",
+    "pronunciation": "hju:ˈmɪlɪeɪt",
+    "meaning": [
+      "poniżać"
+    ]
+  },
+  {
+    "id": "h-humiliation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "humiliation",
+    "pronunciation": "hju:ˌmɪlɪˈeɪʃən",
+    "meaning": [
+      "poniżenie"
+    ]
+  },
+  {
+    "id": "h-humility",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "humility",
+    "pronunciation": "hju:ˈmɪlɪtɪ",
+    "meaning": [
+      "pokora",
+      "skromność"
+    ]
+  },
+  {
+    "id": "h-humorist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "humorist",
+    "pronunciation": "ˈhju:mərɪst",
+    "meaning": [
+      "humorysta"
+    ]
+  },
+  {
+    "id": "h-humorous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "humorous",
+    "pronunciation": "ˈhju:mərəs",
+    "meaning": [
+      "humorystyczny",
+      "zabawny",
+      "dowcipny"
+    ]
+  },
+  {
+    "id": "h-humour",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "humour",
+    "pronunciation": "ˈhju:mə",
+    "meaning": [
+      "humor",
+      "poczucie humoru",
+      "dowcip",
+      "udobruchać",
+      "ugłaskać"
+    ]
+  },
+  {
+    "id": "h-hump",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hump",
+    "pronunciation": "hʌmp",
+    "meaning": [
+      "garb",
+      "wybój",
+      "dźwigać",
+      "targać"
+    ]
+  },
+  {
+    "id": "h-hunch",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hunch",
+    "pronunciation": "hʌnʧ",
+    "meaning": [
+      "przeczucie",
+      "kulić się"
+    ]
+  },
+  {
+    "id": "h-hunchback",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hunchback",
+    "pronunciation": "ˈhʌnʧbæk",
+    "meaning": [
+      "garbus"
+    ]
+  },
+  {
+    "id": "h-hunchbacked",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hunchbacked",
+    "pronunciation": "ˈhʌnʧbækt",
+    "meaning": [
+      "garbaty"
+    ]
+  },
+  {
+    "id": "h-hundred",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "hundred",
+    "pronunciation": "ˈhʌndrɪd",
+    "meaning": [
+      "sto"
+    ]
+  },
+  {
+    "id": "h-hundredweight",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hundredweight",
+    "pronunciation": "ˈhʌndrɪdweɪt",
+    "meaning": [
+      "setnar"
+    ]
+  },
+  {
+    "id": "h-Hungarian",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Hungarian",
+    "pronunciation": "hʌŋˈgeərɪən",
+    "meaning": [
+      "węgierski",
+      "Węgier"
+    ]
+  },
+  {
+    "id": "h-Hungary",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Hungary",
+    "pronunciation": "ˈhʌŋgərɪ",
+    "meaning": [
+      "Węgry"
+    ]
+  },
+  {
+    "id": "h-hunger",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hunger",
+    "pronunciation": "ˈhʌŋgə",
+    "meaning": [
+      "głód",
+      "łaknąć"
+    ]
+  },
+  {
+    "id": "h-hungry",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "hungry",
+    "pronunciation": "ˈhʌŋgrɪ",
+    "meaning": [
+      "głodny",
+      "złakniony"
+    ]
+  },
+  {
+    "id": "h-hunk",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hunk",
+    "pronunciation": "hʌŋk",
+    "meaning": [
+      "kawał"
+    ]
+  },
+  {
+    "id": "h-hunt",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hunt",
+    "pronunciation": "hʌnt",
+    "meaning": [
+      "polować",
+      "ścigać",
+      "przetrząsać",
+      "szukać",
+      "polowanie",
+      "dopaść",
+      "upolować"
+    ]
+  },
+  {
+    "id": "h-hunter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hunter",
+    "pronunciation": "ˈhʌntə",
+    "meaning": [
+      "myśliwy"
+    ]
+  },
+  {
+    "id": "h-hurdle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hurdle",
+    "pronunciation": "ˈhɜ:dəl",
+    "meaning": [
+      "płotek",
+      "przeszkoda"
+    ]
+  },
+  {
+    "id": "h-hurl",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "hurl",
+    "pronunciation": "hɜ:l",
+    "meaning": [
+      "rzucać",
+      "miotać"
+    ]
+  },
+  {
+    "id": "h-hurrah",
+    "level": "A2",
+    "partOfSpeech": [
+      "exclamation",
+      "noun"
+    ],
+    "word": "hurrah",
+    "pronunciation": "həˈrɑ:",
+    "meaning": [
+      "hura"
+    ]
+  },
+  {
+    "id": "h-hurray",
+    "level": "A2",
+    "partOfSpeech": "exclamation",
+    "word": "hurray",
+    "pronunciation": "həˈreɪ",
+    "meaning": [
+      "hura"
+    ]
+  },
+  {
+    "id": "h-hurricane",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hurricane",
+    "pronunciation": "ˈhʌrɪkeɪn",
+    "meaning": [
+      "huragan"
+    ]
+  },
+  {
+    "id": "h-hurried",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "hurried",
+    "pronunciation": "ˈhʌrɪd",
+    "meaning": [
+      "pośpieszny"
+    ]
+  },
+  {
+    "id": "h-hurry",
+    "level": "A1",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "hurry",
+    "pronunciation": "ˈhʌrɪ",
+    "meaning": [
+      "śpieszyć się do",
+      "śpieszyć się",
+      "pośpieszyć",
+      "poganiać",
+      "przyśpieszać",
+      "pośpiech"
+    ]
+  },
+  {
+    "id": "h-hurt",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "hurt",
+    "pronunciation": "hɜ:t",
+    "meaning": [
+      "ranić",
+      "boleć",
+      "zraniony",
+      "uraza"
+    ]
+  },
+  {
+    "id": "h-hurtful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "hurtful",
+    "pronunciation": "ˈhɜ:tfʊl",
+    "meaning": [
+      "bolesny"
+    ]
+  },
+  {
+    "id": "h-hurtle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hurtle",
+    "pronunciation": "ˈhɜ:təl",
+    "meaning": [
+      "pędzić",
+      "gnać"
+    ]
+  },
+  {
+    "id": "h-husband",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "husband",
+    "pronunciation": "ˈhʌzbənd",
+    "meaning": [
+      "mąż"
+    ]
+  },
+  {
+    "id": "h-hush",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "interjection"
+    ],
+    "word": "hush",
+    "pronunciation": "hʌʃ",
+    "meaning": [
+      "cii!",
+      "cisza",
+      "tuszować",
+      "uciszać"
+    ]
+  },
+  {
+    "id": "h-husk",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "husk",
+    "pronunciation": "hʌsk",
+    "meaning": [
+      "łupina"
+    ]
+  },
+  {
+    "id": "h-husky",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "husky",
+    "pronunciation": "ˈhʌskɪ",
+    "meaning": [
+      "ochrypły",
+      "husky"
+    ]
+  },
+  {
+    "id": "h-hustle",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "hustle",
+    "pronunciation": "ˈhʌsəl",
+    "meaning": [
+      "popychać",
+      "przepychać",
+      "bieganina"
+    ]
+  },
+  {
+    "id": "h-hut",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hut",
+    "pronunciation": "hʌt",
+    "meaning": [
+      "chata",
+      "szopa"
+    ]
+  },
+  {
+    "id": "h-hutch",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hutch",
+    "pronunciation": "hʌʧ",
+    "meaning": [
+      "klatka"
+    ]
+  },
+  {
+    "id": "h-hyacinth",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hyacinth",
+    "pronunciation": "ˈhaɪəsɪnθ",
+    "meaning": [
+      "hiacynt"
+    ]
+  },
+  {
+    "id": "h-hyaena",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hyaena",
+    "pronunciation": "haɪˈi:nə",
+    "meaning": [
+      "hiena"
+    ]
+  },
+  {
+    "id": "h-hybrid",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "hybrid",
+    "pronunciation": "ˈhaɪbrɪd",
+    "meaning": [
+      "mieszaniec",
+      "hybryda",
+      "mieszany",
+      "hybrydowy"
+    ]
+  },
+  {
+    "id": "h-hydrant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hydrant",
+    "pronunciation": "ˈhaɪdrənt",
+    "meaning": [
+      "hydrant"
+    ]
+  },
+  {
+    "id": "h-hydraulic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hydraulic",
+    "pronunciation": "haɪˈdrɔ:lɪk",
+    "meaning": [
+      "hydrauliczny"
+    ]
+  },
+  {
+    "id": "h-hydro-electric",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hydro-electric",
+    "pronunciation": "ˌhaɪdrəʊ ɪˈlektrɪk",
+    "meaning": [
+      "hydroelektryczny"
+    ]
+  },
+  {
+    "id": "h-hydrofoil",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hydrofoil",
+    "pronunciation": "ˈhaɪdrəʊfɔɪl",
+    "meaning": [
+      "wodolot"
+    ]
+  },
+  {
+    "id": "h-hydrogen",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hydrogen",
+    "pronunciation": "ˈhaɪdrəʤən",
+    "meaning": [
+      "wodór"
+    ]
+  },
+  {
+    "id": "h-hyena",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hyena",
+    "pronunciation": "haɪˈi:nə",
+    "meaning": [
+      "hiena"
+    ]
+  },
+  {
+    "id": "h-hygiene",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "hygiene",
+    "pronunciation": "ˈhaɪʤi:n",
+    "meaning": [
+      "higiena"
+    ]
+  },
+  {
+    "id": "h-hymn",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hymn",
+    "pronunciation": "hɪm",
+    "meaning": [
+      "hymn religijny",
+      "hymn"
+    ]
+  },
+  {
+    "id": "h-hypermarket",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "hypermarket",
+    "pronunciation": "ˈhaɪpəmɑ:kɪt",
+    "meaning": [
+      "ogromny supermarket",
+      "supermarket",
+      "dom towarowy"
+    ]
+  },
+  {
+    "id": "h-hypnosis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hypnosis",
+    "pronunciation": "hɪpˈnəʊsɪs",
+    "meaning": [
+      "hipnoza"
+    ]
+  },
+  {
+    "id": "h-hypnotic",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "hypnotic",
+    "pronunciation": "hɪpˈnɒtɪk",
+    "meaning": [
+      "hipnotyczny"
+    ]
+  },
+  {
+    "id": "h-hypnotism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hypnotism",
+    "pronunciation": "ˈhɪpnətɪzəm",
+    "meaning": [
+      "hipnoza"
+    ]
+  },
+  {
+    "id": "h-hypnotize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "hypnotize",
+    "pronunciation": "ˈhɪpnətaɪz",
+    "meaning": [
+      "hipnotyzować"
+    ]
+  },
+  {
+    "id": "h-hypochondriac",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "hypochondriac",
+    "pronunciation": "ˌhaɪpəˈkɒndrɪæk",
+    "meaning": [
+      "hipochondryk"
+    ]
+  },
+  {
+    "id": "h-hypocrisy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hypocrisy",
+    "pronunciation": "hɪˈpɒkrɪsɪ",
+    "meaning": [
+      "obłuda",
+      "hipokryzja"
+    ]
+  },
+  {
+    "id": "h-hypocrite",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hypocrite",
+    "pronunciation": "ˈhɪpəkrɪt",
+    "meaning": [
+      "obłudnik",
+      "hipokryta"
+    ]
+  },
+  {
+    "id": "h-hypocritical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hypocritical",
+    "pronunciation": "ˌhɪpəˈkrɪtɪkəl",
+    "meaning": [
+      "obłudny"
+    ]
+  },
+  {
+    "id": "h-hypodermic",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "hypodermic",
+    "pronunciation": "ˌhaɪpəˈdɜ:mɪk",
+    "meaning": [
+      "podskórny"
+    ]
+  },
+  {
+    "id": "h-hypothesis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "hypothesis",
+    "pronunciation": "haɪˈpɒθɪsɪs",
+    "meaning": [
+      "hipoteza"
+    ]
+  },
+  {
+    "id": "h-hypothetical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hypothetical",
+    "pronunciation": "ˌhaɪpəˈθetɪkəl",
+    "meaning": [
+      "hipotetyczny"
+    ]
+  },
+  {
+    "id": "h-hysteria",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "hysteria",
+    "pronunciation": "hɪˈstɪərɪə",
+    "meaning": [
+      "histeria"
+    ]
+  },
+  {
+    "id": "h-hysterical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "hysterical",
+    "pronunciation": "hɪˈsterɪkəl",
+    "meaning": [
+      "histeryczny"
+    ]
+  },
+  {
+    "id": "h-hysterics",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "hysterics",
+    "pronunciation": "hɪˈsterɪks",
+    "meaning": [
+      "atak histerii"
+    ]
+  }
+]
