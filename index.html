@@ -35,6 +35,12 @@ const letters="abcdefghijklmnopqrstuvwxyz".split("");
 let words=[],deck=[],index=0,score=0;
 async function load(){
  try{
+  const direct=await fetch("words.json");
+  if(direct.ok){
+   words=(await direct.json()).slice(0,40000);
+   document.getElementById("count").textContent=words.length.toLocaleString("pl-PL")+" słówek";
+   return;
+  }
   const files=await Promise.all(letters.map(x=>fetch("data/"+x+".json").then(r=>r.ok?r.json():[])));
   const all=files.flat();
   const seen=new Set();
