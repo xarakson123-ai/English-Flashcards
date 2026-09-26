@@ -146,7 +146,8 @@ function answerTest(choice,button){
   else renderTest();
  },650);
 }
-function retryTest(){if(current){testDeck=buildTest(deck);testIndex=0;testScore=0;testAnswered=false;renderTest();screen("test")}}\nfunction finishTest(){
+function retryTest(){if(current){testDeck=buildTest(deck);testIndex=0;testScore=0;testAnswered=false;renderTest();screen("test")}}
+function finishTest(){
  const pct=Math.round(testScore/testDeck.length*100);
  const k=key(current.level,current.chapter);
  if(pct>=80){
@@ -182,7 +183,6 @@ function answer(ok){
   const pct=Math.round(score/deck.length*100);
   const k=key(current.level,current.chapter);
   progress[k]=Math.max(progress[k]||0,pct);
-  if(pct>=80&&!completed.includes(k))completed.push(k);
   save();
   document.getElementById("finalScore").textContent=score+" / "+deck.length;
   document.getElementById("resultTitle").textContent=pct>=80?"🎉 Rozdział ukończony!":"💪 Spróbuj jeszcze raz";
