@@ -1,0 +1,8921 @@
+[
+  {
+    "id": "t-T",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "T",
+    "pronunciation": "/ˈtiː/",
+    "meaning": [
+      "temperatura"
+    ]
+  },
+  {
+    "id": "t-t.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "t.",
+    "pronunciation": "/tiː/",
+    "meaning": [
+      "czas",
+      "okres",
+      "tona"
+    ]
+  },
+  {
+    "id": "t-ta",
+    "level": "A1",
+    "partOfSpeech": "interjection",
+    "word": "ta",
+    "pronunciation": "tɑ:",
+    "meaning": [
+      "dzięki",
+      "dziękuję"
+    ]
+  },
+  {
+    "id": "t-tab",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tab",
+    "pronunciation": "tæb",
+    "meaning": [
+      "etykietka",
+      "nalepka"
+    ]
+  },
+  {
+    "id": "t-tabby",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tabby",
+    "pronunciation": "ˈtæbɪ",
+    "meaning": [
+      "bury",
+      "pręgowany",
+      "buras",
+      "kot pręgowany",
+      "kotka"
+    ]
+  },
+  {
+    "id": "t-table",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "table",
+    "pronunciation": "ˈteɪbəl",
+    "meaning": [
+      "stół",
+      "tabela",
+      "tablica",
+      "stołowy",
+      "wnosić",
+      "przedkładać",
+      "spis treści"
+    ]
+  },
+  {
+    "id": "t-tablecloth",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tablecloth",
+    "pronunciation": "ˈteɪbəlklɒθ",
+    "meaning": [
+      "obrus"
+    ]
+  },
+  {
+    "id": "t-tablespoon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tablespoon",
+    "pronunciation": "ˈteɪbəlspu:n",
+    "meaning": [
+      "duża łyżka do nabieranie potraw",
+      "duża łyżka"
+    ]
+  },
+  {
+    "id": "t-tablespoonful",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tablespoonful",
+    "pronunciation": "ˈteɪbəlspu:nfʊl",
+    "meaning": [
+      "duża łyżka"
+    ]
+  },
+  {
+    "id": "t-tablet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tablet",
+    "pronunciation": "ˈtæblɪt",
+    "meaning": [
+      "tabletka",
+      "tablica"
+    ]
+  },
+  {
+    "id": "t-tabloid",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tabloid",
+    "pronunciation": "ˈtæblɔɪd",
+    "meaning": [
+      "gazeta bulwarowa",
+      "gazeta sensacyjna"
+    ]
+  },
+  {
+    "id": "t-taboo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "taboo",
+    "pronunciation": "təˈbu:",
+    "meaning": [
+      "tabu",
+      "zakaz",
+      "zakazany",
+      "niedozwolony"
+    ]
+  },
+  {
+    "id": "t-tabulate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "tabulate",
+    "pronunciation": "ˈtæbjəleɪt",
+    "meaning": [
+      "układać w tabelach"
+    ]
+  },
+  {
+    "id": "t-tacit",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "tacit",
+    "pronunciation": "ˈtæsɪt",
+    "meaning": [
+      "milczący"
+    ]
+  },
+  {
+    "id": "t-taciturn",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "taciturn",
+    "pronunciation": "ˈtæsɪtɜ:n",
+    "meaning": [
+      "małomówny"
+    ]
+  },
+  {
+    "id": "t-tack",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tack",
+    "pronunciation": "tæ{k}",
+    "meaning": [
+      "gwóźdź tapicerski",
+      "gwóźdź",
+      "papiak",
+      "fastryga",
+      "podejście",
+      "przybijać"
+    ]
+  },
+  {
+    "id": "t-tackle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tackle",
+    "pronunciation": "ˈtækəl",
+    "meaning": [
+      "brać się",
+      "blokować",
+      "radzić sobie",
+      "zwracać się",
+      "sprzęt",
+      "blokada"
+    ]
+  },
+  {
+    "id": "t-tacky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tacky",
+    "pronunciation": "ˈtækɪ",
+    "meaning": [
+      "paskudny"
+    ]
+  },
+  {
+    "id": "t-tact",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tact",
+    "pronunciation": "tækt",
+    "meaning": [
+      "takt"
+    ]
+  },
+  {
+    "id": "t-tactful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tactful",
+    "pronunciation": "ˈtæktfʊl",
+    "meaning": [
+      "taktowny"
+    ]
+  },
+  {
+    "id": "t-tactical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tactical",
+    "pronunciation": "ˈtæktɪkəl",
+    "meaning": [
+      "taktyczny"
+    ]
+  },
+  {
+    "id": "t-tactics",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tactics",
+    "pronunciation": "ˈtæktɪks",
+    "meaning": [
+      "taktyka"
+    ]
+  },
+  {
+    "id": "t-tactless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tactless",
+    "pronunciation": "ˈtæktlɪs",
+    "meaning": [
+      "nietaktowny",
+      "bez taktu"
+    ]
+  },
+  {
+    "id": "t-tadpole",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tadpole",
+    "pronunciation": "ˈtædpəʊl",
+    "meaning": [
+      "kijanka"
+    ]
+  },
+  {
+    "id": "t-tag",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tag",
+    "pronunciation": "tæg",
+    "meaning": [
+      "etykieta",
+      "znaczek",
+      "berek",
+      "iść"
+    ]
+  },
+  {
+    "id": "t-tail",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tail",
+    "pronunciation": "teɪl",
+    "meaning": [
+      "ogon",
+      "frak",
+      "orzeł",
+      "śledzić",
+      "zmniejszać się",
+      "ucichać"
+    ]
+  },
+  {
+    "id": "t-tailor",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tailor",
+    "pronunciation": "ˈteɪlə",
+    "meaning": [
+      "krawiec męski",
+      "krawiec",
+      "przysposabiać",
+      "dostosowywać"
+    ]
+  },
+  {
+    "id": "t-tailor-made",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tailor-made",
+    "pronunciation": "ˌteɪlə ˈmeɪd",
+    "meaning": [
+      "wykonany na zamówienie",
+      "wykonany specjalnie dla kogoś"
+    ]
+  },
+  {
+    "id": "t-taint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "taint",
+    "pronunciation": "teɪnt",
+    "meaning": [
+      "psuć",
+      "skaza"
+    ]
+  },
+  {
+    "id": "t-Taiwan",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Taiwan",
+    "pronunciation": "taɪˈwɑ:n",
+    "meaning": [
+      "Tajwan"
+    ]
+  },
+  {
+    "id": "t-Taiwanese",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Taiwanese",
+    "pronunciation": "ˌtaɪwəˈni:z",
+    "meaning": [
+      "tajwański",
+      "Tajwańczyk"
+    ]
+  },
+  {
+    "id": "t-takeaway",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "takeaway",
+    "pronunciation": "ˈteɪkəweɪ",
+    "meaning": [
+      "jedzenie na wynos",
+      "bar z jedzeniem na wynos"
+    ]
+  },
+  {
+    "id": "t-takeoff",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "takeoff",
+    "pronunciation": "ˈteɪkɒf",
+    "meaning": [
+      "start"
+    ]
+  },
+  {
+    "id": "t-takeout",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "takeout",
+    "pronunciation": "ˈteɪkaʊt",
+    "meaning": [
+      "jedzenie na wynos",
+      "bar z jedzeniem na wynos"
+    ]
+  },
+  {
+    "id": "t-takeover",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "takeover",
+    "pronunciation": "ˈteɪkəʊvə",
+    "meaning": [
+      "przejęcie",
+      "przewrót"
+    ]
+  },
+  {
+    "id": "t-takings",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "takings",
+    "pronunciation": "ˈteɪkɪŋz",
+    "meaning": [
+      "utarg",
+      "wpływy"
+    ]
+  },
+  {
+    "id": "t-talc",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "talc",
+    "pronunciation": "ˈtælk",
+    "meaning": [
+      "talk"
+    ]
+  },
+  {
+    "id": "t-tale",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tale",
+    "pronunciation": "teɪl",
+    "meaning": [
+      "opowieść",
+      "opowiadanie"
+    ]
+  },
+  {
+    "id": "t-talent",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "talent",
+    "pronunciation": "ˈtælənt",
+    "meaning": [
+      "talent"
+    ]
+  },
+  {
+    "id": "t-talented",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "talented",
+    "pronunciation": "ˈtæləntɪd",
+    "meaning": [
+      "utalentowany"
+    ]
+  },
+  {
+    "id": "t-talisman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "talisman",
+    "pronunciation": "ˈtælɪzmən",
+    "meaning": [
+      "talizman"
+    ]
+  },
+  {
+    "id": "t-talk",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "talk",
+    "pronunciation": "tɔ:k",
+    "meaning": [
+      "mówić",
+      "rozmawiać",
+      "omawiać",
+      "gadać",
+      "plotkować",
+      "rozmowa",
+      "pogawędka",
+      "przekonywać",
+      "wyperswadować komuś",
+      "wyperswadować",
+      "dyskutować"
+    ]
+  },
+  {
+    "id": "t-talkative",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "talkative",
+    "pronunciation": "ˈtɔ:kətɪv",
+    "meaning": [
+      "gadatliwy"
+    ]
+  },
+  {
+    "id": "t-talker",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "talker",
+    "pronunciation": "ˈtɔ:kə",
+    "meaning": [
+      "gaduła"
+    ]
+  },
+  {
+    "id": "t-tall",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "tall",
+    "pronunciation": "tɔ:l",
+    "meaning": [
+      "wysoki"
+    ]
+  },
+  {
+    "id": "t-tally",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tally",
+    "pronunciation": "ˈtælɪ",
+    "meaning": [
+      "rachuba",
+      "rachunek",
+      "zgadzać się"
+    ]
+  },
+  {
+    "id": "t-talon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "talon",
+    "pronunciation": "ˈtælən",
+    "meaning": [
+      "szpon"
+    ]
+  },
+  {
+    "id": "t-tame",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "tame",
+    "pronunciation": "teɪm",
+    "meaning": [
+      "oswojony",
+      "potulny",
+      "mało ekscytujący",
+      "oswajać",
+      "ujarzmiać"
+    ]
+  },
+  {
+    "id": "t-tamper",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tamper",
+    "pronunciation": "ˈtæmpə",
+    "meaning": [
+      "majstrować",
+      "manipulować"
+    ]
+  },
+  {
+    "id": "t-tampon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tampon",
+    "pronunciation": "ˈtæmpən",
+    "meaning": [
+      "tampon"
+    ]
+  },
+  {
+    "id": "t-tan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tan",
+    "pronunciation": "tæn",
+    "meaning": [
+      "opalenizna",
+      "jasnobrązowy",
+      "opalać się"
+    ]
+  },
+  {
+    "id": "t-tandem",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tandem",
+    "pronunciation": "ˈtændəm",
+    "meaning": [
+      "tandem"
+    ]
+  },
+  {
+    "id": "t-tang",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tang",
+    "pronunciation": "tæŋ",
+    "meaning": [
+      "ostry zapach",
+      "ostry smak"
+    ]
+  },
+  {
+    "id": "t-tangent",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "tangent",
+    "pronunciation": "ˈtænʤənt",
+    "meaning": [
+      "styczny",
+      "styczna"
+    ]
+  },
+  {
+    "id": "t-tangerine",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tangerine",
+    "pronunciation": "ˌtænʤəˈri:n",
+    "meaning": [
+      "mandarynka"
+    ]
+  },
+  {
+    "id": "t-tangible",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tangible",
+    "pronunciation": "ˈtænʤəbəl",
+    "meaning": [
+      "konkretny",
+      "namacalny"
+    ]
+  },
+  {
+    "id": "t-tangle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tangle",
+    "pronunciation": "ˈtæŋgəl",
+    "meaning": [
+      "plątanina",
+      "gmatwanina",
+      "zaplątać się",
+      "zaplątać"
+    ]
+  },
+  {
+    "id": "t-tank",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tank",
+    "pronunciation": "tæŋk",
+    "meaning": [
+      "zbiornik",
+      "cysterna",
+      "czołg",
+      "tankować"
+    ]
+  },
+  {
+    "id": "t-tankard",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tankard",
+    "pronunciation": "ˈtæŋkəd",
+    "meaning": [
+      "kufel metalowy",
+      "kufel"
+    ]
+  },
+  {
+    "id": "t-tanker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tanker",
+    "pronunciation": "ˈtʌŋkə",
+    "meaning": [
+      "tankowiec",
+      "cysterna"
+    ]
+  },
+  {
+    "id": "t-tantalize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "tantalize",
+    "pronunciation": "ˈtæntəlaɪz",
+    "meaning": [
+      "zwodzić"
+    ]
+  },
+  {
+    "id": "t-tantamount",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "tantamount",
+    "pronunciation": "ˈtæntəmaʊnt",
+    "meaning": [
+      "równoznaczny"
+    ]
+  },
+  {
+    "id": "t-tantrum",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tantrum",
+    "pronunciation": "ˈtæntrəm",
+    "meaning": [
+      "histeria"
+    ]
+  },
+  {
+    "id": "t-Tanzania",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Tanzania",
+    "pronunciation": "ˌtænzəˈni:ə",
+    "meaning": [
+      "Tanzania"
+    ]
+  },
+  {
+    "id": "t-Tanzanian",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Tanzanian",
+    "pronunciation": "ˌtænzəˈni:ən",
+    "meaning": [
+      "tanzański"
+    ]
+  },
+  {
+    "id": "t-tap",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tap",
+    "pronunciation": "tæp",
+    "meaning": [
+      "kurek",
+      "kran",
+      "zawór",
+      "stukanie",
+      "stukać",
+      "postukiwać",
+      "wykorzystywać",
+      "stepowanie"
+    ]
+  },
+  {
+    "id": "t-tape",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tape",
+    "pronunciation": "teɪp",
+    "meaning": [
+      "taśma",
+      "kaseta",
+      "szpula z taśmą",
+      "szpula",
+      "tasiemka",
+      "nagrywać",
+      "przytwierdzać taśmą",
+      "przytwierdzać",
+      "centymetr",
+      "magnetofon szpulowy",
+      "magnetofon"
+    ]
+  },
+  {
+    "id": "t-taper",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "taper",
+    "pronunciation": "ˈteɪpə",
+    "meaning": [
+      "zwężać się",
+      "cienka świeca",
+      "świeca"
+    ]
+  },
+  {
+    "id": "t-tapestry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tapestry",
+    "pronunciation": "ˈtæpɪstry",
+    "meaning": [
+      "arras",
+      "gobelin",
+      "mozaika"
+    ]
+  },
+  {
+    "id": "t-tar",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tar",
+    "pronunciation": "tɑ:",
+    "meaning": [
+      "smoła",
+      "dziegieć",
+      "smołować"
+    ]
+  },
+  {
+    "id": "t-tardy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tardy",
+    "pronunciation": "ˈtɑ:dɪ",
+    "meaning": [
+      "powolny"
+    ]
+  },
+  {
+    "id": "t-target",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "target",
+    "pronunciation": "ˈtɑ:gɪt",
+    "meaning": [
+      "cel"
+    ]
+  },
+  {
+    "id": "t-tariff",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tariff",
+    "pronunciation": "ˈtærɪf",
+    "meaning": [
+      "cło przywozowe"
+    ]
+  },
+  {
+    "id": "t-tarmac",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tarmac",
+    "pronunciation": "ˈtɑ:mæk",
+    "meaning": [
+      "asfalt",
+      "makadam",
+      "powierzchnia smołowa asfaltowa",
+      "powierzchnia smołowa"
+    ]
+  },
+  {
+    "id": "t-tarnish",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "tarnish",
+    "pronunciation": "ˈtɑ:nɪʃ",
+    "meaning": [
+      "matować",
+      "matowieć",
+      "brukać"
+    ]
+  },
+  {
+    "id": "t-tarpaulin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tarpaulin",
+    "pronunciation": "ˌtɑ:ˈpɔ:lɪn",
+    "meaning": [
+      "płótno żeglarskie"
+    ]
+  },
+  {
+    "id": "t-tarragon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tarragon",
+    "pronunciation": "ˈtærəgən",
+    "meaning": [
+      "estragon"
+    ]
+  },
+  {
+    "id": "t-tarry",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "tarry",
+    "pronunciation": "ˈtærɪ",
+    "meaning": [
+      "pozostawać"
+    ]
+  },
+  {
+    "id": "t-tart",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tart",
+    "pronunciation": "tɑ:t",
+    "meaning": [
+      "ciasto nadziewane",
+      "ciasto",
+      "dziwka",
+      "ostry",
+      "kwaśny"
+    ]
+  },
+  {
+    "id": "t-tartar",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tartar",
+    "pronunciation": "ˈtɑ:tə",
+    "meaning": [
+      "kamień nazębny",
+      "kamień"
+    ]
+  },
+  {
+    "id": "t-task",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "task",
+    "pronunciation": "tɑ:sk",
+    "meaning": [
+      "zadanie",
+      "zajęcie"
+    ]
+  },
+  {
+    "id": "t-tassel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tassel",
+    "pronunciation": "ˈtæsəl",
+    "meaning": [
+      "pompon"
+    ]
+  },
+  {
+    "id": "t-taste",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "taste",
+    "pronunciation": "teɪst",
+    "meaning": [
+      "smak",
+      "upodobanie",
+      "posmak",
+      "próbować",
+      "kosztować",
+      "smakować"
+    ]
+  },
+  {
+    "id": "t-tasteful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tasteful",
+    "pronunciation": "ˈteɪstfʊl",
+    "meaning": [
+      "gustowny"
+    ]
+  },
+  {
+    "id": "t-tasteless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tasteless",
+    "pronunciation": "ˈteɪstlɪs",
+    "meaning": [
+      "niegustowny",
+      "niesmaczny",
+      "bez smaku"
+    ]
+  },
+  {
+    "id": "t-tasty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "tasty",
+    "pronunciation": "ˈteɪstɪ",
+    "meaning": [
+      "smakowity"
+    ]
+  },
+  {
+    "id": "t-ta-ta",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "ta-ta",
+    "pronunciation": "tæˈtɑ:",
+    "meaning": [
+      "cześć",
+      "pa"
+    ]
+  },
+  {
+    "id": "t-Tatra",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Tatra",
+    "pronunciation": "ˈtɑ:trə(z)",
+    "meaning": []
+  },
+  {
+    "id": "t-tattered",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tattered",
+    "pronunciation": "ˈtætəd",
+    "meaning": [
+      "obstrzępiony"
+    ]
+  },
+  {
+    "id": "t-tatters",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tatters",
+    "pronunciation": "ˈtætəz",
+    "meaning": []
+  },
+  {
+    "id": "t-tattoo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tattoo",
+    "pronunciation": "tæˈtu:",
+    "meaning": [
+      "tatuować",
+      "tatuaż",
+      "parada wojskowa",
+      "parada",
+      "werbel",
+      "bębnić"
+    ]
+  },
+  {
+    "id": "t-tatty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tatty",
+    "pronunciation": "ˈtætɪ",
+    "meaning": [
+      "brudny"
+    ]
+  },
+  {
+    "id": "t-taunt",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "taunt",
+    "pronunciation": "tɔ:nt",
+    "meaning": [
+      "drażnić",
+      "drwić",
+      "szyderstwo",
+      "drwina"
+    ]
+  },
+  {
+    "id": "t-Taurus",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Taurus",
+    "pronunciation": "ˈtɔ:rəs",
+    "meaning": [
+      "Byk"
+    ]
+  },
+  {
+    "id": "t-taut",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "taut",
+    "pronunciation": "tɔ:t",
+    "meaning": [
+      "naprężony"
+    ]
+  },
+  {
+    "id": "t-tawdry",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "tawdry",
+    "pronunciation": "ˈtɔ:drɪ",
+    "meaning": [
+      "tandetny"
+    ]
+  },
+  {
+    "id": "t-tawny",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tawny",
+    "pronunciation": "ˈtɔ:nɪ",
+    "meaning": [
+      "brunatny"
+    ]
+  },
+  {
+    "id": "t-tax",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tax",
+    "pronunciation": "tæks",
+    "meaning": [
+      "podatek",
+      "opodatkowywać",
+      "poborca podatkowy",
+      "deklaracja podatkowa"
+    ]
+  },
+  {
+    "id": "t-taxable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "taxable",
+    "pronunciation": "ˈtæksəbəl",
+    "meaning": [
+      "podlegający opodatkowaniu"
+    ]
+  },
+  {
+    "id": "t-taxation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "taxation",
+    "pronunciation": "tækˈseɪʃən",
+    "meaning": [
+      "system podatkowy",
+      "podatki",
+      "opodatkowanie"
+    ]
+  },
+  {
+    "id": "t-tax-free",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tax-free",
+    "pronunciation": "ˌtæksˈfri:",
+    "meaning": [
+      "wolny od podatku"
+    ]
+  },
+  {
+    "id": "t-taxi",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "taxi",
+    "pronunciation": "ˈtæksɪ",
+    "meaning": [
+      "taksówka",
+      "kołować",
+      "taksówkarz",
+      "postój taskówek"
+    ]
+  },
+  {
+    "id": "t-taxpayer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "taxpayer",
+    "pronunciation": "ˈtækspeɪə",
+    "meaning": [
+      "podatnik"
+    ]
+  },
+  {
+    "id": "t-TB",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "TB",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "gruźlica"
+    ]
+  },
+  {
+    "id": "t-tea",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tea",
+    "pronunciation": "ti:",
+    "meaning": [
+      "herbata",
+      "podwieczorek",
+      "herbata ekspresowa",
+      "torebka herbaty",
+      "liść herbaty",
+      "fus herbaty"
+    ]
+  },
+  {
+    "id": "t-teach",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "teach",
+    "pronunciation": "ti:ʧ",
+    "meaning": [
+      "uczyć",
+      "nauczać"
+    ]
+  },
+  {
+    "id": "t-teacher",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "teacher",
+    "pronunciation": "ˈti:ʧə",
+    "meaning": [
+      "nauczyciel"
+    ]
+  },
+  {
+    "id": "t-teaching",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teaching",
+    "pronunciation": "ˈti:ʧɪŋ",
+    "meaning": [
+      "nauczanie",
+      "nauka"
+    ]
+  },
+  {
+    "id": "t-teacup",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teacup",
+    "pronunciation": "ˈti:kʌp",
+    "meaning": [
+      "filiżanka herbaty"
+    ]
+  },
+  {
+    "id": "t-teak",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "teak",
+    "pronunciation": "ti:k",
+    "meaning": [
+      "tek",
+      "drzewo tekowe",
+      "drewno tekowe"
+    ]
+  },
+  {
+    "id": "t-team",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "team",
+    "pronunciation": "ti:m",
+    "meaning": [
+      "zespół",
+      "drużyna"
+    ]
+  },
+  {
+    "id": "t-teamwork",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "teamwork",
+    "pronunciation": "ˈti:mwɜ:k",
+    "meaning": [
+      "praca zespołowa"
+    ]
+  },
+  {
+    "id": "t-teapot",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teapot",
+    "pronunciation": "ˈti:pɒt",
+    "meaning": [
+      "czajniczek",
+      "czajnik do herbaty",
+      "czajnik"
+    ]
+  },
+  {
+    "id": "t-tear",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tear",
+    "pronunciation": "/tɪə/",
+    "meaning": [
+      "łza",
+      "rozdzierać się",
+      "rozdzierać",
+      "wyrywać",
+      "pędzić",
+      "rozdarcie",
+      "odrywać",
+      "gaz łzawiący",
+      "zrywać",
+      "drzeć"
+    ]
+  },
+  {
+    "id": "t-tearful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tearful",
+    "pronunciation": "ˈtɪəfʊl",
+    "meaning": [
+      "łzawy",
+      "płaczliwy"
+    ]
+  },
+  {
+    "id": "t-tease",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "tease",
+    "pronunciation": "ti:z",
+    "meaning": [
+      "drażnić"
+    ]
+  },
+  {
+    "id": "t-teaspoon",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teaspoon",
+    "pronunciation": "ˈti:spu:n",
+    "meaning": [
+      "łyżeczka do herbaty",
+      "łyżeczka"
+    ]
+  },
+  {
+    "id": "t-teaspoonful",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "teaspoonful",
+    "pronunciation": "ˈti:spu:nfʊl",
+    "meaning": [
+      "łyżeczka do herbaty",
+      "łyżeczka"
+    ]
+  },
+  {
+    "id": "t-teat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "teat",
+    "pronunciation": "ti:t",
+    "meaning": [
+      "sutek",
+      "cycek",
+      "smoczek"
+    ]
+  },
+  {
+    "id": "t-teatime",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teatime",
+    "pronunciation": "ˈti:taɪm",
+    "meaning": [
+      "pora picia herbaty"
+    ]
+  },
+  {
+    "id": "t-tea-towel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tea-towel",
+    "pronunciation": "ˈti:taʊəl",
+    "meaning": [
+      "ścierka do naczyń",
+      "ścierka"
+    ]
+  },
+  {
+    "id": "t-technical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "technical",
+    "pronunciation": "ˈteknɪkəl",
+    "meaning": [
+      "techniczny",
+      "praktyczny",
+      "fachowy",
+      "technikum"
+    ]
+  },
+  {
+    "id": "t-technicality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "technicality",
+    "pronunciation": "ˌteknɪˈkælɪtɪ",
+    "meaning": [
+      "strona techniczna",
+      "punkt formalny"
+    ]
+  },
+  {
+    "id": "t-technically",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "technically",
+    "pronunciation": "ˈteknɪkəlɪ",
+    "meaning": [
+      "formalnie",
+      "ściśle biorąc",
+      "technicznie"
+    ]
+  },
+  {
+    "id": "t-technician",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "technician",
+    "pronunciation": "tekˈnɪʃən",
+    "meaning": [
+      "technik"
+    ]
+  },
+  {
+    "id": "t-technique",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "technique",
+    "pronunciation": "tekˈni:k",
+    "meaning": [
+      "technika"
+    ]
+  },
+  {
+    "id": "t-technological",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "technological",
+    "pronunciation": "ˌteknəˈlɒʤɪkəl",
+    "meaning": [
+      "technologiczny"
+    ]
+  },
+  {
+    "id": "t-technology",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "technology",
+    "pronunciation": "tekˈnɒləʤɪ",
+    "meaning": [
+      "technika",
+      "technologia"
+    ]
+  },
+  {
+    "id": "t-teddy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teddy",
+    "pronunciation": "ˈtedɪ",
+    "meaning": [
+      "miś pluszowy"
+    ]
+  },
+  {
+    "id": "t-tedious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tedious",
+    "pronunciation": "ˈti:dɪəs",
+    "meaning": [
+      "żmudny",
+      "nudny"
+    ]
+  },
+  {
+    "id": "t-teem",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "teem",
+    "pronunciation": "ti:m",
+    "meaning": [
+      "roić się"
+    ]
+  },
+  {
+    "id": "t-teenage",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "teenage",
+    "pronunciation": "ˈti:neɪʤ",
+    "meaning": [
+      "nastoletni"
+    ]
+  },
+  {
+    "id": "t-teenager",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teenager",
+    "pronunciation": "ˈti:neɪʤə",
+    "meaning": [
+      "nastolatek"
+    ]
+  },
+  {
+    "id": "t-teens",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "teens",
+    "pronunciation": "ˈti:nz",
+    "meaning": []
+  },
+  {
+    "id": "t-tee-shirt",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tee-shirt",
+    "pronunciation": "ˈti:ʃɜ:t",
+    "meaning": [
+      "koszulka trykotowa",
+      "podkoszulek"
+    ]
+  },
+  {
+    "id": "t-teeter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "teeter",
+    "pronunciation": "ˈti:tə",
+    "meaning": [
+      "chwiać się",
+      "znajdować się"
+    ]
+  },
+  {
+    "id": "t-teethe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "teethe",
+    "pronunciation": "ti:ð",
+    "meaning": [
+      "ząbkować"
+    ]
+  },
+  {
+    "id": "t-teetotal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "teetotal",
+    "pronunciation": "ti:ˈtəʊtəl",
+    "meaning": [
+      "abstynencki",
+      "nie pijący alkoholu"
+    ]
+  },
+  {
+    "id": "t-teetotaller",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "teetotaller",
+    "pronunciation": "ti:ˈtəʊtələ",
+    "meaning": [
+      "abstynent"
+    ]
+  },
+  {
+    "id": "t-TEFL",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "TEFL",
+    "pronunciation": "/ˌtiːiːefˈel/",
+    "meaning": [
+      "nauczanie języka angielskiego jako obcego"
+    ]
+  },
+  {
+    "id": "t-tel.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tel.",
+    "pronunciation": "/ˈtel/",
+    "meaning": [
+      "tel.",
+      "telefon"
+    ]
+  },
+  {
+    "id": "t-telecommunications",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "telecommunications",
+    "pronunciation": "ˌtelɪkəmju:nɪˈkeɪʃənz",
+    "meaning": [
+      "telekomunikacja",
+      "telekomunikacyjny"
+    ]
+  },
+  {
+    "id": "t-telegram",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "telegram",
+    "pronunciation": "ˈtelɪgræm",
+    "meaning": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "t-telegraph",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "telegraph",
+    "pronunciation": "ˈtelɪgræf",
+    "meaning": [
+      "telegraf"
+    ]
+  },
+  {
+    "id": "t-telegraphic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "telegraphic",
+    "pronunciation": "ˌtelɪˈgræfɪk",
+    "meaning": [
+      "telegraficzny"
+    ]
+  },
+  {
+    "id": "t-telepathic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "telepathic",
+    "pronunciation": "ˌtelɪˈpæθɪk",
+    "meaning": [
+      "telepatyczny"
+    ]
+  },
+  {
+    "id": "t-telepathy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "telepathy",
+    "pronunciation": "tɪˈlepəθɪ",
+    "meaning": [
+      "telepatia"
+    ]
+  },
+  {
+    "id": "t-telephonist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "telephonist",
+    "pronunciation": "tɪˈlefənɪst",
+    "meaning": [
+      "telefonista",
+      "telefonistka"
+    ]
+  },
+  {
+    "id": "t-telephoto_lens",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "telephoto lens",
+    "pronunciation": "ˌtelɪfəʊtəʊ ˈlenz",
+    "meaning": [
+      "teleobiektyw"
+    ]
+  },
+  {
+    "id": "t-telescope",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "telescope",
+    "pronunciation": "ˈtelɪskəʊp",
+    "meaning": [
+      "teleskop",
+      "składać się teleskopowo"
+    ]
+  },
+  {
+    "id": "t-telescopic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "telescopic",
+    "pronunciation": "ˌtelɪˈskɒpɪk",
+    "meaning": [
+      "teleskopowy"
+    ]
+  },
+  {
+    "id": "t-teletext",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "teletext",
+    "pronunciation": "ˈtelɪtekst",
+    "meaning": [
+      "telegazeta"
+    ]
+  },
+  {
+    "id": "t-teletype",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "teletype",
+    "pronunciation": "ˈtelɪtajp",
+    "meaning": [
+      "dalekopis"
+    ]
+  },
+  {
+    "id": "t-teletypwriter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "teletypwriter",
+    "pronunciation": "ˌtelɪˈtajpraɪtə",
+    "meaning": [
+      "dalekopis"
+    ]
+  },
+  {
+    "id": "t-televise",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "televise",
+    "pronunciation": "ˈtelɪvaɪz",
+    "meaning": [
+      "nadawać przez telewizję",
+      "nadawać"
+    ]
+  },
+  {
+    "id": "t-television",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "television",
+    "pronunciation": "ˈtelɪvɪʒən",
+    "meaning": [
+      "telewizja",
+      "telewizyjny"
+    ]
+  },
+  {
+    "id": "t-telex",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "telex",
+    "pronunciation": "ˈteleks",
+    "meaning": [
+      "dalekopis",
+      "teleks",
+      "nadawać teleksem",
+      "nadawać dalekopisem"
+    ]
+  },
+  {
+    "id": "t-tell",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "tell",
+    "pronunciation": "tel",
+    "meaning": [
+      "mówić",
+      "powiedzieć",
+      "dostrzegać",
+      "dawać znać",
+      "oddziaływać",
+      "rozróżniać",
+      "udzielać nagany",
+      "mówić prawdę"
+    ]
+  },
+  {
+    "id": "t-teller",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "teller",
+    "pronunciation": "ˈtelə",
+    "meaning": [
+      "kasjer"
+    ]
+  },
+  {
+    "id": "t-telling",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "telling",
+    "pronunciation": "ˈtelɪŋ",
+    "meaning": [
+      "skuteczny",
+      "wymowny",
+      "wiele mówiący"
+    ]
+  },
+  {
+    "id": "t-telltale",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "telltale",
+    "pronunciation": "ˈtelteɪl",
+    "meaning": [
+      "ostrzegawczy",
+      "wymowny"
+    ]
+  },
+  {
+    "id": "t-telly",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "telly",
+    "pronunciation": "ˈtelɪ",
+    "meaning": [
+      "telewizja",
+      "telewizor"
+    ]
+  },
+  {
+    "id": "t-temerity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "temerity",
+    "pronunciation": "tɪˈmerɪtɪ",
+    "meaning": [
+      "zuchwałość",
+      "czelność"
+    ]
+  },
+  {
+    "id": "t-temper",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "temper",
+    "pronunciation": "ˈtempə",
+    "meaning": [
+      "charakter",
+      "nastrój",
+      "humor",
+      "złość",
+      "wściekłość",
+      "hartować",
+      "utwardzać",
+      "łagodzić"
+    ]
+  },
+  {
+    "id": "t-temperament",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "temperament",
+    "pronunciation": "ˈtempərəmənt",
+    "meaning": [
+      "temperament"
+    ]
+  },
+  {
+    "id": "t-temperamental",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "temperamental",
+    "pronunciation": "ˌtempərəˈmentəl",
+    "meaning": [
+      "kapryśny",
+      "pełen temperamentu"
+    ]
+  },
+  {
+    "id": "t-temperance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "temperance",
+    "pronunciation": "ˈtempərəns",
+    "meaning": [
+      "umiar"
+    ]
+  },
+  {
+    "id": "t-temperate",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "temperate",
+    "pronunciation": "ˈtempərət",
+    "meaning": [
+      "umiarkowany"
+    ]
+  },
+  {
+    "id": "t-temperature",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "temperature",
+    "pronunciation": "ˈtempərəʧə",
+    "meaning": [
+      "temperatura"
+    ]
+  },
+  {
+    "id": "t-tempest",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "tempest",
+    "pronunciation": "ˈtempɪst",
+    "meaning": [
+      "burza"
+    ]
+  },
+  {
+    "id": "t-tempestuous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "tempestuous",
+    "pronunciation": "temˈpestjʊəs",
+    "meaning": [
+      "burzliwy"
+    ]
+  },
+  {
+    "id": "t-temple",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "temple",
+    "pronunciation": "ˈtempəl",
+    "meaning": [
+      "świątynia",
+      "skroń"
+    ]
+  },
+  {
+    "id": "t-tempo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tempo",
+    "pronunciation": "ˈtempəʊ",
+    "meaning": [
+      "tempo"
+    ]
+  },
+  {
+    "id": "t-temporal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "temporal",
+    "pronunciation": "ˈtempərəl",
+    "meaning": [
+      "czasowy",
+      "doczesny"
+    ]
+  },
+  {
+    "id": "t-temporary",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "temporary",
+    "pronunciation": "ˈtempərərɪ",
+    "meaning": [
+      "czasowy",
+      "tymczasowy"
+    ]
+  },
+  {
+    "id": "t-tempt",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tempt",
+    "pronunciation": "tempt",
+    "meaning": [
+      "kusić"
+    ]
+  },
+  {
+    "id": "t-temptation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "temptation",
+    "pronunciation": "temˈteɪʃən",
+    "meaning": [
+      "pokusa"
+    ]
+  },
+  {
+    "id": "t-ten",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "ten",
+    "pronunciation": "ten",
+    "meaning": [
+      "dziesięć",
+      "Dziesięcioro Przykazań"
+    ]
+  },
+  {
+    "id": "t-tenable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tenable",
+    "pronunciation": "ˈtenəbəl",
+    "meaning": [
+      "do utrzymania",
+      "mogący być obroniony"
+    ]
+  },
+  {
+    "id": "t-tenacious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tenacious",
+    "pronunciation": "tɪˈneɪʃəs",
+    "meaning": [
+      "nieustępliwy"
+    ]
+  },
+  {
+    "id": "t-tenancy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tenancy",
+    "pronunciation": "ˈtenənsɪ",
+    "meaning": [
+      "dzierżawa",
+      "najem"
+    ]
+  },
+  {
+    "id": "t-tenant",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tenant",
+    "pronunciation": "ˈtenənt",
+    "meaning": [
+      "najemca lokalu",
+      "najemca",
+      "dzierżawca"
+    ]
+  },
+  {
+    "id": "t-tend",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tend",
+    "pronunciation": "tend",
+    "meaning": [
+      "skłaniać się",
+      "zajmować się",
+      "opiekować się"
+    ]
+  },
+  {
+    "id": "t-tendency",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tendency",
+    "pronunciation": "ˈtendənsɪ",
+    "meaning": [
+      "tendencja",
+      "skłonność"
+    ]
+  },
+  {
+    "id": "t-tender",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tender",
+    "pronunciation": "ˈtendə",
+    "meaning": [
+      "delikatny",
+      "czuły",
+      "wrażliwy",
+      "dotkliwy",
+      "oferta przetargowa",
+      "oferta",
+      "składać",
+      "przedstawiać"
+    ]
+  },
+  {
+    "id": "t-tendon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tendon",
+    "pronunciation": "ˈtendən",
+    "meaning": [
+      "ścięgno"
+    ]
+  },
+  {
+    "id": "t-tendril",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tendril",
+    "pronunciation": "ˈtendrɪl",
+    "meaning": [
+      "wić"
+    ]
+  },
+  {
+    "id": "t-tenement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tenement",
+    "pronunciation": "ˈtenɪmənt",
+    "meaning": [
+      "dom czynszowy"
+    ]
+  },
+  {
+    "id": "t-tenet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tenet",
+    "pronunciation": "ˈtenɪt",
+    "meaning": [
+      "zasada",
+      "doktryna"
+    ]
+  },
+  {
+    "id": "t-Tennessee",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Tennessee",
+    "pronunciation": "tenəˈsi:",
+    "meaning": [
+      "Tennessee"
+    ]
+  },
+  {
+    "id": "t-tenor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tenor",
+    "pronunciation": "ˈtenə",
+    "meaning": [
+      "tenor",
+      "sens",
+      "wymowa",
+      "tenorowy"
+    ]
+  },
+  {
+    "id": "t-tense",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tense",
+    "pronunciation": "tens",
+    "meaning": [
+      "napięty",
+      "naprężony",
+      "napinać się",
+      "sztywnieć",
+      "czas"
+    ]
+  },
+  {
+    "id": "t-tension",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tension",
+    "pronunciation": "ˈtenʃən",
+    "meaning": [
+      "napięcie",
+      "naprężenie"
+    ]
+  },
+  {
+    "id": "t-tent",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tent",
+    "pronunciation": "tent",
+    "meaning": [
+      "namiot"
+    ]
+  },
+  {
+    "id": "t-tentacle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tentacle",
+    "pronunciation": "ˈtentəkəl",
+    "meaning": [
+      "macka",
+      "czułek"
+    ]
+  },
+  {
+    "id": "t-tentative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tentative",
+    "pronunciation": "ˈtentətɪv",
+    "meaning": [
+      "próbny",
+      "tymczasowy"
+    ]
+  },
+  {
+    "id": "t-tenterhooks",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "tenterhooks",
+    "pronunciation": "ˈtentəhʊks",
+    "meaning": []
+  },
+  {
+    "id": "t-tenth",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tenth",
+    "pronunciation": "tenθ",
+    "meaning": [
+      "dziesiąty"
+    ]
+  },
+  {
+    "id": "t-tenuous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tenuous",
+    "pronunciation": "ˈtenjʊəs",
+    "meaning": [
+      "wątły",
+      "subtelny",
+      "słaby"
+    ]
+  },
+  {
+    "id": "t-tenure",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tenure",
+    "pronunciation": "ˈtenjə",
+    "meaning": [
+      "czynsz",
+      "stała posada"
+    ]
+  },
+  {
+    "id": "t-tepid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tepid",
+    "pronunciation": "ˈtepɪd",
+    "meaning": [
+      "letni",
+      "niemrawy"
+    ]
+  },
+  {
+    "id": "t-term",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "term",
+    "pronunciation": "tɜ:m",
+    "meaning": [
+      "termin",
+      "semestr",
+      "okres",
+      "kadencja",
+      "warunki",
+      "nazywać",
+      "określać"
+    ]
+  },
+  {
+    "id": "t-terminal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "terminal",
+    "pronunciation": "ˈtɜ:mɪnəl",
+    "meaning": [
+      "śmiertelny",
+      "śmiertelnie chory",
+      "stacja końcowa",
+      "końcówka",
+      "terminal"
+    ]
+  },
+  {
+    "id": "t-terminate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "terminate",
+    "pronunciation": "ˈtɜ:mɪneɪt",
+    "meaning": [
+      "zakańczać",
+      "kończyć trasę",
+      "dalej nie jechać"
+    ]
+  },
+  {
+    "id": "t-terminology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "terminology",
+    "pronunciation": "ˌtɜ:mɪˈnɒləʤɪ",
+    "meaning": [
+      "terminologia"
+    ]
+  },
+  {
+    "id": "t-terminus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "terminus",
+    "pronunciation": "ˈtɜ:mɪnəs",
+    "meaning": [
+      "duża stacja końcowa",
+      "stacja końcowa"
+    ]
+  },
+  {
+    "id": "t-termite",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "termite",
+    "pronunciation": "ˈtɜ:maɪt",
+    "meaning": [
+      "termit"
+    ]
+  },
+  {
+    "id": "t-terrace",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "terrace",
+    "pronunciation": "ˈterəs",
+    "meaning": [
+      "zabudowa szeregowa",
+      "szereg domów",
+      "szereg",
+      "taras",
+      "miejsca stojące na stadionie",
+      "miejsca stojące"
+    ]
+  },
+  {
+    "id": "t-terraced",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "terraced",
+    "pronunciation": "ˈterəst",
+    "meaning": [
+      "z tarasami",
+      "szeregowy"
+    ]
+  },
+  {
+    "id": "t-terrain",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "terrain",
+    "pronunciation": "teˈreɪn",
+    "meaning": [
+      "teren"
+    ]
+  },
+  {
+    "id": "t-terrible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "terrible",
+    "pronunciation": "ˈterəbəl",
+    "meaning": [
+      "straszny",
+      "okropny"
+    ]
+  },
+  {
+    "id": "t-terrific",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "terrific",
+    "pronunciation": "təˈrɪfɪk",
+    "meaning": [
+      "strasznie fajny",
+      "straszny"
+    ]
+  },
+  {
+    "id": "t-terrify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "terrify",
+    "pronunciation": "ˈterɪfaɪ",
+    "meaning": [
+      "przerażać"
+    ]
+  },
+  {
+    "id": "t-territorial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "territorial",
+    "pronunciation": "ˌterɪˈtɔ:rɪəl",
+    "meaning": [
+      "terytorialny"
+    ]
+  },
+  {
+    "id": "t-territory",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "territory",
+    "pronunciation": "ˈterɪtərɪ",
+    "meaning": [
+      "terytorium",
+      "teren"
+    ]
+  },
+  {
+    "id": "t-terror",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "terror",
+    "pronunciation": "ˈterə",
+    "meaning": [
+      "przerażenie",
+      "terror"
+    ]
+  },
+  {
+    "id": "t-terrorism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "terrorism",
+    "pronunciation": "ˈterərɪzəm",
+    "meaning": [
+      "terroryzm"
+    ]
+  },
+  {
+    "id": "t-terrorist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "terrorist",
+    "pronunciation": "ˈterərɪst",
+    "meaning": [
+      "terrorysta"
+    ]
+  },
+  {
+    "id": "t-terroristic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "terroristic",
+    "pronunciation": "ˌterəˈrɪstɪk",
+    "meaning": [
+      "terrorystyczny"
+    ]
+  },
+  {
+    "id": "t-terrorize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "terrorize",
+    "pronunciation": "ˈterəraɪz",
+    "meaning": [
+      "terroryzować"
+    ]
+  },
+  {
+    "id": "t-terror-stricken",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "terror-stricken",
+    "pronunciation": "ˈterəstrɪkən",
+    "meaning": [
+      "przerażony"
+    ]
+  },
+  {
+    "id": "t-terse",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "terse",
+    "pronunciation": "tɜ:s",
+    "meaning": [
+      "oschły",
+      "krótki"
+    ]
+  },
+  {
+    "id": "t-TESL",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "TESL",
+    "pronunciation": "ˈtesəl ˌ⋅⋅⋅ˈ⋅",
+    "meaning": [
+      "nauczanie angielskiego jako języka drugiego"
+    ]
+  },
+  {
+    "id": "t-test",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "test",
+    "pronunciation": "test",
+    "meaning": [
+      "sprawdzać",
+      "testować",
+      "test",
+      "sprawdzian",
+      "egzamin",
+      "badanie laboratoryjne",
+      "badanie",
+      "precedens sądowy",
+      "spotkanie międzynarodowe",
+      "próbówka"
+    ]
+  },
+  {
+    "id": "t-testament",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "testament",
+    "pronunciation": "ˈtestəmənt",
+    "meaning": [
+      "testament",
+      "świadek"
+    ]
+  },
+  {
+    "id": "t-testicle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "testicle",
+    "pronunciation": "ˈtestɪkəl",
+    "meaning": [
+      "jądro"
+    ]
+  },
+  {
+    "id": "t-testify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "testify",
+    "pronunciation": "ˈtestɪfaɪ",
+    "meaning": [
+      "składać zeznania",
+      "świadczyć"
+    ]
+  },
+  {
+    "id": "t-testimony",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "testimony",
+    "pronunciation": "ˈtestɪmənɪ",
+    "meaning": [
+      "zeznanie",
+      "świadectwo"
+    ]
+  },
+  {
+    "id": "t-tetanus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tetanus",
+    "pronunciation": "ˈtetənəs",
+    "meaning": [
+      "tężec"
+    ]
+  },
+  {
+    "id": "t-tether",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tether",
+    "pronunciation": "ˈteðə",
+    "meaning": [
+      "przywiązywać"
+    ]
+  },
+  {
+    "id": "t-Texan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Texan",
+    "pronunciation": "ˈteksən",
+    "meaning": [
+      "teksaski"
+    ]
+  },
+  {
+    "id": "t-Texas",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Texas",
+    "pronunciation": "ˈteksəs",
+    "meaning": [
+      "Teksas"
+    ]
+  },
+  {
+    "id": "t-text",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "text",
+    "pronunciation": "tekst",
+    "meaning": [
+      "tekst"
+    ]
+  },
+  {
+    "id": "t-textbook",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "textbook",
+    "pronunciation": "ˈtekstbʊk",
+    "meaning": [
+      "podręcznik"
+    ]
+  },
+  {
+    "id": "t-textiles",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "textiles",
+    "pronunciation": "ˈtekstaɪlz",
+    "meaning": [
+      "przemysł tekstylny"
+    ]
+  },
+  {
+    "id": "t-texture",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "texture",
+    "pronunciation": "ˈteksʧə",
+    "meaning": [
+      "faktura"
+    ]
+  },
+  {
+    "id": "t-Thames",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Thames",
+    "pronunciation": "temz",
+    "meaning": []
+  },
+  {
+    "id": "t-than",
+    "level": "A1",
+    "partOfSpeech": "conjunction",
+    "word": "than",
+    "pronunciation": "/ðæn/",
+    "meaning": [
+      "z niż"
+    ]
+  },
+  {
+    "id": "t-thank",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "thank",
+    "pronunciation": "θæŋk",
+    "meaning": [
+      "dziękować",
+      "podziękowania"
+    ]
+  },
+  {
+    "id": "t-thankful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "thankful",
+    "pronunciation": "ˈθæŋkfʊl",
+    "meaning": [
+      "szczęśliwy",
+      "uszczęśliwiony"
+    ]
+  },
+  {
+    "id": "t-thankless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "thankless",
+    "pronunciation": "ˈθæŋklɪs",
+    "meaning": [
+      "niewdzięczny"
+    ]
+  },
+  {
+    "id": "t-Thanksgiving",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Thanksgiving",
+    "pronunciation": "ˈθæŋksgɪvɪŋ",
+    "meaning": [
+      "święto dziękczynienia"
+    ]
+  },
+  {
+    "id": "t-that",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "that",
+    "pronunciation": "/ðæt/",
+    "meaning": [
+      "ten",
+      "tamten",
+      "to",
+      "że",
+      "który",
+      "jaki",
+      "aż taki",
+      "taki",
+      "aż tak",
+      "tak"
+    ]
+  },
+  {
+    "id": "t-thatched",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "thatched",
+    "pronunciation": "ˈθæʧt",
+    "meaning": [
+      "kryty strzechą"
+    ]
+  },
+  {
+    "id": "t-thaw",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thaw",
+    "pronunciation": "θɔ:",
+    "meaning": [
+      "odwilż",
+      "tajać",
+      "odtajać",
+      "rozmrażać"
+    ]
+  },
+  {
+    "id": "t-theatre",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "theatre",
+    "pronunciation": "ˈθɪətə",
+    "meaning": [
+      "teatr",
+      "sala operacyjna"
+    ]
+  },
+  {
+    "id": "t-theatre-goer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "theatre-goer",
+    "pronunciation": "ˈθɪətəgəʊə",
+    "meaning": [
+      "teatroman"
+    ]
+  },
+  {
+    "id": "t-theatrical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "theatrical",
+    "pronunciation": "θɪˈætrɪkəl",
+    "meaning": [
+      "teatralny"
+    ]
+  },
+  {
+    "id": "t-theft",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "theft",
+    "pronunciation": "θeft",
+    "meaning": [
+      "kradzież"
+    ]
+  },
+  {
+    "id": "t-their",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "their",
+    "pronunciation": "ðeə",
+    "meaning": [
+      "ich"
+    ]
+  },
+  {
+    "id": "t-theirs",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "theirs",
+    "pronunciation": "ðeəz",
+    "meaning": [
+      "ich"
+    ]
+  },
+  {
+    "id": "t-theme",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "theme",
+    "pronunciation": "θi:m",
+    "meaning": [
+      "temat",
+      "sygnał audycji",
+      "sygnał",
+      "tytułowy",
+      "melodia przewodnia",
+      "sygnał muzyczny"
+    ]
+  },
+  {
+    "id": "t-themselves",
+    "level": "A2",
+    "partOfSpeech": "pronoun",
+    "word": "themselves",
+    "pronunciation": "ðemˈselvz",
+    "meaning": [
+      "się",
+      "siebie",
+      "sobie",
+      "sami"
+    ]
+  },
+  {
+    "id": "t-then",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "then",
+    "pronunciation": "ðen",
+    "meaning": [
+      "wtedy",
+      "później",
+      "więc",
+      "wówczas",
+      "jednak"
+    ]
+  },
+  {
+    "id": "t-theology",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "theology",
+    "pronunciation": "θɪˈɒləʤɪ",
+    "meaning": [
+      "teologia"
+    ]
+  },
+  {
+    "id": "t-theorem",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "theorem",
+    "pronunciation": "ˈθɪərəm",
+    "meaning": [
+      "twierdzenie"
+    ]
+  },
+  {
+    "id": "t-theoretical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "theoretical",
+    "pronunciation": "θɪəˈretɪkəl",
+    "meaning": [
+      "teoretyczny"
+    ]
+  },
+  {
+    "id": "t-theorize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "theorize",
+    "pronunciation": "ˈθɪəraɪz",
+    "meaning": [
+      "teoretyzować"
+    ]
+  },
+  {
+    "id": "t-theory",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "theory",
+    "pronunciation": "ˈθɪərɪ",
+    "meaning": [
+      "teoria"
+    ]
+  },
+  {
+    "id": "t-therapeutic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "therapeutic",
+    "pronunciation": "ˌθerəˈpju:tɪk(əl)",
+    "meaning": [
+      "terapeutyczny"
+    ]
+  },
+  {
+    "id": "t-therapist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "therapist",
+    "pronunciation": "ˈθerəpɪst",
+    "meaning": [
+      "terapeuta"
+    ]
+  },
+  {
+    "id": "t-therapy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "therapy",
+    "pronunciation": "ˈθerəpɪ",
+    "meaning": [
+      "terapia"
+    ]
+  },
+  {
+    "id": "t-thereabouts",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "thereabouts",
+    "pronunciation": "ˌðeərəˈbaʊts",
+    "meaning": [
+      "w pobliżu"
+    ]
+  },
+  {
+    "id": "t-thereafter",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "thereafter",
+    "pronunciation": "ˌðeərˈɑ:ftə",
+    "meaning": [
+      "później",
+      "potem"
+    ]
+  },
+  {
+    "id": "t-thereby",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "thereby",
+    "pronunciation": "ˈðeəbaɪ",
+    "meaning": [
+      "skutkiem tego",
+      "przez to"
+    ]
+  },
+  {
+    "id": "t-therefore",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "therefore",
+    "pronunciation": "ˈðeəfɔ:",
+    "meaning": [
+      "dlatego"
+    ]
+  },
+  {
+    "id": "t-therein",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "therein",
+    "pronunciation": "ˌðeərˈɪn",
+    "meaning": [
+      "w tym"
+    ]
+  },
+  {
+    "id": "t-thermal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "thermal",
+    "pronunciation": "ˈθɜ:məl",
+    "meaning": [
+      "termiczny",
+      "ocieplany"
+    ]
+  },
+  {
+    "id": "t-thermometer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thermometer",
+    "pronunciation": "θəˈmɒmɪtə",
+    "meaning": [
+      "termometr"
+    ]
+  },
+  {
+    "id": "t-thermos",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thermos",
+    "pronunciation": "ˈθɜ:məs",
+    "meaning": [
+      "termos"
+    ]
+  },
+  {
+    "id": "t-thermostat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thermostat",
+    "pronunciation": "ˈθɜ:məstæt",
+    "meaning": [
+      "termostat"
+    ]
+  },
+  {
+    "id": "t-thesaurus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "thesaurus",
+    "pronunciation": "θɪˈsɔ:rəs",
+    "meaning": [
+      "tezaurus"
+    ]
+  },
+  {
+    "id": "t-thesis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "thesis",
+    "pronunciation": "ˈθi:sɪs",
+    "meaning": [
+      "teza",
+      "rozprawa",
+      "praca"
+    ]
+  },
+  {
+    "id": "t-they",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "they",
+    "pronunciation": "ðeɪ",
+    "meaning": [
+      "oni",
+      "one"
+    ]
+  },
+  {
+    "id": "t-thick",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "thick",
+    "pronunciation": "θɪk",
+    "meaning": [
+      "gruby",
+      "gęsty",
+      "głęboki",
+      "przygłupi",
+      "ciemny",
+      "stłumiony"
+    ]
+  },
+  {
+    "id": "t-thicken",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "thicken",
+    "pronunciation": "θɪkən",
+    "meaning": [
+      "gęstnieć",
+      "zagęszczać"
+    ]
+  },
+  {
+    "id": "t-thicket",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "thicket",
+    "pronunciation": "ˈθɪkɪt",
+    "meaning": [
+      "gęstwina"
+    ]
+  },
+  {
+    "id": "t-thickness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thickness",
+    "pronunciation": "ˈθɪknɪs",
+    "meaning": [
+      "grubość"
+    ]
+  },
+  {
+    "id": "t-thickset",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "thickset",
+    "pronunciation": "ˌθɪkˈset",
+    "meaning": [
+      "krępy"
+    ]
+  },
+  {
+    "id": "t-thick-skinned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "thick-skinned",
+    "pronunciation": "ˌθɪkˈskɪnd",
+    "meaning": [
+      "gruboskórny"
+    ]
+  },
+  {
+    "id": "t-thief",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thief",
+    "pronunciation": "θi:f",
+    "meaning": [
+      "złodziej"
+    ]
+  },
+  {
+    "id": "t-thigh",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thigh",
+    "pronunciation": "θaɪ",
+    "meaning": [
+      "udo"
+    ]
+  },
+  {
+    "id": "t-thimble",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thimble",
+    "pronunciation": "ˈθɪmbəl",
+    "meaning": [
+      "naparstek"
+    ]
+  },
+  {
+    "id": "t-thin",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "thin",
+    "pronunciation": "θɪn",
+    "meaning": [
+      "cienki",
+      "chudy",
+      "rzadki",
+      "przerzedzać się",
+      "rozrzedzać",
+      "rozwadniać"
+    ]
+  },
+  {
+    "id": "t-thing",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "thing",
+    "pronunciation": "θɪŋ",
+    "meaning": [
+      "rzecz",
+      "coś",
+      "sprawy"
+    ]
+  },
+  {
+    "id": "t-thingamabob",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thingamabob",
+    "pronunciation": "ˈθɪŋəməbɒb",
+    "meaning": [
+      "takie coś"
+    ]
+  },
+  {
+    "id": "t-think",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "think",
+    "pronunciation": "θɪŋk",
+    "meaning": [
+      "myśleć",
+      "przypomnieć sobie",
+      "sądzić",
+      "wymyślić",
+      "mieć opinię",
+      "przemyśleć",
+      "wynajdywać",
+      "wymyślać"
+    ]
+  },
+  {
+    "id": "t-thinker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thinker",
+    "pronunciation": "ˈθɪŋkə",
+    "meaning": [
+      "myśliciel"
+    ]
+  },
+  {
+    "id": "t-third",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "third",
+    "pronunciation": "θɜ:d",
+    "meaning": [
+      "trzeci",
+      "osoba trzecia"
+    ]
+  },
+  {
+    "id": "t-thirdly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "thirdly",
+    "pronunciation": "ˈθɜ:dlɪ",
+    "meaning": [
+      "po trzecie"
+    ]
+  },
+  {
+    "id": "t-third-rate",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "third-rate",
+    "pronunciation": "ˌθɜ:dˈreɪt",
+    "meaning": [
+      "trzeciorzędny"
+    ]
+  },
+  {
+    "id": "t-thirst",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thirst",
+    "pronunciation": "θɜ:st",
+    "meaning": [
+      "pragnienie"
+    ]
+  },
+  {
+    "id": "t-thirsty",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "thirsty",
+    "pronunciation": "ˈθɜ:stɪ",
+    "meaning": [
+      "spragniony"
+    ]
+  },
+  {
+    "id": "t-thirteen",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "thirteen",
+    "pronunciation": "ˌθɜ:ˈti:n",
+    "meaning": [
+      "trzynaście"
+    ]
+  },
+  {
+    "id": "t-thirteenth",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "thirteenth",
+    "pronunciation": "ˌθɜ:ˈti:nθ",
+    "meaning": [
+      "trzynasty"
+    ]
+  },
+  {
+    "id": "t-thirtieth",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "thirtieth",
+    "pronunciation": "ˈθɜ:tɪəθ",
+    "meaning": [
+      "trzydziesty"
+    ]
+  },
+  {
+    "id": "t-thirty",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "thirty",
+    "pronunciation": "ˈθɜ:tɪ",
+    "meaning": [
+      "trzydzieści"
+    ]
+  },
+  {
+    "id": "t-this",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "this",
+    "pronunciation": "ðɪs",
+    "meaning": [
+      "ten",
+      "to",
+      "obecny",
+      "dzisiejszy",
+      "najbliższy",
+      "tutejszy",
+      "taki"
+    ]
+  },
+  {
+    "id": "t-thistle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thistle",
+    "pronunciation": "ˈθɪsəl",
+    "meaning": [
+      "oset"
+    ]
+  },
+  {
+    "id": "t-thong",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thong",
+    "pronunciation": "θɒŋ",
+    "meaning": [
+      "rzemień",
+      "pasek"
+    ]
+  },
+  {
+    "id": "t-thorn",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thorn",
+    "pronunciation": "θɔ:n",
+    "meaning": [
+      "cierń",
+      "kolec",
+      "krzak z kolcami",
+      "krzak"
+    ]
+  },
+  {
+    "id": "t-thorough",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "thorough",
+    "pronunciation": "ˈθʌrə",
+    "meaning": [
+      "drobiazgowy",
+      "dokładny"
+    ]
+  },
+  {
+    "id": "t-thoroughfare",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "thoroughfare",
+    "pronunciation": "ˈθʌrəfeə",
+    "meaning": [
+      "arteria"
+    ]
+  },
+  {
+    "id": "t-though",
+    "level": "A2",
+    "partOfSpeech": "conjunction",
+    "word": "though",
+    "pronunciation": "ðəʊ",
+    "meaning": [
+      "chociaż",
+      "jednak"
+    ]
+  },
+  {
+    "id": "t-thought",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thought",
+    "pronunciation": "θɔ:t",
+    "meaning": [
+      "myśl",
+      "myślenie",
+      "zamyślenie",
+      "pogląd"
+    ]
+  },
+  {
+    "id": "t-thoughtful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "thoughtful",
+    "pronunciation": "ˈθɔ:tfʊl",
+    "meaning": [
+      "zamyślony",
+      "troskliwy",
+      "rozważny"
+    ]
+  },
+  {
+    "id": "t-thoughtless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "thoughtless",
+    "pronunciation": "ˈθɔ:tlɪs",
+    "meaning": [
+      "bezmyślny"
+    ]
+  },
+  {
+    "id": "t-thousand",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "thousand",
+    "pronunciation": "ˈθaʊzənd",
+    "meaning": [
+      "tysiąc"
+    ]
+  },
+  {
+    "id": "t-thousandth",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "thousandth",
+    "pronunciation": "ˈθaʊzənθ",
+    "meaning": [
+      "tysięczny"
+    ]
+  },
+  {
+    "id": "t-thread",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thread",
+    "pronunciation": "θred",
+    "meaning": [
+      "nić",
+      "gwint",
+      "wątek",
+      "nawlekać",
+      "przesuwać się"
+    ]
+  },
+  {
+    "id": "t-threadbare",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "threadbare",
+    "pronunciation": "ˈθredbeə",
+    "meaning": [
+      "wytarty",
+      "wyświechtany"
+    ]
+  },
+  {
+    "id": "t-threat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "threat",
+    "pronunciation": "θret",
+    "meaning": [
+      "groźba",
+      "pogróżka",
+      "zagrożenie"
+    ]
+  },
+  {
+    "id": "t-threaten",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "threaten",
+    "pronunciation": "ˈθretən",
+    "meaning": [
+      "grozić",
+      "zagrażać",
+      "stwarzać groźbę"
+    ]
+  },
+  {
+    "id": "t-three",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "three",
+    "pronunciation": "θri:",
+    "meaning": [
+      "trzy"
+    ]
+  },
+  {
+    "id": "t-three-dimensional",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "three-dimensional",
+    "pronunciation": "ˌθri:daɪˈmenʃənəl",
+    "meaning": [
+      "trójwymiarowy"
+    ]
+  },
+  {
+    "id": "t-three-quarters",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "three-quarters",
+    "pronunciation": "ˌθri:ˈkwɔ:təz",
+    "meaning": [
+      "trzy czwarte"
+    ]
+  },
+  {
+    "id": "t-thresh",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "thresh",
+    "pronunciation": "θreʃ",
+    "meaning": [
+      "młócić"
+    ]
+  },
+  {
+    "id": "t-threshold",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "threshold",
+    "pronunciation": "ˈθreʃhəʊld",
+    "meaning": [
+      "próg"
+    ]
+  },
+  {
+    "id": "t-thrift",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "thrift",
+    "pronunciation": "θrɪft",
+    "meaning": [
+      "oszczędność"
+    ]
+  },
+  {
+    "id": "t-thrifty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "thrifty",
+    "pronunciation": "ˈθrɪftɪ",
+    "meaning": [
+      "oszczędny"
+    ]
+  },
+  {
+    "id": "t-thrill",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thrill",
+    "pronunciation": "θrɪl",
+    "meaning": [
+      "dreszcz",
+      "ekscytacja",
+      "ekscytować"
+    ]
+  },
+  {
+    "id": "t-thriller",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thriller",
+    "pronunciation": "ˈθrɪlə",
+    "meaning": [
+      "dreszczowiec"
+    ]
+  },
+  {
+    "id": "t-thrive",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "thrive",
+    "pronunciation": "θraɪv",
+    "meaning": [
+      "prosperować",
+      "rozkwitać"
+    ]
+  },
+  {
+    "id": "t-throat",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "throat",
+    "pronunciation": "θrəʊt",
+    "meaning": [
+      "gardło"
+    ]
+  },
+  {
+    "id": "t-throb",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "throb",
+    "pronunciation": "θrɒb",
+    "meaning": [
+      "dudnić",
+      "pulsować",
+      "dudnienie",
+      "puls"
+    ]
+  },
+  {
+    "id": "t-throes",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "throes",
+    "pronunciation": "θrəʊz",
+    "meaning": []
+  },
+  {
+    "id": "t-throne",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "throne",
+    "pronunciation": "θrəʊn",
+    "meaning": [
+      "tron"
+    ]
+  },
+  {
+    "id": "t-throng",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "throng",
+    "pronunciation": "θrɒŋ",
+    "meaning": [
+      "ciżba",
+      "rzesza",
+      "tłoczyć się"
+    ]
+  },
+  {
+    "id": "t-throttle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "throttle",
+    "pronunciation": "ˈθrɒtəl",
+    "meaning": [
+      "dusić",
+      "przepustnica"
+    ]
+  },
+  {
+    "id": "t-throughout",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "throughout",
+    "pronunciation": "θru:ˈaʊt",
+    "meaning": [
+      "przez cały czas",
+      "przez",
+      "całkowicie"
+    ]
+  },
+  {
+    "id": "t-throw",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "throw",
+    "pronunciation": "θrəʊ",
+    "meaning": [
+      "rzucać",
+      "zarzucać",
+      "wrzucać",
+      "miotać",
+      "zrzucać",
+      "wpędzać",
+      "angażować",
+      "wpadać",
+      "konsternować",
+      "zbijać z tropu",
+      "wyrzucać",
+      "odrzucać",
+      "przepuszczać",
+      "wymiotować",
+      "zwracać",
+      "wzbijać"
+    ]
+  },
+  {
+    "id": "t-throwaway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "throwaway",
+    "pronunciation": "ˈθrəʊəweɪ",
+    "meaning": [
+      "jednorazowy",
+      "zrobiony mimochodem"
+    ]
+  },
+  {
+    "id": "t-thrush",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thrush",
+    "pronunciation": "θrʌʃ",
+    "meaning": [
+      "drozd"
+    ]
+  },
+  {
+    "id": "t-thrust",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "thrust",
+    "pronunciation": "θrʌst",
+    "meaning": [
+      "pchać",
+      "wpychać",
+      "przepychać się",
+      "pchnięcie",
+      "ciąg"
+    ]
+  },
+  {
+    "id": "t-Thu.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Thu.",
+    "pronunciation": "/ˈθɜːzdeɪ/",
+    "meaning": [
+      "czwartek"
+    ]
+  },
+  {
+    "id": "t-thud",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thud",
+    "pronunciation": "θʌd",
+    "meaning": [
+      "głuchy łomot",
+      "głucho uderzać"
+    ]
+  },
+  {
+    "id": "t-thug",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thug",
+    "pronunciation": "θʌg",
+    "meaning": [
+      "zbir",
+      "łotr"
+    ]
+  },
+  {
+    "id": "t-thumb",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "thumb",
+    "pronunciation": "θʌm",
+    "meaning": [
+      "kciuk",
+      "przekartkowywać"
+    ]
+  },
+  {
+    "id": "t-thumbtack",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thumbtack",
+    "pronunciation": "ˈθʌmtæk",
+    "meaning": [
+      "pinezka"
+    ]
+  },
+  {
+    "id": "t-thump",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thump",
+    "pronunciation": "θʌmp",
+    "meaning": [
+      "walić",
+      "uderzać z łoskotem",
+      "uderzać",
+      "uderzenie",
+      "łomot",
+      "grzmotnięcie"
+    ]
+  },
+  {
+    "id": "t-thunder",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thunder",
+    "pronunciation": "ˈθʌndə",
+    "meaning": [
+      "grzmot",
+      "piorun",
+      "grzmieć",
+      "piorunować"
+    ]
+  },
+  {
+    "id": "t-thunderbolt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "thunderbolt",
+    "pronunciation": "ˈθʌndəbəʊlt",
+    "meaning": [
+      "uderzenie pioruna"
+    ]
+  },
+  {
+    "id": "t-thunderous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "thunderous",
+    "pronunciation": "ˈθʌndərəs",
+    "meaning": [
+      "grzmiący",
+      "burzliwy"
+    ]
+  },
+  {
+    "id": "t-thunderstorm",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thunderstorm",
+    "pronunciation": "ˈθʌndəstɔ:m",
+    "meaning": [
+      "burza z piorunami",
+      "burza"
+    ]
+  },
+  {
+    "id": "t-Thursday",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Thursday",
+    "pronunciation": "ˈθɜ:zdɪ",
+    "meaning": [
+      "czwartek"
+    ]
+  },
+  {
+    "id": "t-thus",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "thus",
+    "pronunciation": "ðʌs",
+    "meaning": [
+      "toteż",
+      "dlatego",
+      "tak",
+      "w taki sposób"
+    ]
+  },
+  {
+    "id": "t-thwart",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "thwart",
+    "pronunciation": "θwɔ:t",
+    "meaning": [
+      "unicestwić",
+      "stać na przeszkodzie"
+    ]
+  },
+  {
+    "id": "t-thyme",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "thyme",
+    "pronunciation": "taɪm",
+    "meaning": [
+      "tymianek"
+    ]
+  },
+  {
+    "id": "t-tiara",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tiara",
+    "pronunciation": "tɪˈɑ:rə",
+    "meaning": [
+      "diadem",
+      "tiara"
+    ]
+  },
+  {
+    "id": "t-tic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tic",
+    "pronunciation": "tɪk",
+    "meaning": [
+      "tik"
+    ]
+  },
+  {
+    "id": "t-tick",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tick",
+    "pronunciation": "tɪk",
+    "meaning": [
+      "ptaszek",
+      "znaczek",
+      "cykanie",
+      "tykanie",
+      "kleszcz",
+      "zaznaczać",
+      "cykać",
+      "tykać",
+      "objeżdżać",
+      "iść w miarę dobrze"
+    ]
+  },
+  {
+    "id": "t-ticket",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ticket",
+    "pronunciation": "ˈtɪkɪt",
+    "meaning": [
+      "bilet",
+      "mandat",
+      "etykietka",
+      "paragon",
+      "karta"
+    ]
+  },
+  {
+    "id": "t-tickle",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "tickle",
+    "pronunciation": "ˈtɪkəl",
+    "meaning": [
+      "łaskotać",
+      "łechtać"
+    ]
+  },
+  {
+    "id": "t-ticklish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ticklish",
+    "pronunciation": "ˈtɪklɪʃ",
+    "meaning": [
+      "delikatny",
+      "drażliwy",
+      "mający łaskotki"
+    ]
+  },
+  {
+    "id": "t-tidal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tidal",
+    "pronunciation": "ˈtaɪdəl",
+    "meaning": [
+      "pływowy",
+      "przypływowy"
+    ]
+  },
+  {
+    "id": "t-tide",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tide",
+    "pronunciation": "taɪd",
+    "meaning": [
+      "pływ",
+      "przypływ",
+      "odpływ",
+      "fala",
+      "pomóc przetrwać"
+    ]
+  },
+  {
+    "id": "t-tidy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "tidy",
+    "pronunciation": "taɪdɪ",
+    "meaning": [
+      "schludny",
+      "czysty",
+      "niezły",
+      "porządkować",
+      "sprzątać",
+      "uprzątać"
+    ]
+  },
+  {
+    "id": "t-tie",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tie",
+    "pronunciation": "taɪ",
+    "meaning": [
+      "wiązać",
+      "przywiązywać",
+      "zawiązywać",
+      "związywać się",
+      "związywać",
+      "remisować",
+      "iść równo",
+      "krawat",
+      "związek",
+      "więzy",
+      "remis",
+      "ograniczać",
+      "mieć związane ręce",
+      "wiązać się"
+    ]
+  },
+  {
+    "id": "t-tier",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tier",
+    "pronunciation": "tɪə",
+    "meaning": [
+      "rząd"
+    ]
+  },
+  {
+    "id": "t-tiff",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tiff",
+    "pronunciation": "tɪf",
+    "meaning": [
+      "sprzeczka"
+    ]
+  },
+  {
+    "id": "t-tiger",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tiger",
+    "pronunciation": "ˈtaɪgə",
+    "meaning": [
+      "tygrys"
+    ]
+  },
+  {
+    "id": "t-tight",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "tight",
+    "pronunciation": "taɪt",
+    "meaning": [
+      "ciasny",
+      "szczelny",
+      "hermetyczny",
+      "mocny",
+      "naciągnięty",
+      "rygorystyczny",
+      "surowy",
+      "naprężony",
+      "niewystarczający",
+      "zwarty",
+      "zalany",
+      "pijany",
+      "mocno",
+      "szczelnie",
+      "hermetycznie",
+      "rajstopy"
+    ]
+  },
+  {
+    "id": "t-tighten",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "tighten",
+    "pronunciation": "ˈtaɪtən",
+    "meaning": [
+      "zaciskać się",
+      "zaciskać",
+      "naprężać się",
+      "naprężać",
+      "naciągać",
+      "wzmacniać",
+      "zaostrzać"
+    ]
+  },
+  {
+    "id": "t-tight-fisted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tight-fisted",
+    "pronunciation": "ˌtaɪtˈfɪstɪd",
+    "meaning": [
+      "skąpy"
+    ]
+  },
+  {
+    "id": "t-tightrope",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tightrope",
+    "pronunciation": "ˈtaɪtrəʊp",
+    "meaning": [
+      "lina do akrobatyki",
+      "lina"
+    ]
+  },
+  {
+    "id": "t-tile",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tile",
+    "pronunciation": "taɪl",
+    "meaning": [
+      "płytka",
+      "dachówka",
+      "kafel"
+    ]
+  },
+  {
+    "id": "t-till",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "till",
+    "pronunciation": "tɪl",
+    "meaning": [
+      "aż do",
+      "do",
+      "kasa",
+      "uprawiać"
+    ]
+  },
+  {
+    "id": "t-tilt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tilt",
+    "pronunciation": "tɪlt",
+    "meaning": [
+      "przechylać się",
+      "przechylać",
+      "przechylenie",
+      "pochylenie"
+    ]
+  },
+  {
+    "id": "t-timber",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "timber",
+    "pronunciation": "ˈtɪmbə",
+    "meaning": [
+      "drewno",
+      "belka"
+    ]
+  },
+  {
+    "id": "t-timeless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "timeless",
+    "pronunciation": "ˈtaɪmlɪs",
+    "meaning": [
+      "wieczny",
+      "ponadczasowy"
+    ]
+  },
+  {
+    "id": "t-timely",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "timely",
+    "pronunciation": "ˈtaɪmlɪ",
+    "meaning": [
+      "aktualny",
+      "na czas",
+      "w porę"
+    ]
+  },
+  {
+    "id": "t-timer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "timer",
+    "pronunciation": "ˈtaɪmə",
+    "meaning": [
+      "minutnik"
+    ]
+  },
+  {
+    "id": "t-timetable",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "timetable",
+    "pronunciation": "ˈtaɪmteɪbəl",
+    "meaning": [
+      "rozkład",
+      "rozkład jazdy"
+    ]
+  },
+  {
+    "id": "t-timid",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "timid",
+    "pronunciation": "ˈtɪmɪd",
+    "meaning": [
+      "nieśmiały"
+    ]
+  },
+  {
+    "id": "t-timing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "timing",
+    "pronunciation": "ˈtaɪmɪŋ",
+    "meaning": [
+      "poczucie czasu",
+      "wyczucie chwili",
+      "synchronizacja"
+    ]
+  },
+  {
+    "id": "t-timpani",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "timpani",
+    "pronunciation": "ˈtɪmpənɪ",
+    "meaning": [
+      "kotły"
+    ]
+  },
+  {
+    "id": "t-tin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tin",
+    "pronunciation": "tɪn",
+    "meaning": [
+      "cyna",
+      "cynowy",
+      "puszka",
+      "puszkować",
+      "konserwować"
+    ]
+  },
+  {
+    "id": "t-tinfoil",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tinfoil",
+    "pronunciation": "ˈtɪnfɔɪl",
+    "meaning": [
+      "folia aluminiowa",
+      "staniol"
+    ]
+  },
+  {
+    "id": "t-tinge",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tinge",
+    "pronunciation": "tɪnʤ",
+    "meaning": [
+      "odcień",
+      "zabarwiać"
+    ]
+  },
+  {
+    "id": "t-tinged",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tinged",
+    "pronunciation": "tɪnʤd",
+    "meaning": [
+      "zabarwiony"
+    ]
+  },
+  {
+    "id": "t-tingle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tingle",
+    "pronunciation": "ˈtɪŋgəl",
+    "meaning": [
+      "kłuć",
+      "szczypać"
+    ]
+  },
+  {
+    "id": "t-tinker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tinker",
+    "pronunciation": "ˈtɪŋkə",
+    "meaning": [
+      "kotlarz",
+      "dłubać się"
+    ]
+  },
+  {
+    "id": "t-tinkle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tinkle",
+    "pronunciation": "ˈtɪŋkəl",
+    "meaning": [
+      "brzęczeć",
+      "brzęczenie"
+    ]
+  },
+  {
+    "id": "t-tinned",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "tinned",
+    "pronunciation": "tɪnd",
+    "meaning": [
+      "konserwowy"
+    ]
+  },
+  {
+    "id": "t-tinny",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tinny",
+    "pronunciation": "ˈtɪnɪ",
+    "meaning": [
+      "jazgotliwy",
+      "przenikliwy",
+      "blaszany"
+    ]
+  },
+  {
+    "id": "t-tin-opener",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tin-opener",
+    "pronunciation": "ˈtɪnəʊpənə",
+    "meaning": [
+      "otwieracz do konserw"
+    ]
+  },
+  {
+    "id": "t-tinsel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tinsel",
+    "pronunciation": "ˈtɪnsəl",
+    "meaning": [
+      "girlanda bożonarodzeniowa"
+    ]
+  },
+  {
+    "id": "t-tint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tint",
+    "pronunciation": "tɪnt",
+    "meaning": [
+      "barwa",
+      "farbować"
+    ]
+  },
+  {
+    "id": "t-tinted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tinted",
+    "pronunciation": "ˈtɪntɪd",
+    "meaning": [
+      "kolorowy",
+      "farbowany"
+    ]
+  },
+  {
+    "id": "t-tiny",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "tiny",
+    "pronunciation": "ˈtaɪnɪ",
+    "meaning": [
+      "malutki"
+    ]
+  },
+  {
+    "id": "t-tip",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tip",
+    "pronunciation": "tɪp",
+    "meaning": [
+      "koniec",
+      "koniuszek",
+      "skuwka",
+      "nasadka",
+      "napiwek",
+      "śmietnisko",
+      "śmieci",
+      "hałda",
+      "poufna rada",
+      "przechylać",
+      "przekrzywiać",
+      "wysypywać",
+      "dawać napiwek",
+      "udzielać poufnych informacji"
+    ]
+  },
+  {
+    "id": "t-tip-off",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tip-off",
+    "pronunciation": "ˈtɪpɒf",
+    "meaning": [
+      "poufna informacja"
+    ]
+  },
+  {
+    "id": "t-tipped",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tipped",
+    "pronunciation": "tɪpt",
+    "meaning": [
+      "zakończony",
+      "z filtrem"
+    ]
+  },
+  {
+    "id": "t-tipple",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tipple",
+    "pronunciation": "ˈtɪpəl",
+    "meaning": [
+      "trunek"
+    ]
+  },
+  {
+    "id": "t-tipsy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tipsy",
+    "pronunciation": "ˈtɪpsɪ",
+    "meaning": [
+      "wstawiony",
+      "ululany"
+    ]
+  },
+  {
+    "id": "t-tiptoe",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tiptoe",
+    "pronunciation": "ˈtɪptəʊ",
+    "meaning": [
+      "iść na palcach"
+    ]
+  },
+  {
+    "id": "t-tire",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tire",
+    "pronunciation": "ˈtaɪə",
+    "meaning": [
+      "opona",
+      "męczyć się",
+      "męczyć"
+    ]
+  },
+  {
+    "id": "t-tired",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "tired",
+    "pronunciation": "ˈtaɪəd",
+    "meaning": [
+      "zmęczony",
+      "wyczerpany"
+    ]
+  },
+  {
+    "id": "t-tireless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tireless",
+    "pronunciation": "ˈtaɪəlɪs",
+    "meaning": [
+      "niezmordowany",
+      "niestrudzony"
+    ]
+  },
+  {
+    "id": "t-tiresome",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tiresome",
+    "pronunciation": "ˈtaɪəsəm",
+    "meaning": [
+      "męczący"
+    ]
+  },
+  {
+    "id": "t-tiring",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "tiring",
+    "pronunciation": "ˈtaɪərɪŋ",
+    "meaning": [
+      "nużący"
+    ]
+  },
+  {
+    "id": "t-tissue",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tissue",
+    "pronunciation": "ˈtɪʃu:",
+    "meaning": [
+      "tkanka",
+      "chusteczka higieniczna",
+      "bibułka"
+    ]
+  },
+  {
+    "id": "t-tit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tit",
+    "pronunciation": "tɪt",
+    "meaning": [
+      "sikorka"
+    ]
+  },
+  {
+    "id": "t-titbit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "titbit",
+    "pronunciation": "ˈtɪtbɪt",
+    "meaning": [
+      "dobry kąsek",
+      "kąsek"
+    ]
+  },
+  {
+    "id": "t-titillate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "titillate",
+    "pronunciation": "ˈtɪtɪleɪt",
+    "meaning": [
+      "łechtać",
+      "podniecać"
+    ]
+  },
+  {
+    "id": "t-titivate",
+    "level": "C2",
+    "partOfSpeech": "verb",
+    "word": "titivate",
+    "pronunciation": "ˈtɪtɪveɪt",
+    "meaning": [
+      "wysztafirować"
+    ]
+  },
+  {
+    "id": "t-title",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "title",
+    "pronunciation": "ˈtaɪtəl",
+    "meaning": [
+      "tytuł"
+    ]
+  },
+  {
+    "id": "t-titled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "titled",
+    "pronunciation": "ˈtaɪtəld",
+    "meaning": [
+      "utytułowany"
+    ]
+  },
+  {
+    "id": "t-title-holder",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "title-holder",
+    "pronunciation": "ˈtaɪtəlhəʊldə",
+    "meaning": [
+      "zdobywca tytułu"
+    ]
+  },
+  {
+    "id": "t-titter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "titter",
+    "pronunciation": "ˈtɪtə",
+    "meaning": [
+      "chichotać"
+    ]
+  },
+  {
+    "id": "t-tittle-tattle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tittle-tattle",
+    "pronunciation": "ˈtɪtəl ˌtætəl",
+    "meaning": [
+      "plotka"
+    ]
+  },
+  {
+    "id": "t-titular",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "titular",
+    "pronunciation": "ˈtɪtjʊlə",
+    "meaning": [
+      "tytularny"
+    ]
+  },
+  {
+    "id": "t-to",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "to",
+    "pronunciation": "/tuː/",
+    "meaning": [
+      "aby",
+      "żeby",
+      "do",
+      "na",
+      "po",
+      "z",
+      "ku",
+      "dla",
+      "za"
+    ]
+  },
+  {
+    "id": "t-toad",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toad",
+    "pronunciation": "təʊd",
+    "meaning": [
+      "ropucha"
+    ]
+  },
+  {
+    "id": "t-toadstool",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "toadstool",
+    "pronunciation": "ˈtəʊdstu:l",
+    "meaning": [
+      "grzyb trujący"
+    ]
+  },
+  {
+    "id": "t-toaster",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toaster",
+    "pronunciation": "ˈtəʊstə",
+    "meaning": [
+      "opiekacz do grzanek",
+      "opiekacz"
+    ]
+  },
+  {
+    "id": "t-tobacco",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tobacco",
+    "pronunciation": "təˈbækəʊ",
+    "meaning": [
+      "tytoń"
+    ]
+  },
+  {
+    "id": "t-tobacconist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tobacconist",
+    "pronunciation": "təˈbækənɪst",
+    "meaning": [
+      "sklep z papierosami"
+    ]
+  },
+  {
+    "id": "t-today",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "today",
+    "pronunciation": "təˈdeɪ",
+    "meaning": [
+      "dzisiaj",
+      "obecnie"
+    ]
+  },
+  {
+    "id": "t-toddle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "toddle",
+    "pronunciation": "ˈtɒdəl",
+    "meaning": [
+      "dreptać"
+    ]
+  },
+  {
+    "id": "t-toddler",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toddler",
+    "pronunciation": "ˈtɒdlə",
+    "meaning": [
+      "pędrak",
+      "małe dziecko"
+    ]
+  },
+  {
+    "id": "t-toddy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "toddy",
+    "pronunciation": "ˈtɒdɪ",
+    "meaning": [
+      "grog"
+    ]
+  },
+  {
+    "id": "t-to-do",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "to-do",
+    "pronunciation": "təˈdu:",
+    "meaning": [
+      "wrzawa",
+      "zamieszanie"
+    ]
+  },
+  {
+    "id": "t-toe",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "toe",
+    "pronunciation": "təʊ",
+    "meaning": [
+      "palec u nogi",
+      "palec"
+    ]
+  },
+  {
+    "id": "t-toenail",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toenail",
+    "pronunciation": "ˈtəʊneɪl",
+    "meaning": [
+      "paznokieć palca nogi",
+      "paznokieć"
+    ]
+  },
+  {
+    "id": "t-toffee",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toffee",
+    "pronunciation": "ˈtɒfɪ",
+    "meaning": [
+      "toffi"
+    ]
+  },
+  {
+    "id": "t-together",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "together",
+    "pronunciation": "təˈgeðə",
+    "meaning": [
+      "razem",
+      "łącznie"
+    ]
+  },
+  {
+    "id": "t-toil",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "toil",
+    "pronunciation": "tɔɪl",
+    "meaning": [
+      "trudzić się",
+      "trud"
+    ]
+  },
+  {
+    "id": "t-toilet",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "toilet",
+    "pronunciation": "ˈtɔɪlɪt",
+    "meaning": [
+      "toaleta",
+      "ubikacja",
+      "miska klozetowa",
+      "miska",
+      "toaletowy"
+    ]
+  },
+  {
+    "id": "t-toiletries",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toiletries",
+    "pronunciation": "ˈtɔɪlɪtrɪz",
+    "meaning": [
+      "przybory toaletowe"
+    ]
+  },
+  {
+    "id": "t-token",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "token",
+    "pronunciation": "ˈtəʊkən",
+    "meaning": [
+      "kupon",
+      "żeton",
+      "oznaka",
+      "symbol",
+      "symboliczny"
+    ]
+  },
+  {
+    "id": "t-Tokyo",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Tokyo",
+    "pronunciation": "ˈtəʊkɪəʊ",
+    "meaning": [
+      "Tokio"
+    ]
+  },
+  {
+    "id": "t-tolerable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tolerable",
+    "pronunciation": "ˈtɒlərəbəl",
+    "meaning": [
+      "znośny",
+      "do wytrzymania"
+    ]
+  },
+  {
+    "id": "t-tolerance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tolerance",
+    "pronunciation": "ˈtɒlərəns",
+    "meaning": [
+      "wyrozumiałość",
+      "tolerancja"
+    ]
+  },
+  {
+    "id": "t-tolerant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tolerant",
+    "pronunciation": "ˈtɒlərənt",
+    "meaning": [
+      "tolerancyjny"
+    ]
+  },
+  {
+    "id": "t-tolerate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tolerate",
+    "pronunciation": "ˈtɒləreɪt",
+    "meaning": [
+      "tolerować",
+      "znosić"
+    ]
+  },
+  {
+    "id": "t-toll",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "toll",
+    "pronunciation": "təʊl",
+    "meaning": [
+      "bić",
+      "myto",
+      "opłata",
+      "straty"
+    ]
+  },
+  {
+    "id": "t-tomato",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tomato",
+    "pronunciation": "təˈmɑ:təʊ",
+    "meaning": [
+      "pomidor"
+    ]
+  },
+  {
+    "id": "t-tomb",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tomb",
+    "pronunciation": "tu:m",
+    "meaning": [
+      "grobowiec"
+    ]
+  },
+  {
+    "id": "t-tomboy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tomboy",
+    "pronunciation": "ˈtɒmbɔɪ",
+    "meaning": [
+      "chłopczyca"
+    ]
+  },
+  {
+    "id": "t-tombstone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tombstone",
+    "pronunciation": "ˈtu:mstəʊn",
+    "meaning": [
+      "płyta nagrobna"
+    ]
+  },
+  {
+    "id": "t-tomcat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tomcat",
+    "pronunciation": "ˈtɒmkæt",
+    "meaning": [
+      "kocur"
+    ]
+  },
+  {
+    "id": "t-tomorrow",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "tomorrow",
+    "pronunciation": "təˈmɒrəʊ",
+    "meaning": [
+      "jutro"
+    ]
+  },
+  {
+    "id": "t-ton",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ton",
+    "pronunciation": "tʌn",
+    "meaning": [
+      "tona"
+    ]
+  },
+  {
+    "id": "t-tone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tone",
+    "pronunciation": "təʊn",
+    "meaning": [
+      "ton",
+      "dźwięk",
+      "sygnał",
+      "koloryt",
+      "tonacja",
+      "tonować"
+    ]
+  },
+  {
+    "id": "t-tone-deaf",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tone-deaf",
+    "pronunciation": "ˌtəʊnˈdef",
+    "meaning": [
+      "niemuzykalny",
+      "bez słuchu muzycznego"
+    ]
+  },
+  {
+    "id": "t-tongs",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tongs",
+    "pronunciation": "tɒŋz",
+    "meaning": [
+      "szczypce"
+    ]
+  },
+  {
+    "id": "t-tongue",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tongue",
+    "pronunciation": "tʌŋ",
+    "meaning": [
+      "język"
+    ]
+  },
+  {
+    "id": "t-tongue-tied",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tongue-tied",
+    "pronunciation": "ˈtʌŋtaɪd",
+    "meaning": []
+  },
+  {
+    "id": "t-tongue-twister",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tongue-twister",
+    "pronunciation": "ˈtʌŋˌtwɪstə",
+    "meaning": [
+      "wyrażenie trudne do wymówienia"
+    ]
+  },
+  {
+    "id": "t-tonic",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tonic",
+    "pronunciation": "ˈtɒnɪk",
+    "meaning": [
+      "tonik",
+      "środek tonizujący",
+      "odżywka"
+    ]
+  },
+  {
+    "id": "t-tonight",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tonight",
+    "pronunciation": "təˈnaɪt",
+    "meaning": [
+      "dzisiaj wieczorem",
+      "wieczorem",
+      "dzisiejszy"
+    ]
+  },
+  {
+    "id": "t-tonnage",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tonnage",
+    "pronunciation": "ˈtʌnɪʤ",
+    "meaning": [
+      "tonaż"
+    ]
+  },
+  {
+    "id": "t-tonne",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tonne",
+    "pronunciation": "tʌn",
+    "meaning": [
+      "tona"
+    ]
+  },
+  {
+    "id": "t-tonsil",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tonsil",
+    "pronunciation": "ˈtɒnsəl",
+    "meaning": [
+      "migdałek"
+    ]
+  },
+  {
+    "id": "t-tonsillitis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tonsillitis",
+    "pronunciation": "ˌtɒnsɪˈlaɪtɪs",
+    "meaning": [
+      "zapalenie migdałków"
+    ]
+  },
+  {
+    "id": "t-too",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "too",
+    "pronunciation": "tu:",
+    "meaning": [
+      "też",
+      "także",
+      "zbyt",
+      "za"
+    ]
+  },
+  {
+    "id": "t-tool",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tool",
+    "pronunciation": "tu:l",
+    "meaning": [
+      "narzędzie"
+    ]
+  },
+  {
+    "id": "t-toot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "toot",
+    "pronunciation": "tu:t",
+    "meaning": [
+      "trąbić",
+      "zatrąbienie"
+    ]
+  },
+  {
+    "id": "t-tooth",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tooth",
+    "pronunciation": "tu:θ",
+    "meaning": [
+      "ząb"
+    ]
+  },
+  {
+    "id": "t-toothache",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toothache",
+    "pronunciation": "ˈtu:θeɪk",
+    "meaning": [
+      "ból zęba"
+    ]
+  },
+  {
+    "id": "t-toothbrush",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "toothbrush",
+    "pronunciation": "ˈtu:θbrʌʃ",
+    "meaning": [
+      "szczoteczka do zębów"
+    ]
+  },
+  {
+    "id": "t-toothpaste",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "toothpaste",
+    "pronunciation": "ˈtu:θpeɪst",
+    "meaning": [
+      "pasta do zębów"
+    ]
+  },
+  {
+    "id": "t-toothpick",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toothpick",
+    "pronunciation": "ˈtu:θpɪk",
+    "meaning": [
+      "wykałaczka"
+    ]
+  },
+  {
+    "id": "t-top-heavy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "top-heavy",
+    "pronunciation": "ˌtɒpˈhevɪ",
+    "meaning": [
+      "przeciążony na górze"
+    ]
+  },
+  {
+    "id": "t-topic",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "topic",
+    "pronunciation": "ˈtɒpɪk",
+    "meaning": [
+      "temat",
+      "zagadnienie"
+    ]
+  },
+  {
+    "id": "t-topical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "topical",
+    "pronunciation": "ˈtɒpɪkəl",
+    "meaning": [
+      "aktualny"
+    ]
+  },
+  {
+    "id": "t-top-level",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "top-level",
+    "pronunciation": "ˌtɒpˈlevəl",
+    "meaning": [
+      "na najwyższym szczeblu"
+    ]
+  },
+  {
+    "id": "t-topmost",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "topmost",
+    "pronunciation": "ˈtɒpməʊst",
+    "meaning": [
+      "najwyższy"
+    ]
+  },
+  {
+    "id": "t-topping",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "topping",
+    "pronunciation": "ˈtɒpɪŋ",
+    "meaning": [
+      "wierzch",
+      "polewa"
+    ]
+  },
+  {
+    "id": "t-topple",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "topple",
+    "pronunciation": "ˈtɒpəl",
+    "meaning": [
+      "przewracać się",
+      "obalać"
+    ]
+  },
+  {
+    "id": "t-top-secret",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "top-secret",
+    "pronunciation": "ˌtɒpˈsi:krət",
+    "meaning": [
+      "ściśle tajny"
+    ]
+  },
+  {
+    "id": "t-top-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "top-up",
+    "pronunciation": "ˈtɒpʌp",
+    "meaning": [
+      "dolewka"
+    ]
+  },
+  {
+    "id": "t-torch",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "torch",
+    "pronunciation": "tɔ:ʧ",
+    "meaning": [
+      "latarka",
+      "pochodnia"
+    ]
+  },
+  {
+    "id": "t-torment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "torment",
+    "pronunciation": "/ˈtɔːment/",
+    "meaning": [
+      "męka",
+      "udręka",
+      "męczyć",
+      "dręczyć"
+    ]
+  },
+  {
+    "id": "t-tormentor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tormentor",
+    "pronunciation": "tɔ:ˈmentə",
+    "meaning": [
+      "dręczyciel"
+    ]
+  },
+  {
+    "id": "t-torn",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "torn",
+    "pronunciation": "tɔ:n",
+    "meaning": [
+      "rozdarty"
+    ]
+  },
+  {
+    "id": "t-tornado",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tornado",
+    "pronunciation": "tɔ:ˈneɪdəʊ",
+    "meaning": [
+      "tornado"
+    ]
+  },
+  {
+    "id": "t-torpedo",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "torpedo",
+    "pronunciation": "tɔ:ˈpi:dəʊ",
+    "meaning": [
+      "torpeda",
+      "torpedować"
+    ]
+  },
+  {
+    "id": "t-torrent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "torrent",
+    "pronunciation": "ˈtɒrənt",
+    "meaning": [
+      "potok"
+    ]
+  },
+  {
+    "id": "t-torso",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "torso",
+    "pronunciation": "ˈtɔ:səʊ",
+    "meaning": [
+      "tors"
+    ]
+  },
+  {
+    "id": "t-tortoise",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tortoise",
+    "pronunciation": "ˈtɔ:təs",
+    "meaning": [
+      "żółw"
+    ]
+  },
+  {
+    "id": "t-tortoiseshell",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tortoiseshell",
+    "pronunciation": "ˈtɔ:təsʃel",
+    "meaning": [
+      "szylkret"
+    ]
+  },
+  {
+    "id": "t-tortuous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tortuous",
+    "pronunciation": "ˈtɔ:tjʊəs",
+    "meaning": [
+      "kręty",
+      "zawiły"
+    ]
+  },
+  {
+    "id": "t-torture",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "torture",
+    "pronunciation": "ˈtɔ:ʧə",
+    "meaning": [
+      "tortura",
+      "torturować"
+    ]
+  },
+  {
+    "id": "t-Tory",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Tory",
+    "pronunciation": "ˈtɔ:rɪ",
+    "meaning": [
+      "torys"
+    ]
+  },
+  {
+    "id": "t-toss",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "toss",
+    "pronunciation": "tɒs",
+    "meaning": [
+      "rzucać się",
+      "rzucać",
+      "wstrząsać",
+      "przewracać",
+      "rzucać monetę",
+      "szarpnięcie",
+      "rzucenie monetą",
+      "rzucenie",
+      "losować",
+      "rozstrzygać przez rzut monety"
+    ]
+  },
+  {
+    "id": "t-tot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tot",
+    "pronunciation": "tɒt",
+    "meaning": [
+      "berbeć",
+      "dzidziuś",
+      "kieliszeczek"
+    ]
+  },
+  {
+    "id": "t-total",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "total",
+    "pronunciation": "ˈtəʊtəl",
+    "meaning": [
+      "ogólna liczba",
+      "ogólny",
+      "całkowity",
+      "totalny",
+      "podliczać ogółem",
+      "wynosić ogółem"
+    ]
+  },
+  {
+    "id": "t-totalitarian",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "totalitarian",
+    "pronunciation": "təʊˌtælɪˈteərɪən",
+    "meaning": [
+      "totalitarny"
+    ]
+  },
+  {
+    "id": "t-totter",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "totter",
+    "pronunciation": "ˈtɒtə",
+    "meaning": [
+      "zataczać się",
+      "chwiać się"
+    ]
+  },
+  {
+    "id": "t-touch",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "touch",
+    "pronunciation": "tʌʧ",
+    "meaning": [
+      "dotykać się",
+      "dotykać",
+      "stykać się",
+      "kontaktować się",
+      "poruszać",
+      "wzruszać",
+      "dotyk",
+      "akcent",
+      "podejście",
+      "odrobina",
+      "lądować",
+      "wodować",
+      "wspominać"
+    ]
+  },
+  {
+    "id": "t-touchdown",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "touchdown",
+    "pronunciation": "ˈtʌʧdaʊn",
+    "meaning": [
+      "lądowanie",
+      "wodowanie"
+    ]
+  },
+  {
+    "id": "t-touching",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "touching",
+    "pronunciation": "ˈtʌʧɪŋ",
+    "meaning": [
+      "wzruszający",
+      "poruszający"
+    ]
+  },
+  {
+    "id": "t-touchy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "touchy",
+    "pronunciation": "ˈtʌʧɪ",
+    "meaning": [
+      "drażliwy"
+    ]
+  },
+  {
+    "id": "t-tough",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "tough",
+    "pronunciation": "tʌf",
+    "meaning": [
+      "twardy",
+      "ciężki"
+    ]
+  },
+  {
+    "id": "t-toughen",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "toughen",
+    "pronunciation": "ˈtʌfən",
+    "meaning": [
+      "wzmacniać",
+      "utwardzać",
+      "twardnieć"
+    ]
+  },
+  {
+    "id": "t-toupee",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "toupee",
+    "pronunciation": "ˈtu:peɪ",
+    "meaning": [
+      "mała peruka",
+      "peruka"
+    ]
+  },
+  {
+    "id": "t-tour",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tour",
+    "pronunciation": "tʊə",
+    "meaning": [
+      "podróż",
+      "objazd",
+      "wycieczka",
+      "zwiedzanie",
+      "objeżdżać"
+    ]
+  },
+  {
+    "id": "t-tourism",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tourism",
+    "pronunciation": "ˈtʊərɪzəm",
+    "meaning": [
+      "turystyka"
+    ]
+  },
+  {
+    "id": "t-tourist",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tourist",
+    "pronunciation": "ˈtʊərɪst",
+    "meaning": [
+      "turysta"
+    ]
+  },
+  {
+    "id": "t-tournament",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tournament",
+    "pronunciation": "ˈtʊənəmənt",
+    "meaning": [
+      "turniej"
+    ]
+  },
+  {
+    "id": "t-tousled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tousled",
+    "pronunciation": "ˈtaʊzəld",
+    "meaning": [
+      "rozczochrany"
+    ]
+  },
+  {
+    "id": "t-tout",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tout",
+    "pronunciation": "taʊt",
+    "meaning": [
+      "reklamować",
+      "chodzić",
+      "konik",
+      "sprzedawca biletów"
+    ]
+  },
+  {
+    "id": "t-tow",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tow",
+    "pronunciation": "təʊ",
+    "meaning": [
+      "holować",
+      "holowanie",
+      "hol"
+    ]
+  },
+  {
+    "id": "t-toward",
+    "level": "A2",
+    "partOfSpeech": "preposition",
+    "word": "toward",
+    "pronunciation": "təˈwɔ:d(z)",
+    "meaning": [
+      "w kierunku",
+      "w stronę",
+      "wobec",
+      "pod",
+      "w pobliżu",
+      "na",
+      "w celu",
+      "co do"
+    ]
+  },
+  {
+    "id": "t-towel",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "towel",
+    "pronunciation": "ˈtaʊəl",
+    "meaning": [
+      "ręcznik"
+    ]
+  },
+  {
+    "id": "t-towelling",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "towelling",
+    "pronunciation": "ˈtaʊəlɪŋ",
+    "meaning": [
+      "tkanina froté"
+    ]
+  },
+  {
+    "id": "t-tower",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tower",
+    "pronunciation": "ˈtaʊə",
+    "meaning": [
+      "wieża",
+      "górować",
+      "wieżowiec"
+    ]
+  },
+  {
+    "id": "t-towering",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "towering",
+    "pronunciation": "ˈtaʊərɪŋ",
+    "meaning": [
+      "wyniosły"
+    ]
+  },
+  {
+    "id": "t-towpath",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "towpath",
+    "pronunciation": "ˈtəʊpɑ:θ",
+    "meaning": [
+      "ścieżka"
+    ]
+  },
+  {
+    "id": "t-towrope",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "towrope",
+    "pronunciation": "ˈtəʊrəʊp",
+    "meaning": [
+      "lina holownicza"
+    ]
+  },
+  {
+    "id": "t-toxic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "toxic",
+    "pronunciation": "ˈtɒksɪk",
+    "meaning": [
+      "toksyczny"
+    ]
+  },
+  {
+    "id": "t-toy",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "toy",
+    "pronunciation": "tɔɪ",
+    "meaning": [
+      "zabawka",
+      "bawić się",
+      "chodzić"
+    ]
+  },
+  {
+    "id": "t-tr.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tr.",
+    "pronunciation": "/ˈtɜː/",
+    "meaning": [
+      "tłum.",
+      "tłumaczony",
+      "tłumaczenie",
+      "przechodni"
+    ]
+  },
+  {
+    "id": "t-trace",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trace",
+    "pronunciation": "treɪs",
+    "meaning": [
+      "wyśledzić",
+      "prześledzić",
+      "odbijać",
+      "kopiować",
+      "ślad"
+    ]
+  },
+  {
+    "id": "t-tracing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tracing",
+    "pronunciation": "ˈtreɪsɪŋ",
+    "meaning": [
+      "kopia"
+    ]
+  },
+  {
+    "id": "t-track",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "track",
+    "pronunciation": "træk",
+    "meaning": [
+      "szlak",
+      "tor",
+      "ścieżka",
+      "bieżnia",
+      "ślady",
+      "trop",
+      "tropić",
+      "wytropić"
+    ]
+  },
+  {
+    "id": "t-tracker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tracker",
+    "pronunciation": "ˈtrækə",
+    "meaning": [
+      "tropiciel"
+    ]
+  },
+  {
+    "id": "t-tracksuit",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tracksuit",
+    "pronunciation": "ˈtræksu:t",
+    "meaning": [
+      "dres"
+    ]
+  },
+  {
+    "id": "t-tract",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tract",
+    "pronunciation": "trækt",
+    "meaning": [
+      "traktat",
+      "obszar"
+    ]
+  },
+  {
+    "id": "t-tractor",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tractor",
+    "pronunciation": "ˈtræktə",
+    "meaning": [
+      "traktor",
+      "podajnik"
+    ]
+  },
+  {
+    "id": "t-trade",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trade",
+    "pronunciation": "treɪd",
+    "meaning": [
+      "handel",
+      "zawód",
+      "dziedzina",
+      "handlować",
+      "przehandlować",
+      "handlowy",
+      "firmowy",
+      "nazwa firmowa",
+      "związek zawodowy",
+      "związkowiec",
+      "działacz związku zawodowego"
+    ]
+  },
+  {
+    "id": "t-trademark",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trademark",
+    "pronunciation": "ˈtreɪdmɑ:k",
+    "meaning": [
+      "znak firmowy",
+      "cecha typowa"
+    ]
+  },
+  {
+    "id": "t-trader",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trader",
+    "pronunciation": "ˈtreɪdə",
+    "meaning": [
+      "handlarz",
+      "kupiec"
+    ]
+  },
+  {
+    "id": "t-tradesman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tradesman",
+    "pronunciation": "ˈtreɪdzmən",
+    "meaning": [
+      "handlowiec"
+    ]
+  },
+  {
+    "id": "t-tradition",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tradition",
+    "pronunciation": "trəˈdɪʃən",
+    "meaning": [
+      "tradycja"
+    ]
+  },
+  {
+    "id": "t-traditional",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "traditional",
+    "pronunciation": "trəˈdɪʃənəl",
+    "meaning": [
+      "tradycyjny"
+    ]
+  },
+  {
+    "id": "t-traffic",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "traffic",
+    "pronunciation": "ˈtræfɪk",
+    "meaning": [
+      "ruch drogowy",
+      "ruch",
+      "handel",
+      "handlować",
+      "światła drogowe"
+    ]
+  },
+  {
+    "id": "t-tragedy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tragedy",
+    "pronunciation": "ˈtræʤɪdɪ",
+    "meaning": [
+      "tragedia"
+    ]
+  },
+  {
+    "id": "t-tragic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tragic",
+    "pronunciation": "ˈtræʤɪk",
+    "meaning": [
+      "tragiczny"
+    ]
+  },
+  {
+    "id": "t-trail",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trail",
+    "pronunciation": "treɪl",
+    "meaning": [
+      "ścieżka",
+      "szlak",
+      "ślad",
+      "smuga",
+      "ciągnąć się",
+      "ciągnąć",
+      "wlec za sobą",
+      "wlec",
+      "tracić punkty",
+      "tracić"
+    ]
+  },
+  {
+    "id": "t-trailer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trailer",
+    "pronunciation": "ˈtreɪlə",
+    "meaning": [
+      "przyczepa",
+      "zapowiedź"
+    ]
+  },
+  {
+    "id": "t-train",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "train",
+    "pronunciation": "treɪn",
+    "meaning": [
+      "pociąg",
+      "kolejka",
+      "tren",
+      "tresować",
+      "trenować",
+      "ćwiczyć",
+      "szkolić się",
+      "szkolić"
+    ]
+  },
+  {
+    "id": "t-trained",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "trained",
+    "pronunciation": "ˈtreɪnd",
+    "meaning": [
+      "szkolony",
+      "wykwalifikowany"
+    ]
+  },
+  {
+    "id": "t-trainee",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trainee",
+    "pronunciation": "treɪˈni:",
+    "meaning": [
+      "praktykant"
+    ]
+  },
+  {
+    "id": "t-trainer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trainer",
+    "pronunciation": "ˈtreɪnə",
+    "meaning": [
+      "trener",
+      "treser",
+      "trampki"
+    ]
+  },
+  {
+    "id": "t-traipse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "traipse",
+    "pronunciation": "treɪps",
+    "meaning": [
+      "włóczyć się",
+      "ciągnąć się"
+    ]
+  },
+  {
+    "id": "t-trait",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trait",
+    "pronunciation": "treɪt",
+    "meaning": [
+      "cecha"
+    ]
+  },
+  {
+    "id": "t-traitor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "traitor",
+    "pronunciation": "ˈtreɪtə",
+    "meaning": [
+      "zdrajca"
+    ]
+  },
+  {
+    "id": "t-tram",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tram",
+    "pronunciation": "træm",
+    "meaning": [
+      "tramwaj"
+    ]
+  },
+  {
+    "id": "t-tramp",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tramp",
+    "pronunciation": "træmp",
+    "meaning": [
+      "tramp",
+      "włóczęga",
+      "wlec się",
+      "stąpać"
+    ]
+  },
+  {
+    "id": "t-trample",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "trample",
+    "pronunciation": "ˈtræmpəl",
+    "meaning": [
+      "deptać",
+      "nadepnąć",
+      "zdeptywać"
+    ]
+  },
+  {
+    "id": "t-trampoline",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trampoline",
+    "pronunciation": "ˈtræmpəlɪn",
+    "meaning": [
+      "trampolina"
+    ]
+  },
+  {
+    "id": "t-trance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trance",
+    "pronunciation": "trɑ:ns",
+    "meaning": [
+      "trans"
+    ]
+  },
+  {
+    "id": "t-tranquil",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tranquil",
+    "pronunciation": "ˈtræŋkwɪl",
+    "meaning": [
+      "spokojny"
+    ]
+  },
+  {
+    "id": "t-trans.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trans.",
+    "pronunciation": "/trænz/",
+    "meaning": [
+      "tłum.",
+      "tłumaczony",
+      "tłumaczenie",
+      "przechodni"
+    ]
+  },
+  {
+    "id": "t-transact",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "transact",
+    "pronunciation": "trænˈzækt",
+    "meaning": [
+      "przeprowadzać"
+    ]
+  },
+  {
+    "id": "t-transaction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "transaction",
+    "pronunciation": "trænˈzækʃən",
+    "meaning": [
+      "transakcja"
+    ]
+  },
+  {
+    "id": "t-transcend",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "transcend",
+    "pronunciation": "trænˈsend",
+    "meaning": [
+      "przekraczać"
+    ]
+  },
+  {
+    "id": "t-transcendental",
+    "level": "C2",
+    "partOfSpeech": "adjective",
+    "word": "transcendental",
+    "pronunciation": "ˌtrænsənˈdentəl",
+    "meaning": [
+      "transcendentny"
+    ]
+  },
+  {
+    "id": "t-transcribe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "transcribe",
+    "pronunciation": "trænsˈkraɪb",
+    "meaning": [
+      "transkrybować"
+    ]
+  },
+  {
+    "id": "t-transcript",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "transcript",
+    "pronunciation": "ˈtrænskrɪpt",
+    "meaning": [
+      "zapis",
+      "transkrypcja",
+      "odpis"
+    ]
+  },
+  {
+    "id": "t-transfer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "transfer",
+    "pronunciation": "/ˈtrænsfɜː/",
+    "meaning": [
+      "przenosić",
+      "przelać",
+      "przerzucać",
+      "przeniesienie",
+      "transfer",
+      "przelanie",
+      "kalkomania",
+      "naklejka samoprzylepna",
+      "naklejka"
+    ]
+  },
+  {
+    "id": "t-transform",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "transform",
+    "pronunciation": "trænsˈfɔ:m",
+    "meaning": [
+      "przekształcać",
+      "transformować"
+    ]
+  },
+  {
+    "id": "t-transformer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "transformer",
+    "pronunciation": "trænsˈfɔ:mə",
+    "meaning": [
+      "transformator"
+    ]
+  },
+  {
+    "id": "t-transfuse",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "transfuse",
+    "pronunciation": "trænsˈfju:z",
+    "meaning": [
+      "przetaczać"
+    ]
+  },
+  {
+    "id": "t-transfusion",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "transfusion",
+    "pronunciation": "trænsˈfju:ʒən",
+    "meaning": [
+      "transfuzja",
+      "przetoczenie"
+    ]
+  },
+  {
+    "id": "t-transient",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "transient",
+    "pronunciation": "ˈtrænzɪənt",
+    "meaning": [
+      "efemeryczny",
+      "przelotny"
+    ]
+  },
+  {
+    "id": "t-transistor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "transistor",
+    "pronunciation": "trænˈzɪstə",
+    "meaning": [
+      "tranzystor"
+    ]
+  },
+  {
+    "id": "t-transit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "transit",
+    "pronunciation": "ˈtrænzɪt",
+    "meaning": [
+      "tranzyt"
+    ]
+  },
+  {
+    "id": "t-transition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "transition",
+    "pronunciation": "trænˈzɪʃən",
+    "meaning": [
+      "przejście",
+      "zmiana"
+    ]
+  },
+  {
+    "id": "t-transitive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "transitive",
+    "pronunciation": "ˈtrænzɪtɪv",
+    "meaning": [
+      "przechodni"
+    ]
+  },
+  {
+    "id": "t-transitory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "transitory",
+    "pronunciation": "ˈtrænzɪtərɪ",
+    "meaning": [
+      "przejściowy"
+    ]
+  },
+  {
+    "id": "t-transl.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "transl.",
+    "pronunciation": "/ˈtrænzl/",
+    "meaning": [
+      "tłum.",
+      "tłumaczony",
+      "tłumaczenie"
+    ]
+  },
+  {
+    "id": "t-translate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "translate",
+    "pronunciation": "trænsˈleɪt",
+    "meaning": [
+      "tłumaczyć",
+      "przekładać"
+    ]
+  },
+  {
+    "id": "t-translation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "translation",
+    "pronunciation": "trænsˈleɪʃən",
+    "meaning": [
+      "tłumaczenie",
+      "przekład"
+    ]
+  },
+  {
+    "id": "t-translator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "translator",
+    "pronunciation": "trænsˈleɪtə",
+    "meaning": [
+      "tłumacz"
+    ]
+  },
+  {
+    "id": "t-transmission",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "transmission",
+    "pronunciation": "trænzˈmɪʃən",
+    "meaning": [
+      "przenoszenie",
+      "przesyłanie",
+      "transmisja"
+    ]
+  },
+  {
+    "id": "t-transmit",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "transmit",
+    "pronunciation": "trænzˈmɪt",
+    "meaning": [
+      "przesyłać",
+      "przenosić",
+      "transmitować",
+      "przekazywać"
+    ]
+  },
+  {
+    "id": "t-transmitter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "transmitter",
+    "pronunciation": "trænzˈmɪtə",
+    "meaning": [
+      "przekaźnik"
+    ]
+  },
+  {
+    "id": "t-transparency",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "transparency",
+    "pronunciation": "trænsˈpærənsɪ",
+    "meaning": [
+      "przezroczystość",
+      "przezrocze"
+    ]
+  },
+  {
+    "id": "t-transparent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "transparent",
+    "pronunciation": "trænsˈpærənt",
+    "meaning": [
+      "przezroczysty",
+      "przejrzysty",
+      "oczywisty"
+    ]
+  },
+  {
+    "id": "t-transpire",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "transpire",
+    "pronunciation": "trænsˈpaɪə",
+    "meaning": [
+      "okazywać się",
+      "zachodzić"
+    ]
+  },
+  {
+    "id": "t-transplant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "transplant",
+    "pronunciation": "/ˈtrænsplɑːnt/",
+    "meaning": [
+      "przeszczepiać",
+      "przesadzać kwiaty",
+      "przesadzać",
+      "przeszczep"
+    ]
+  },
+  {
+    "id": "t-transport",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "transport",
+    "pronunciation": "/ˈtrænspɔːt/",
+    "meaning": [
+      "transport",
+      "przewóz",
+      "środek transportu",
+      "transportować",
+      "przewozić"
+    ]
+  },
+  {
+    "id": "t-transportation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "transportation",
+    "pronunciation": "ˌtrænspɔ:ˈteɪʃən",
+    "meaning": [
+      "transport"
+    ]
+  },
+  {
+    "id": "t-transverse",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "transverse",
+    "pronunciation": "trænzˈvɜ:s",
+    "meaning": [
+      "poprzeczny"
+    ]
+  },
+  {
+    "id": "t-transvestite",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "transvestite",
+    "pronunciation": "trænzˈvestaɪt",
+    "meaning": [
+      "transwestyta"
+    ]
+  },
+  {
+    "id": "t-trap",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trap",
+    "pronunciation": "træp",
+    "meaning": [
+      "pułapka",
+      "potrzask",
+      "chwytać w potrzask",
+      "chwytać",
+      "zamknąć w pułapce",
+      "zamknąć",
+      "zwabiać",
+      "znęcać w pułapkę",
+      "znęcać",
+      "przechwytywać"
+    ]
+  },
+  {
+    "id": "t-trapdoor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trapdoor",
+    "pronunciation": "ˈtræpdɔ:",
+    "meaning": [
+      "zapadnia"
+    ]
+  },
+  {
+    "id": "t-trapeze",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trapeze",
+    "pronunciation": "trəˈpi:z",
+    "meaning": [
+      "trapez"
+    ]
+  },
+  {
+    "id": "t-trapper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trapper",
+    "pronunciation": "ˈtræpə",
+    "meaning": [
+      "traper"
+    ]
+  },
+  {
+    "id": "t-trappings",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trappings",
+    "pronunciation": "ˈtræpɪŋz",
+    "meaning": [
+      "atrybuty",
+      "ornamenty"
+    ]
+  },
+  {
+    "id": "t-trash",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trash",
+    "pronunciation": "træʃ",
+    "meaning": [
+      "śmieci",
+      "szmira",
+      "kicz"
+    ]
+  },
+  {
+    "id": "t-trashcan",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trashcan",
+    "pronunciation": "ˈtræʃkæn",
+    "meaning": [
+      "kubeł na śmieci"
+    ]
+  },
+  {
+    "id": "t-trashy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "trashy",
+    "pronunciation": "ˈtræʃɪ",
+    "meaning": [
+      "bezwartościowy",
+      "kiczowaty"
+    ]
+  },
+  {
+    "id": "t-trauma",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trauma",
+    "pronunciation": "ˈtrɔ:mə",
+    "meaning": [
+      "uraz",
+      "stres",
+      "cierpienie"
+    ]
+  },
+  {
+    "id": "t-traumatic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "traumatic",
+    "pronunciation": "trɔ:ˈmætɪk",
+    "meaning": [
+      "traumatyczny",
+      "urazowy"
+    ]
+  },
+  {
+    "id": "t-travel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "travel",
+    "pronunciation": "ˈtrævəl",
+    "meaning": [
+      "podróżować",
+      "jeździć",
+      "przenosić się",
+      "przenosić",
+      "podróż",
+      "biuro podróży",
+      "pracownik biura podróży"
+    ]
+  },
+  {
+    "id": "t-traverse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "traverse",
+    "pronunciation": "trəˈvɜ:s",
+    "meaning": [
+      "przecinać"
+    ]
+  },
+  {
+    "id": "t-travesty",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "travesty",
+    "pronunciation": "ˈtrævəstɪ",
+    "meaning": [
+      "trawestacja",
+      "parodia"
+    ]
+  },
+  {
+    "id": "t-trawler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trawler",
+    "pronunciation": "ˈtrɔ:lə",
+    "meaning": [
+      "trawler"
+    ]
+  },
+  {
+    "id": "t-tray",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tray",
+    "pronunciation": "treɪ",
+    "meaning": [
+      "taca"
+    ]
+  },
+  {
+    "id": "t-treacherous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "treacherous",
+    "pronunciation": "ˈtreʧərəs",
+    "meaning": [
+      "zdradliwy"
+    ]
+  },
+  {
+    "id": "t-treachery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "treachery",
+    "pronunciation": "ˈtreʧərɪ",
+    "meaning": [
+      "zdrada"
+    ]
+  },
+  {
+    "id": "t-treacle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "treacle",
+    "pronunciation": "ˈtri:kəl",
+    "meaning": [
+      "syrop"
+    ]
+  },
+  {
+    "id": "t-tread",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tread",
+    "pronunciation": "tred",
+    "meaning": [
+      "deptać",
+      "nadepnąć",
+      "wdeptywać",
+      "stąpać",
+      "stąpanie",
+      "bieżnik"
+    ]
+  },
+  {
+    "id": "t-treas.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "treas.",
+    "pronunciation": "/ˈtreʒə/",
+    "meaning": [
+      "skarbnik"
+    ]
+  },
+  {
+    "id": "t-treason",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "treason",
+    "pronunciation": "ˈtri:zən",
+    "meaning": [
+      "zdrada"
+    ]
+  },
+  {
+    "id": "t-treasure",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "treasure",
+    "pronunciation": "ˈtreʒə",
+    "meaning": [
+      "skarb",
+      "cenić"
+    ]
+  },
+  {
+    "id": "t-treasurer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "treasurer",
+    "pronunciation": "ˈtreʒərə",
+    "meaning": [
+      "skarbnik"
+    ]
+  },
+  {
+    "id": "t-treasury",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "treasury",
+    "pronunciation": "ˈtreʒərɪ",
+    "meaning": [
+      "skarbnica",
+      "skarb państwa"
+    ]
+  },
+  {
+    "id": "t-treat",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "treat",
+    "pronunciation": "tri:t",
+    "meaning": [
+      "traktować",
+      "leczyć",
+      "poddawać działaniu",
+      "nasycać",
+      "fundować",
+      "stawiać",
+      "szczególna uroczystość"
+    ]
+  },
+  {
+    "id": "t-treatise",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "treatise",
+    "pronunciation": "ˈtri:tɪs",
+    "meaning": [
+      "rozprawa"
+    ]
+  },
+  {
+    "id": "t-treatment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "treatment",
+    "pronunciation": "ˈtri:tmənt",
+    "meaning": [
+      "leczenie",
+      "terapia",
+      "traktowanie"
+    ]
+  },
+  {
+    "id": "t-treaty",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "treaty",
+    "pronunciation": "ˈtri:tɪ",
+    "meaning": [
+      "traktat"
+    ]
+  },
+  {
+    "id": "t-treble",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "treble",
+    "pronunciation": "ˈtrebəl",
+    "meaning": [
+      "potrójny",
+      "sopranowy",
+      "wiolinowy",
+      "wysoki",
+      "sopran",
+      "dyszkant",
+      "potrajać się",
+      "trzykrotnie",
+      "trzy razy"
+    ]
+  },
+  {
+    "id": "t-tree",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "tree",
+    "pronunciation": "tri:",
+    "meaning": [
+      "drzewo"
+    ]
+  },
+  {
+    "id": "t-treetop",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "treetop",
+    "pronunciation": "ˈtri:tɒp",
+    "meaning": [
+      "korona drzewa"
+    ]
+  },
+  {
+    "id": "t-trek",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trek",
+    "pronunciation": "trek",
+    "meaning": [
+      "podróżować",
+      "podróż"
+    ]
+  },
+  {
+    "id": "t-tremble",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "tremble",
+    "pronunciation": "ˈtrembəl",
+    "meaning": [
+      "drżeć"
+    ]
+  },
+  {
+    "id": "t-tremendous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tremendous",
+    "pronunciation": "trəˈmendəs",
+    "meaning": [
+      "ogromny",
+      "niebywały"
+    ]
+  },
+  {
+    "id": "t-tremor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tremor",
+    "pronunciation": "ˈtremə",
+    "meaning": [
+      "drżenie"
+    ]
+  },
+  {
+    "id": "t-trench",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trench",
+    "pronunciation": "trenʧ",
+    "meaning": [
+      "rów",
+      "okop"
+    ]
+  },
+  {
+    "id": "t-trend",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trend",
+    "pronunciation": "trend",
+    "meaning": [
+      "trend",
+      "tendencja",
+      "kierunek"
+    ]
+  },
+  {
+    "id": "t-trendy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "trendy",
+    "pronunciation": "ˈtrendɪ",
+    "meaning": [
+      "modny"
+    ]
+  },
+  {
+    "id": "t-trepidation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trepidation",
+    "pronunciation": "ˌtrepɪˈdeɪʃən",
+    "meaning": [
+      "przestrach",
+      "niepokój"
+    ]
+  },
+  {
+    "id": "t-trespass",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "trespass",
+    "pronunciation": "ˈtrespəs",
+    "meaning": [
+      "wtargnąć",
+      "wchodzić"
+    ]
+  },
+  {
+    "id": "t-trespasser",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trespasser",
+    "pronunciation": "ˈtrespəsə",
+    "meaning": [
+      "człowiek naruszający cudzy teren",
+      "naruszający cudzy teren"
+    ]
+  },
+  {
+    "id": "t-tress",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tress",
+    "pronunciation": "tres",
+    "meaning": [
+      "warkocz"
+    ]
+  },
+  {
+    "id": "t-triangle",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "triangle",
+    "pronunciation": "ˈtraɪæŋgəl",
+    "meaning": [
+      "trójkąt"
+    ]
+  },
+  {
+    "id": "t-triangular",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "triangular",
+    "pronunciation": "traɪˈæŋgjələ",
+    "meaning": [
+      "trójkątny"
+    ]
+  },
+  {
+    "id": "t-tribal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tribal",
+    "pronunciation": "ˈtraɪbəl",
+    "meaning": [
+      "plemienny",
+      "szczepowy"
+    ]
+  },
+  {
+    "id": "t-tribe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tribe",
+    "pronunciation": "traɪb",
+    "meaning": [
+      "plemię",
+      "szczep"
+    ]
+  },
+  {
+    "id": "t-tribesman",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tribesman",
+    "pronunciation": "ˈtraɪbzmən",
+    "meaning": [
+      "członek szczepu"
+    ]
+  },
+  {
+    "id": "t-tribunal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tribunal",
+    "pronunciation": "traɪˈbju:nəl",
+    "meaning": [
+      "trybunał"
+    ]
+  },
+  {
+    "id": "t-tributary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tributary",
+    "pronunciation": "ˈtrɪbjətərɪ",
+    "meaning": [
+      "dopływ"
+    ]
+  },
+  {
+    "id": "t-tribute",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tribute",
+    "pronunciation": "ˈtrɪbju:t",
+    "meaning": [
+      "hołd",
+      "danina"
+    ]
+  },
+  {
+    "id": "t-trice",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "trice",
+    "pronunciation": "traɪs",
+    "meaning": []
+  },
+  {
+    "id": "t-trick",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trick",
+    "pronunciation": "trɪk",
+    "meaning": [
+      "oszukiwać",
+      "zwodzić",
+      "sztuczka",
+      "trik",
+      "trikowy",
+      "zwodniczy"
+    ]
+  },
+  {
+    "id": "t-trickery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trickery",
+    "pronunciation": "ˈtrɪkərɪ",
+    "meaning": [
+      "oszustwo",
+      "podstęp"
+    ]
+  },
+  {
+    "id": "t-trickle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trickle",
+    "pronunciation": "ˈtrɪkəl",
+    "meaning": [
+      "ciec strużką",
+      "ciec",
+      "sączyć się",
+      "strużka",
+      "wątły strumyczek",
+      "strumyczek"
+    ]
+  },
+  {
+    "id": "t-tricky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tricky",
+    "pronunciation": "ˈtrɪkɪ",
+    "meaning": [
+      "podstępny",
+      "podchwytliwy"
+    ]
+  },
+  {
+    "id": "t-trifle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trifle",
+    "pronunciation": "ˈtraɪfəl",
+    "meaning": [
+      "drobiazg",
+      "bagatela",
+      "przekładaniec",
+      "ciasto biszkoptowe"
+    ]
+  },
+  {
+    "id": "t-trifling",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "trifling",
+    "pronunciation": "ˈtraɪflɪŋ",
+    "meaning": [
+      "nieważny",
+      "nieznaczny"
+    ]
+  },
+  {
+    "id": "t-trigger",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trigger",
+    "pronunciation": "ˈtrɪgə",
+    "meaning": [
+      "język spustowy",
+      "cyngiel",
+      "wywoływać"
+    ]
+  },
+  {
+    "id": "t-trilogy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trilogy",
+    "pronunciation": "ˈtrɪləʤɪ",
+    "meaning": [
+      "trylogia"
+    ]
+  },
+  {
+    "id": "t-trimming",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trimming",
+    "pronunciation": "ˈtrɪmɪŋ",
+    "meaning": [
+      "ozdóbka",
+      "przystrojenie",
+      "dodatki"
+    ]
+  },
+  {
+    "id": "t-trinket",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trinket",
+    "pronunciation": "ˈtrɪŋkɪt",
+    "meaning": [
+      "świecidełko",
+      "ozdóbka"
+    ]
+  },
+  {
+    "id": "t-trio",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trio",
+    "pronunciation": "ˈtri:əʊ",
+    "meaning": [
+      "trio"
+    ]
+  },
+  {
+    "id": "t-trip",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trip",
+    "pronunciation": "trɪp",
+    "meaning": [
+      "wycieczka",
+      "wyjazd",
+      "wyprawa",
+      "przeżycie",
+      "potykać się",
+      "podstawiać nogę",
+      "przewracać"
+    ]
+  },
+  {
+    "id": "t-tripartite",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "tripartite",
+    "pronunciation": "traɪˈpɑ:taɪt",
+    "meaning": [
+      "trójstronny"
+    ]
+  },
+  {
+    "id": "t-tripe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tripe",
+    "pronunciation": "traɪp",
+    "meaning": [
+      "flaki",
+      "szmira"
+    ]
+  },
+  {
+    "id": "t-triple",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "triple",
+    "pronunciation": "ˈtrɪpəl",
+    "meaning": [
+      "potrójny",
+      "potrajać"
+    ]
+  },
+  {
+    "id": "t-triplets",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "triplets",
+    "pronunciation": "ˈtrɪplɪts",
+    "meaning": [
+      "trojaczki"
+    ]
+  },
+  {
+    "id": "t-tripod",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tripod",
+    "pronunciation": "ˈtraɪpɒd",
+    "meaning": [
+      "statyw"
+    ]
+  },
+  {
+    "id": "t-trite",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "trite",
+    "pronunciation": "traɪt",
+    "meaning": [
+      "banalny"
+    ]
+  },
+  {
+    "id": "t-triumph",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "triumph",
+    "pronunciation": "ˈtraɪəmf",
+    "meaning": [
+      "triumf",
+      "triumfować"
+    ]
+  },
+  {
+    "id": "t-triumphal",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "triumphal",
+    "pronunciation": "traɪˈʌmfəl",
+    "meaning": [
+      "triumfalny"
+    ]
+  },
+  {
+    "id": "t-trivia",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trivia",
+    "pronunciation": "ˈtrɪvɪə",
+    "meaning": [
+      "banały"
+    ]
+  },
+  {
+    "id": "t-trivial",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "trivial",
+    "pronunciation": "ˈtrɪvɪəl",
+    "meaning": [
+      "nie znaczący",
+      "banalny"
+    ]
+  },
+  {
+    "id": "t-trolley",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trolley",
+    "pronunciation": "ˈtrɒlɪ",
+    "meaning": [
+      "wózek",
+      "barek ruchomy",
+      "barek",
+      "trolejbus",
+      "tramwaj",
+      "pantograf"
+    ]
+  },
+  {
+    "id": "t-trombone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trombone",
+    "pronunciation": "trɒmˈbəʊn",
+    "meaning": [
+      "puzon"
+    ]
+  },
+  {
+    "id": "t-troop",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "troop",
+    "pronunciation": "tru:p",
+    "meaning": [
+      "oddział",
+      "wojsko",
+      "przegrupowywać się"
+    ]
+  },
+  {
+    "id": "t-trooper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trooper",
+    "pronunciation": "ˈtru:pə",
+    "meaning": [
+      "żołnierz"
+    ]
+  },
+  {
+    "id": "t-trophy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trophy",
+    "pronunciation": "ˈtrəʊfɪ",
+    "meaning": [
+      "trofeum"
+    ]
+  },
+  {
+    "id": "t-tropic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tropic",
+    "pronunciation": "ˈtrɒpɪk",
+    "meaning": [
+      "zwrotnik",
+      "tropiki",
+      "tropik"
+    ]
+  },
+  {
+    "id": "t-tropical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tropical",
+    "pronunciation": "ˈtrɒpɪkəl",
+    "meaning": [
+      "tropikalny"
+    ]
+  },
+  {
+    "id": "t-trot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trot",
+    "pronunciation": "trɒt",
+    "meaning": [
+      "kłusować",
+      "biec",
+      "kłus",
+      "bieg"
+    ]
+  },
+  {
+    "id": "t-trouble",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trouble",
+    "pronunciation": "ˈtrʌbəl",
+    "meaning": [
+      "problem",
+      "kłopot",
+      "zmartwienie",
+      "konflikt",
+      "zaburzenie",
+      "martwić",
+      "niepokoić",
+      "kłopotać"
+    ]
+  },
+  {
+    "id": "t-troubled",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "troubled",
+    "pronunciation": "ˈtrʌbəld",
+    "meaning": [
+      "zmartwiony",
+      "zakłopotany",
+      "zaburzony",
+      "zachwiany"
+    ]
+  },
+  {
+    "id": "t-troublemaker",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "troublemaker",
+    "pronunciation": "ˈtrʌbəlmeɪkə",
+    "meaning": [
+      "sprawca kłopotów"
+    ]
+  },
+  {
+    "id": "t-troublesome",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "troublesome",
+    "pronunciation": "ˈtrʌbəlsəm",
+    "meaning": [
+      "kłopotliwy"
+    ]
+  },
+  {
+    "id": "t-trough",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trough",
+    "pronunciation": "trɒf",
+    "meaning": [
+      "koryto",
+      "spadek"
+    ]
+  },
+  {
+    "id": "t-troupe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "troupe",
+    "pronunciation": "tru:p",
+    "meaning": [
+      "trupa"
+    ]
+  },
+  {
+    "id": "t-trousers",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trousers",
+    "pronunciation": "ˈtraʊzəz",
+    "meaning": [
+      "spodnie"
+    ]
+  },
+  {
+    "id": "t-trout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trout",
+    "pronunciation": "traʊt",
+    "meaning": [
+      "pstrąg"
+    ]
+  },
+  {
+    "id": "t-trowel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trowel",
+    "pronunciation": "ˈtraʊəl",
+    "meaning": [
+      "łopatka ogrodnicza",
+      "łopatka",
+      "kielnia"
+    ]
+  },
+  {
+    "id": "t-truancy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "truancy",
+    "pronunciation": "ˈtru:ənsɪ",
+    "meaning": [
+      "wagary"
+    ]
+  },
+  {
+    "id": "t-truant",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "truant",
+    "pronunciation": "ˈtru:ənt",
+    "meaning": [
+      "wagarowicz"
+    ]
+  },
+  {
+    "id": "t-truce",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "truce",
+    "pronunciation": "tru:s",
+    "meaning": [
+      "rozejm"
+    ]
+  },
+  {
+    "id": "t-truck",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "truck",
+    "pronunciation": "trʌk",
+    "meaning": [
+      "ciężarówka",
+      "wagon towarowy",
+      "lora"
+    ]
+  },
+  {
+    "id": "t-truculent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "truculent",
+    "pronunciation": "ˈtrʌkjʊlənt",
+    "meaning": [
+      "wojowniczy"
+    ]
+  },
+  {
+    "id": "t-trudge",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "trudge",
+    "pronunciation": "trʌʤ",
+    "meaning": [
+      "iść z trudem",
+      "stąpać z trudem",
+      "ciężki marsz"
+    ]
+  },
+  {
+    "id": "t-true",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "true",
+    "pronunciation": "tru:",
+    "meaning": [
+      "prawdziwy",
+      "równy",
+      "wierny"
+    ]
+  },
+  {
+    "id": "t-truffle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "truffle",
+    "pronunciation": "ˈtrʌfəl",
+    "meaning": [
+      "trufel"
+    ]
+  },
+  {
+    "id": "t-truly",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "truly",
+    "pronunciation": "ˈtru:lɪ",
+    "meaning": [
+      "naprawdę"
+    ]
+  },
+  {
+    "id": "t-trump",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trump",
+    "pronunciation": "trʌmp",
+    "meaning": [
+      "atut"
+    ]
+  },
+  {
+    "id": "t-trumpet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trumpet",
+    "pronunciation": "ˈtrʌmpɪt",
+    "meaning": [
+      "trąbka",
+      "trąbić"
+    ]
+  },
+  {
+    "id": "t-trumpeter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trumpeter",
+    "pronunciation": "ˈtrʌmpɪtə",
+    "meaning": [
+      "trębacz"
+    ]
+  },
+  {
+    "id": "t-truncate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "truncate",
+    "pronunciation": "trʌŋˈkeɪt",
+    "meaning": [
+      "obcinać",
+      "okaleczać"
+    ]
+  },
+  {
+    "id": "t-truncheon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "truncheon",
+    "pronunciation": "ˈtrʌnʧən",
+    "meaning": [
+      "pałka"
+    ]
+  },
+  {
+    "id": "t-trundle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "trundle",
+    "pronunciation": "ˈtrʌndəl",
+    "meaning": [
+      "toczyć się",
+      "toczyć"
+    ]
+  },
+  {
+    "id": "t-trunk",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trunk",
+    "pronunciation": "trʌŋk",
+    "meaning": [
+      "pień",
+      "tułów",
+      "trąba",
+      "kufer",
+      "bagażnik",
+      "kąpielówki"
+    ]
+  },
+  {
+    "id": "t-trust",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "trust",
+    "pronunciation": "trʌst",
+    "meaning": [
+      "wierzyć",
+      "zaufać",
+      "powierzyć",
+      "mieć zaufanie",
+      "zaufanie",
+      "trust"
+    ]
+  },
+  {
+    "id": "t-trustee",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "trustee",
+    "pronunciation": "trʌsˈti:",
+    "meaning": [
+      "powiernik",
+      "zarządca"
+    ]
+  },
+  {
+    "id": "t-trustful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "trustful",
+    "pronunciation": "ˈtrʌstfʊl",
+    "meaning": [
+      "ufny"
+    ]
+  },
+  {
+    "id": "t-trusting",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "trusting",
+    "pronunciation": "ˈtrʌstɪŋ",
+    "meaning": [
+      "ufny"
+    ]
+  },
+  {
+    "id": "t-trustworthy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "trustworthy",
+    "pronunciation": "ˈtrʌstwɜ:ðɪ",
+    "meaning": [
+      "godny zaufania"
+    ]
+  },
+  {
+    "id": "t-trusty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "trusty",
+    "pronunciation": "ˈtrʌstɪ",
+    "meaning": [
+      "zaufany",
+      "ulubiony"
+    ]
+  },
+  {
+    "id": "t-truth",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "truth",
+    "pronunciation": "tru:θ",
+    "meaning": [
+      "prawda"
+    ]
+  },
+  {
+    "id": "t-truthful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "truthful",
+    "pronunciation": "ˈtru:θfʊl",
+    "meaning": [
+      "prawdziwy"
+    ]
+  },
+  {
+    "id": "t-try",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "try",
+    "pronunciation": "traɪ",
+    "meaning": [
+      "próbować",
+      "wypróbowywać",
+      "starać się",
+      "sądzić",
+      "próba",
+      "przymierzać"
+    ]
+  },
+  {
+    "id": "t-trying",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "trying",
+    "pronunciation": "ˈtraɪɪŋ",
+    "meaning": [
+      "dojmujący",
+      "ciężki"
+    ]
+  },
+  {
+    "id": "t-T-shirt",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "T-shirt",
+    "pronunciation": "ˈti:ʃɜ:t",
+    "meaning": [
+      "koszulka trykotowa",
+      "podkoszulka"
+    ]
+  },
+  {
+    "id": "t-TU",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "TU",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "związek zawodowy"
+    ]
+  },
+  {
+    "id": "t-Tu.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Tu.",
+    "pronunciation": "/tjuː/",
+    "meaning": [
+      "wtorek"
+    ]
+  },
+  {
+    "id": "t-try",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "try",
+    "pronunciation": "traɪ",
+    "meaning": [
+      "próbować",
+      "wypróbowywać",
+      "starać się",
+      "sądzić",
+      "próba",
+      "przymierzać"
+    ]
+  },
+  {
+    "id": "t-trying",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "trying",
+    "pronunciation": "ˈtraɪɪŋ",
+    "meaning": [
+      "dojmujący",
+      "ciężki"
+    ]
+  },
+  {
+    "id": "t-T-shirt",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "T-shirt",
+    "pronunciation": "ˈti:ʃɜ:t",
+    "meaning": [
+      "koszulka trykotowa",
+      "podkoszulka"
+    ]
+  },
+  {
+    "id": "t-TU",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "TU",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "związek zawodowy"
+    ]
+  },
+  {
+    "id": "t-Tu.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Tu.",
+    "pronunciation": "/tjuː/",
+    "meaning": [
+      "wtorek"
+    ]
+  },
+  {
+    "id": "t-tub",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tub",
+    "pronunciation": "tʌb",
+    "meaning": [
+      "kadź",
+      "zbiornik",
+      "wanna"
+    ]
+  },
+  {
+    "id": "t-tuba",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tuba",
+    "pronunciation": "ˈtju:bə",
+    "meaning": [
+      "tuba"
+    ]
+  },
+  {
+    "id": "t-tubby",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tubby",
+    "pronunciation": "ˈtʌbɪ",
+    "meaning": [
+      "przysadzisty"
+    ]
+  },
+  {
+    "id": "t-tube",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tube",
+    "pronunciation": "tju:b",
+    "meaning": [
+      "rura",
+      "przewód",
+      "tubka",
+      "metro",
+      "dętka"
+    ]
+  },
+  {
+    "id": "t-tuber",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tuber",
+    "pronunciation": "ˈtju:bə",
+    "meaning": [
+      "bulwa"
+    ]
+  },
+  {
+    "id": "t-tubercular",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tubercular",
+    "pronunciation": "tjʊˈbɜ:kjʊˈlə",
+    "meaning": [
+      "gruźliczy",
+      "gruźlik"
+    ]
+  },
+  {
+    "id": "t-tuberculosis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tuberculosis",
+    "pronunciation": "tjʊˌbɜ:kjʊˈləʊsɪs",
+    "meaning": [
+      "gruźlica"
+    ]
+  },
+  {
+    "id": "t-tubing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tubing",
+    "pronunciation": "ˈtju:bɪŋ",
+    "meaning": [
+      "rury",
+      "system rur"
+    ]
+  },
+  {
+    "id": "t-tubular",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tubular",
+    "pronunciation": "ˈtju:bjʊlə",
+    "meaning": [
+      "rurkowy",
+      "rurowaty"
+    ]
+  },
+  {
+    "id": "t-tuck",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tuck",
+    "pronunciation": "tʌk",
+    "meaning": [
+      "wpychać",
+      "wsadzać",
+      "fałda",
+      "odkładać",
+      "chować",
+      "opatulać",
+      "zawijać",
+      "wpychać do środka",
+      "napychać się"
+    ]
+  },
+  {
+    "id": "t-Tues.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Tues.",
+    "pronunciation": "/ˈtjuːzdeɪ/",
+    "meaning": [
+      "wtorek"
+    ]
+  },
+  {
+    "id": "t-Tuesday",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Tuesday",
+    "pronunciation": "ˈtju:zdɪ",
+    "meaning": [
+      "wtorek"
+    ]
+  },
+  {
+    "id": "t-tuft",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tuft",
+    "pronunciation": "tʌft",
+    "meaning": [
+      "kępka",
+      "pęczek"
+    ]
+  },
+  {
+    "id": "t-tug",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tug",
+    "pronunciation": "tʌg",
+    "meaning": [
+      "ciągnąć",
+      "pociągnięcie",
+      "holownik"
+    ]
+  },
+  {
+    "id": "t-tuition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tuition",
+    "pronunciation": "tjʊˈɪʃən",
+    "meaning": [
+      "nauka",
+      "czesne"
+    ]
+  },
+  {
+    "id": "t-tulip",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tulip",
+    "pronunciation": "ˈtju:lɪp",
+    "meaning": [
+      "tulipan"
+    ]
+  },
+  {
+    "id": "t-tumbler",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tumbler",
+    "pronunciation": "ˈtʌmblə",
+    "meaning": [
+      "szklanka"
+    ]
+  },
+  {
+    "id": "t-tummy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tummy",
+    "pronunciation": "ˈtʌmɪ",
+    "meaning": [
+      "brzuszek"
+    ]
+  },
+  {
+    "id": "t-tumour",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tumour",
+    "pronunciation": "ˈtju:mə",
+    "meaning": [
+      "guz",
+      "nowotwór"
+    ]
+  },
+  {
+    "id": "t-tumult",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tumult",
+    "pronunciation": "ˈtju:mʌlt",
+    "meaning": [
+      "wrzawa"
+    ]
+  },
+  {
+    "id": "t-tuna",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tuna",
+    "pronunciation": "ˈtju:nə",
+    "meaning": [
+      "tuńczyk"
+    ]
+  },
+  {
+    "id": "t-tuneful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "tuneful",
+    "pronunciation": "ˈtju:nfʊl",
+    "meaning": [
+      "melodyjny"
+    ]
+  },
+  {
+    "id": "t-tunic",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tunic",
+    "pronunciation": "ˈtju:nɪk",
+    "meaning": [
+      "bluza",
+      "góra"
+    ]
+  },
+  {
+    "id": "t-Tunisia",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Tunisia",
+    "pronunciation": "tjʊˈnɪzɪə",
+    "meaning": [
+      "Tunezja"
+    ]
+  },
+  {
+    "id": "t-Tunisian",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "Tunisian",
+    "pronunciation": "tjʊˈnɪzɪən",
+    "meaning": [
+      "tunezyjski",
+      "Tunezyjczyk"
+    ]
+  },
+  {
+    "id": "t-tunnel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tunnel",
+    "pronunciation": "ˈtʌnəl",
+    "meaning": [
+      "tunel",
+      "drążyć tunel"
+    ]
+  },
+  {
+    "id": "t-turban",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turban",
+    "pronunciation": "ˈtɜ:bən",
+    "meaning": [
+      "turban"
+    ]
+  },
+  {
+    "id": "t-turbine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turbine",
+    "pronunciation": "ˈtɜ:baɪn",
+    "meaning": [
+      "turbina"
+    ]
+  },
+  {
+    "id": "t-turbulent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "turbulent",
+    "pronunciation": "ˈtɜ:bjələnt",
+    "meaning": [
+      "burzliwy"
+    ]
+  },
+  {
+    "id": "t-turf",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turf",
+    "pronunciation": "tɜ:f",
+    "meaning": [
+      "darń",
+      "murawa",
+      "pokrywać darnią",
+      "wyrzucać"
+    ]
+  },
+  {
+    "id": "t-turgid",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "turgid",
+    "pronunciation": "ˈtɜ:ʤɪd",
+    "meaning": [
+      "napuszony"
+    ]
+  },
+  {
+    "id": "t-Turk",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Turk",
+    "pronunciation": "tɜ:k",
+    "meaning": [
+      "Turek"
+    ]
+  },
+  {
+    "id": "t-Turkey",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Turkey",
+    "pronunciation": "ˈtɜ:kɪ",
+    "meaning": [
+      "Turcja"
+    ]
+  },
+  {
+    "id": "t-turkey",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "turkey",
+    "pronunciation": "ˈtɜ:kɪ",
+    "meaning": [
+      "indyk"
+    ]
+  },
+  {
+    "id": "t-Turkish",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Turkish",
+    "pronunciation": "ˈtɜ:kɪʃ",
+    "meaning": [
+      "turecki"
+    ]
+  },
+  {
+    "id": "t-turmoil",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "turmoil",
+    "pronunciation": "ˈtɜ:mɔɪl",
+    "meaning": [
+      "niepokój"
+    ]
+  },
+  {
+    "id": "t-turning",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turning",
+    "pronunciation": "ˈtɜ:nɪŋ",
+    "meaning": [
+      "przecznica",
+      "punkt zwrotny"
+    ]
+  },
+  {
+    "id": "t-turnip",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "turnip",
+    "pronunciation": "ˈtɜ:nɪp",
+    "meaning": [
+      "rzepa"
+    ]
+  },
+  {
+    "id": "t-turnout",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turnout",
+    "pronunciation": "ˈtɜ:naʊt",
+    "meaning": [
+      "frekwencja",
+      "publiczność"
+    ]
+  },
+  {
+    "id": "t-turnover",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "turnover",
+    "pronunciation": "ˈtɜ:nəʊvə",
+    "meaning": [
+      "fluktuacja kadr",
+      "fluktuacja",
+      "obrót",
+      "przerób"
+    ]
+  },
+  {
+    "id": "t-turntable",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turntable",
+    "pronunciation": "ˈtɜ:nteɪbəl",
+    "meaning": [
+      "talerz gramofonu",
+      "talerz"
+    ]
+  },
+  {
+    "id": "t-turn-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turn-up",
+    "pronunciation": "ˈtɜ:nʌp",
+    "meaning": [
+      "mankiet"
+    ]
+  },
+  {
+    "id": "t-turpentine",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "turpentine",
+    "pronunciation": "ˈtɜ:pəntaɪn",
+    "meaning": [
+      "terpentyna"
+    ]
+  },
+  {
+    "id": "t-turquoise",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "turquoise",
+    "pronunciation": "ˈtɜ:kwɔɪz",
+    "meaning": [
+      "turkusowy",
+      "turkus"
+    ]
+  },
+  {
+    "id": "t-turret",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "turret",
+    "pronunciation": "ˈtʌrɪt",
+    "meaning": [
+      "wieżyczka"
+    ]
+  },
+  {
+    "id": "t-turtle",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "turtle",
+    "pronunciation": "ˈtɜ:təl",
+    "meaning": [
+      "żółw"
+    ]
+  },
+  {
+    "id": "t-turtleneck",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "turtleneck",
+    "pronunciation": "ˈtɜ:təlnek",
+    "meaning": [
+      "golf",
+      "półgolf"
+    ]
+  },
+  {
+    "id": "t-tusk",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tusk",
+    "pronunciation": "tʌsk",
+    "meaning": [
+      "kieł"
+    ]
+  },
+  {
+    "id": "t-tussle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tussle",
+    "pronunciation": "ˈtʌsəl",
+    "meaning": [
+      "szamotać się",
+      "szarpać się",
+      "szamotanina",
+      "szarpanina"
+    ]
+  },
+  {
+    "id": "t-tut",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "tut",
+    "pronunciation": "tʌt",
+    "meaning": [
+      "no no"
+    ]
+  },
+  {
+    "id": "t-tutor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tutor",
+    "pronunciation": "ˈtju:tə",
+    "meaning": [
+      "nauczyciel",
+      "korepetytor",
+      "uczyć",
+      "dawać korepetycje",
+      "prowadzić seminarium"
+    ]
+  },
+  {
+    "id": "t-tutorial",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tutorial",
+    "pronunciation": "tjʊˈtɔ:rɪəl",
+    "meaning": [
+      "seminarium",
+      "seminaryjny"
+    ]
+  },
+  {
+    "id": "t-tuxedo",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tuxedo",
+    "pronunciation": "tʌkˈsi:dəʊ",
+    "meaning": [
+      "smoking"
+    ]
+  },
+  {
+    "id": "t-TV",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "TV",
+    "pronunciation": "ˌtɪ:ˈvi:",
+    "meaning": [
+      "TV"
+    ]
+  },
+  {
+    "id": "t-twaddle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "twaddle",
+    "pronunciation": "ˈtwædəl",
+    "meaning": [
+      "bzdury"
+    ]
+  },
+  {
+    "id": "t-twang",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "twang",
+    "pronunciation": "twæŋ",
+    "meaning": [
+      "brzęk",
+      "brzęknięcie",
+      "brzęczeć",
+      "brzdąkać"
+    ]
+  },
+  {
+    "id": "t-tweed",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "tweed",
+    "pronunciation": "twi:d",
+    "meaning": [
+      "tweed"
+    ]
+  },
+  {
+    "id": "t-tweet",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "tweet",
+    "pronunciation": "twi:t",
+    "meaning": [
+      "ćwierkać"
+    ]
+  },
+  {
+    "id": "t-tweezers",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tweezers",
+    "pronunciation": "ˈtwi:zəz",
+    "meaning": [
+      "pinceta"
+    ]
+  },
+  {
+    "id": "t-twelfth",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "twelfth",
+    "pronunciation": "ˈtwelfθ",
+    "meaning": [
+      "dwunasty"
+    ]
+  },
+  {
+    "id": "t-twelve",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "twelve",
+    "pronunciation": "twelv",
+    "meaning": [
+      "dwanaście"
+    ]
+  },
+  {
+    "id": "t-twentieth",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "twentieth",
+    "pronunciation": "ˈtwentɪəθ",
+    "meaning": [
+      "dwudziesty"
+    ]
+  },
+  {
+    "id": "t-twenty",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "twenty",
+    "pronunciation": "ˈtwentɪ",
+    "meaning": [
+      "dwadzieścia"
+    ]
+  },
+  {
+    "id": "t-twice",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "twice",
+    "pronunciation": "twaɪs",
+    "meaning": [
+      "dwa razy",
+      "dwukrotnie"
+    ]
+  },
+  {
+    "id": "t-twiddle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "twiddle",
+    "pronunciation": "ˈtwɪdəl",
+    "meaning": [
+      "kręcić",
+      "obracać"
+    ]
+  },
+  {
+    "id": "t-twig",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "twig",
+    "pronunciation": "twɪg",
+    "meaning": [
+      "gałązka"
+    ]
+  },
+  {
+    "id": "t-twilight",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "twilight",
+    "pronunciation": "ˈtwaɪlaɪt",
+    "meaning": [
+      "zmierzch",
+      "zmrok"
+    ]
+  },
+  {
+    "id": "t-twin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "twin",
+    "pronunciation": "twɪn",
+    "meaning": [
+      "bliźniak",
+      "bliźniaczy",
+      "podwójny"
+    ]
+  },
+  {
+    "id": "t-twine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "twine",
+    "pronunciation": "twaɪn",
+    "meaning": [
+      "sznur",
+      "linka",
+      "okręcać"
+    ]
+  },
+  {
+    "id": "t-twinge",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "twinge",
+    "pronunciation": "twɪnʤ",
+    "meaning": [
+      "szarpiący ból",
+      "uczucie",
+      "odczucie"
+    ]
+  },
+  {
+    "id": "t-twinkle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "twinkle",
+    "pronunciation": "ˈtwɪŋkəl",
+    "meaning": [
+      "mrugać",
+      "migotać",
+      "migotanie",
+      "błysk"
+    ]
+  },
+  {
+    "id": "t-twirl",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "twirl",
+    "pronunciation": "twɜ:l",
+    "meaning": [
+      "kręcić się",
+      "kręcić",
+      "obracać się",
+      "obracać"
+    ]
+  },
+  {
+    "id": "t-twist",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "twist",
+    "pronunciation": "twɪst",
+    "meaning": [
+      "wykręcać się",
+      "wykręcać",
+      "obracać się",
+      "obracać",
+      "odkręcać",
+      "nakręcać",
+      "wić się",
+      "obrót",
+      "skręt",
+      "wykręcenie"
+    ]
+  },
+  {
+    "id": "t-twit",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "twit",
+    "pronunciation": "twɪt",
+    "meaning": [
+      "dureń"
+    ]
+  },
+  {
+    "id": "t-twitch",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "twitch",
+    "pronunciation": "twɪʧ",
+    "meaning": [
+      "tik",
+      "skurcz",
+      "drgać",
+      "szarpać"
+    ]
+  },
+  {
+    "id": "t-twitter",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "twitter",
+    "pronunciation": "ˈtwɪtə",
+    "meaning": [
+      "ćwierkać",
+      "świergotać"
+    ]
+  },
+  {
+    "id": "t-two",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "two",
+    "pronunciation": "tu:",
+    "meaning": [
+      "dwa"
+    ]
+  },
+  {
+    "id": "t-two-faced",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "two-faced",
+    "pronunciation": "ˌtu:ˈfeɪst",
+    "meaning": [
+      "dwulicowy"
+    ]
+  },
+  {
+    "id": "t-two-way",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "two-way",
+    "pronunciation": "ˌtu:ˈweɪ",
+    "meaning": [
+      "dwustronny",
+      "nadawczo-odbiorczy"
+    ]
+  },
+  {
+    "id": "t-tycoon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tycoon",
+    "pronunciation": "taɪˈku:n",
+    "meaning": [
+      "magnat"
+    ]
+  },
+  {
+    "id": "t-type",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "type",
+    "pronunciation": "taɪp",
+    "meaning": [
+      "rodzaj",
+      "typ",
+      "druk",
+      "czcionka",
+      "pisać na maszynie",
+      "pisać",
+      "drukować",
+      "wpisywać"
+    ]
+  },
+  {
+    "id": "t-typecast",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "typecast",
+    "pronunciation": "ˈtaɪpkɑ:st",
+    "meaning": [
+      "grać zawsze ten sam typ postaci"
+    ]
+  },
+  {
+    "id": "t-typewriter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "typewriter",
+    "pronunciation": "ˈtaɪpraɪtə",
+    "meaning": [
+      "maszyna do pisania"
+    ]
+  },
+  {
+    "id": "t-typewritten",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "typewritten",
+    "pronunciation": "ˈtaɪprɪtən",
+    "meaning": [
+      "napisane na maszynie"
+    ]
+  },
+  {
+    "id": "t-typhoid",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "typhoid",
+    "pronunciation": "ˈtaɪfɔɪd",
+    "meaning": [
+      "tyfus",
+      "dur brzuszny",
+      "dur"
+    ]
+  },
+  {
+    "id": "t-typhoon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "typhoon",
+    "pronunciation": "taɪˈfu:n",
+    "meaning": [
+      "tajfun"
+    ]
+  },
+  {
+    "id": "t-typhus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "typhus",
+    "pronunciation": "ˈtaɪfəs",
+    "meaning": [
+      "tyfus",
+      "dur plamisty"
+    ]
+  },
+  {
+    "id": "t-typical",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "typical",
+    "pronunciation": "ˈtɪpɪkəl",
+    "meaning": [
+      "typowy",
+      "charakterystyczny"
+    ]
+  },
+  {
+    "id": "t-typically",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "typically",
+    "pronunciation": "ˈtɪpɪkəlɪ",
+    "meaning": [
+      "zazwyczaj",
+      "typowo"
+    ]
+  },
+  {
+    "id": "t-typify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "typify",
+    "pronunciation": "ˈtɪpɪfaɪ",
+    "meaning": [
+      "uosabiać"
+    ]
+  },
+  {
+    "id": "t-typist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "typist",
+    "pronunciation": "ˈtaɪpɪst",
+    "meaning": [
+      "maszynistka"
+    ]
+  },
+  {
+    "id": "t-tyrannical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "tyrannical",
+    "pronunciation": "tɪˈrænɪkəl",
+    "meaning": [
+      "tyrański"
+    ]
+  },
+  {
+    "id": "t-tyranny",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tyranny",
+    "pronunciation": "ˈtɪrənɪ",
+    "meaning": [
+      "tyrania"
+    ]
+  },
+  {
+    "id": "t-tyrant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "tyrant",
+    "pronunciation": "ˈtaɪrənt",
+    "meaning": [
+      "tyran"
+    ]
+  },
+  {
+    "id": "t-tyre",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "tyre",
+    "pronunciation": "ˈtaɪə",
+    "meaning": [
+      "opona"
+    ]
+  }
+]
