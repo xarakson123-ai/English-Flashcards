@@ -5,7 +5,6 @@ on:
     branches: [main]
     paths:
       - "data/**"
-      - "scripts/**"
       - ".github/workflows/build-database.yml"
 permissions:
   contents: write
@@ -18,9 +17,13 @@ jobs:
         shell: python
         run: |
           import json
+          import subprocess
+          import sys
           from pathlib import Path
+          subprocess.check_call([sys.executable,"-m","pip","install","-q","wordfreq"])
+          from wordfreq import zipf_frequency
           levels=["A1","A2","B1","B2","C1"]
-          quotas={x:8000 for x in levels}
+          quota=8000
           rows=[]
           seen=set()
           for f in sorted(Path("data").glob("*.json")):
@@ -35,40 +38,67 @@ jobs:
                   meanings=w.get("meaning") or []
                   pl=str(w.get("pl") or (meanings[0] if meanings else "")).strip()
                   level=str(w.get("level") or "").upper().strip()
-                  if not en or not pl:
-                      continue
-                  if level not in levels:
+                  if not en or not pl or level not in levels:
                       continue
                   key=(en.lower(),pl.lower())
                   if key in seen:
                       continue
                   seen.add(key)
-                  rows.append({"en":en,"pl":pl,"level":level})
+                  rows.append({"en":en,"pl":pl,"level":level,"sourceLevel":True})
+          if len(rows)<40000:
+              try:
+                  import urllib.request
+                  url="https://raw.githubusercontent.com/open-dict-data/wikidict-en/master/data/pl-en_wiki.txt"
+                  raw=urllib.request.urlopen(url,timeout=60).read().decode("utf-8","ignore")
+                  for line in raw.splitlines():
+                      parts=line.split("\t")
+                      if len(parts)<2:
+                          continue
+                      pl=parts[0].strip()
+                      en=parts[1].strip()
+                      key=(en.lower(),pl.lower())
+                      if not en or not pl or key in seen:
+                          continue
+                      seen.add(key)
+                      rows.append({"en":en,"pl":pl,"level":None,"sourceLevel":False})
+                      if len(rows)>=60000:
+                          break
+              except Exception as e:
+                  print("External dictionary error:",e)
+          ranked=[w for w in rows if not w["sourceLevel"]]
+          ranked.sort(key=lambda w:zipf_frequency(w["en"],"en"),reverse=True)
           by={x:[] for x in levels}
           for w in rows:
-              by[w["level"]].append(w)
-          selected=[]
+              if w["sourceLevel"]:
+                  by[w["level"]].append(w)
+          used=set(id(w) for level in levels for w in by[level])
+          remaining=[w for w in ranked if id(w) not in used]
+          pos=0
           for level in levels:
-              selected.extend(by[level][:quotas[level]])
-          if len(selected)<40000:
-              remaining=[w for w in rows if w not in selected]
-              selected.extend(remaining[:40000-len(selected)])
-          if len(selected)<40000:
-              raise SystemExit(f"Database contains only {len(selected)} usable entries")
-          selected=selected[:40000]
+              need=max(0,quota-len(by[level]))
+              by[level].extend(remaining[pos:pos+need])
+              for w in by[level][-need:] if need else []:
+                  w["level"]=level
+              pos+=need
+          selected=[]
           titles=[
             "Podstawy i codzienne życie","Ludzie i relacje","Dom i otoczenie","Jedzenie i zakupy",
             "Szkoła i nauka","Czas i rutyna","Miasto i miejsca","Podróże i transport",
             "Praca i obowiązki","Zdrowie i ciało","Hobby i rozrywka","Przyroda i pogoda",
-            "Technologia i media","Emocje i opinie","Czasowniki i zwroty",
-            "Przymiotniki i opisy","Rzeczowniki i pojęcia","Komunikacja","Życie społeczne","Powtórka poziomu"
+            "Technologia i media","Emocje i opinie","Czasowniki i zwroty","Przymiotniki i opisy",
+            "Rzeczowniki i pojęcia","Komunikacja","Życie społeczne","Powtórka poziomu"
           ]
           for level in levels:
-              group=[w for w in selected if w["level"]==level]
+              group=by[level][:quota]
+              if len(group)<quota:
+                  raise SystemExit(f"Level {level} has only {len(group)} entries")
               for i,w in enumerate(group):
-                  chapter=min(len(titles),i//400+1)
-                  w["chapter"]=chapter
-                  w["chapterTitle"]=titles[chapter-1]
+                  w.pop("sourceLevel",None)
+                  w["chapter"]=i//400+1
+                  w["chapterTitle"]=titles[i//400]
+                  selected.append(w)
+          if len(selected)!=40000:
+              raise SystemExit(f"Database contains only {len(selected)} entries")
           Path("words.json").write_text(json.dumps(selected,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
           print(f"Built {len(selected)} words")
       - name: Commit database
