@@ -5,65 +5,114 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>English Flashcards</title>
 <style>
-*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;background:radial-gradient(circle at top,#29204d,#0c0a13 58%);color:#fff;min-height:100vh}.app{max-width:1100px;margin:auto;padding:28px 18px}.top{display:flex;justify-content:space-between;align-items:center;gap:16px}.brand{font-size:30px;font-weight:900}.muted{color:#aaa7b7}.pill{padding:9px 14px;border:1px solid #3b3650;border-radius:999px;background:#181522}.panel{margin-top:24px;background:#15121e;border:1px solid #302b40;border-radius:24px;padding:24px;box-shadow:0 20px 60px #0008}.stats{display:flex;gap:10px;flex-wrap:wrap}.progress{height:10px;background:#2a2635;border-radius:99px;overflow:hidden;margin:20px 0}.bar{height:100%;background:linear-gradient(90deg,#9b6cff,#d26cff);width:0}.card{height:390px;perspective:1200px;cursor:pointer}.inner{position:relative;width:100%;height:100%;transition:transform .5s;transform-style:preserve-3d}.card.flipped .inner{transform:rotateY(180deg)}.face{position:absolute;inset:0;backface-visibility:hidden;border-radius:24px;display:flex;align-items:center;justify-content:center;text-align:center;padding:30px;border:1px solid #4b405f;background:linear-gradient(145deg,#302548,#171321)}.back{transform:rotateY(180deg);background:linear-gradient(145deg,#422d5d,#181321)}.word{font-size:clamp(40px,8vw,78px);font-weight:900}.translation{font-size:clamp(30px,6vw,56px);font-weight:800}.hint{position:absolute;bottom:22px;font-size:14px;color:#aaa}.actions{display:flex;gap:12px;margin-top:16px}.btn{flex:1;border:0;border-radius:15px;padding:15px;font-size:17px;font-weight:800;cursor:pointer;color:#fff;background:#29233a}.btn:hover{filter:brightness(1.15)}.know{background:#287d58}.dont{background:#a13e56}.secondary{margin-top:12px;background:#201b2c}.screen{display:none}.screen.active{display:block}.menu-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}.menu-btn{padding:22px;border:1px solid #3b344b;background:#1a1624;color:#fff;border-radius:18px;font-size:18px;font-weight:800;cursor:pointer}.menu-btn:hover{background:#241d32}.result{text-align:center;padding:35px}.score{font-size:64px;font-weight:900}.library{margin-top:18px;display:flex;gap:10px}.library input{flex:1;padding:14px;border-radius:12px;border:1px solid #40384f;background:#0e0b14;color:#fff}.list{max-height:300px;overflow:auto;margin-top:12px}.row{display:flex;justify-content:space-between;padding:11px;border-bottom:1px solid #2c2735}.small{font-size:13px}.error{color:#ff8fa7;text-align:center;padding:20px}@media(max-width:600px){.app{padding:16px}.card{height:330px}.actions{flex-direction:column}.top{align-items:flex-start;flex-direction:column}}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;background:radial-gradient(circle at top,#29204d,#0b0911 62%);color:#fff;min-height:100vh}.app{max-width:1150px;margin:auto;padding:24px 16px}.top{display:flex;justify-content:space-between;align-items:center;gap:14px}.brand{font-size:30px;font-weight:900}.muted{color:#aaa7b7}.pill{padding:9px 14px;border:1px solid #3b3650;border-radius:999px;background:#181522}.panel{margin-top:20px;background:#15121e;border:1px solid #302b40;border-radius:24px;padding:22px;box-shadow:0 20px 60px #0008}.screen{display:none}.screen.active{display:block}.levels{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:18px 0}.level{padding:14px;border-radius:16px;border:1px solid #3b344b;background:#1b1726;text-align:center;font-weight:900}.level.active{border-color:#9b6cff;background:#281d3d}.level.locked{opacity:.45}.chapters{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.chapter{position:relative;text-align:left;padding:18px;border:1px solid #393248;background:#1b1726;color:#fff;border-radius:18px;cursor:pointer;min-height:130px}.chapter:hover:not(:disabled){transform:translateY(-2px);background:#241d32}.chapter:disabled{cursor:not-allowed}.chapter.locked{opacity:.42}.chapter.done{border-color:#287d58}.num{font-size:12px;color:#a99bc4;font-weight:800}.ctitle{font-size:18px;font-weight:900;margin:7px 0}.cinfo{font-size:13px;color:#aaa7b7}.lock{position:absolute;right:14px;top:14px}.mini{height:7px;background:#2a2635;border-radius:99px;overflow:hidden;margin-top:12px}.mini i{display:block;height:100%;width:0;background:#9b6cff}.stats{display:flex;gap:10px;flex-wrap:wrap}.progress{height:10px;background:#2a2635;border-radius:99px;overflow:hidden;margin:18px 0}.bar{height:100%;background:linear-gradient(90deg,#9b6cff,#d26cff);width:0}.card{height:390px;perspective:1200px;cursor:pointer}.inner{position:relative;width:100%;height:100%;transition:transform .45s;transform-style:preserve-3d}.card.flipped .inner{transform:rotateY(180deg)}.face{position:absolute;inset:0;backface-visibility:hidden;border-radius:24px;display:flex;align-items:center;justify-content:center;text-align:center;padding:30px;border:1px solid #4b405f;background:linear-gradient(145deg,#302548,#171321)}.back{transform:rotateY(180deg);background:linear-gradient(145deg,#422d5d,#181321)}.word{font-size:clamp(40px,8vw,78px);font-weight:900}.translation{font-size:clamp(30px,6vw,56px);font-weight:800}.hint{position:absolute;bottom:22px;font-size:14px;color:#aaa}.actions{display:flex;gap:12px;margin-top:14px}.btn{flex:1;border:0;border-radius:15px;padding:15px;font-size:17px;font-weight:800;cursor:pointer;color:#fff;background:#29233a}.btn:hover{filter:brightness(1.15)}.know{background:#287d58}.dont{background:#a13e56}.secondary{margin-top:12px;background:#201b2c}.library{display:flex;gap:10px;margin-bottom:14px}.library input{flex:1;padding:14px;border-radius:12px;border:1px solid #40384f;background:#0e0b14;color:#fff}.list{max-height:360px;overflow:auto}.row{display:flex;justify-content:space-between;padding:11px;border-bottom:1px solid #2c2735}.result{text-align:center;padding:35px}.score{font-size:64px;font-weight:900}.error{color:#ff8fa7;text-align:center;padding:20px}@media(max-width:800px){.levels{grid-template-columns:repeat(3,1fr)}}@media(max-width:600px){.app{padding:14px}.top{align-items:flex-start;flex-direction:column}.card{height:330px}.actions{flex-direction:column}.levels{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
 <body>
 <div class="app">
-<div class="top"><div><div class="brand">English Flashcards</div><div class="muted">Fiszki do nauki angielskiego</div></div><div class="pill" id="count">Ładowanie…</div></div>
+<div class="top"><div><div class="brand">English Flashcards</div><div class="muted">40 000 słówek • A1 → C1</div></div><div class="pill" id="count">Ładowanie…</div></div>
 <div id="menu" class="screen active panel">
-<h2>Wybierz tryb</h2>
-<div class="menu-grid">
-<button class="menu-btn" onclick="start()">🎴 Nauka fiszek</button>
-<button class="menu-btn" onclick="single()">⚡ Losowe słówko</button>
-<button class="menu-btn" onclick="showLibrary()">📚 Baza słówek</button>
-</div>
+<h2>📚 Kurs angielskiego</h2>
+<p class="muted">Uczysz się jak z książki: poziomy, rozdziały i powtórki. Wyższy poziom odblokuje się dopiero po ukończeniu poprzedniego.</p>
+<div class="levels" id="levels"></div>
+<div class="chapters" id="chapters"></div>
 </div>
 <div id="game" class="screen panel">
-<div class="stats"><div class="pill" id="progressText"></div><div class="pill" id="scoreText"></div></div>
+<div class="stats"><div class="pill" id="progressText"></div><div class="pill" id="scoreText"></div><div class="pill" id="chapterText"></div></div>
 <div class="progress"><div class="bar" id="bar"></div></div>
 <div class="card" id="card" onclick="flip()"><div class="inner"><div class="face"><div class="word" id="en"></div><div class="hint">Kliknij kartę, aby zobaczyć tłumaczenie</div></div><div class="face back"><div class="translation" id="pl"></div></div></div></div>
 <div class="actions"><button class="btn dont" onclick="answer(false)">✕ Nie znam</button><button class="btn know" onclick="answer(true)">✓ Znam</button></div>
-<button class="btn secondary" onclick="menu()">← Menu</button>
+<button class="btn secondary" onclick="menu()">← Wróć do rozdziałów</button>
 </div>
-<div id="result" class="screen panel result"><h2>Sesja zakończona 🎉</h2><div class="score" id="finalScore"></div><p class="muted" id="finalText"></p><button class="btn" onclick="start()">Jeszcze raz</button><button class="btn secondary" onclick="menu()">Menu</button></div>
-<div id="library" class="screen panel"><h2>📚 Baza słówek</h2><div class="library"><input id="search" placeholder="Szukaj po angielsku lub polsku" oninput="renderLibrary()"></div><div class="list" id="list"></div><button class="btn secondary" onclick="menu()">← Menu</button></div>
+<div id="result" class="screen panel result"><h2 id="resultTitle"></h2><div class="score" id="finalScore"></div><p class="muted" id="finalText"></p><button class="btn" onclick="retry()">Powtórz rozdział</button><button class="btn secondary" onclick="menu()">Rozdziały</button></div>
+<div id="library" class="screen panel"><h2>🔎 Baza słówek</h2><div class="library"><input id="search" placeholder="Szukaj po angielsku lub polsku" oninput="renderLibrary()"></div><div class="list" id="list"></div><button class="btn secondary" onclick="menu()">← Rozdziały</button></div>
 <div id="err" class="error"></div>
 </div>
 <script>
-const letters="abcdefghijklmnopqrstuvwxyz".split("");
-let words=[],deck=[],index=0,score=0;
+const LEVELS=["A1","A2","B1","B2","C1"];
+const CHAPTER_TITLES=["Podstawy i codzienne życie","Ludzie i relacje","Dom i otoczenie","Jedzenie i zakupy","Szkoła i nauka","Czas i rutyna","Miasto i miejsca","Podróże i transport","Praca i obowiązki","Zdrowie i ciało","Hobby i rozrywka","Przyroda i pogoda","Technologia i media","Emocje i opinie","Czasowniki i zwroty","Przymiotniki i opisy","Rzeczowniki i pojęcia","Komunikacja","Życie społeczne","Powtórka poziomu"];
+let words=[],deck=[],index=0,score=0,current=null,level="A1";
+const completed=JSON.parse(localStorage.getItem("flashcardsCompleted")||"[]");
+const progress=JSON.parse(localStorage.getItem("flashcardsProgress")||"{}");
+function save(){localStorage.setItem("flashcardsCompleted",JSON.stringify(completed));localStorage.setItem("flashcardsProgress",JSON.stringify(progress))}
 async function load(){
  try{
-  const direct=await fetch("words.json");
-  if(direct.ok){
-   words=(await direct.json()).slice(0,40000);
-   document.getElementById("count").textContent=words.length.toLocaleString("pl-PL")+" słówek";
-   return;
-  }
-  const files=await Promise.all(letters.map(x=>fetch("data/"+x+".json").then(r=>r.ok?r.json():[])));
-  const all=files.flat();
-  const seen=new Set();
-  words=[];
-  for(const w of all){
-   if(!w.word||!Array.isArray(w.meaning)||!w.meaning.length)continue;
-   const key=w.word.toLowerCase()+"\t"+w.meaning[0].toLowerCase();
-   if(seen.has(key))continue;
-   seen.add(key);
-   words.push({en:w.word,pl:w.meaning[0],level:w.level||""});
-  }
-  words=words.slice(0,40000);
+  const r=await fetch("words.json?"+Date.now());
+  if(!r.ok)throw Error();
+  words=await r.json();
   document.getElementById("count").textContent=words.length.toLocaleString("pl-PL")+" słówek";
- }catch(e){document.getElementById("err").textContent="Nie udało się wczytać bazy słówek."}
+  if(words.length<40000)document.getElementById("err").textContent="Baza jest jeszcze budowana przez GitHub Actions. Odśwież stronę po zakończeniu budowania.";
+  renderMenu();
+ }catch(e){document.getElementById("err").textContent="Nie udało się wczytać bazy. Sprawdź, czy GitHub Pages zakończyło wdrażanie."}
+}
+function key(l,c){return l+"-"+c}
+function levelDone(l){return Array.from({length:20},(_,i)=>completed.includes(key(l,i+1))).every(Boolean)}
+function unlocked(l){
+ const i=LEVELS.indexOf(l);
+ return i===0||levelDone(LEVELS[i-1])
+}
+function chapterDone(l,c){return completed.includes(key(l,c))}
+function chapterProgress(l,c){return progress[key(l,c)]||0}
+function renderMenu(){
+ const ls=document.getElementById("levels");
+ ls.innerHTML=LEVELS.map(l=>'<div class="level '+(unlocked(l)?'active':'locked')+'">'+l+(unlocked(l)?' 🔓':' 🔒')+'</div>').join("");
+ const groups=words.filter(w=>w.level===level);
+ const max=Math.max(1,Math.ceil(groups.length/400));
+ const ch=document.getElementById("chapters");
+ ch.innerHTML="";
+ for(let c=1;c<=20;c++){
+  const exists=c<=max||words.length>=40000;
+  const prev=c===1||chapterDone(level,c-1);
+  const can=unlocked(level)&&prev&&exists;
+  const done=chapterDone(level,c);
+  const p=chapterProgress(level,c);
+  const title=CHAPTER_TITLES[c-1];
+  const b=document.createElement("button");
+  b.className="chapter "+(done?"done ":"")+(can?"":"locked");
+  b.disabled=!can;
+  b.innerHTML='<span class="num">ROZDZIAŁ '+c+'</span><div class="ctitle">'+title+'</div><div class="cinfo">'+(done?"✓ Ukończony":can?"400 słówek • test końcowy":"🔒 Ukończ poprzedni rozdział")+'</div><div class="mini"><i style="width:'+p+'%"></i></div><span class="lock">'+(can?"▶":"🔒")+'</span>';
+  b.onclick=()=>startChapter(level,c);
+  ch.appendChild(b);
+ }
+}
+function chooseLevel(l){if(unlocked(l)){level=l;renderMenu()}}
+function startChapter(l,c){
+ if(!unlocked(l)||(c>1&&!chapterDone(l,c-1)))return;
+ current={level:l,chapter:c};
+ const pool=words.filter(w=>w.level===l&&Number(w.chapter)===c);
+ deck=shuffle(pool).slice(0,Math.min(30,pool.length));
+ index=0;score=0;screen("game");render();
+}
+function retry(){if(current)startChapter(current.level,current.chapter)}
+function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
+function render(){
+ const w=deck[index];
+ document.getElementById("en").textContent=w.en;
+ document.getElementById("pl").textContent=w.pl;
+ document.getElementById("card").classList.remove("flipped");
+ document.getElementById("progressText").textContent=(index+1)+" / "+deck.length;
+ document.getElementById("scoreText").textContent="Wynik: "+score;
+ document.getElementById("chapterText").textContent=current.level+" • Rozdział "+current.chapter;
+ document.getElementById("bar").style.width=(index/deck.length*100)+"%";
+}
+function flip(){document.getElementById("card").classList.toggle("flipped")}
+function answer(ok){
+ if(ok)score++;
+ index++;
+ if(index>=deck.length){
+  const pct=Math.round(score/deck.length*100);
+  const k=key(current.level,current.chapter);
+  progress[k]=Math.max(progress[k]||0,pct);
+  if(pct>=80&&!completed.includes(k))completed.push(k);
+  save();
+  document.getElementById("finalScore").textContent=score+" / "+deck.length;
+  document.getElementById("resultTitle").textContent=pct>=80?"🎉 Rozdział ukończony!":"💪 Spróbuj jeszcze raz";
+  document.getElementById("finalText").textContent=pct>=80?"Masz co najmniej 80%. Odblokowano kolejny rozdział.":"Potrzebujesz minimum 80%, aby odblokować następny rozdział.";
+  screen("result");
+ }else render()
 }
 function screen(id){document.querySelectorAll(".screen").forEach(x=>x.classList.remove("active"));document.getElementById(id).classList.add("active")}
-function menu(){screen("menu")}
-function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
-function start(){deck=shuffle(words).slice(0,20);index=0;score=0;screen("game");render()}
-function single(){deck=shuffle(words).slice(0,1);index=0;score=0;screen("game");render()}
-function render(){const w=deck[index];document.getElementById("en").textContent=w.en;document.getElementById("pl").textContent=w.pl;document.getElementById("card").classList.remove("flipped");document.getElementById("progressText").textContent=(index+1)+" / "+deck.length;document.getElementById("scoreText").textContent="Wynik: "+score;document.getElementById("bar").style.width=(index/deck.length*100)+"%"}
-function flip(){document.getElementById("card").classList.toggle("flipped")}
-function answer(ok){if(ok)score++;index++;if(index>=deck.length){document.getElementById("finalScore").textContent=score+" / "+deck.length;document.getElementById("finalText").textContent="Poprawne odpowiedzi: "+Math.round(score/deck.length*100)+"%";screen("result")}else render()}
+function menu(){renderMenu();screen("menu")}
 function showLibrary(){screen("library");renderLibrary()}
 function renderLibrary(){const q=(document.getElementById("search").value||"").toLowerCase();const arr=words.filter(w=>(w.en+" "+w.pl).toLowerCase().includes(q)).slice(0,300);document.getElementById("list").innerHTML=arr.map(w=>"<div class='row'><b>"+esc(w.en)+"</b><span>"+esc(w.pl)+"</span></div>").join("")||"<div class='muted'>Brak wyników</div>"}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]))}
