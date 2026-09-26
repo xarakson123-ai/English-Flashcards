@@ -1,0 +1,2361 @@
+[
+  {
+    "id": "j-jab",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jab",
+    "pronunciation": "ʤæb",
+    "meaning": [
+      "wbijać",
+      "zastrzyk"
+    ]
+  },
+  {
+    "id": "j-jabber",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jabber",
+    "pronunciation": "ˈʤæbə",
+    "meaning": [
+      "paplać",
+      "gadanina"
+    ]
+  },
+  {
+    "id": "j-jack",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jack",
+    "pronunciation": "ʤæk",
+    "meaning": [
+      "podnośnik",
+      "walet"
+    ]
+  },
+  {
+    "id": "j-jacket",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jacket",
+    "pronunciation": "ˈʤækɪt",
+    "meaning": [
+      "marynarka",
+      "kurtka",
+      "mundurek",
+      "okładka"
+    ]
+  },
+  {
+    "id": "j-jackknife",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jackknife",
+    "pronunciation": "ˈʤæknaɪf",
+    "meaning": [
+      "składany nóż",
+      "składać się"
+    ]
+  },
+  {
+    "id": "j-jackpot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jackpot",
+    "pronunciation": "ˈʤækpɒt",
+    "meaning": [
+      "najwyższa wygrana",
+      "pula"
+    ]
+  },
+  {
+    "id": "j-jade",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jade",
+    "pronunciation": "ʤeɪd",
+    "meaning": [
+      "jadeit"
+    ]
+  },
+  {
+    "id": "j-jaded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jaded",
+    "pronunciation": "ˈʤeɪdɪd",
+    "meaning": [
+      "sterany"
+    ]
+  },
+  {
+    "id": "j-jagged",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "jagged",
+    "pronunciation": "ˈʤægd",
+    "meaning": [
+      "poszarpany",
+      "wyszczerbiony"
+    ]
+  },
+  {
+    "id": "j-jaguar",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jaguar",
+    "pronunciation": "ˈʤægjʊə",
+    "meaning": [
+      "jaguar"
+    ]
+  },
+  {
+    "id": "j-jam",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jam",
+    "pronunciation": "ʤæm",
+    "meaning": [
+      "dżem",
+      "korek",
+      "zator",
+      "wtykać",
+      "zacinać się",
+      "zablokowywać się",
+      "zablokowywać",
+      "zapychać",
+      "blokować",
+      "wpychać",
+      "zagłuszać"
+    ]
+  },
+  {
+    "id": "j-Jamaica",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Jamaica",
+    "pronunciation": "ʤəˈmeɪkə",
+    "meaning": [
+      "Jamajka"
+    ]
+  },
+  {
+    "id": "j-Jamaican",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Jamaican",
+    "pronunciation": "ʤəˈmeɪkən",
+    "meaning": [
+      "jamajski",
+      "Jamajczyk"
+    ]
+  },
+  {
+    "id": "j-Jan.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Jan.",
+    "pronunciation": "/dʒæn/",
+    "meaning": [
+      "styczeń"
+    ]
+  },
+  {
+    "id": "j-jangle",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jangle",
+    "pronunciation": "ˈʤæŋgəl",
+    "meaning": [
+      "brzęczeć",
+      "brzęk"
+    ]
+  },
+  {
+    "id": "j-janitor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "janitor",
+    "pronunciation": "ˈʤænɪtə",
+    "meaning": [
+      "dozorca",
+      "portier"
+    ]
+  },
+  {
+    "id": "j-January",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "January",
+    "pronunciation": "ˈʤænjʊərɪ",
+    "meaning": [
+      "styczeń"
+    ]
+  },
+  {
+    "id": "j-Japan",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Japan",
+    "pronunciation": "ʤəˈpæn",
+    "meaning": [
+      "Japonia"
+    ]
+  },
+  {
+    "id": "j-Japanese",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Japanese",
+    "pronunciation": "ʤæpəˈni:z",
+    "meaning": [
+      "japoński",
+      "Japończyk"
+    ]
+  },
+  {
+    "id": "j-jar",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jar",
+    "pronunciation": "ʤɑ:",
+    "meaning": [
+      "słój",
+      "słoik",
+      "wstrząs",
+      "wstrząsać",
+      "drgać",
+      "drażnić",
+      "szokować"
+    ]
+  },
+  {
+    "id": "j-jargon",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jargon",
+    "pronunciation": "ˈʤɑ:gən",
+    "meaning": [
+      "żargon"
+    ]
+  },
+  {
+    "id": "j-jaundice",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jaundice",
+    "pronunciation": "ˈʤɔ:ndɪs",
+    "meaning": [
+      "żółtaczka"
+    ]
+  },
+  {
+    "id": "j-jaundiced",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jaundiced",
+    "pronunciation": "ˈʤɔ:ndɪst",
+    "meaning": [
+      "zgorzkniały"
+    ]
+  },
+  {
+    "id": "j-jaunt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jaunt",
+    "pronunciation": "ʤɔ:nt",
+    "meaning": [
+      "wycieczka"
+    ]
+  },
+  {
+    "id": "j-jaunty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jaunty",
+    "pronunciation": "ˈʤɔ:ntɪ",
+    "meaning": [
+      "beztroski",
+      "swobodny"
+    ]
+  },
+  {
+    "id": "j-javelin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "javelin",
+    "pronunciation": "ˈʤævəlɪn",
+    "meaning": [
+      "oszczep"
+    ]
+  },
+  {
+    "id": "j-jaw",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jaw",
+    "pronunciation": "ʤɔ:",
+    "meaning": [
+      "szczęka",
+      "żuchwa",
+      "paszcza"
+    ]
+  },
+  {
+    "id": "j-jazz",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jazz",
+    "pronunciation": "ʤæz",
+    "meaning": [
+      "jazz",
+      "podpicować"
+    ]
+  },
+  {
+    "id": "j-jazzy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "jazzy",
+    "pronunciation": "ˈʤæzɪ",
+    "meaning": [
+      "jazowy",
+      "wystrzałowy"
+    ]
+  },
+  {
+    "id": "j-jealous",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "jealous",
+    "pronunciation": "ˈʤeləs",
+    "meaning": [
+      "zazdrosny",
+      "zawistny"
+    ]
+  },
+  {
+    "id": "j-jealousy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jealousy",
+    "pronunciation": "ˈʤeləsɪ",
+    "meaning": [
+      "zazdrość"
+    ]
+  },
+  {
+    "id": "j-jeans",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jeans",
+    "pronunciation": "ʤi:nz",
+    "meaning": [
+      "dżinsy"
+    ]
+  },
+  {
+    "id": "j-jeep",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jeep",
+    "pronunciation": "ʤi:p",
+    "meaning": [
+      "dżip",
+      "gazik"
+    ]
+  },
+  {
+    "id": "j-jell",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jell",
+    "pronunciation": "ʤel",
+    "meaning": [
+      "zastygać w galaretę",
+      "zastygać",
+      "przybierać kształtów",
+      "żel"
+    ]
+  },
+  {
+    "id": "j-jelly",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jelly",
+    "pronunciation": "ˈʤelɪ",
+    "meaning": [
+      "galaretka",
+      "marmolada"
+    ]
+  },
+  {
+    "id": "j-jellyfish",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jellyfish",
+    "pronunciation": "ˈʤelɪfɪʃ",
+    "meaning": [
+      "meduza"
+    ]
+  },
+  {
+    "id": "j-jemmy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jemmy",
+    "pronunciation": "ˈʤemɪ",
+    "meaning": [
+      "łom"
+    ]
+  },
+  {
+    "id": "j-jeopardize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jeopardize",
+    "pronunciation": "ˈʤepədaɪz",
+    "meaning": [
+      "narażać na niebezpieczeństwo"
+    ]
+  },
+  {
+    "id": "j-jeopardy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jeopardy",
+    "pronunciation": "ˈʤepədɪ",
+    "meaning": [
+      "niebezpieczeństwo"
+    ]
+  },
+  {
+    "id": "j-jerk",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jerk",
+    "pronunciation": "ʤɜ:k",
+    "meaning": [
+      "szarpać",
+      "szarpać się",
+      "rzucać się",
+      "szarpnięcie"
+    ]
+  },
+  {
+    "id": "j-jerky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "jerky",
+    "pronunciation": "ˈʤɜ:kɪ",
+    "meaning": [
+      "trzęsący się",
+      "trzęsący",
+      "spazmatyczny",
+      "konwulsyjny"
+    ]
+  },
+  {
+    "id": "j-Jersey",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Jersey",
+    "pronunciation": "ˈʤɜ:zɪ",
+    "meaning": [
+      "Jersey"
+    ]
+  },
+  {
+    "id": "j-jersey",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jersey",
+    "pronunciation": "ˈʤɜ:zɪ",
+    "meaning": [
+      "sweter",
+      "dżersej"
+    ]
+  },
+  {
+    "id": "j-jest",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jest",
+    "pronunciation": "ʤest",
+    "meaning": [
+      "dowcip"
+    ]
+  },
+  {
+    "id": "j-jet",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "jet",
+    "pronunciation": "ʤet",
+    "meaning": [
+      "odrzutowiec",
+      "latać odrzutowcami",
+      "latać",
+      "odrzutowy",
+      "strumień",
+      "struga",
+      "gagat"
+    ]
+  },
+  {
+    "id": "j-jet-black",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jet-black",
+    "pronunciation": "ˌʤetˈblæk",
+    "meaning": [
+      "kruczoczarny"
+    ]
+  },
+  {
+    "id": "j-jettison",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jettison",
+    "pronunciation": "ˈʤetɪsən",
+    "meaning": [
+      "wyzbywać się"
+    ]
+  },
+  {
+    "id": "j-jetty",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jetty",
+    "pronunciation": "ˈʤetɪ",
+    "meaning": [
+      "nabrzeże",
+      "falochron"
+    ]
+  },
+  {
+    "id": "j-Jew",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Jew",
+    "pronunciation": "ʤu:",
+    "meaning": [
+      "Żyd"
+    ]
+  },
+  {
+    "id": "j-jewel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jewel",
+    "pronunciation": "ˈʤu:əl",
+    "meaning": [
+      "klejnot"
+    ]
+  },
+  {
+    "id": "j-jewelled",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "jewelled",
+    "pronunciation": "ˈʤu:əld",
+    "meaning": [
+      "ozdobiony klejnotami"
+    ]
+  },
+  {
+    "id": "j-jeweller",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jeweller",
+    "pronunciation": "ˈʤu:ələ",
+    "meaning": [
+      "jubiler"
+    ]
+  },
+  {
+    "id": "j-jewellery",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jewellery",
+    "pronunciation": "ˈʤu:əlrɪ",
+    "meaning": [
+      "biżuteria"
+    ]
+  },
+  {
+    "id": "j-Jewess",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Jewess",
+    "pronunciation": "ˈʤʊɪs",
+    "meaning": [
+      "Żydówka"
+    ]
+  },
+  {
+    "id": "j-Jewish",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Jewish",
+    "pronunciation": "ˈʤu:ɪʃ",
+    "meaning": [
+      "żydowski"
+    ]
+  },
+  {
+    "id": "j-jibe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jibe",
+    "pronunciation": "ʤaɪb",
+    "meaning": [
+      "docinek"
+    ]
+  },
+  {
+    "id": "j-jiffy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jiffy",
+    "pronunciation": "ˈʤɪfɪ",
+    "meaning": []
+  },
+  {
+    "id": "j-jiggle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "jiggle",
+    "pronunciation": "ˈʤɪgəl",
+    "meaning": [
+      "kręcić się",
+      "kręcić",
+      "machać"
+    ]
+  },
+  {
+    "id": "j-jilt",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jilt",
+    "pronunciation": "ʤɪlt",
+    "meaning": [
+      "porzucać"
+    ]
+  },
+  {
+    "id": "j-jingle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jingle",
+    "pronunciation": "ˈʤɪŋgəl",
+    "meaning": [
+      "brzęczeć",
+      "brzęczenie",
+      "hasło",
+      "powiedzonko"
+    ]
+  },
+  {
+    "id": "j-jinx",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jinx",
+    "pronunciation": "ʤɪŋks",
+    "meaning": []
+  },
+  {
+    "id": "j-jittery",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jittery",
+    "pronunciation": "ˈʤɪtərɪ",
+    "meaning": [
+      "roztrzęsiony"
+    ]
+  },
+  {
+    "id": "j-jnr.",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "jnr.",
+    "pronunciation": "/ˈdʒuːnjə/",
+    "meaning": [
+      "junior"
+    ]
+  },
+  {
+    "id": "j-jobless",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "jobless",
+    "pronunciation": "ˈʤɒblɪs",
+    "meaning": [
+      "bezrobotny"
+    ]
+  },
+  {
+    "id": "j-jockey",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jockey",
+    "pronunciation": "ˈʤɒkɪ",
+    "meaning": [
+      "dżokej"
+    ]
+  },
+  {
+    "id": "j-jocular",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jocular",
+    "pronunciation": "ˈʤɒkjələ",
+    "meaning": [
+      "żartobliwy",
+      "dowcipny"
+    ]
+  },
+  {
+    "id": "j-jog",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jog",
+    "pronunciation": "ʤɒg",
+    "meaning": [
+      "uprawiać jogging",
+      "biegać truchtem",
+      "wstrząsać",
+      "trącać",
+      "trucht"
+    ]
+  },
+  {
+    "id": "j-join",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "join",
+    "pronunciation": "ʤɔɪn",
+    "meaning": [
+      "łączyć się",
+      "łączyć",
+      "stawać",
+      "wstępować",
+      "połączenie",
+      "dołączać się do",
+      "zaciągać się",
+      "wstępować do wojska"
+    ]
+  },
+  {
+    "id": "j-joiner",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joiner",
+    "pronunciation": "ˈʤɔɪnə",
+    "meaning": [
+      "stolarz"
+    ]
+  },
+  {
+    "id": "j-joint",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "joint",
+    "pronunciation": "ʤɔɪnt",
+    "meaning": [
+      "wspólny",
+      "staw",
+      "złączenie",
+      "udziec",
+      "knajpa",
+      "pet"
+    ]
+  },
+  {
+    "id": "j-joke",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "joke",
+    "pronunciation": "ʤəʊk",
+    "meaning": [
+      "dowcip",
+      "żart",
+      "żartować",
+      "przedmiot żartów"
+    ]
+  },
+  {
+    "id": "j-joker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joker",
+    "pronunciation": "ˈʤəʊkə",
+    "meaning": [
+      "dowcipniś",
+      "żartowniś",
+      "dżoker"
+    ]
+  },
+  {
+    "id": "j-jokingly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "jokingly",
+    "pronunciation": "ˈʤəʊkɪŋlɪ",
+    "meaning": [
+      "żartem"
+    ]
+  },
+  {
+    "id": "j-jolly",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "jolly",
+    "pronunciation": "ˈʤɒlɪ",
+    "meaning": [
+      "wesoły",
+      "radosny",
+      "bardzo",
+      "szalenie"
+    ]
+  },
+  {
+    "id": "j-jolt",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jolt",
+    "pronunciation": "ʤəʊlt",
+    "meaning": [
+      "szarpać się",
+      "szarpać",
+      "wstrząsać się",
+      "wstrząsać",
+      "szarpnięcie",
+      "wstrząs"
+    ]
+  },
+  {
+    "id": "j-Jordan",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Jordan",
+    "pronunciation": "ˈʤɔ:dən",
+    "meaning": [
+      "Jordania"
+    ]
+  },
+  {
+    "id": "j-Jordanian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Jordanian",
+    "pronunciation": "ʤɔ:ˈdeɪnɪən",
+    "meaning": [
+      "jordański",
+      "Jordańczyk"
+    ]
+  },
+  {
+    "id": "j-jostle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jostle",
+    "pronunciation": "ˈʤɒsəl",
+    "meaning": [
+      "obijać się",
+      "rozpychać się",
+      "rozpychać",
+      "przepychać się",
+      "przepychać",
+      "walczyć"
+    ]
+  },
+  {
+    "id": "j-jot",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jot",
+    "pronunciation": "ʤɒt",
+    "meaning": [
+      "napisać"
+    ]
+  },
+  {
+    "id": "j-journal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "journal",
+    "pronunciation": "ˈʤɜ:nəl",
+    "meaning": [
+      "magazyn",
+      "czasopismo",
+      "dziennik"
+    ]
+  },
+  {
+    "id": "j-journalism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "journalism",
+    "pronunciation": "ˈʤɜ:nəlɪzəm",
+    "meaning": [
+      "dziennikarstwo"
+    ]
+  },
+  {
+    "id": "j-journalist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "journalist",
+    "pronunciation": "ˈʤɜ:nəlɪst",
+    "meaning": [
+      "dziennikarz"
+    ]
+  },
+  {
+    "id": "j-journalistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "journalistic",
+    "pronunciation": "ˌʤɜ:nəˈlɪstɪk",
+    "meaning": [
+      "dziennikarski"
+    ]
+  },
+  {
+    "id": "j-journey",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "journey",
+    "pronunciation": "ˈʤɜ:nɪ",
+    "meaning": [
+      "podróż",
+      "podróżować"
+    ]
+  },
+  {
+    "id": "j-jovial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jovial",
+    "pronunciation": "ˈʤəʊvɪəl",
+    "meaning": [
+      "jowialny"
+    ]
+  },
+  {
+    "id": "j-joy",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "joy",
+    "pronunciation": "ʤɔɪ",
+    "meaning": [
+      "radość",
+      "źródło radości"
+    ]
+  },
+  {
+    "id": "j-joyful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "joyful",
+    "pronunciation": "ˈʤɔɪfʊl",
+    "meaning": [
+      "radosny",
+      "szczęśliwy"
+    ]
+  },
+  {
+    "id": "j-joyless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "joyless",
+    "pronunciation": "ˈʤɔɪlɪs",
+    "meaning": [
+      "ponury"
+    ]
+  },
+  {
+    "id": "j-joyride",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joyride",
+    "pronunciation": "ˈʤɔɪraɪd",
+    "meaning": [
+      "przejażdżka"
+    ]
+  },
+  {
+    "id": "j-joystick",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joystick",
+    "pronunciation": "ˈʤɔɪstɪk",
+    "meaning": [
+      "drążek",
+      "dżojstik"
+    ]
+  },
+  {
+    "id": "j-JP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "JP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "sędzia pokoju"
+    ]
+  },
+  {
+    "id": "j-jr.",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "jr.",
+    "pronunciation": "/ˈdʒuːniə/",
+    "meaning": [
+      "junior"
+    ]
+  },
+  {
+    "id": "j-jubilant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jubilant",
+    "pronunciation": "ˈʤu:bɪlənt",
+    "meaning": [
+      "rozradowany",
+      "triumfujący"
+    ]
+  },
+  {
+    "id": "j-jubilation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jubilation",
+    "pronunciation": "ˌʤu:bɪˈleɪʃən",
+    "meaning": [
+      "świętowanie"
+    ]
+  },
+  {
+    "id": "j-jubilee",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jubilee",
+    "pronunciation": "ˈʤu:bɪlɪ",
+    "meaning": [
+      "jubileusz"
+    ]
+  },
+  {
+    "id": "j-Judaism",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Judaism",
+    "pronunciation": "ˈʤu:deɪɪzəm",
+    "meaning": [
+      "judaizm"
+    ]
+  },
+  {
+    "id": "j-judge",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "judge",
+    "pronunciation": "ˈʤʌʤ",
+    "meaning": [
+      "sędzia",
+      "znawca",
+      "oceniać",
+      "osądzać"
+    ]
+  },
+  {
+    "id": "j-judgement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "judgement",
+    "pronunciation": "ˈʤaʤmənt",
+    "meaning": [
+      "ocena",
+      "osąd",
+      "wyrok"
+    ]
+  },
+  {
+    "id": "j-judicial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "judicial",
+    "pronunciation": "ʤu:ˈdɪʃəl",
+    "meaning": [
+      "sądowniczy",
+      "prawny",
+      "krytyczny",
+      "oceniający"
+    ]
+  },
+  {
+    "id": "j-judiciary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "judiciary",
+    "pronunciation": "ʤu:ˈdɪʃərɪ",
+    "meaning": [
+      "władza jurysdykcyjna",
+      "sądownictwo"
+    ]
+  },
+  {
+    "id": "j-jell",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jell",
+    "pronunciation": "ʤel",
+    "meaning": [
+      "zastygać w galaretę",
+      "zastygać",
+      "przybierać kształtów",
+      "żel"
+    ]
+  },
+  {
+    "id": "j-jelly",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jelly",
+    "pronunciation": "ˈʤelɪ",
+    "meaning": [
+      "galaretka",
+      "marmolada"
+    ]
+  },
+  {
+    "id": "j-jellyfish",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jellyfish",
+    "pronunciation": "ˈʤelɪfɪʃ",
+    "meaning": [
+      "meduza"
+    ]
+  },
+  {
+    "id": "j-jemmy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jemmy",
+    "pronunciation": "ˈʤemɪ",
+    "meaning": [
+      "łom"
+    ]
+  },
+  {
+    "id": "j-jeopardize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jeopardize",
+    "pronunciation": "ˈʤepədaɪz",
+    "meaning": [
+      "narażać na niebezpieczeństwo"
+    ]
+  },
+  {
+    "id": "j-jeopardy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jeopardy",
+    "pronunciation": "ˈʤepədɪ",
+    "meaning": [
+      "niebezpieczeństwo"
+    ]
+  },
+  {
+    "id": "j-jerk",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jerk",
+    "pronunciation": "ʤɜ:k",
+    "meaning": [
+      "szarpać",
+      "szarpać się",
+      "rzucać się",
+      "szarpnięcie"
+    ]
+  },
+  {
+    "id": "j-jerky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "jerky",
+    "pronunciation": "ˈʤɜ:kɪ",
+    "meaning": [
+      "trzęsący się",
+      "trzęsący",
+      "spazmatyczny",
+      "konwulsyjny"
+    ]
+  },
+  {
+    "id": "j-Jersey",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Jersey",
+    "pronunciation": "ˈʤɜ:zɪ",
+    "meaning": [
+      "Jersey"
+    ]
+  },
+  {
+    "id": "j-jersey",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jersey",
+    "pronunciation": "ˈʤɜ:zɪ",
+    "meaning": [
+      "sweter",
+      "dżersej"
+    ]
+  },
+  {
+    "id": "j-jest",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jest",
+    "pronunciation": "ʤest",
+    "meaning": [
+      "dowcip"
+    ]
+  },
+  {
+    "id": "j-jet",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "jet",
+    "pronunciation": "ʤet",
+    "meaning": [
+      "odrzutowiec",
+      "latać odrzutowcami",
+      "latać",
+      "odrzutowy",
+      "strumień",
+      "struga",
+      "gagat"
+    ]
+  },
+  {
+    "id": "j-jet-black",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jet-black",
+    "pronunciation": "ˌʤetˈblæk",
+    "meaning": [
+      "kruczoczarny"
+    ]
+  },
+  {
+    "id": "j-jettison",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jettison",
+    "pronunciation": "ˈʤetɪsən",
+    "meaning": [
+      "wyzbywać się"
+    ]
+  },
+  {
+    "id": "j-jetty",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jetty",
+    "pronunciation": "ˈʤetɪ",
+    "meaning": [
+      "nabrzeże",
+      "falochron"
+    ]
+  },
+  {
+    "id": "j-Jew",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Jew",
+    "pronunciation": "ʤu:",
+    "meaning": [
+      "Żyd"
+    ]
+  },
+  {
+    "id": "j-jewel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jewel",
+    "pronunciation": "ˈʤu:əl",
+    "meaning": [
+      "klejnot"
+    ]
+  },
+  {
+    "id": "j-jewelled",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "jewelled",
+    "pronunciation": "ˈʤu:əld",
+    "meaning": [
+      "ozdobiony klejnotami"
+    ]
+  },
+  {
+    "id": "j-jeweller",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jeweller",
+    "pronunciation": "ˈʤu:ələ",
+    "meaning": [
+      "jubiler"
+    ]
+  },
+  {
+    "id": "j-jewellery",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jewellery",
+    "pronunciation": "ˈʤu:əlrɪ",
+    "meaning": [
+      "biżuteria"
+    ]
+  },
+  {
+    "id": "j-Jewess",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Jewess",
+    "pronunciation": "ˈʤʊɪs",
+    "meaning": [
+      "Żydówka"
+    ]
+  },
+  {
+    "id": "j-Jewish",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Jewish",
+    "pronunciation": "ˈʤu:ɪʃ",
+    "meaning": [
+      "żydowski"
+    ]
+  },
+  {
+    "id": "j-jibe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jibe",
+    "pronunciation": "ʤaɪb",
+    "meaning": [
+      "docinek"
+    ]
+  },
+  {
+    "id": "j-jiffy",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jiffy",
+    "pronunciation": "ˈʤɪfɪ",
+    "meaning": []
+  },
+  {
+    "id": "j-jiggle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "jiggle",
+    "pronunciation": "ˈʤɪgəl",
+    "meaning": [
+      "kręcić się",
+      "kręcić",
+      "machać"
+    ]
+  },
+  {
+    "id": "j-jilt",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jilt",
+    "pronunciation": "ʤɪlt",
+    "meaning": [
+      "porzucać"
+    ]
+  },
+  {
+    "id": "j-jingle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jingle",
+    "pronunciation": "ˈʤɪŋgəl",
+    "meaning": [
+      "brzęczeć",
+      "brzęczenie",
+      "hasło",
+      "powiedzonko"
+    ]
+  },
+  {
+    "id": "j-jinx",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jinx",
+    "pronunciation": "ʤɪŋks",
+    "meaning": []
+  },
+  {
+    "id": "j-jittery",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jittery",
+    "pronunciation": "ˈʤɪtərɪ",
+    "meaning": [
+      "roztrzęsiony"
+    ]
+  },
+  {
+    "id": "j-jnr.",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "jnr.",
+    "pronunciation": "/ˈdʒuːnjə/",
+    "meaning": [
+      "junior"
+    ]
+  },
+  {
+    "id": "j-jobless",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "jobless",
+    "pronunciation": "ˈʤɒblɪs",
+    "meaning": [
+      "bezrobotny"
+    ]
+  },
+  {
+    "id": "j-jockey",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jockey",
+    "pronunciation": "ˈʤɒkɪ",
+    "meaning": [
+      "dżokej"
+    ]
+  },
+  {
+    "id": "j-jocular",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jocular",
+    "pronunciation": "ˈʤɒkjələ",
+    "meaning": [
+      "żartobliwy",
+      "dowcipny"
+    ]
+  },
+  {
+    "id": "j-jog",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jog",
+    "pronunciation": "ʤɒg",
+    "meaning": [
+      "uprawiać jogging",
+      "biegać truchtem",
+      "wstrząsać",
+      "trącać",
+      "trucht"
+    ]
+  },
+  {
+    "id": "j-join",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "join",
+    "pronunciation": "ʤɔɪn",
+    "meaning": [
+      "łączyć się",
+      "łączyć",
+      "stawać",
+      "wstępować",
+      "połączenie",
+      "dołączać się do",
+      "zaciągać się",
+      "wstępować do wojska"
+    ]
+  },
+  {
+    "id": "j-joiner",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joiner",
+    "pronunciation": "ˈʤɔɪnə",
+    "meaning": [
+      "stolarz"
+    ]
+  },
+  {
+    "id": "j-joint",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "joint",
+    "pronunciation": "ʤɔɪnt",
+    "meaning": [
+      "wspólny",
+      "staw",
+      "złączenie",
+      "udziec",
+      "knajpa",
+      "pet"
+    ]
+  },
+  {
+    "id": "j-joke",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "joke",
+    "pronunciation": "ʤəʊk",
+    "meaning": [
+      "dowcip",
+      "żart",
+      "żartować",
+      "przedmiot żartów"
+    ]
+  },
+  {
+    "id": "j-joker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joker",
+    "pronunciation": "ˈʤəʊkə",
+    "meaning": [
+      "dowcipniś",
+      "żartowniś",
+      "dżoker"
+    ]
+  },
+  {
+    "id": "j-jokingly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "jokingly",
+    "pronunciation": "ˈʤəʊkɪŋlɪ",
+    "meaning": [
+      "żartem"
+    ]
+  },
+  {
+    "id": "j-jolly",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "jolly",
+    "pronunciation": "ˈʤɒlɪ",
+    "meaning": [
+      "wesoły",
+      "radosny",
+      "bardzo",
+      "szalenie"
+    ]
+  },
+  {
+    "id": "j-jolt",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jolt",
+    "pronunciation": "ʤəʊlt",
+    "meaning": [
+      "szarpać się",
+      "szarpać",
+      "wstrząsać się",
+      "wstrząsać",
+      "szarpnięcie",
+      "wstrząs"
+    ]
+  },
+  {
+    "id": "j-Jordan",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Jordan",
+    "pronunciation": "ˈʤɔ:dən",
+    "meaning": [
+      "Jordania"
+    ]
+  },
+  {
+    "id": "j-Jordanian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Jordanian",
+    "pronunciation": "ʤɔ:ˈdeɪnɪən",
+    "meaning": [
+      "jordański",
+      "Jordańczyk"
+    ]
+  },
+  {
+    "id": "j-jostle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jostle",
+    "pronunciation": "ˈʤɒsəl",
+    "meaning": [
+      "obijać się",
+      "rozpychać się",
+      "rozpychać",
+      "przepychać się",
+      "przepychać",
+      "walczyć"
+    ]
+  },
+  {
+    "id": "j-jot",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jot",
+    "pronunciation": "ʤɒt",
+    "meaning": [
+      "napisać"
+    ]
+  },
+  {
+    "id": "j-journal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "journal",
+    "pronunciation": "ˈʤɜ:nəl",
+    "meaning": [
+      "magazyn",
+      "czasopismo",
+      "dziennik"
+    ]
+  },
+  {
+    "id": "j-journalism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "journalism",
+    "pronunciation": "ˈʤɜ:nəlɪzəm",
+    "meaning": [
+      "dziennikarstwo"
+    ]
+  },
+  {
+    "id": "j-journalist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "journalist",
+    "pronunciation": "ˈʤɜ:nəlɪst",
+    "meaning": [
+      "dziennikarz"
+    ]
+  },
+  {
+    "id": "j-journalistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "journalistic",
+    "pronunciation": "ˌʤɜ:nəˈlɪstɪk",
+    "meaning": [
+      "dziennikarski"
+    ]
+  },
+  {
+    "id": "j-journey",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "journey",
+    "pronunciation": "ˈʤɜ:nɪ",
+    "meaning": [
+      "podróż",
+      "podróżować"
+    ]
+  },
+  {
+    "id": "j-jovial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jovial",
+    "pronunciation": "ˈʤəʊvɪəl",
+    "meaning": [
+      "jowialny"
+    ]
+  },
+  {
+    "id": "j-joy",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "joy",
+    "pronunciation": "ʤɔɪ",
+    "meaning": [
+      "radość",
+      "źródło radości"
+    ]
+  },
+  {
+    "id": "j-joyful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "joyful",
+    "pronunciation": "ˈʤɔɪfʊl",
+    "meaning": [
+      "radosny",
+      "szczęśliwy"
+    ]
+  },
+  {
+    "id": "j-joyless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "joyless",
+    "pronunciation": "ˈʤɔɪlɪs",
+    "meaning": [
+      "ponury"
+    ]
+  },
+  {
+    "id": "j-joyride",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joyride",
+    "pronunciation": "ˈʤɔɪraɪd",
+    "meaning": [
+      "przejażdżka"
+    ]
+  },
+  {
+    "id": "j-joystick",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "joystick",
+    "pronunciation": "ˈʤɔɪstɪk",
+    "meaning": [
+      "drążek",
+      "dżojstik"
+    ]
+  },
+  {
+    "id": "j-JP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "JP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "sędzia pokoju"
+    ]
+  },
+  {
+    "id": "j-jr.",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "jr.",
+    "pronunciation": "/ˈdʒuːniə/",
+    "meaning": [
+      "junior"
+    ]
+  },
+  {
+    "id": "j-jubilant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "jubilant",
+    "pronunciation": "ˈʤu:bɪlənt",
+    "meaning": [
+      "rozradowany",
+      "triumfujący"
+    ]
+  },
+  {
+    "id": "j-jubilation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jubilation",
+    "pronunciation": "ˌʤu:bɪˈleɪʃən",
+    "meaning": [
+      "świętowanie"
+    ]
+  },
+  {
+    "id": "j-jubilee",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jubilee",
+    "pronunciation": "ˈʤu:bɪlɪ",
+    "meaning": [
+      "jubileusz"
+    ]
+  },
+  {
+    "id": "j-Judaism",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Judaism",
+    "pronunciation": "ˈʤu:deɪɪzəm",
+    "meaning": [
+      "judaizm"
+    ]
+  },
+  {
+    "id": "j-judge",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "judge",
+    "pronunciation": "ˈʤʌʤ",
+    "meaning": [
+      "sędzia",
+      "znawca",
+      "oceniać",
+      "osądzać"
+    ]
+  },
+  {
+    "id": "j-judgement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "judgement",
+    "pronunciation": "ˈʤaʤmənt",
+    "meaning": [
+      "ocena",
+      "osąd",
+      "wyrok"
+    ]
+  },
+  {
+    "id": "j-judicial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "judicial",
+    "pronunciation": "ʤu:ˈdɪʃəl",
+    "meaning": [
+      "sądowniczy",
+      "prawny",
+      "krytyczny",
+      "oceniający"
+    ]
+  },
+  {
+    "id": "j-judiciary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "judiciary",
+    "pronunciation": "ʤu:ˈdɪʃərɪ",
+    "meaning": [
+      "władza jurysdykcyjna",
+      "sądownictwo"
+    ]
+  },
+  {
+    "id": "j-judicious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "judicious",
+    "pronunciation": "ʤu:ˈdɪʃəs",
+    "meaning": [
+      "rozważny",
+      "rozsądny"
+    ]
+  },
+  {
+    "id": "j-jug",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jug",
+    "pronunciation": "ʤʌg",
+    "meaning": [
+      "dzbanek"
+    ]
+  },
+  {
+    "id": "j-juggernaut",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "juggernaut",
+    "pronunciation": "ˈʤʌgənɔ:t",
+    "meaning": [
+      "wielka ciężarówka",
+      "TIR"
+    ]
+  },
+  {
+    "id": "j-juggle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "juggle",
+    "pronunciation": "ˈʤʌgəl",
+    "meaning": [
+      "żonglować",
+      "przestawiać"
+    ]
+  },
+  {
+    "id": "j-juggler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "juggler",
+    "pronunciation": "ˈʤʌglə",
+    "meaning": [
+      "żongler"
+    ]
+  },
+  {
+    "id": "j-juice",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "juice",
+    "pronunciation": "ʤu:s",
+    "meaning": [
+      "sok",
+      "sos"
+    ]
+  },
+  {
+    "id": "j-juicy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "juicy",
+    "pronunciation": "ˈʤu:sɪ",
+    "meaning": [
+      "soczysty",
+      "smakowity"
+    ]
+  },
+  {
+    "id": "j-jukebox",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jukebox",
+    "pronunciation": "ˈʤu:kbɒks",
+    "meaning": [
+      "szafa grająca"
+    ]
+  },
+  {
+    "id": "j-Jul.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Jul.",
+    "pronunciation": "/dʒuːˈlaɪ/",
+    "meaning": [
+      "lipiec"
+    ]
+  },
+  {
+    "id": "j-July",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "July",
+    "pronunciation": "ʤʊˈlaɪ",
+    "meaning": [
+      "lipiec"
+    ]
+  },
+  {
+    "id": "j-jumble",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jumble",
+    "pronunciation": "ˈʤʌmbəl",
+    "meaning": [
+      "chaos",
+      "plątanina",
+      "mieszać",
+      "splątywać",
+      "wyprzedaż dobroczynna",
+      "wyprzedaż"
+    ]
+  },
+  {
+    "id": "j-jumbo",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "jumbo",
+    "pronunciation": "ˈʤʌmbəʊ",
+    "meaning": [
+      "kolosalny",
+      "duży odrzutowiec"
+    ]
+  },
+  {
+    "id": "j-jump",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "jump",
+    "pronunciation": "ʤʌmp",
+    "meaning": [
+      "skakać",
+      "przeskakiwać",
+      "wzdrygać się",
+      "wpychać się",
+      "skok",
+      "palić się"
+    ]
+  },
+  {
+    "id": "j-jumper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jumper",
+    "pronunciation": "ˈʤʌmpə",
+    "meaning": [
+      "pulower",
+      "kombinezon"
+    ]
+  },
+  {
+    "id": "j-jumpy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "jumpy",
+    "pronunciation": "ˈʤʌmpɪ",
+    "meaning": [
+      "nerwowy",
+      "niespokojny"
+    ]
+  },
+  {
+    "id": "j-Jun.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Jun.",
+    "pronunciation": "/dʒuːn/",
+    "meaning": [
+      "czerwiec",
+      "junior"
+    ]
+  },
+  {
+    "id": "j-junction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "junction",
+    "pronunciation": "ˈʤʌŋkʃən",
+    "meaning": [
+      "połączenie",
+      "krzyżówka",
+      "węzeł"
+    ]
+  },
+  {
+    "id": "j-juncture",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "juncture",
+    "pronunciation": "ˈʤʌŋkʧə",
+    "meaning": []
+  },
+  {
+    "id": "j-June",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "June",
+    "pronunciation": "ʤu:n",
+    "meaning": [
+      "czerwiec"
+    ]
+  },
+  {
+    "id": "j-jungle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "jungle",
+    "pronunciation": "ˈʤʌŋgəl",
+    "meaning": [
+      "dżungla"
+    ]
+  },
+  {
+    "id": "j-junk",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "junk",
+    "pronunciation": "ʤʌŋk",
+    "meaning": [
+      "rupiecie",
+      "starocie"
+    ]
+  },
+  {
+    "id": "j-junkie",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "junkie",
+    "pronunciation": "ˈʤʌŋkɪ",
+    "meaning": [
+      "narkoman"
+    ]
+  },
+  {
+    "id": "j-jurisdiction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jurisdiction",
+    "pronunciation": "ˌʤʊərɪsˈdɪkʃən",
+    "meaning": [
+      "jurysdykcja",
+      "władza sądownicza"
+    ]
+  },
+  {
+    "id": "j-jurist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "jurist",
+    "pronunciation": "ˈʤʊərɪst",
+    "meaning": [
+      "prawnik"
+    ]
+  },
+  {
+    "id": "j-juror",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "juror",
+    "pronunciation": "ˈʤʊərə",
+    "meaning": [
+      "członek sądu przysięgłego",
+      "juror"
+    ]
+  },
+  {
+    "id": "j-jury",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "jury",
+    "pronunciation": "ˈʤʊərɪ",
+    "meaning": [
+      "sąd przysięgłych",
+      "jury"
+    ]
+  },
+  {
+    "id": "j-justice",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "justice",
+    "pronunciation": "ˈʤʌstɪs",
+    "meaning": [
+      "sprawiedliwość",
+      "wymiar sprawiedliwości",
+      "słuszność",
+      "sędzia",
+      "sędzia pokoju"
+    ]
+  },
+  {
+    "id": "j-justifiable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "justifiable",
+    "pronunciation": "ˌʤastɪˈfaɪəbəl",
+    "meaning": [
+      "uzasadniony",
+      "usprawiedliwiony"
+    ]
+  },
+  {
+    "id": "j-justification",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "justification",
+    "pronunciation": "ˌʤʌstɪfɪˈkeɪʃən",
+    "meaning": [
+      "uzasadnienie",
+      "usprawiedliwienie",
+      "wyrównywanie",
+      "justowanie"
+    ]
+  },
+  {
+    "id": "j-justify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "justify",
+    "pronunciation": "ˈʤʌstɪfaɪ",
+    "meaning": [
+      "uzasadniać",
+      "usprawiedliwiać",
+      "wyrównywać",
+      "justować"
+    ]
+  },
+  {
+    "id": "j-jut",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "jut",
+    "pronunciation": "ʤʌt",
+    "meaning": [
+      "wychodzić na zewnątrz",
+      "wychodzić"
+    ]
+  },
+  {
+    "id": "j-juvenile",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "juvenile",
+    "pronunciation": "ˈʤu:vənaɪl",
+    "meaning": [
+      "młodociany",
+      "dziecinny",
+      "młodociany przestępca"
+    ]
+  },
+  {
+    "id": "j-juxtapose",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "juxtapose",
+    "pronunciation": "ˌʤʌkstəˈpəʊz",
+    "meaning": [
+      "porównywać",
+      "zestawiać"
+    ]
+  }
+]
