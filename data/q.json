@@ -1,0 +1,841 @@
+[
+  {
+    "id": "q-qr.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "qr.",
+    "pronunciation": "/ˌkjuːˈɑː/",
+    "meaning": [
+      "kwatera",
+      "ćwiartka"
+    ]
+  },
+  {
+    "id": "q-q.t.",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "q.t.",
+    "pronunciation": "ˌkju:ˈti:",
+    "meaning": [
+      "cicho"
+    ]
+  },
+  {
+    "id": "q-qt.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "qt.",
+    "pronunciation": "/ˌkjuːˈtiː/",
+    "meaning": [
+      "kwarta"
+    ]
+  },
+  {
+    "id": "q-qu",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "qu",
+    "pronunciation": "/kjuː/",
+    "meaning": [
+      "królowa",
+      "pytanie"
+    ]
+  },
+  {
+    "id": "q-quack",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quack",
+    "pronunciation": "kwæk",
+    "meaning": [
+      "kwakać",
+      "kwakanie",
+      "znachor"
+    ]
+  },
+  {
+    "id": "q-quadrangle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quadrangle",
+    "pronunciation": "ˈkwɒdræŋgəl",
+    "meaning": [
+      "kwadratowy plac",
+      "kwadratowy podwórze",
+      "plac",
+      "podwórze"
+    ]
+  },
+  {
+    "id": "q-quadruped",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quadruped",
+    "pronunciation": "ˈkwɒdrʊpəd",
+    "meaning": [
+      "zwierzę czworonożne"
+    ]
+  },
+  {
+    "id": "q-quadruple",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "quadruple",
+    "pronunciation": "ˈkwɒdrʊpəl",
+    "meaning": [
+      "zwiększać się czterokrotnie",
+      "zwiększać czterokrotnie",
+      "czterokrotnie"
+    ]
+  },
+  {
+    "id": "q-quadruplets",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quadruplets",
+    "pronunciation": "ˈkwɒdrʊplɪts",
+    "meaning": [
+      "czworaczki"
+    ]
+  },
+  {
+    "id": "q-quagmire",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quagmire",
+    "pronunciation": "ˈkwɒgmaɪə",
+    "meaning": [
+      "trzęsawisko"
+    ]
+  },
+  {
+    "id": "q-quail",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quail",
+    "pronunciation": "kweɪl",
+    "meaning": [
+      "przepiórka"
+    ]
+  },
+  {
+    "id": "q-quaint",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "quaint",
+    "pronunciation": "kweɪnt",
+    "meaning": [
+      "przedziwny"
+    ]
+  },
+  {
+    "id": "q-quake",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quake",
+    "pronunciation": "kweɪk",
+    "meaning": [
+      "trząść się",
+      "trzęsienie"
+    ]
+  },
+  {
+    "id": "q-Quaker",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Quaker",
+    "pronunciation": "ˈkweɪkə",
+    "meaning": [
+      "kwakier"
+    ]
+  },
+  {
+    "id": "q-qualification",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "qualification",
+    "pronunciation": "ˌkwɒlɪfɪˈkeɪʃən",
+    "meaning": [
+      "wykształcenie",
+      "kwalifikacje",
+      "zastrzeżenie"
+    ]
+  },
+  {
+    "id": "q-qualified",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "qualified",
+    "pronunciation": "ˈkwɒlɪfaɪd",
+    "meaning": [
+      "wykwalifikowany",
+      "dyplomowany",
+      "z zastrzeżeniami"
+    ]
+  },
+  {
+    "id": "q-qualify",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "qualify",
+    "pronunciation": "ˈkwɒlɪfaɪ",
+    "meaning": [
+      "otrzymywać dyplom",
+      "otrzymywać kwalifikacje",
+      "modyfikować",
+      "zdobywać uprawnienia",
+      "zakwalifikowywać się"
+    ]
+  },
+  {
+    "id": "q-qualitative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "qualitative",
+    "pronunciation": "ˈkwɒlɪtətɪv",
+    "meaning": [
+      "jakościowy"
+    ]
+  },
+  {
+    "id": "q-quality",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "quality",
+    "pronunciation": "ˈkwɒlɪtɪ",
+    "meaning": [
+      "jakość",
+      "wysoka jakość",
+      "zaleta",
+      "cecha"
+    ]
+  },
+  {
+    "id": "q-qualm",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "qualm",
+    "pronunciation": "kwɑ:m",
+    "meaning": [
+      "skrupuły",
+      "wątpliwość"
+    ]
+  },
+  {
+    "id": "q-quandary",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "quandary",
+    "pronunciation": "ˈkwɒndərɪ",
+    "meaning": []
+  },
+  {
+    "id": "q-quantitative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "quantitative",
+    "pronunciation": "ˈkwɒntɪtətɪv",
+    "meaning": [
+      "ilościowy"
+    ]
+  },
+  {
+    "id": "q-quantity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quantity",
+    "pronunciation": "ˈkwɒntɪtɪ",
+    "meaning": [
+      "ilość"
+    ]
+  },
+  {
+    "id": "q-quarantine",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quarantine",
+    "pronunciation": "ˈkwɒrənti:n",
+    "meaning": [
+      "kwarantanna",
+      "odbywać kwarantannę"
+    ]
+  },
+  {
+    "id": "q-quarrel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quarrel",
+    "pronunciation": "ˈkwɒrəl",
+    "meaning": [
+      "sprzeczka",
+      "obiekcje",
+      "sprzeczać się",
+      "kwestionować"
+    ]
+  },
+  {
+    "id": "q-quarrelsome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "quarrelsome",
+    "pronunciation": "ˈkwɒrəlsəm",
+    "meaning": [
+      "kłótliwy"
+    ]
+  },
+  {
+    "id": "q-quarry",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quarry",
+    "pronunciation": "ˈkwɒrɪ",
+    "meaning": [
+      "kamieniołom",
+      "zdobycz",
+      "wydobywać"
+    ]
+  },
+  {
+    "id": "q-quart",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quart",
+    "pronunciation": "kwɔ:t",
+    "meaning": [
+      "kwarta"
+    ]
+  },
+  {
+    "id": "q-quarter-final",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quarter-final",
+    "pronunciation": "ˌkwɔ:təˈfaɪnəl",
+    "meaning": [
+      "ćwierćfinał"
+    ]
+  },
+  {
+    "id": "q-quarterly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "quarterly",
+    "pronunciation": "ˈkwɔ:təlɪ",
+    "meaning": [
+      "kwartalnie",
+      "kwartalnik"
+    ]
+  },
+  {
+    "id": "q-quartermaster",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quartermaster",
+    "pronunciation": "ˈkwɔ:təmɑ:stə",
+    "meaning": [
+      "kwatermistrz"
+    ]
+  },
+  {
+    "id": "q-quartet",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quartet",
+    "pronunciation": "kwɔ:ˈtet",
+    "meaning": [
+      "kwartet"
+    ]
+  },
+  {
+    "id": "q-quartz",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quartz",
+    "pronunciation": "kwɔ:ts",
+    "meaning": [
+      "kwarc",
+      "kwarcowy"
+    ]
+  },
+  {
+    "id": "q-quash",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "quash",
+    "pronunciation": "kwɒʃ",
+    "meaning": [
+      "unieważniać",
+      "anulować"
+    ]
+  },
+  {
+    "id": "q-quaver",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "quaver",
+    "pronunciation": "ˈkweɪvə",
+    "meaning": [
+      "drgać",
+      "mówić drżącym głosem"
+    ]
+  },
+  {
+    "id": "q-quay",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quay",
+    "pronunciation": "ki:",
+    "meaning": [
+      "nabrzeże"
+    ]
+  },
+  {
+    "id": "q-queasy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "queasy",
+    "pronunciation": "ˈkwi:zɪ",
+    "meaning": [
+      "odczuwający mdłości",
+      "czujący się niedobrze"
+    ]
+  },
+  {
+    "id": "q-queen",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "queen",
+    "pronunciation": "ˈkwi:n",
+    "meaning": [
+      "królowa",
+      "hetman"
+    ]
+  },
+  {
+    "id": "q-queer",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "queer",
+    "pronunciation": "kwɪə",
+    "meaning": [
+      "dziwaczny",
+      "homoseksualista",
+      "pedał"
+    ]
+  },
+  {
+    "id": "q-quell",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "quell",
+    "pronunciation": "kwel",
+    "meaning": [
+      "tłumić",
+      "zduszać"
+    ]
+  },
+  {
+    "id": "q-quench",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "quench",
+    "pronunciation": "kwenʧ",
+    "meaning": [
+      "gasić"
+    ]
+  },
+  {
+    "id": "q-querulous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "querulous",
+    "pronunciation": "ˈkwerjʊləs",
+    "meaning": [
+      "swarliwy"
+    ]
+  },
+  {
+    "id": "q-query",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "query",
+    "pronunciation": "ˈkwerɪ",
+    "meaning": [
+      "zapytanie",
+      "zakwestionowanie",
+      "zapytać",
+      "sprawdzać",
+      "kwestionować"
+    ]
+  },
+  {
+    "id": "q-quest",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quest",
+    "pronunciation": "kwest",
+    "meaning": [
+      "poszukiwanie"
+    ]
+  },
+  {
+    "id": "q-question",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "question",
+    "pronunciation": "ˈkwesʧən",
+    "meaning": [
+      "pytanie",
+      "wątpliwość",
+      "problem",
+      "zagadnienie",
+      "pytać",
+      "kwestionować",
+      "znak zapytania",
+      "pytanie obcięte"
+    ]
+  },
+  {
+    "id": "q-questionable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "questionable",
+    "pronunciation": "ˈkwesʧənəbəl",
+    "meaning": [
+      "wątpliwy",
+      "kwestionowalny"
+    ]
+  },
+  {
+    "id": "q-questionnaire",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "questionnaire",
+    "pronunciation": "ˌkwesʧənˈeə",
+    "meaning": [
+      "kwestionariusz"
+    ]
+  },
+  {
+    "id": "q-quibble",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quibble",
+    "pronunciation": "ˈkwɪbəl",
+    "meaning": [
+      "spierać się",
+      "obiekcja"
+    ]
+  },
+  {
+    "id": "q-quick",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "quick",
+    "pronunciation": "kwɪk",
+    "meaning": [
+      "szybki",
+      "prędki",
+      "krótki"
+    ]
+  },
+  {
+    "id": "q-quicken",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "quicken",
+    "pronunciation": "ˈkwɪkən",
+    "meaning": [
+      "przyspieszać"
+    ]
+  },
+  {
+    "id": "q-quicksand",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quicksand",
+    "pronunciation": "ˈkwɪksænd",
+    "meaning": [
+      "ruchome piaski"
+    ]
+  },
+  {
+    "id": "q-quick-witted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "quick-witted",
+    "pronunciation": "ˌkwɪkˈwɪtɪd",
+    "meaning": [
+      "bystry",
+      "pojętny"
+    ]
+  },
+  {
+    "id": "q-quid",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quid",
+    "pronunciation": "kwɪd",
+    "meaning": [
+      "funt"
+    ]
+  },
+  {
+    "id": "q-quiet",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "quiet",
+    "pronunciation": "ˈkwaɪət",
+    "meaning": [
+      "cichy",
+      "spokojny",
+      "dyskretny",
+      "cisza",
+      "spokój",
+      "uspokajać się",
+      "uspokajać"
+    ]
+  },
+  {
+    "id": "q-quieten",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "quieten",
+    "pronunciation": "ˈkwaɪətən",
+    "meaning": [
+      "uspokajać"
+    ]
+  },
+  {
+    "id": "q-quill",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quill",
+    "pronunciation": "kwɪl",
+    "meaning": [
+      "pióro",
+      "kolec"
+    ]
+  },
+  {
+    "id": "q-quilt",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "quilt",
+    "pronunciation": "kwɪlt",
+    "meaning": [
+      "kołdra"
+    ]
+  },
+  {
+    "id": "q-quilted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "quilted",
+    "pronunciation": "ˈkwɪltɪd",
+    "meaning": [
+      "ocieplany",
+      "watowany"
+    ]
+  },
+  {
+    "id": "q-quince",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quince",
+    "pronunciation": "kwɪns",
+    "meaning": [
+      "pigwa"
+    ]
+  },
+  {
+    "id": "q-quinine",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "quinine",
+    "pronunciation": "kwɪˈni:n",
+    "meaning": [
+      "chinina"
+    ]
+  },
+  {
+    "id": "q-quintet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quintet",
+    "pronunciation": "kwɪnˈtet",
+    "meaning": [
+      "kwintet"
+    ]
+  },
+  {
+    "id": "q-quip",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quip",
+    "pronunciation": "kwɪp",
+    "meaning": [
+      "dowcipne powiedzenie"
+    ]
+  },
+  {
+    "id": "q-quirk",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quirk",
+    "pronunciation": "kwɜ:k",
+    "meaning": [
+      "dziwactwo",
+      "zrządzenie losu",
+      "zrządzenie"
+    ]
+  },
+  {
+    "id": "q-quit",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "quit",
+    "pronunciation": "kwɪt",
+    "meaning": [
+      "przestawać",
+      "rzucać"
+    ]
+  },
+  {
+    "id": "q-quite",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "quite",
+    "pronunciation": "kwaɪt",
+    "meaning": [
+      "całkiem",
+      "dość",
+      "zupełnie"
+    ]
+  },
+  {
+    "id": "q-quits",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quits",
+    "pronunciation": "kwɪts",
+    "meaning": [
+      "kwita"
+    ]
+  },
+  {
+    "id": "q-quiver",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quiver",
+    "pronunciation": "ˈkwɪvə",
+    "meaning": [
+      "dygotać",
+      "trząść się",
+      "dygotanie"
+    ]
+  },
+  {
+    "id": "q-quiz",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quiz",
+    "pronunciation": "kwɪz",
+    "meaning": [
+      "kwiz",
+      "wypytywać"
+    ]
+  },
+  {
+    "id": "q-quizzical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "quizzical",
+    "pronunciation": "ˈkwɪzɪkəl",
+    "meaning": [
+      "porozumiewawczy",
+      "kpiący"
+    ]
+  },
+  {
+    "id": "q-quota",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "quota",
+    "pronunciation": "ˈkwəʊtə",
+    "meaning": [
+      "limit"
+    ]
+  },
+  {
+    "id": "q-quotation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quotation",
+    "pronunciation": "kwəʊˈteɪʃən",
+    "meaning": [
+      "cytat",
+      "oferta",
+      "stawka",
+      "cudzysłów"
+    ]
+  },
+  {
+    "id": "q-quote",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "quote",
+    "pronunciation": "kwəʊt",
+    "meaning": [
+      "cytować",
+      "przytaczać",
+      "podawać stawkę",
+      "przytoczenie",
+      "stawka",
+      "cudzysłów"
+    ]
+  },
+  {
+    "id": "q-quotient",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "quotient",
+    "pronunciation": "ˈkwəʊʃənt",
+    "meaning": [
+      "iloraz"
+    ]
+  }
+]
