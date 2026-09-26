@@ -15,41 +15,66 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build database
-        shell: bash
+        shell: python
         run: |
-          python - <<'PY'
           import json
           from pathlib import Path
-          files=sorted(Path("data").glob("*.json"))
-          out=[]
+          levels=["A1","A2","B1","B2","C1"]
+          quotas={x:8000 for x in levels}
+          rows=[]
           seen=set()
-          for f in files:
+          for f in sorted(Path("data").glob("*.json")):
               try:
                   data=json.loads(f.read_text(encoding="utf-8"))
               except Exception:
                   continue
               for w in data:
-                  if isinstance(w,dict):
-                      en=w.get("en") or w.get("word")
-                      pl=w.get("pl")
-                      if not pl:
-                          m=w.get("meaning")
-                          if isinstance(m,list) and m:
-                              pl=m[0]
-                      if en and pl:
-                          key=(str(en).strip().lower(),str(pl).strip().lower())
-                          if key not in seen:
-                              seen.add(key)
-                              out.append({"en":str(en).strip(),"pl":str(pl).strip()})
-          if len(out) < 40000:
-              raise SystemExit(f"Database contains only {len(out)} usable entries")
-          Path("words.json").write_text(json.dumps(out[:40000],ensure_ascii=False,separators=(",",":")),encoding="utf-8")
-          print(f"Built {len(out[:40000])} words")
-          PY
+                  if not isinstance(w,dict):
+                      continue
+                  en=str(w.get("word") or w.get("en") or "").strip()
+                  meanings=w.get("meaning") or []
+                  pl=str(w.get("pl") or (meanings[0] if meanings else "")).strip()
+                  level=str(w.get("level") or "").upper().strip()
+                  if not en or not pl:
+                      continue
+                  if level not in levels:
+                      continue
+                  key=(en.lower(),pl.lower())
+                  if key in seen:
+                      continue
+                  seen.add(key)
+                  rows.append({"en":en,"pl":pl,"level":level})
+          by={x:[] for x in levels}
+          for w in rows:
+              by[w["level"]].append(w)
+          selected=[]
+          for level in levels:
+              selected.extend(by[level][:quotas[level]])
+          if len(selected)<40000:
+              remaining=[w for w in rows if w not in selected]
+              selected.extend(remaining[:40000-len(selected)])
+          if len(selected)<40000:
+              raise SystemExit(f"Database contains only {len(selected)} usable entries")
+          selected=selected[:40000]
+          titles=[
+            "Podstawy i codzienne życie","Ludzie i relacje","Dom i otoczenie","Jedzenie i zakupy",
+            "Szkoła i nauka","Czas i rutyna","Miasto i miejsca","Podróże i transport",
+            "Praca i obowiązki","Zdrowie i ciało","Hobby i rozrywka","Przyroda i pogoda",
+            "Technologia i media","Emocje i opinie","Czasowniki i zwroty",
+            "Przymiotniki i opisy","Rzeczowniki i pojęcia","Komunikacja","Życie społeczne","Powtórka poziomu"
+          ]
+          for level in levels:
+              group=[w for w in selected if w["level"]==level]
+              for i,w in enumerate(group):
+                  chapter=min(len(titles),i//400+1)
+                  w["chapter"]=chapter
+                  w["chapterTitle"]=titles[chapter-1]
+          Path("words.json").write_text(json.dumps(selected,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+          print(f"Built {len(selected)} words")
       - name: Commit database
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add words.json
-          git diff --cached --quiet || git commit -m "Aktualizuj bazę 40000 słówek"
+          git diff --cached --quiet || git commit -m "Zbuduj bazę 40000 słówek A1-C1"
           git push
