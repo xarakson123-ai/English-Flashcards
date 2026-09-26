@@ -1,0 +1,7136 @@
+[
+  {
+    "id": "g-G",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "G",
+    "pronunciation": "/ˈdʒiː/",
+    "meaning": [
+      "bez ograniczenia wieku"
+    ]
+  },
+  {
+    "id": "g-gab",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gab",
+    "pronunciation": "gæb",
+    "meaning": []
+  },
+  {
+    "id": "g-gabble",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gabble",
+    "pronunciation": "ˈgæbəl",
+    "meaning": [
+      "gęgać",
+      "trajkotać",
+      "mleć językiem",
+      "paplanina"
+    ]
+  },
+  {
+    "id": "g-gable",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gable",
+    "pronunciation": "ˈgeɪbəl",
+    "meaning": [
+      "szczyt"
+    ]
+  },
+  {
+    "id": "g-gadget",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gadget",
+    "pronunciation": "ˈgæʤɪt",
+    "meaning": [
+      "urządzenie"
+    ]
+  },
+  {
+    "id": "g-gaffe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gaffe",
+    "pronunciation": "gæf",
+    "meaning": [
+      "gafa"
+    ]
+  },
+  {
+    "id": "g-gag",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gag",
+    "pronunciation": "gæg",
+    "meaning": [
+      "knebel",
+      "gag",
+      "kneblować",
+      "dławić się"
+    ]
+  },
+  {
+    "id": "g-gaggle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gaggle",
+    "pronunciation": "ˈgægəl",
+    "meaning": [
+      "stadko"
+    ]
+  },
+  {
+    "id": "g-gaiety",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gaiety",
+    "pronunciation": "ˈgeɪətɪ",
+    "meaning": [
+      "wesołość"
+    ]
+  },
+  {
+    "id": "g-gaily",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "gaily",
+    "pronunciation": "ˈgeɪlɪ",
+    "meaning": [
+      "radośnie",
+      "barwnie"
+    ]
+  },
+  {
+    "id": "g-gain",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gain",
+    "pronunciation": "geɪn",
+    "meaning": [
+      "zyskiwać",
+      "zdobywać",
+      "przybierać",
+      "zwiększać",
+      "śpieszyć się",
+      "wzrost",
+      "zysk",
+      "doganiać",
+      "zbliżać się"
+    ]
+  },
+  {
+    "id": "g-gait",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gait",
+    "pronunciation": "geɪt",
+    "meaning": [
+      "chód",
+      "krok"
+    ]
+  },
+  {
+    "id": "g-gal.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gal.",
+    "pronunciation": "/ɡæl/",
+    "meaning": [
+      "galon"
+    ]
+  },
+  {
+    "id": "g-gala",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gala",
+    "pronunciation": "ˈgɑ:lə",
+    "meaning": [
+      "gala",
+      "galowy"
+    ]
+  },
+  {
+    "id": "g-galaxy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "galaxy",
+    "pronunciation": "ˈgæləksɪ",
+    "meaning": [
+      "galaktyka"
+    ]
+  },
+  {
+    "id": "g-gale",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gale",
+    "pronunciation": "geɪl",
+    "meaning": [
+      "wicher",
+      "wichura"
+    ]
+  },
+  {
+    "id": "g-gall",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gall",
+    "pronunciation": "gɔ:l",
+    "meaning": [
+      "żółć",
+      "czelność",
+      "odwaga"
+    ]
+  },
+  {
+    "id": "g-gallant",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "gallant",
+    "pronunciation": "ˈgælənt",
+    "meaning": [
+      "bohaterski",
+      "dzielny",
+      "szarmancki"
+    ]
+  },
+  {
+    "id": "g-gallantry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gallantry",
+    "pronunciation": "ˈgæləntrɪ",
+    "meaning": [
+      "odwaga",
+      "szarmanckość"
+    ]
+  },
+  {
+    "id": "g-gall-bladder",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "gall-bladder",
+    "pronunciation": "ˈgɔ:lblædə",
+    "meaning": [
+      "pęcherzyk żółciowy"
+    ]
+  },
+  {
+    "id": "g-gallery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gallery",
+    "pronunciation": "ˈgælərɪ",
+    "meaning": [
+      "galeria",
+      "podium",
+      "podwyższenie",
+      "jaskółka"
+    ]
+  },
+  {
+    "id": "g-galley",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "galley",
+    "pronunciation": "ˈgælɪ",
+    "meaning": [
+      "galera",
+      "kuchnia okrętowa",
+      "kambuz"
+    ]
+  },
+  {
+    "id": "g-gallop",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gallop",
+    "pronunciation": "ˈgæləp",
+    "meaning": [
+      "galopować",
+      "galop"
+    ]
+  },
+  {
+    "id": "g-gallows",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gallows",
+    "pronunciation": "ˈgæləʊz",
+    "meaning": [
+      "szubienica"
+    ]
+  },
+  {
+    "id": "g-galosh",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "galosh",
+    "pronunciation": "gəˈlɒʃ",
+    "meaning": [
+      "kalosz"
+    ]
+  },
+  {
+    "id": "g-galvanize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "galvanize",
+    "pronunciation": "ˈgælvənaɪz",
+    "meaning": [
+      "galwanizować",
+      "pobudzać"
+    ]
+  },
+  {
+    "id": "g-gambit",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gambit",
+    "pronunciation": "ˈgæmbɪt",
+    "meaning": [
+      "gambit",
+      "wejście"
+    ]
+  },
+  {
+    "id": "g-gamble",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gamble",
+    "pronunciation": "ˈgæmbəl",
+    "meaning": [
+      "uprawiać hazard",
+      "grać",
+      "spekulować",
+      "liczyć",
+      "hazard",
+      "ryzykowna gra",
+      "ryzykowna krok"
+    ]
+  },
+  {
+    "id": "g-gambler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gambler",
+    "pronunciation": "ˈgæmblə",
+    "meaning": [
+      "gracz",
+      "hazardzista"
+    ]
+  },
+  {
+    "id": "g-gambling",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gambling",
+    "pronunciation": "ˈgæmblɪŋ",
+    "meaning": [
+      "hazardowy"
+    ]
+  },
+  {
+    "id": "g-gambol",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gambol",
+    "pronunciation": "ˈgæmbəl",
+    "meaning": [
+      "baraszkować",
+      "hasać"
+    ]
+  },
+  {
+    "id": "g-game",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "game",
+    "pronunciation": "geɪm",
+    "meaning": [
+      "gra",
+      "zawody",
+      "igrzyska",
+      "spotkanie",
+      "mecz",
+      "zwierzyna dzika",
+      "zwierzyna",
+      "dzielny",
+      "gotowy"
+    ]
+  },
+  {
+    "id": "g-gamekeeper",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gamekeeper",
+    "pronunciation": "ˈgeɪmki:pə",
+    "meaning": [
+      "leśniczy"
+    ]
+  },
+  {
+    "id": "g-gammon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gammon",
+    "pronunciation": "ˈgæmən",
+    "meaning": [
+      "szynka wędzona",
+      "boczek wędzony"
+    ]
+  },
+  {
+    "id": "g-gamut",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gamut",
+    "pronunciation": "ˈgæmət",
+    "meaning": [
+      "gama",
+      "rozmaitość"
+    ]
+  },
+  {
+    "id": "g-gander",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gander",
+    "pronunciation": "ˈgændə",
+    "meaning": [
+      "gąsior"
+    ]
+  },
+  {
+    "id": "g-gang",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gang",
+    "pronunciation": "gæŋ",
+    "meaning": [
+      "gang",
+      "grupa",
+      "łączyć się",
+      "zbierać się"
+    ]
+  },
+  {
+    "id": "g-gangrene",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gangrene",
+    "pronunciation": "ˈgæŋgri:n",
+    "meaning": [
+      "gangrena"
+    ]
+  },
+  {
+    "id": "g-gangster",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gangster",
+    "pronunciation": "ˈgæŋstə",
+    "meaning": [
+      "gangster"
+    ]
+  },
+  {
+    "id": "g-gangway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gangway",
+    "pronunciation": "ˈgæŋweɪ",
+    "meaning": [
+      "przejście",
+      "schodnia"
+    ]
+  },
+  {
+    "id": "g-gap",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gap",
+    "pronunciation": "gæp",
+    "meaning": [
+      "przerwa",
+      "luka",
+      "szpara",
+      "rozziew",
+      "zróżnicowanie"
+    ]
+  },
+  {
+    "id": "g-gape",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gape",
+    "pronunciation": "geɪp",
+    "meaning": [
+      "gapić się z otwartymi ustami",
+      "gapić się",
+      "rozwierać się",
+      "zionąć"
+    ]
+  },
+  {
+    "id": "g-garage",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "garage",
+    "pronunciation": "ˈgærɑ:ʒ",
+    "meaning": [
+      "garaż",
+      "warsztat samochodowy",
+      "warsztat",
+      "salon samochodowy",
+      "salon",
+      "stacja samochodowa",
+      "stacja",
+      "garażować"
+    ]
+  },
+  {
+    "id": "g-garbage",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "garbage",
+    "pronunciation": "ˈgɑ:bɪʤ",
+    "meaning": [
+      "śmiecie",
+      "odpadki",
+      "bzdury",
+      "skrzynia na śmieci"
+    ]
+  },
+  {
+    "id": "g-garbled",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "garbled",
+    "pronunciation": "ˈgɑ:bəld",
+    "meaning": [
+      "zniekształcony",
+      "kulawy"
+    ]
+  },
+  {
+    "id": "g-garden",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "garden",
+    "pronunciation": "ˈgɑ:dən",
+    "meaning": [
+      "ogród",
+      "uprawiać ogród",
+      "przyjęcie na wolnym powietrzu"
+    ]
+  },
+  {
+    "id": "g-gardener",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gardener",
+    "pronunciation": "ˈgɑ:dənə",
+    "meaning": [
+      "ogrodnik"
+    ]
+  },
+  {
+    "id": "g-gargle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "gargle",
+    "pronunciation": "ˈgɑ:gəl",
+    "meaning": [
+      "gulgotać",
+      "płukać gardło",
+      "płukać"
+    ]
+  },
+  {
+    "id": "g-garish",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "garish",
+    "pronunciation": "ˈgeərɪʃ",
+    "meaning": [
+      "jaskrawy"
+    ]
+  },
+  {
+    "id": "g-garland",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "garland",
+    "pronunciation": "ˈgɑ:lənd",
+    "meaning": [
+      "girlanda"
+    ]
+  },
+  {
+    "id": "g-garlic",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "garlic",
+    "pronunciation": "ˈgɑ:lɪk",
+    "meaning": [
+      "czosnek"
+    ]
+  },
+  {
+    "id": "g-garment",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "garment",
+    "pronunciation": "ˈgɑ:mənt",
+    "meaning": [
+      "strój"
+    ]
+  },
+  {
+    "id": "g-garnish",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "garnish",
+    "pronunciation": "ˈgɑ:nɪʃ",
+    "meaning": [
+      "przybranie",
+      "przybierać"
+    ]
+  },
+  {
+    "id": "g-garret",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "garret",
+    "pronunciation": "ˈgærɪt",
+    "meaning": [
+      "mansarda",
+      "poddasze"
+    ]
+  },
+  {
+    "id": "g-garrison",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "garrison",
+    "pronunciation": "ˈgærɪsən",
+    "meaning": [
+      "garnizon",
+      "obsadzać"
+    ]
+  },
+  {
+    "id": "g-garrulous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "garrulous",
+    "pronunciation": "ˈgærələs",
+    "meaning": [
+      "gadatliwy"
+    ]
+  },
+  {
+    "id": "g-garter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "garter",
+    "pronunciation": "ˈgɑ:tə",
+    "meaning": [
+      "podwiązka"
+    ]
+  },
+  {
+    "id": "g-gas",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gas",
+    "pronunciation": "gæs",
+    "meaning": [
+      "gaz",
+      "benzyna",
+      "etylina",
+      "gazowy",
+      "stacja benzynowa"
+    ]
+  },
+  {
+    "id": "g-gaseous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gaseous",
+    "pronunciation": "ˈgæsɪəz",
+    "meaning": [
+      "gazowy"
+    ]
+  },
+  {
+    "id": "g-gash",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gash",
+    "pronunciation": "gæʃ",
+    "meaning": [
+      "cięcie",
+      "rana",
+      "nacinać",
+      "ranić"
+    ]
+  },
+  {
+    "id": "g-gasoline",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gasoline",
+    "pronunciation": "ˈgæsəli:n",
+    "meaning": [
+      "benzyna",
+      "etylina"
+    ]
+  },
+  {
+    "id": "g-gasp",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gasp",
+    "pronunciation": "gɑ:sp",
+    "meaning": [
+      "dyszenie",
+      "dyszeć"
+    ]
+  },
+  {
+    "id": "g-gassy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gassy",
+    "pronunciation": "ˈgæsɪ",
+    "meaning": [
+      "gazowany"
+    ]
+  },
+  {
+    "id": "g-gastric",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gastric",
+    "pronunciation": "ˈgæstrɪk",
+    "meaning": [
+      "gastryczny"
+    ]
+  },
+  {
+    "id": "g-gastronomic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gastronomic",
+    "pronunciation": "ˌgæstrəˈnɒmɪk",
+    "meaning": [
+      "gastronomiczny"
+    ]
+  },
+  {
+    "id": "g-gastronomy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gastronomy",
+    "pronunciation": "gæˈstrɒnəmɪ",
+    "meaning": [
+      "gastronomia"
+    ]
+  },
+  {
+    "id": "g-gate",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "gate",
+    "pronunciation": "geɪt",
+    "meaning": [
+      "brama",
+      "przejście do samolotu",
+      "przejście"
+    ]
+  },
+  {
+    "id": "g-gatecrash",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gatecrash",
+    "pronunciation": "ˈgeɪtkræʃ",
+    "meaning": [
+      "wpraszać się",
+      "włazić na chama"
+    ]
+  },
+  {
+    "id": "g-gateway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gateway",
+    "pronunciation": "ˈgeɪtweɪ",
+    "meaning": [
+      "wejście",
+      "brama"
+    ]
+  },
+  {
+    "id": "g-gather",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "gather",
+    "pronunciation": "ˈgæðə",
+    "meaning": [
+      "gromadzić się",
+      "gromadzić",
+      "zbierać",
+      "przybierać",
+      "nasilać",
+      "sądzić",
+      "mniemać"
+    ]
+  },
+  {
+    "id": "g-gathering",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "gathering",
+    "pronunciation": "ˈgæðərɪŋ",
+    "meaning": [
+      "zebranie",
+      "zbierający się",
+      "zapadający"
+    ]
+  },
+  {
+    "id": "g-GATT",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "GATT",
+    "pronunciation": "gæt",
+    "meaning": [
+      "Układ Ogólny w Sprawie Ceł i Handlu"
+    ]
+  },
+  {
+    "id": "g-gauche",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gauche",
+    "pronunciation": "gəʊʃ",
+    "meaning": [
+      "niezręczny",
+      "sztywny"
+    ]
+  },
+  {
+    "id": "g-gaudy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gaudy",
+    "pronunciation": "ˈgɔ:dɪ",
+    "meaning": [
+      "jaskrawy",
+      "jarmarczny"
+    ]
+  },
+  {
+    "id": "g-gauge",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "gauge",
+    "pronunciation": "ˈgeɪʤ",
+    "meaning": [
+      "wymierzyć",
+      "oceniać",
+      "wskaźnik",
+      "miernik"
+    ]
+  },
+  {
+    "id": "g-gaunt",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gaunt",
+    "pronunciation": "gɔ:nt",
+    "meaning": [
+      "wychudzony",
+      "wynędzniały",
+      "posępny",
+      "bezludny"
+    ]
+  },
+  {
+    "id": "g-gauntlet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gauntlet",
+    "pronunciation": "ˈgɔ:ntlɪt",
+    "meaning": [
+      "rękawica"
+    ]
+  },
+  {
+    "id": "g-gauze",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gauze",
+    "pronunciation": "gɔ:z",
+    "meaning": [
+      "gaza"
+    ]
+  },
+  {
+    "id": "g-gawky",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gawky",
+    "pronunciation": "ˈgɔ:kɪ",
+    "meaning": [
+      "niezgrabny",
+      "niezdarny"
+    ]
+  },
+  {
+    "id": "g-gawp",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gawp",
+    "pronunciation": "gɔ:p",
+    "meaning": [
+      "gapić się"
+    ]
+  },
+  {
+    "id": "g-gay",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "gay",
+    "pronunciation": "geɪ",
+    "meaning": [
+      "homoseksualista",
+      "homo",
+      "homoseksualny",
+      "wesoły",
+      "żywy",
+      "barwny"
+    ]
+  },
+  {
+    "id": "g-gaze",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gaze",
+    "pronunciation": "geɪz",
+    "meaning": [
+      "spoglądać",
+      "spojrzenie"
+    ]
+  },
+  {
+    "id": "g-gazelle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gazelle",
+    "pronunciation": "gəˈzel",
+    "meaning": [
+      "gazela"
+    ]
+  },
+  {
+    "id": "g-GB",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "GB",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Wielka Brytania"
+    ]
+  },
+  {
+    "id": "g-gbh",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gbh",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "ciężkie obrażenia ciała"
+    ]
+  },
+  {
+    "id": "g-GCE",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "GCE",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "świadectwo maturalne"
+    ]
+  },
+  {
+    "id": "g-GCSE",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "GCSE",
+    "pronunciation": "ˌ⋅ˈ⋅ˌ⋅ˈ⋅",
+    "meaning": [
+      "świadectwo maturalne"
+    ]
+  },
+  {
+    "id": "g-Gdns.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Gdns.",
+    "pronunciation": "/ˈɡɑːdənz/",
+    "meaning": [
+      "ogród",
+      "ogrody"
+    ]
+  },
+  {
+    "id": "g-gear",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gear",
+    "pronunciation": "gɪə",
+    "meaning": [
+      "przekładnia zębata",
+      "przekładnia",
+      "bieg",
+      "przerzutka",
+      "sprzęt"
+    ]
+  },
+  {
+    "id": "g-gearbox",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gearbox",
+    "pronunciation": "ˈgɪəbɒks",
+    "meaning": [
+      "skrzynia biegów"
+    ]
+  },
+  {
+    "id": "g-gee",
+    "level": "A1",
+    "partOfSpeech": "exclamation",
+    "word": "gee",
+    "pronunciation": "ʤi:",
+    "meaning": [
+      "jej!"
+    ]
+  },
+  {
+    "id": "g-gel",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gel",
+    "pronunciation": "ʤel",
+    "meaning": [
+      "zastygać w galaretę",
+      "zastygać",
+      "przybierać kształtów",
+      "żel"
+    ]
+  },
+  {
+    "id": "g-gelatine",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gelatine",
+    "pronunciation": "ˈʤeləti:n",
+    "meaning": [
+      "żelatyna"
+    ]
+  },
+  {
+    "id": "g-gem",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gem",
+    "pronunciation": "ʤem",
+    "meaning": [
+      "kamień szlachetny",
+      "klejnot"
+    ]
+  },
+  {
+    "id": "g-Gemini",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Gemini",
+    "pronunciation": "ˈʤemɪnaɪ",
+    "meaning": [
+      "Bliźnięta"
+    ]
+  },
+  {
+    "id": "g-gender",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gender",
+    "pronunciation": "ˈʤendə",
+    "meaning": [
+      "rodzaj"
+    ]
+  },
+  {
+    "id": "g-gene",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gene",
+    "pronunciation": "ʤi:n",
+    "meaning": [
+      "gen"
+    ]
+  },
+  {
+    "id": "g-genealogy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "genealogy",
+    "pronunciation": "ˌʤi:nəˈæləʤɪ",
+    "meaning": [
+      "genealogia"
+    ]
+  },
+  {
+    "id": "g-generality",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "generality",
+    "pronunciation": "ˌʤenəˈrælɪtɪ",
+    "meaning": [
+      "ogólność",
+      "ogólnik"
+    ]
+  },
+  {
+    "id": "g-generalize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "generalize",
+    "pronunciation": "ˈʤenərəlaɪz",
+    "meaning": [
+      "generalizować",
+      "uogólniać"
+    ]
+  },
+  {
+    "id": "g-generate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "generate",
+    "pronunciation": "ˈʤenəreɪt",
+    "meaning": [
+      "wytwarzać",
+      "generować",
+      "produkować"
+    ]
+  },
+  {
+    "id": "g-generation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "generation",
+    "pronunciation": "ˌʤenəˈreɪʃən",
+    "meaning": [
+      "pokolenie",
+      "generacja",
+      "produkcja",
+      "wytwarzanie"
+    ]
+  },
+  {
+    "id": "g-generator",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "generator",
+    "pronunciation": "ˈʤenəreɪtə",
+    "meaning": [
+      "prądnica",
+      "generator"
+    ]
+  },
+  {
+    "id": "g-generosity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "generosity",
+    "pronunciation": "ʤenəˈrɒsɪtɪ",
+    "meaning": [
+      "hojność",
+      "szczodrość"
+    ]
+  },
+  {
+    "id": "g-generous",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "generous",
+    "pronunciation": "ˈʤenərəs",
+    "meaning": [
+      "hojny",
+      "szczodry",
+      "przychylny"
+    ]
+  },
+  {
+    "id": "g-genetic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "genetic",
+    "pronunciation": "ʤɪˈnetɪk",
+    "meaning": [
+      "genetyczny"
+    ]
+  },
+  {
+    "id": "g-genetics",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "genetics",
+    "pronunciation": "ʤɪˈnetɪks",
+    "meaning": [
+      "genetyka"
+    ]
+  },
+  {
+    "id": "g-Geneva",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Geneva",
+    "pronunciation": "ʤəˈni:va",
+    "meaning": [
+      "Genewa"
+    ]
+  },
+  {
+    "id": "g-genial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "genial",
+    "pronunciation": "ˈʤi:nɪəl",
+    "meaning": [
+      "miły",
+      "łagodny"
+    ]
+  },
+  {
+    "id": "g-genitals",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "genitals",
+    "pronunciation": "ˈʤenɪtəlz",
+    "meaning": [
+      "genitalia"
+    ]
+  },
+  {
+    "id": "g-genitive",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "genitive",
+    "pronunciation": "ˈʤenɪtɪv",
+    "meaning": [
+      "dopełniacz"
+    ]
+  },
+  {
+    "id": "g-genius",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "genius",
+    "pronunciation": "ˈʤi:nɪəs",
+    "meaning": [
+      "geniusz",
+      "genialność"
+    ]
+  },
+  {
+    "id": "g-genocide",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "genocide",
+    "pronunciation": "ˈʤenəsaɪd",
+    "meaning": [
+      "ludobójstwo"
+    ]
+  },
+  {
+    "id": "g-genteel",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "genteel",
+    "pronunciation": "ʤenˈti:l",
+    "meaning": [
+      "dobry",
+      "dobrze ułożony"
+    ]
+  },
+  {
+    "id": "g-gentle",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "gentle",
+    "pronunciation": "ˈʤentəl",
+    "meaning": [
+      "łagodny",
+      "delikatny"
+    ]
+  },
+  {
+    "id": "g-gentleman",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gentleman",
+    "pronunciation": "ˈʤentəlmən",
+    "meaning": [
+      "dżentelmen",
+      "szlachcic",
+      "człowiek szlachetnie urodzony",
+      "pan"
+    ]
+  },
+  {
+    "id": "g-gentlemanly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gentlemanly",
+    "pronunciation": "ˈʤentəlmənlɪ",
+    "meaning": [
+      "dżentelmeński"
+    ]
+  },
+  {
+    "id": "g-gentry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gentry",
+    "pronunciation": "ˈʤentrɪ",
+    "meaning": [
+      "szlachta"
+    ]
+  },
+  {
+    "id": "g-genuine",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "genuine",
+    "pronunciation": "ˈʤenjʊɪn",
+    "meaning": [
+      "prawdziwy",
+      "autentyczny",
+      "szczery"
+    ]
+  },
+  {
+    "id": "g-genus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "genus",
+    "pronunciation": "ˈʤi:nəs",
+    "meaning": [
+      "rodzaj"
+    ]
+  },
+  {
+    "id": "g-geographer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "geographer",
+    "pronunciation": "ʤɪˈɒgrəfə",
+    "meaning": [
+      "geograf"
+    ]
+  },
+  {
+    "id": "g-geographic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "geographic",
+    "pronunciation": "ˌʤi:əˈgræfɪk(əl)",
+    "meaning": [
+      "geograficzny"
+    ]
+  },
+  {
+    "id": "g-geography",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "geography",
+    "pronunciation": "ʤɪˈɒgrəfɪ",
+    "meaning": [
+      "geografia"
+    ]
+  },
+  {
+    "id": "g-geologic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "geologic",
+    "pronunciation": "ˌʤi:əˈlɒʤɪk(əl)",
+    "meaning": [
+      "geologiczny"
+    ]
+  },
+  {
+    "id": "g-geologist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "geologist",
+    "pronunciation": "ʤɪˈɒləʤɪst",
+    "meaning": [
+      "geolog"
+    ]
+  },
+  {
+    "id": "g-geology",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "geology",
+    "pronunciation": "ʤɪˈɒləʤɪ",
+    "meaning": [
+      "geologia"
+    ]
+  },
+  {
+    "id": "g-geometric",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "geometric",
+    "pronunciation": "ˌʤɪəˈmetrɪk(əl)",
+    "meaning": [
+      "geometryczny"
+    ]
+  },
+  {
+    "id": "g-geometry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "geometry",
+    "pronunciation": "ʤɪˈɒmɪtrɪ",
+    "meaning": [
+      "geometria"
+    ]
+  },
+  {
+    "id": "g-Georgia",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Georgia",
+    "pronunciation": "ˈʤɔ:ʤə",
+    "meaning": [
+      "Georgia",
+      "Gruzja"
+    ]
+  },
+  {
+    "id": "g-Georgian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Georgian",
+    "pronunciation": "ˈʤɔ:ʤən",
+    "meaning": [
+      "ze stanu Georgia",
+      "gruziński",
+      "Gruzin"
+    ]
+  },
+  {
+    "id": "g-geriatric",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "geriatric",
+    "pronunciation": "ˌʤerɪˈætrɪk",
+    "meaning": [
+      "geriatryczny",
+      "geriatria"
+    ]
+  },
+  {
+    "id": "g-germ",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "germ",
+    "pronunciation": "ʤɜ:m",
+    "meaning": [
+      "zarazek",
+      "zalążek"
+    ]
+  },
+  {
+    "id": "g-German",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "German",
+    "pronunciation": "ˈʤɜ:mən",
+    "meaning": [
+      "niemiecki",
+      "Niemiec"
+    ]
+  },
+  {
+    "id": "g-Germany",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Germany",
+    "pronunciation": "ˈʤɜ:mənɪ",
+    "meaning": [
+      "Niemcy"
+    ]
+  },
+  {
+    "id": "g-germinate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "germinate",
+    "pronunciation": "ˈʤɜ:mɪneɪt",
+    "meaning": [
+      "kiełkować"
+    ]
+  },
+  {
+    "id": "g-gesticulate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gesticulate",
+    "pronunciation": "ʤəˈstɪkjʊleɪt",
+    "meaning": [
+      "gestykulować"
+    ]
+  },
+  {
+    "id": "g-gesture",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gesture",
+    "pronunciation": "ˈʤesʧə",
+    "meaning": [
+      "gest",
+      "gestykulować"
+    ]
+  },
+  {
+    "id": "g-getaway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "getaway",
+    "pronunciation": "ˈgetəweɪ",
+    "meaning": [
+      "ucieczka",
+      "zbiegnięcie"
+    ]
+  },
+  {
+    "id": "g-get-together",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "get-together",
+    "pronunciation": "ˈget-təˌgeðə",
+    "meaning": [
+      "spotkanie",
+      "party"
+    ]
+  },
+  {
+    "id": "g-get-up",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "get-up",
+    "pronunciation": "ˈgetʌp",
+    "meaning": [
+      "przebranie",
+      "ubiór"
+    ]
+  },
+  {
+    "id": "g-geyser",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "geyser",
+    "pronunciation": "ˈgi:zə",
+    "meaning": [
+      "gejzer",
+      "piecyk gazowy",
+      "piecyk"
+    ]
+  },
+  {
+    "id": "g-ghastly",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "ghastly",
+    "pronunciation": "ˈgɑ:stlɪ",
+    "meaning": [
+      "okropny",
+      "straszliwy",
+      "niesamowity",
+      "strasznie",
+      "okropnie"
+    ]
+  },
+  {
+    "id": "g-ghetto",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ghetto",
+    "pronunciation": "ˈgetəʊ",
+    "meaning": [
+      "getto"
+    ]
+  },
+  {
+    "id": "g-ghost",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ghost",
+    "pronunciation": "gəʊst",
+    "meaning": [
+      "duch",
+      "cień"
+    ]
+  },
+  {
+    "id": "g-ghostly",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ghostly",
+    "pronunciation": "ˈgəʊstlɪ",
+    "meaning": [
+      "nieziemski"
+    ]
+  },
+  {
+    "id": "g-GHQ",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "GHQ",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "kwatera główna"
+    ]
+  },
+  {
+    "id": "g-giant",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "giant",
+    "pronunciation": "ˈʤaɪənt",
+    "meaning": [
+      "olbrzym",
+      "kolos",
+      "gigant",
+      "gigantyczny",
+      "kolosalny"
+    ]
+  },
+  {
+    "id": "g-gibber",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gibber",
+    "pronunciation": "ˈʤɪbə",
+    "meaning": [
+      "bełkotać"
+    ]
+  },
+  {
+    "id": "g-gibberish",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gibberish",
+    "pronunciation": "ˈʤɪbərɪʃ",
+    "meaning": [
+      "bełkot"
+    ]
+  },
+  {
+    "id": "g-gibe",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "gibe",
+    "pronunciation": "ʤaɪb",
+    "meaning": [
+      "docinek"
+    ]
+  },
+  {
+    "id": "g-giblets",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "giblets",
+    "pronunciation": "ˈʤɪblɪts",
+    "meaning": [
+      "podroby drobiowe",
+      "podroby"
+    ]
+  },
+  {
+    "id": "g-giddy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "giddy",
+    "pronunciation": "ˈgɪdɪ",
+    "meaning": [
+      "oszołomiony",
+      "mający zawroty głowy",
+      "oszałamiający"
+    ]
+  },
+  {
+    "id": "g-gift",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "gift",
+    "pronunciation": "gɪft",
+    "meaning": [
+      "dar",
+      "podarunek",
+      "zdolność",
+      "talent"
+    ]
+  },
+  {
+    "id": "g-gifted",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "gifted",
+    "pronunciation": "ˈgɪftɪd",
+    "meaning": [
+      "utalentowany",
+      "zdolny"
+    ]
+  },
+  {
+    "id": "g-gig",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gig",
+    "pronunciation": "gɪg",
+    "meaning": [
+      "występ"
+    ]
+  },
+  {
+    "id": "g-gigantic",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "gigantic",
+    "pronunciation": "ʤaɪˈgæntɪk",
+    "meaning": [
+      "gigantyczny"
+    ]
+  },
+  {
+    "id": "g-giggle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "giggle",
+    "pronunciation": "ˈgɪgəl",
+    "meaning": [
+      "chichotać",
+      "chichot"
+    ]
+  },
+  {
+    "id": "g-giggler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "giggler",
+    "pronunciation": "ˈgɪglə",
+    "meaning": [
+      "chichotka"
+    ]
+  },
+  {
+    "id": "g-gild",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gild",
+    "pronunciation": "gɪld",
+    "meaning": [
+      "złocić"
+    ]
+  },
+  {
+    "id": "g-gill",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gill",
+    "pronunciation": "gɪl",
+    "meaning": [
+      "skrzele"
+    ]
+  },
+  {
+    "id": "g-gilt",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "gilt",
+    "pronunciation": "gɪlt",
+    "meaning": [
+      "złocony",
+      "złocenie"
+    ]
+  },
+  {
+    "id": "g-gimmick",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gimmick",
+    "pronunciation": "ˈgɪmɪk",
+    "meaning": [
+      "przynęta",
+      "wabik"
+    ]
+  },
+  {
+    "id": "g-gin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gin",
+    "pronunciation": "ʤɪn",
+    "meaning": [
+      "dżin",
+      "jałowcówka"
+    ]
+  },
+  {
+    "id": "g-ginger",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "ginger",
+    "pronunciation": "ˈʤɪnʤə",
+    "meaning": [
+      "imbir",
+      "rudy",
+      "napój imbirowy",
+      "podpiwek imbirowy",
+      "podpiwek"
+    ]
+  },
+  {
+    "id": "g-gingerly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "gingerly",
+    "pronunciation": "ˈʤɪnʤəlɪ",
+    "meaning": [
+      "ostrożnie",
+      "płochliwie"
+    ]
+  },
+  {
+    "id": "g-giraffe",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "giraffe",
+    "pronunciation": "ʤəˈrɑ:f",
+    "meaning": [
+      "żyrafa"
+    ]
+  },
+  {
+    "id": "g-girder",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "girder",
+    "pronunciation": "ˈgɜ:də",
+    "meaning": [
+      "dźwigar"
+    ]
+  },
+  {
+    "id": "g-girdle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "girdle",
+    "pronunciation": "ˈgɜ:dəl",
+    "meaning": [
+      "pas elastyczny",
+      "pas",
+      "opasywać"
+    ]
+  },
+  {
+    "id": "g-girl",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "girl",
+    "pronunciation": "gɜ:l",
+    "meaning": [
+      "dziewczynka",
+      "dziewczyna"
+    ]
+  },
+  {
+    "id": "g-girlfriend",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "girlfriend",
+    "pronunciation": "ˈgɜ:lfrend",
+    "meaning": [
+      "dziewczyna",
+      "sympatia",
+      "przyjaciółka"
+    ]
+  },
+  {
+    "id": "g-girlhood",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "girlhood",
+    "pronunciation": "ˈgɜ:lhʊd",
+    "meaning": [
+      "dzieciństwo"
+    ]
+  },
+  {
+    "id": "g-girlish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "girlish",
+    "pronunciation": "ˈgɜ:lɪʃ",
+    "meaning": [
+      "dziewczęcy"
+    ]
+  },
+  {
+    "id": "g-giro",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "giro",
+    "pronunciation": "ˈʤaɪərəʊ",
+    "meaning": [
+      "przelew",
+      "zapomoga"
+    ]
+  },
+  {
+    "id": "g-girth",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "girth",
+    "pronunciation": "gɜ:θ",
+    "meaning": [
+      "obwód"
+    ]
+  },
+  {
+    "id": "g-gist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gist",
+    "pronunciation": "ʤɪst",
+    "meaning": []
+  },
+  {
+    "id": "g-give-and-take",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "give-and-take",
+    "pronunciation": "ˌgɪvənˈteɪk",
+    "meaning": [
+      "kompromisowość"
+    ]
+  },
+  {
+    "id": "g-give-away",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "give-away",
+    "pronunciation": "ˈgɪvəweɪ",
+    "meaning": [
+      "zdradzenie się",
+      "zdradzenie"
+    ]
+  },
+  {
+    "id": "g-given",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "given",
+    "pronunciation": "ˈgɪvən",
+    "meaning": [
+      "dany",
+      "oddawać się",
+      "biorąc pod uwagę",
+      "imię"
+    ]
+  },
+  {
+    "id": "g-glacial",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "glacial",
+    "pronunciation": "ˈgleɪsjəl",
+    "meaning": [
+      "lodowcowy",
+      "glacjalny",
+      "lodowy",
+      "lodowaty"
+    ]
+  },
+  {
+    "id": "g-glacier",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "glacier",
+    "pronunciation": "ˈglæsɪə",
+    "meaning": [
+      "lodowiec"
+    ]
+  },
+  {
+    "id": "g-glad",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "glad",
+    "pronunciation": "glæd",
+    "meaning": [
+      "szczęśliwy"
+    ]
+  },
+  {
+    "id": "g-gladden",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gladden",
+    "pronunciation": "ˈglædən",
+    "meaning": [
+      "radować"
+    ]
+  },
+  {
+    "id": "g-glade",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "glade",
+    "pronunciation": "gleɪd",
+    "meaning": [
+      "polana"
+    ]
+  },
+  {
+    "id": "g-gladiator",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gladiator",
+    "pronunciation": "ˈglædɪeɪtə",
+    "meaning": [
+      "gladiator"
+    ]
+  },
+  {
+    "id": "g-glamorous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "glamorous",
+    "pronunciation": "ˈglæmərəs",
+    "meaning": [
+      "olśniewający",
+      "zachwycający",
+      "powabny"
+    ]
+  },
+  {
+    "id": "g-glance",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glance",
+    "pronunciation": "glɑ:ns",
+    "meaning": [
+      "spoglądać",
+      "rzucać okiem",
+      "przeglądać",
+      "wertować",
+      "spojrzenie",
+      "odbijać się",
+      "ześlizgiwać się"
+    ]
+  },
+  {
+    "id": "g-gland",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gland",
+    "pronunciation": "glænd",
+    "meaning": [
+      "gruczoł"
+    ]
+  },
+  {
+    "id": "g-glare",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glare",
+    "pronunciation": "gleə",
+    "meaning": [
+      "patrzeć się z wściekłością",
+      "razić",
+      "wściekłe spojrzenie",
+      "blask"
+    ]
+  },
+  {
+    "id": "g-glaring",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "glaring",
+    "pronunciation": "ˈgleərɪŋ",
+    "meaning": [
+      "jaskrawy",
+      "rażący"
+    ]
+  },
+  {
+    "id": "g-glass",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "glass",
+    "pronunciation": "glɑ:s",
+    "meaning": [
+      "szkło",
+      "szklanka",
+      "kieliszek",
+      "okulary",
+      "szklany"
+    ]
+  },
+  {
+    "id": "g-glasshouse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "glasshouse",
+    "pronunciation": "ˈglɑ:shaʊs",
+    "meaning": [
+      "cieplarnia"
+    ]
+  },
+  {
+    "id": "g-glassware",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "glassware",
+    "pronunciation": "ˈglɑ:sweə",
+    "meaning": [
+      "szkło",
+      "szkła"
+    ]
+  },
+  {
+    "id": "g-glassy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "glassy",
+    "pronunciation": "ˈglɑ:sɪ",
+    "meaning": [
+      "szklisty",
+      "gładki"
+    ]
+  },
+  {
+    "id": "g-glaze",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glaze",
+    "pronunciation": "gleɪz",
+    "meaning": [
+      "szkliwo",
+      "emalia",
+      "szklić",
+      "emaliować",
+      "zasnuwać się mgłą"
+    ]
+  },
+  {
+    "id": "g-gleam",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gleam",
+    "pronunciation": "gli:m",
+    "meaning": [
+      "lśnić",
+      "błyszczeć",
+      "przebłyskiwać",
+      "połysk",
+      "blask",
+      "przebłysk"
+    ]
+  },
+  {
+    "id": "g-glean",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "glean",
+    "pronunciation": "gli:n",
+    "meaning": [
+      "zdobywać"
+    ]
+  },
+  {
+    "id": "g-glee",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "glee",
+    "pronunciation": "gli:",
+    "meaning": [
+      "zadowolenie",
+      "radość"
+    ]
+  },
+  {
+    "id": "g-gleeful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gleeful",
+    "pronunciation": "ˈgli:fʊl",
+    "meaning": [
+      "rozradowany"
+    ]
+  },
+  {
+    "id": "g-glen",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "glen",
+    "pronunciation": "glen",
+    "meaning": [
+      "dolina"
+    ]
+  },
+  {
+    "id": "g-glib",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "glib",
+    "pronunciation": "glɪb",
+    "meaning": [
+      "uładzony",
+      "gładki",
+      "elokwentny"
+    ]
+  },
+  {
+    "id": "g-glide",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "glide",
+    "pronunciation": "glaɪd",
+    "meaning": [
+      "przemykać się",
+      "prześlizgiwać się",
+      "szybować"
+    ]
+  },
+  {
+    "id": "g-glider",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "glider",
+    "pronunciation": "ˈglaɪdə",
+    "meaning": [
+      "szybowiec"
+    ]
+  },
+  {
+    "id": "g-gliding",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gliding",
+    "pronunciation": "ˈglaɪdɪŋ",
+    "meaning": [
+      "szybownictwo"
+    ]
+  },
+  {
+    "id": "g-glimmer",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glimmer",
+    "pronunciation": "ˈglɪmə",
+    "meaning": [
+      "migotać",
+      "migotanie",
+      "przebłysk"
+    ]
+  },
+  {
+    "id": "g-glimpse",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glimpse",
+    "pronunciation": "ˈglɪmps",
+    "meaning": [
+      "dostrzegać",
+      "rzut oka",
+      "spojrzenie"
+    ]
+  },
+  {
+    "id": "g-glint",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glint",
+    "pronunciation": "glɪnt",
+    "meaning": [
+      "błyszczeć",
+      "zabłyskiwać",
+      "błysk",
+      "lśnienie"
+    ]
+  },
+  {
+    "id": "g-glisten",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "glisten",
+    "pronunciation": "ˈglɪsən",
+    "meaning": [
+      "lśnić"
+    ]
+  },
+  {
+    "id": "g-glitter",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glitter",
+    "pronunciation": "ˈglɪtə",
+    "meaning": [
+      "migotać",
+      "pobłyskiwać",
+      "migotanie",
+      "pobłysk"
+    ]
+  },
+  {
+    "id": "g-glittering",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "glittering",
+    "pronunciation": "ˈglɪtərɪŋ",
+    "meaning": [
+      "wspaniały",
+      "błyskotliwy"
+    ]
+  },
+  {
+    "id": "g-gloat",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gloat",
+    "pronunciation": "gləʊt",
+    "meaning": [
+      "napawać się"
+    ]
+  },
+  {
+    "id": "g-global",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "global",
+    "pronunciation": "ˈgləʊbəl",
+    "meaning": [
+      "globalny"
+    ]
+  },
+  {
+    "id": "g-globe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "globe",
+    "pronunciation": "gləʊb",
+    "meaning": [
+      "glob",
+      "kula ziemska",
+      "globus",
+      "klosz"
+    ]
+  },
+  {
+    "id": "g-globule",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "globule",
+    "pronunciation": "ˈglɒbju:l",
+    "meaning": [
+      "kulka",
+      "kuleczka"
+    ]
+  },
+  {
+    "id": "g-gloom",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gloom",
+    "pronunciation": "glu:m",
+    "meaning": [
+      "mrok",
+      "posępność",
+      "ponurość"
+    ]
+  },
+  {
+    "id": "g-gloomy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gloomy",
+    "pronunciation": "ˈglu:mɪ",
+    "meaning": [
+      "mroczny",
+      "posępny",
+      "ponury"
+    ]
+  },
+  {
+    "id": "g-glorify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "glorify",
+    "pronunciation": "ˈglɔ:rɪfaɪ",
+    "meaning": [
+      "gloryfikować",
+      "wysławiać",
+      "przechwalać"
+    ]
+  },
+  {
+    "id": "g-glorious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "glorious",
+    "pronunciation": "ˈglɔ:rɪəs",
+    "meaning": [
+      "wspaniały",
+      "cudowny"
+    ]
+  },
+  {
+    "id": "g-glory",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glory",
+    "pronunciation": "ˈglɔ:rɪ",
+    "meaning": [
+      "sława",
+      "chwała",
+      "piękno",
+      "gloria",
+      "atrakcje",
+      "szczycić się"
+    ]
+  },
+  {
+    "id": "g-gloss",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gloss",
+    "pronunciation": "glɒs",
+    "meaning": [
+      "połysk",
+      "zatuszowywać",
+      "pomniejszać"
+    ]
+  },
+  {
+    "id": "g-glossary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "glossary",
+    "pronunciation": "ˈglɒsərɪ",
+    "meaning": [
+      "słownik"
+    ]
+  },
+  {
+    "id": "g-glossy",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "glossy",
+    "pronunciation": "ˈglɒsɪ",
+    "meaning": [
+      "błyszczący",
+      "połyskliwy",
+      "ilustrowany"
+    ]
+  },
+  {
+    "id": "g-glove",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "glove",
+    "pronunciation": "glʌv",
+    "meaning": [
+      "rękawica",
+      "rękawiczka",
+      "skrytka",
+      "schowek"
+    ]
+  },
+  {
+    "id": "g-glow",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glow",
+    "pronunciation": "gləʊ",
+    "meaning": [
+      "żar",
+      "blask",
+      "rumieniec",
+      "przypływ",
+      "żarzyć się",
+      "pałać",
+      "połyskiwać",
+      "jarzyć się",
+      "być zarumienionym",
+      "czerwienić się"
+    ]
+  },
+  {
+    "id": "g-glower",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "glower",
+    "pronunciation": "ˈglaʊə",
+    "meaning": [
+      "patrzeć gniewnie"
+    ]
+  },
+  {
+    "id": "g-glowing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "glowing",
+    "pronunciation": "ˈgləʊɪŋ",
+    "meaning": [
+      "entuzjastyczny"
+    ]
+  },
+  {
+    "id": "g-glow-worm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "glow-worm",
+    "pronunciation": "ˈgləʊwɜ:m",
+    "meaning": [
+      "robaczek świętojański"
+    ]
+  },
+  {
+    "id": "g-glucose",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "glucose",
+    "pronunciation": "ˈglu:kəʊz",
+    "meaning": [
+      "glukoza"
+    ]
+  },
+  {
+    "id": "g-glue",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glue",
+    "pronunciation": "glu:",
+    "meaning": [
+      "klej",
+      "przyklejać"
+    ]
+  },
+  {
+    "id": "g-glum",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "glum",
+    "pronunciation": "glʌm",
+    "meaning": [
+      "przygaszony",
+      "chmurny"
+    ]
+  },
+  {
+    "id": "g-glut",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "glut",
+    "pronunciation": "glʌt",
+    "meaning": [
+      "nasycić",
+      "przepełnić",
+      "przesyt"
+    ]
+  },
+  {
+    "id": "g-glutinous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "glutinous",
+    "pronunciation": "ˈglu:tɪnəs",
+    "meaning": [
+      "kleisty"
+    ]
+  },
+  {
+    "id": "g-glutton",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "glutton",
+    "pronunciation": "ˈglʌtən",
+    "meaning": [
+      "żarłok"
+    ]
+  },
+  {
+    "id": "g-gluttony",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gluttony",
+    "pronunciation": "ˈglʌtənɪ",
+    "meaning": [
+      "żarłoczność"
+    ]
+  },
+  {
+    "id": "g-glycerine",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "glycerine",
+    "pronunciation": "ˈglɪsərɪn",
+    "meaning": [
+      "gliceryna"
+    ]
+  },
+  {
+    "id": "g-gm",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gm",
+    "pronunciation": "/ˌdʒiːˈem/",
+    "meaning": [
+      "gram",
+      "g"
+    ]
+  },
+  {
+    "id": "g-GMT",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "GMT",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Średni Czas Greenwich"
+    ]
+  },
+  {
+    "id": "g-gnarled",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gnarled",
+    "pronunciation": "ˈnɑ:ld",
+    "meaning": [
+      "sękaty",
+      "powykręcany"
+    ]
+  },
+  {
+    "id": "g-gnash",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gnash",
+    "pronunciation": "næʃ",
+    "meaning": [
+      "zgrzytać"
+    ]
+  },
+  {
+    "id": "g-gnat",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gnat",
+    "pronunciation": "næt",
+    "meaning": [
+      "komar"
+    ]
+  },
+  {
+    "id": "g-gnaw",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "gnaw",
+    "pronunciation": "nɔ:",
+    "meaning": [
+      "gryźć",
+      "przegryzać",
+      "ogryzać",
+      "dręczyć"
+    ]
+  },
+  {
+    "id": "g-gnome",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gnome",
+    "pronunciation": "nəʊm",
+    "meaning": [
+      "gnom"
+    ]
+  },
+  {
+    "id": "g-goad",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "goad",
+    "pronunciation": "gəʊd",
+    "meaning": [
+      "bodziec",
+      "podnieta",
+      "podjudzać",
+      "podbechtywać"
+    ]
+  },
+  {
+    "id": "g-go-ahead",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "go-ahead",
+    "pronunciation": "ˈgəʊˌəhed",
+    "meaning": [
+      "przedsiębiorczy",
+      "wolna droga",
+      "zielone światło"
+    ]
+  },
+  {
+    "id": "g-goal",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "goal",
+    "pronunciation": "gəʊl",
+    "meaning": [
+      "bramka",
+      "gol",
+      "cel"
+    ]
+  },
+  {
+    "id": "g-goalkeeper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "goalkeeper",
+    "pronunciation": "ˈgəʊlki:pə",
+    "meaning": [
+      "bramkarz"
+    ]
+  },
+  {
+    "id": "g-goalpost",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "goalpost",
+    "pronunciation": "ˈgəʊlpəʊst",
+    "meaning": [
+      "słupek"
+    ]
+  },
+  {
+    "id": "g-goat",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "goat",
+    "pronunciation": "gəʊt",
+    "meaning": [
+      "koza",
+      "kozioł"
+    ]
+  },
+  {
+    "id": "g-gob",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gob",
+    "pronunciation": "gɒb",
+    "meaning": [
+      "gęba",
+      "ryj"
+    ]
+  },
+  {
+    "id": "g-gobbledygook",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gobbledygook",
+    "pronunciation": "ˈgɒbəldəgu:k",
+    "meaning": [
+      "żargon",
+      "nowomowa"
+    ]
+  },
+  {
+    "id": "g-go-between",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "go-between",
+    "pronunciation": "ˈgəʊbɪtwi:n",
+    "meaning": [
+      "pośrednik"
+    ]
+  },
+  {
+    "id": "g-goblet",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "goblet",
+    "pronunciation": "ˈgɒblɪt",
+    "meaning": [
+      "kielich"
+    ]
+  },
+  {
+    "id": "g-goblin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "goblin",
+    "pronunciation": "ˈgɒblɪn",
+    "meaning": [
+      "chochlik"
+    ]
+  },
+  {
+    "id": "g-godchild",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "godchild",
+    "pronunciation": "ˈgɒdʧaɪld",
+    "meaning": [
+      "chrześniak",
+      "chrześniaczka"
+    ]
+  },
+  {
+    "id": "g-goddaughter",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "goddaughter",
+    "pronunciation": "ˈgɒddɔ:tə",
+    "meaning": [
+      "chrześniaczka",
+      "córka chrzestna"
+    ]
+  },
+  {
+    "id": "g-goddess",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "goddess",
+    "pronunciation": "ˈgɒdɪs",
+    "meaning": [
+      "bogini"
+    ]
+  },
+  {
+    "id": "g-godfather",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "godfather",
+    "pronunciation": "ˈgɒdfɑ:ðə",
+    "meaning": [
+      "ojciec chrzestny"
+    ]
+  },
+  {
+    "id": "g-god-fearing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "god-fearing",
+    "pronunciation": "ˈgɒdfɪərɪŋ",
+    "meaning": [
+      "bogobojny"
+    ]
+  },
+  {
+    "id": "g-godforsaken",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "godforsaken",
+    "pronunciation": "ˈgɒdfəseɪkən",
+    "meaning": [
+      "zakazany",
+      "zapomniany"
+    ]
+  },
+  {
+    "id": "g-godless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "godless",
+    "pronunciation": "ˈgɒdlɪs",
+    "meaning": [
+      "bezbożny"
+    ]
+  },
+  {
+    "id": "g-godly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "godly",
+    "pronunciation": "ˈgɒdlɪ",
+    "meaning": [
+      "pobożny"
+    ]
+  },
+  {
+    "id": "g-godmother",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "godmother",
+    "pronunciation": "ˈgɒdmʌðə",
+    "meaning": [
+      "matka chrzestna"
+    ]
+  },
+  {
+    "id": "g-godparent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "godparent",
+    "pronunciation": "ˈgɒdpeərənt",
+    "meaning": [
+      "rodzic chrzestny"
+    ]
+  },
+  {
+    "id": "g-godsend",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "godsend",
+    "pronunciation": "ˈgɒdsend",
+    "meaning": [
+      "dar niebios"
+    ]
+  },
+  {
+    "id": "g-godson",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "godson",
+    "pronunciation": "ˈgɒdsʌn",
+    "meaning": [
+      "chrześniak",
+      "syn chrzestny"
+    ]
+  },
+  {
+    "id": "g-goggle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "goggle",
+    "pronunciation": "ˈgɒgəl",
+    "meaning": [
+      "wybałuszać oczy",
+      "gogle"
+    ]
+  },
+  {
+    "id": "g-goings-on",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "goings-on",
+    "pronunciation": "ˌgəʊɪŋzˈɒn",
+    "meaning": [
+      "wydarzenia"
+    ]
+  },
+  {
+    "id": "g-gold",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "gold",
+    "pronunciation": "gəʊld",
+    "meaning": [
+      "złoto",
+      "złoty medal",
+      "złocisty"
+    ]
+  },
+  {
+    "id": "g-golden",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "golden",
+    "pronunciation": "ˈgəʊldən",
+    "meaning": [
+      "złoty",
+      "złocisty",
+      "wyjątkowy"
+    ]
+  },
+  {
+    "id": "g-goldfish",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "goldfish",
+    "pronunciation": "ˈgəʊldfɪʃ",
+    "meaning": [
+      "złota rybka"
+    ]
+  },
+  {
+    "id": "g-goldmine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "goldmine",
+    "pronunciation": "ˈgəʊldmaɪn",
+    "meaning": [
+      "żyła złota"
+    ]
+  },
+  {
+    "id": "g-golf",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "golf",
+    "pronunciation": "gɒlf",
+    "meaning": [
+      "golf",
+      "grać w golfa",
+      "kij golfowy",
+      "klub golfowy",
+      "pole golfowe"
+    ]
+  },
+  {
+    "id": "g-golfer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "golfer",
+    "pronunciation": "ˈgəʊlfə",
+    "meaning": [
+      "gracz w golfa"
+    ]
+  },
+  {
+    "id": "g-gone",
+    "level": "A1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "gone",
+    "pronunciation": "gɒn",
+    "meaning": []
+  },
+  {
+    "id": "g-gonorrhoea",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gonorrhoea",
+    "pronunciation": "ˌgɒnəˈrɪə",
+    "meaning": [
+      "rzeżączka"
+    ]
+  },
+  {
+    "id": "g-good",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "good",
+    "pronunciation": "gʊd",
+    "meaning": [
+      "dobry",
+      "niezły",
+      "grzeczny",
+      "porządny",
+      "dobro",
+      "artykuły",
+      "towary",
+      "dzień dobry",
+      "dobry wieczór",
+      "Wielki Piątek",
+      "pociąg towarowy"
+    ]
+  },
+  {
+    "id": "g-goodbye",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "interjection"
+    ],
+    "word": "goodbye",
+    "pronunciation": "gʊdˈbaɪ",
+    "meaning": [
+      "do widzenia"
+    ]
+  },
+  {
+    "id": "g-good-humoured",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "good-humoured",
+    "pronunciation": "ˌgʊdˈhju:məd",
+    "meaning": [
+      "dobroduszny",
+      "łagodny"
+    ]
+  },
+  {
+    "id": "g-good-looking",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "good-looking",
+    "pronunciation": "ˌgʊdˈlʊkɪŋ",
+    "meaning": [
+      "przystojny"
+    ]
+  },
+  {
+    "id": "g-good-natured",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "good-natured",
+    "pronunciation": "ˌgʊdˈneɪʧəd",
+    "meaning": [
+      "dobroduszny",
+      "życzliwy"
+    ]
+  },
+  {
+    "id": "g-goodness",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "goodness",
+    "pronunciation": "ˈgʊdnɪs",
+    "meaning": [
+      "dobro"
+    ]
+  },
+  {
+    "id": "g-goodnight",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "goodnight",
+    "pronunciation": "gʊdˈnaɪt",
+    "meaning": [
+      "dobranoc"
+    ]
+  },
+  {
+    "id": "g-good-tempered",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "good-tempered",
+    "pronunciation": "ˌgʊdˈtempəd",
+    "meaning": [
+      "dobroduszny",
+      "przyjacielski"
+    ]
+  },
+  {
+    "id": "g-goodwill",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "goodwill",
+    "pronunciation": "ˈgʊdwɪl",
+    "meaning": [
+      "życzliwość"
+    ]
+  },
+  {
+    "id": "g-goody",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "exclamation"
+    ],
+    "word": "goody",
+    "pronunciation": "ˈgʊdɪ",
+    "meaning": [
+      "fajnie",
+      "pysznie",
+      "coś pysznego",
+      "pozytywny charakter"
+    ]
+  },
+  {
+    "id": "g-goof",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "goof",
+    "pronunciation": "gu:f",
+    "meaning": [
+      "skrewić"
+    ]
+  },
+  {
+    "id": "g-goose",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "goose",
+    "pronunciation": "gu:s",
+    "meaning": [
+      "gęś",
+      "gęsia skórka"
+    ]
+  },
+  {
+    "id": "g-gooseberry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gooseberry",
+    "pronunciation": "ˈgʊzbərɪ",
+    "meaning": [
+      "agrest"
+    ]
+  },
+  {
+    "id": "g-gooseflesh",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gooseflesh",
+    "pronunciation": "ˈgu:sfleʃ",
+    "meaning": [
+      "gęsia skórka"
+    ]
+  },
+  {
+    "id": "g-gore",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gore",
+    "pronunciation": "gɔ:",
+    "meaning": [
+      "bóść",
+      "skrzepła krew"
+    ]
+  },
+  {
+    "id": "g-gorgeous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gorgeous",
+    "pronunciation": "ˈgɔ:ʤəs",
+    "meaning": [
+      "cudowny",
+      "wspaniały"
+    ]
+  },
+  {
+    "id": "g-gorilla",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gorilla",
+    "pronunciation": "gəˈrɪlə",
+    "meaning": [
+      "goryl"
+    ]
+  },
+  {
+    "id": "g-gory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gory",
+    "pronunciation": "ˈgɔ:rɪ",
+    "meaning": [
+      "krwawy"
+    ]
+  },
+  {
+    "id": "g-gosh",
+    "level": "A2",
+    "partOfSpeech": "exclamation",
+    "word": "gosh",
+    "pronunciation": "gɒʃ",
+    "meaning": [
+      "jejku",
+      "ojej"
+    ]
+  },
+  {
+    "id": "g-gosling",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gosling",
+    "pronunciation": "ˈgɒzlɪŋ",
+    "meaning": [
+      "gąsiątko"
+    ]
+  },
+  {
+    "id": "g-gospel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gospel",
+    "pronunciation": "ˈgɒspəl",
+    "meaning": [
+      "ewangelia",
+      "święty",
+      "gospel"
+    ]
+  },
+  {
+    "id": "g-gossamer",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "gossamer",
+    "pronunciation": "ˈgɒsəmə",
+    "meaning": [
+      "nitka pajęczyny",
+      "babie lato",
+      "pajęczynowy",
+      "zwiewny"
+    ]
+  },
+  {
+    "id": "g-gossip",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gossip",
+    "pronunciation": "ˈgɒsɪp",
+    "meaning": [
+      "plotka",
+      "plotkarz",
+      "pogawędka",
+      "plotkować"
+    ]
+  },
+  {
+    "id": "g-Gothic",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Gothic",
+    "pronunciation": "ˈgɒθɪk",
+    "meaning": [
+      "gotyk",
+      "gotycki"
+    ]
+  },
+  {
+    "id": "g-gouge",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gouge",
+    "pronunciation": "gaʊʤ",
+    "meaning": [
+      "żłobić",
+      "wydłubywać"
+    ]
+  },
+  {
+    "id": "g-gourd",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gourd",
+    "pronunciation": "gʊəd",
+    "meaning": [
+      "dynia"
+    ]
+  },
+  {
+    "id": "g-gout",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gout",
+    "pronunciation": "gaʊt",
+    "meaning": [
+      "artretyzm"
+    ]
+  },
+  {
+    "id": "g-gov.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "gov.",
+    "pronunciation": "/ɡʌv/",
+    "meaning": [
+      "rząd",
+      "rządowy",
+      "gubernator"
+    ]
+  },
+  {
+    "id": "g-govern",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "govern",
+    "pronunciation": "ˈgʌvən",
+    "meaning": [
+      "rządzić",
+      "kierować",
+      "kontrolować"
+    ]
+  },
+  {
+    "id": "g-governess",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "governess",
+    "pronunciation": "ˈgʌvənɪs",
+    "meaning": [
+      "guwernantka"
+    ]
+  },
+  {
+    "id": "g-government",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "government",
+    "pronunciation": "ˈgʌvənmənt",
+    "meaning": [
+      "rząd",
+      "rządzenie",
+      "rządowy"
+    ]
+  },
+  {
+    "id": "g-governor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "governor",
+    "pronunciation": "ˈgʌvənə",
+    "meaning": [
+      "gubernator",
+      "rządca",
+      "zarządca",
+      "dyrektor"
+    ]
+  },
+  {
+    "id": "g-govt.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "govt.",
+    "pronunciation": "/ˈɡʌvənmənt/",
+    "meaning": [
+      "rząd",
+      "rządowy"
+    ]
+  },
+  {
+    "id": "g-gown",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gown",
+    "pronunciation": "gaʊn",
+    "meaning": [
+      "suknia",
+      "toga"
+    ]
+  },
+  {
+    "id": "g-GP",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "GP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "internista"
+    ]
+  },
+  {
+    "id": "g-gr.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "gr.",
+    "pronunciation": "/ɡrænd/",
+    "meaning": [
+      "klasa",
+      "brutto",
+      "grupa"
+    ]
+  },
+  {
+    "id": "g-grab",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "grab",
+    "pronunciation": "græb",
+    "meaning": [
+      "łapać",
+      "porywać",
+      "chwytać"
+    ]
+  },
+  {
+    "id": "g-graceful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "graceful",
+    "pronunciation": "ˈgreɪsfʊl",
+    "meaning": [
+      "wdzięczny",
+      "pełen wdzięku",
+      "przyjemny dla oka",
+      "przyjemny",
+      "szarmancki",
+      "elegancki"
+    ]
+  },
+  {
+    "id": "g-graceless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "graceless",
+    "pronunciation": "ˈgreɪslɪs",
+    "meaning": [
+      "nieatrakcyjny",
+      "niewychowany"
+    ]
+  },
+  {
+    "id": "g-gracious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gracious",
+    "pronunciation": "ˈgreɪʃəs",
+    "meaning": [
+      "łaskawy",
+      "dobry",
+      "na wysokim poziomie"
+    ]
+  },
+  {
+    "id": "g-gradation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gradation",
+    "pronunciation": "grəˈdeɪʃən",
+    "meaning": [
+      "gradacja"
+    ]
+  },
+  {
+    "id": "g-grade",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grade",
+    "pronunciation": "greɪd",
+    "meaning": [
+      "stopień",
+      "poziom",
+      "ocena",
+      "klasa",
+      "spadek",
+      "klasyfikować"
+    ]
+  },
+  {
+    "id": "g-gradient",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gradient",
+    "pronunciation": "ˈgreɪdɪənt",
+    "meaning": [
+      "nachylenie",
+      "spadek"
+    ]
+  },
+  {
+    "id": "g-gradual",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gradual",
+    "pronunciation": "ˈgrædjʊəl",
+    "meaning": [
+      "stopniowy"
+    ]
+  },
+  {
+    "id": "g-graduate",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "graduate",
+    "pronunciation": "/ˈɡrædʒuət/",
+    "meaning": [
+      "absolwent",
+      "podyplomowy",
+      "kończyć",
+      "przechodzić"
+    ]
+  },
+  {
+    "id": "g-graduation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "graduation",
+    "pronunciation": "ˌgrædjʊˈeɪʃən",
+    "meaning": [
+      "zakończenie studiów",
+      "zakończenie",
+      "promocja"
+    ]
+  },
+  {
+    "id": "g-graffiti",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "graffiti",
+    "pronunciation": "grəˈfi:tɪ",
+    "meaning": [
+      "graffiti",
+      "bazgranina na ścianach"
+    ]
+  },
+  {
+    "id": "g-graft",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "graft",
+    "pronunciation": "grɑ:ft",
+    "meaning": [
+      "szczepić",
+      "przeszczepiać",
+      "zasadzać",
+      "szczep",
+      "przeszczep",
+      "harówka",
+      "mozół",
+      "łapówka"
+    ]
+  },
+  {
+    "id": "g-grain",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grain",
+    "pronunciation": "greɪn",
+    "meaning": [
+      "ziarno",
+      "zboże",
+      "słój",
+      "uwarstwienie",
+      "szczypta"
+    ]
+  },
+  {
+    "id": "g-gram",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gram",
+    "pronunciation": "græm",
+    "meaning": [
+      "gram"
+    ]
+  },
+  {
+    "id": "g-grammar",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grammar",
+    "pronunciation": "ˈgræmə",
+    "meaning": [
+      "gramatyka",
+      "liceum"
+    ]
+  },
+  {
+    "id": "g-grammatical",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "grammatical",
+    "pronunciation": "grəˈmætɪkəl",
+    "meaning": [
+      "gramatyczny"
+    ]
+  },
+  {
+    "id": "g-gramophone",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gramophone",
+    "pronunciation": "ˈgræməfəʊn",
+    "meaning": [
+      "gramofon"
+    ]
+  },
+  {
+    "id": "g-gran",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gran",
+    "pronunciation": "græn",
+    "meaning": [
+      "babcia"
+    ]
+  },
+  {
+    "id": "g-granary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "granary",
+    "pronunciation": "ˈgrænərɪ",
+    "meaning": [
+      "spichlerz"
+    ]
+  },
+  {
+    "id": "g-grand",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "grand",
+    "pronunciation": "grænd",
+    "meaning": [
+      "imponujący",
+      "rewelacyjny",
+      "wielki",
+      "znakomity",
+      "ogólny",
+      "tysiąc",
+      "fortepian koncertowy",
+      "fortepian"
+    ]
+  },
+  {
+    "id": "g-grandad",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "grandad",
+    "pronunciation": "ˈgrændæd",
+    "meaning": [
+      "dziadek"
+    ]
+  },
+  {
+    "id": "g-grandchild",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "grandchild",
+    "pronunciation": "ˈgrænʧaɪld",
+    "meaning": [
+      "wnuk"
+    ]
+  },
+  {
+    "id": "g-granddaughter",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "granddaughter",
+    "pronunciation": "ˈgrændɔ:tə",
+    "meaning": [
+      "wnuczka"
+    ]
+  },
+  {
+    "id": "g-grandeur",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grandeur",
+    "pronunciation": "ˈgrænʤə",
+    "meaning": [
+      "wielkość",
+      "świetność",
+      "dostojeństwo"
+    ]
+  },
+  {
+    "id": "g-grandfather",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "grandfather",
+    "pronunciation": "ˈgrænfɑ:ðə",
+    "meaning": [
+      "dziadek",
+      "zegar stojący"
+    ]
+  },
+  {
+    "id": "g-grandiose",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "grandiose",
+    "pronunciation": "ˈgrændɪəʊs",
+    "meaning": [
+      "pompatyczny",
+      "skomplikowany"
+    ]
+  },
+  {
+    "id": "g-grandma",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "grandma",
+    "pronunciation": "ˈgrænmɑ:",
+    "meaning": [
+      "babcia"
+    ]
+  },
+  {
+    "id": "g-grandmother",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "grandmother",
+    "pronunciation": "ˈgrænmʌ:ðə",
+    "meaning": [
+      "babcia"
+    ]
+  },
+  {
+    "id": "g-grandpa",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "grandpa",
+    "pronunciation": "ˈgrænpɑ:",
+    "meaning": [
+      "dziadziuś"
+    ]
+  },
+  {
+    "id": "g-grandparent",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grandparent",
+    "pronunciation": "ˈgrænpeərənt",
+    "meaning": [
+      "dziadek",
+      "babcia"
+    ]
+  },
+  {
+    "id": "g-grandson",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grandson",
+    "pronunciation": "ˈgrænsʌn",
+    "meaning": [
+      "wnuk"
+    ]
+  },
+  {
+    "id": "g-grandstand",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grandstand",
+    "pronunciation": "ˈgrændstænd",
+    "meaning": [
+      "główna trybuna"
+    ]
+  },
+  {
+    "id": "g-granite",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "granite",
+    "pronunciation": "ˈgrænɪt",
+    "meaning": [
+      "granit"
+    ]
+  },
+  {
+    "id": "g-granny",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "granny",
+    "pronunciation": "ˈgrænɪ",
+    "meaning": [
+      "babciunia"
+    ]
+  },
+  {
+    "id": "g-grant",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grant",
+    "pronunciation": "grɑ:nt",
+    "meaning": [
+      "dotacja",
+      "przyznawać"
+    ]
+  },
+  {
+    "id": "g-granulated",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "granulated",
+    "pronunciation": "ˈgrænjʊleɪtɪd",
+    "meaning": [
+      "granulowany"
+    ]
+  },
+  {
+    "id": "g-granule",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "granule",
+    "pronunciation": "ˈgrænju:l",
+    "meaning": [
+      "ziarno",
+      "granula"
+    ]
+  },
+  {
+    "id": "g-grape",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "grape",
+    "pronunciation": "greɪp",
+    "meaning": [
+      "winogrono"
+    ]
+  },
+  {
+    "id": "g-grapefruit",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grapefruit",
+    "pronunciation": "ˈgreɪpfru:t",
+    "meaning": [
+      "grapefruit"
+    ]
+  },
+  {
+    "id": "g-grapevine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grapevine",
+    "pronunciation": "ˈgreɪpvaɪn",
+    "meaning": [
+      "latorośl"
+    ]
+  },
+  {
+    "id": "g-graph",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "graph",
+    "pronunciation": "grɑ:f",
+    "meaning": [
+      "wykres",
+      "graf"
+    ]
+  },
+  {
+    "id": "g-graphic",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "graphic",
+    "pronunciation": "ˈgræfɪk",
+    "meaning": [
+      "graficzny",
+      "plastyczny"
+    ]
+  },
+  {
+    "id": "g-graphite",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "graphite",
+    "pronunciation": "ˈgræfaɪt",
+    "meaning": [
+      "grafit"
+    ]
+  },
+  {
+    "id": "g-grapple",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "grapple",
+    "pronunciation": "ˈgræpəl",
+    "meaning": [
+      "zmagać się"
+    ]
+  },
+  {
+    "id": "g-grasp",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grasp",
+    "pronunciation": "grɑ:sp",
+    "meaning": [
+      "chwytać",
+      "łapać",
+      "chwyt",
+      "uścisk"
+    ]
+  },
+  {
+    "id": "g-grasping",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "grasping",
+    "pronunciation": "ˈgrɑ:spɪŋ",
+    "meaning": [
+      "zachłanny"
+    ]
+  },
+  {
+    "id": "g-grass",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grass",
+    "pronunciation": "grɑ:s",
+    "meaning": [
+      "trawa",
+      "marihuana",
+      "doły partyjne",
+      "doły",
+      "baza",
+      "podstawa"
+    ]
+  },
+  {
+    "id": "g-grasshopper",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grasshopper",
+    "pronunciation": "ˈgrɑ:shɒpə",
+    "meaning": [
+      "konik polny",
+      "pasikonik"
+    ]
+  },
+  {
+    "id": "g-grassland",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grassland",
+    "pronunciation": "ˈgrɑ:slənd",
+    "meaning": [
+      "łąka",
+      "pastwisko"
+    ]
+  },
+  {
+    "id": "g-grassy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "grassy",
+    "pronunciation": "ˈgrɑ:sɪ",
+    "meaning": [
+      "trawiasty"
+    ]
+  },
+  {
+    "id": "g-grate",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grate",
+    "pronunciation": "greɪt",
+    "meaning": [
+      "ruszt",
+      "trzeć",
+      "skrzypieć",
+      "zgrzytać",
+      "działać na nerwy"
+    ]
+  },
+  {
+    "id": "g-grateful",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "grateful",
+    "pronunciation": "ˈgreɪtfʊl",
+    "meaning": [
+      "wdzięczny"
+    ]
+  },
+  {
+    "id": "g-grater",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grater",
+    "pronunciation": "ˈgreɪtə",
+    "meaning": [
+      "tarka"
+    ]
+  },
+  {
+    "id": "g-gratify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gratify",
+    "pronunciation": "ˈgrætɪfaɪ",
+    "meaning": [
+      "radować się",
+      "zaspokajać"
+    ]
+  },
+  {
+    "id": "g-grating",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "grating",
+    "pronunciation": "ˈgreɪtɪŋ",
+    "meaning": [
+      "krata",
+      "zgrzytający",
+      "zgrzytliwy"
+    ]
+  },
+  {
+    "id": "g-gratitude",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gratitude",
+    "pronunciation": "ˈgrætɪtju:d",
+    "meaning": [
+      "wdzięczność"
+    ]
+  },
+  {
+    "id": "g-gratuitous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "gratuitous",
+    "pronunciation": "grəˈtju:ɪtəs",
+    "meaning": [
+      "bezpłatny",
+      "gratisowy",
+      "nieuzasadniony"
+    ]
+  },
+  {
+    "id": "g-gratuity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gratuity",
+    "pronunciation": "grəˈtju:ɪtɪ",
+    "meaning": [
+      "napiwek",
+      "odprawa pieniężna",
+      "odprawa"
+    ]
+  },
+  {
+    "id": "g-grave",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "grave",
+    "pronunciation": "greɪv",
+    "meaning": [
+      "grób",
+      "poważny"
+    ]
+  },
+  {
+    "id": "g-gravel",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gravel",
+    "pronunciation": "ˈgrævəl",
+    "meaning": [
+      "żwir"
+    ]
+  },
+  {
+    "id": "g-gravestone",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gravestone",
+    "pronunciation": "ˈgreɪvstəʊn",
+    "meaning": [
+      "nagrobek"
+    ]
+  },
+  {
+    "id": "g-graveyard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "graveyard",
+    "pronunciation": "ˈgreɪvjɑ:d",
+    "meaning": [
+      "cmentarz"
+    ]
+  },
+  {
+    "id": "g-gravitate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gravitate",
+    "pronunciation": "ˈgrævɪteɪt",
+    "meaning": [
+      "grawitować"
+    ]
+  },
+  {
+    "id": "g-gravitation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gravitation",
+    "pronunciation": "ˌgrævɪˈteɪʃən",
+    "meaning": [
+      "grawitacja"
+    ]
+  },
+  {
+    "id": "g-gravity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gravity",
+    "pronunciation": "ˈgrævɪtɪ",
+    "meaning": [
+      "ciężkość",
+      "siła ciężkości",
+      "powaga"
+    ]
+  },
+  {
+    "id": "g-gravy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gravy",
+    "pronunciation": "ˈgreɪvɪ",
+    "meaning": [
+      "sos"
+    ]
+  },
+  {
+    "id": "g-graze",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "graze",
+    "pronunciation": "greɪz",
+    "meaning": [
+      "paść się",
+      "paść",
+      "zadrapywać",
+      "ocierać się",
+      "zadrapanie"
+    ]
+  },
+  {
+    "id": "g-grease",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grease",
+    "pronunciation": "gri:s",
+    "meaning": [
+      "tłuszcz",
+      "smar",
+      "smarować"
+    ]
+  },
+  {
+    "id": "g-greasy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "greasy",
+    "pronunciation": "ˈgri:sɪ",
+    "meaning": [
+      "tłusty",
+      "zatłuszczony"
+    ]
+  },
+  {
+    "id": "g-great",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "great",
+    "pronunciation": "greɪt",
+    "meaning": [
+      "wielki",
+      "duży",
+      "znakomity",
+      "znakomicie",
+      "wspaniale"
+    ]
+  },
+  {
+    "id": "g-great-",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "great-",
+    "pronunciation": "greɪt",
+    "meaning": [
+      "pra-"
+    ]
+  },
+  {
+    "id": "g-greatly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "greatly",
+    "pronunciation": "ˈgreɪtlɪ",
+    "meaning": [
+      "ogromnie"
+    ]
+  },
+  {
+    "id": "g-Greece",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Greece",
+    "pronunciation": "gri:s",
+    "meaning": [
+      "Grecja"
+    ]
+  },
+  {
+    "id": "g-greed",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "greed",
+    "pronunciation": "gri:d",
+    "meaning": [
+      "żądza",
+      "chciwość"
+    ]
+  },
+  {
+    "id": "g-greedy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "greedy",
+    "pronunciation": "ˈgri:dɪ",
+    "meaning": [
+      "chciwy",
+      "łapczywy"
+    ]
+  },
+  {
+    "id": "g-Greek",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Greek",
+    "pronunciation": "gri:k",
+    "meaning": [
+      "grecki",
+      "Grek"
+    ]
+  },
+  {
+    "id": "g-greenery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "greenery",
+    "pronunciation": "ˈgri:nərɪ",
+    "meaning": [
+      "zieleń",
+      "roślinność"
+    ]
+  },
+  {
+    "id": "g-greengrocer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "greengrocer",
+    "pronunciation": "ˈgri:ngrəʊsə",
+    "meaning": [
+      "sprzedawca jarzyn i owoców"
+    ]
+  },
+  {
+    "id": "g-greenhouse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "greenhouse",
+    "pronunciation": "ˈgri:nhaʊs",
+    "meaning": [
+      "szklarnia"
+    ]
+  },
+  {
+    "id": "g-greenish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "greenish",
+    "pronunciation": "ˈgri:nɪʃ",
+    "meaning": [
+      "zielonkawy"
+    ]
+  },
+  {
+    "id": "g-greet",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "greet",
+    "pronunciation": "gri:t",
+    "meaning": [
+      "witać",
+      "powitać"
+    ]
+  },
+  {
+    "id": "g-greeting",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "greeting",
+    "pronunciation": "ˈgri:tɪŋ",
+    "meaning": [
+      "powitanie",
+      "pozdrowienia"
+    ]
+  },
+  {
+    "id": "g-gregarious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gregarious",
+    "pronunciation": "grɪˈgeərɪəs",
+    "meaning": [
+      "towarzyski"
+    ]
+  },
+  {
+    "id": "g-grenade",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grenade",
+    "pronunciation": "grɪˈneɪd",
+    "meaning": [
+      "granat"
+    ]
+  },
+  {
+    "id": "g-grey",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "grey",
+    "pronunciation": "greɪ",
+    "meaning": [
+      "szary",
+      "popielaty",
+      "siwy"
+    ]
+  },
+  {
+    "id": "g-greyhound",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "greyhound",
+    "pronunciation": "ˈgreɪhaʊnd",
+    "meaning": [
+      "chart"
+    ]
+  },
+  {
+    "id": "g-greyish",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "greyish",
+    "pronunciation": "ˈgreɪɪʃ",
+    "meaning": [
+      "szarawy",
+      "popielaty"
+    ]
+  },
+  {
+    "id": "g-grid",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grid",
+    "pronunciation": "grɪd",
+    "meaning": [
+      "kratownica",
+      "sieć",
+      "siatka geograficzna"
+    ]
+  },
+  {
+    "id": "g-grief",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grief",
+    "pronunciation": "gri:f",
+    "meaning": [
+      "żałość",
+      "zgryzota"
+    ]
+  },
+  {
+    "id": "g-grievance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grievance",
+    "pronunciation": "ˈgri:vəns",
+    "meaning": [
+      "zażalenie",
+      "żal",
+      "uraza"
+    ]
+  },
+  {
+    "id": "g-grieve",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "grieve",
+    "pronunciation": "gri:v",
+    "meaning": [
+      "opłakiwać",
+      "rozpaczać"
+    ]
+  },
+  {
+    "id": "g-grievous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "grievous",
+    "pronunciation": "ˈgri:vəs",
+    "meaning": [
+      "przykry",
+      "dotkliwy"
+    ]
+  },
+  {
+    "id": "g-grill",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grill",
+    "pronunciation": "grɪl",
+    "meaning": [
+      "ruszt",
+      "potrawa z rusztu",
+      "piec",
+      "męczyć kogoś na przesłuchaniu",
+      "męczyć kogoś"
+    ]
+  },
+  {
+    "id": "g-grille",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grille",
+    "pronunciation": "grɪl",
+    "meaning": [
+      "krata",
+      "siatka ochronna",
+      "siatka"
+    ]
+  },
+  {
+    "id": "g-grim",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "grim",
+    "pronunciation": "grɪm",
+    "meaning": [
+      "ponury",
+      "przygnębiający",
+      "zacięty",
+      "surowy"
+    ]
+  },
+  {
+    "id": "g-grimace",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grimace",
+    "pronunciation": "grɪˈmeɪs",
+    "meaning": [
+      "grymas",
+      "robić grymasy"
+    ]
+  },
+  {
+    "id": "g-grime",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grime",
+    "pronunciation": "graɪm",
+    "meaning": [
+      "nalot brudu"
+    ]
+  },
+  {
+    "id": "g-grimy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "grimy",
+    "pronunciation": "ˈgraɪmɪ",
+    "meaning": [
+      "brudny",
+      "zapaskudzony"
+    ]
+  },
+  {
+    "id": "g-grin",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grin",
+    "pronunciation": "grɪn",
+    "meaning": [
+      "uśmiechać się",
+      "uśmiech"
+    ]
+  },
+  {
+    "id": "g-grind",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grind",
+    "pronunciation": "graɪnd",
+    "meaning": [
+      "mielić",
+      "mleć",
+      "wciskać",
+      "szlifować",
+      "zgrzytać",
+      "kuć",
+      "harówka",
+      "kujon",
+      "zdeptywać"
+    ]
+  },
+  {
+    "id": "g-grinder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grinder",
+    "pronunciation": "ˈgraɪndə",
+    "meaning": [
+      "młynek"
+    ]
+  },
+  {
+    "id": "g-grip",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grip",
+    "pronunciation": "grɪp",
+    "meaning": [
+      "chwytać",
+      "być pod wrażeniem",
+      "uchwyt",
+      "torba podróżna",
+      "torba"
+    ]
+  },
+  {
+    "id": "g-gripe",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gripe",
+    "pronunciation": "graɪp",
+    "meaning": [
+      "marudzić",
+      "labiedzić"
+    ]
+  },
+  {
+    "id": "g-grisly",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "grisly",
+    "pronunciation": "ˈgrɪzlɪ",
+    "meaning": [
+      "przerażający",
+      "straszliwy"
+    ]
+  },
+  {
+    "id": "g-gristle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gristle",
+    "pronunciation": "ˈgrɪsəl",
+    "meaning": [
+      "chrząstka"
+    ]
+  },
+  {
+    "id": "g-grit",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grit",
+    "pronunciation": "grɪt",
+    "meaning": [
+      "żwir",
+      "piasek",
+      "charakter",
+      "posypywać piaskiem"
+    ]
+  },
+  {
+    "id": "g-groan",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "groan",
+    "pronunciation": "grəʊn",
+    "meaning": [
+      "jęczeć",
+      "skrzypieć",
+      "jęk"
+    ]
+  },
+  {
+    "id": "g-grocer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grocer",
+    "pronunciation": "ˈgrəʊsə",
+    "meaning": [
+      "sprzedawca sklepu spożywczego",
+      "właściciel sklepu spożywczego"
+    ]
+  },
+  {
+    "id": "g-grocery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grocery",
+    "pronunciation": "ˈgrəʊsərɪ",
+    "meaning": [
+      "sklep spożywczy",
+      "towary spożywcze"
+    ]
+  },
+  {
+    "id": "g-groggy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "groggy",
+    "pronunciation": "ˈgrɒgɪ",
+    "meaning": [
+      "oszołomiony",
+      "odurzony"
+    ]
+  },
+  {
+    "id": "g-groin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groin",
+    "pronunciation": "grɔɪn",
+    "meaning": [
+      "pachwina"
+    ]
+  },
+  {
+    "id": "g-groom",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "groom",
+    "pronunciation": "gru:m",
+    "meaning": [
+      "pan młody",
+      "stajenny",
+      "oporządzać",
+      "wyszykowywać się",
+      "szkolić"
+    ]
+  },
+  {
+    "id": "g-groomed",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "groomed",
+    "pronunciation": "ˈgru:md",
+    "meaning": []
+  },
+  {
+    "id": "g-groove",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "groove",
+    "pronunciation": "gru:v",
+    "meaning": [
+      "rowek"
+    ]
+  },
+  {
+    "id": "g-grope",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "grope",
+    "pronunciation": "grəʊp",
+    "meaning": [
+      "szukać po omacku",
+      "iść po omacku",
+      "starać się znaleźć"
+    ]
+  },
+  {
+    "id": "g-gross",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "word": "gross",
+    "pronunciation": "/ɡrəʊs/",
+    "meaning": [
+      "ogromny",
+      "prymitywny",
+      "grubiański",
+      "zwalisty",
+      "odrażający",
+      "całkowity",
+      "ogólny",
+      "przynosić łącznie",
+      "gros"
+    ]
+  },
+  {
+    "id": "g-grotesque",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "grotesque",
+    "pronunciation": "grəʊˈtesk",
+    "meaning": [
+      "groteska",
+      "groteskowy"
+    ]
+  },
+  {
+    "id": "g-grotto",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grotto",
+    "pronunciation": "ˈgrɒtəʊ",
+    "meaning": [
+      "grota"
+    ]
+  },
+  {
+    "id": "g-grounding",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grounding",
+    "pronunciation": "ˈgraʊndɪŋ",
+    "meaning": [
+      "wyszkolenie",
+      "podstawy"
+    ]
+  },
+  {
+    "id": "g-groundless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "groundless",
+    "pronunciation": "ˈgraʊndlɪs",
+    "meaning": [
+      "bezpodstawny"
+    ]
+  },
+  {
+    "id": "g-groundsheet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groundsheet",
+    "pronunciation": "ˈgraʊndʃi:t",
+    "meaning": [
+      "płachta nieprzemakalna"
+    ]
+  },
+  {
+    "id": "g-groundsman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groundsman",
+    "pronunciation": "ˈgraʊndzmən",
+    "meaning": [
+      "dozorca parku",
+      "dozorca"
+    ]
+  },
+  {
+    "id": "g-groundwork",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groundwork",
+    "pronunciation": "ˈgraʊndwɜ:k",
+    "meaning": [
+      "podstawa",
+      "przygotowanie"
+    ]
+  },
+  {
+    "id": "g-group",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "group",
+    "pronunciation": "gru:p",
+    "meaning": [
+      "grupa",
+      "grupować"
+    ]
+  },
+  {
+    "id": "g-grouping",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grouping",
+    "pronunciation": "ˈgru:pɪŋ",
+    "meaning": [
+      "zgrupowanie",
+      "grupa"
+    ]
+  },
+  {
+    "id": "g-grouse",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grouse",
+    "pronunciation": "graʊs",
+    "meaning": [
+      "głuszec",
+      "cietrzew",
+      "pardwa",
+      "zrzędzić"
+    ]
+  },
+  {
+    "id": "g-grove",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grove",
+    "pronunciation": "grəʊv",
+    "meaning": [
+      "zagajnik"
+    ]
+  },
+  {
+    "id": "g-grovel",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "grovel",
+    "pronunciation": "ˈgrɒvəl",
+    "meaning": [
+      "płaszczyć się",
+      "poniżać się",
+      "pełzać",
+      "czołgać się"
+    ]
+  },
+  {
+    "id": "g-grow",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "grow",
+    "pronunciation": "grəʊ",
+    "meaning": [
+      "rosnąć",
+      "hodować",
+      "nosić",
+      "zapuszczać",
+      "stawać się",
+      "dochodzić",
+      "narastać",
+      "wyrastać",
+      "wzrastać",
+      "oddalać się",
+      "dorastać",
+      "docierać",
+      "tracić",
+      "umacniać się"
+    ]
+  },
+  {
+    "id": "g-grower",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grower",
+    "pronunciation": "ˈgrəʊə",
+    "meaning": [
+      "hodowca"
+    ]
+  },
+  {
+    "id": "g-grown",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "grown",
+    "pronunciation": "grəʊn",
+    "meaning": [
+      "dorosły"
+    ]
+  },
+  {
+    "id": "g-grown-up",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grown-up",
+    "pronunciation": "ˌgrəʊnˈʌp",
+    "meaning": [
+      "dorosły"
+    ]
+  },
+  {
+    "id": "g-growth",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "growth",
+    "pronunciation": "grəʊθ",
+    "meaning": [
+      "wzrost",
+      "narośl"
+    ]
+  },
+  {
+    "id": "g-grubby",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "grubby",
+    "pronunciation": "ˈgrʌbɪ",
+    "meaning": [
+      "brudny"
+    ]
+  },
+  {
+    "id": "g-grudge",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grudge",
+    "pronunciation": "grʌʤ",
+    "meaning": [
+      "uraz",
+      "żal",
+      "żałować",
+      "skąpić"
+    ]
+  },
+  {
+    "id": "g-grudging",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "grudging",
+    "pronunciation": "ˈgrʌʤɪŋ",
+    "meaning": [
+      "niechętny",
+      "nieszczery"
+    ]
+  },
+  {
+    "id": "g-gruel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gruel",
+    "pronunciation": "grʊəl",
+    "meaning": [
+      "wodzianka",
+      "kasza na wodzie"
+    ]
+  },
+  {
+    "id": "g-gruelling",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gruelling",
+    "pronunciation": "ˈgrʊəlɪŋ",
+    "meaning": [
+      "wyczerpujący",
+      "wykańczający"
+    ]
+  },
+  {
+    "id": "g-gruesome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gruesome",
+    "pronunciation": "ˈgru:səm",
+    "meaning": [
+      "makabryczny"
+    ]
+  },
+  {
+    "id": "g-gruff",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gruff",
+    "pronunciation": "grʌf",
+    "meaning": [
+      "szorstki",
+      "opryskliwy"
+    ]
+  },
+  {
+    "id": "g-grumble",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grumble",
+    "pronunciation": "ˈgrʌmbəl",
+    "meaning": [
+      "narzekać",
+      "utyskiwać",
+      "narzekanie",
+      "utyskiwanie"
+    ]
+  },
+  {
+    "id": "g-grumpy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "grumpy",
+    "pronunciation": "ˈgrʌmpɪ",
+    "meaning": [
+      "marudzący",
+      "wściekły"
+    ]
+  },
+  {
+    "id": "g-grunt",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grunt",
+    "pronunciation": "grʌnt",
+    "meaning": [
+      "mruczeć",
+      "burczeć",
+      "chrząkać",
+      "mruczenie",
+      "burczenie",
+      "chrząkanie"
+    ]
+  },
+  {
+    "id": "g-gt.",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "gt.",
+    "pronunciation": "/ˌdʒiːˈtiː/",
+    "meaning": [
+      "wlk.",
+      "wielki"
+    ]
+  },
+  {
+    "id": "g-guarantee",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guarantee",
+    "pronunciation": "ˌgærənˈti:",
+    "meaning": [
+      "gwarantować",
+      "zapewniać",
+      "ręczyć",
+      "zaręczać, że",
+      "zaręczać",
+      "dawać gwarancję",
+      "gwarancja",
+      "poręczenie",
+      "zapewnienie"
+    ]
+  },
+  {
+    "id": "g-guarantor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guarantor",
+    "pronunciation": "ˌgærənˈtɔ:",
+    "meaning": [
+      "gwarant"
+    ]
+  },
+  {
+    "id": "g-guard",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guard",
+    "pronunciation": "gɑ:d",
+    "meaning": [
+      "ochraniać",
+      "strzec",
+      "konduktor",
+      "strażnik",
+      "wartownik",
+      "ochrona",
+      "warta",
+      "osłona",
+      "pokrywa",
+      "wystrzegać się"
+    ]
+  },
+  {
+    "id": "g-guarded",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "guarded",
+    "pronunciation": "ˈgɑ:dɪd",
+    "meaning": [
+      "powściągliwy",
+      "ostrożny"
+    ]
+  },
+  {
+    "id": "g-guardian",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guardian",
+    "pronunciation": "ˈgɑ:dɪən",
+    "meaning": [
+      "opiekun",
+      "strażnik"
+    ]
+  },
+  {
+    "id": "g-guerilla",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guerilla",
+    "pronunciation": "gəˈrɪlə",
+    "meaning": [
+      "partyzant"
+    ]
+  },
+  {
+    "id": "g-guess",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guess",
+    "pronunciation": "ges",
+    "meaning": [
+      "przypuszczać",
+      "domyślać się",
+      "zgadywać",
+      "przypuszczenie"
+    ]
+  },
+  {
+    "id": "g-guesswork",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "guesswork",
+    "pronunciation": "ˈgeswɜ:k",
+    "meaning": [
+      "domysł"
+    ]
+  },
+  {
+    "id": "g-guest",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guest",
+    "pronunciation": "gest",
+    "meaning": [
+      "gość",
+      "hotelik"
+    ]
+  },
+  {
+    "id": "g-guffaw",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guffaw",
+    "pronunciation": "gəˈfɔ:",
+    "meaning": [
+      "ryk śmiechu",
+      "ryk",
+      "ryczeć ze śmiechu",
+      "ryczeć"
+    ]
+  },
+  {
+    "id": "g-guidance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "guidance",
+    "pronunciation": "ˈgaɪdəns",
+    "meaning": [
+      "pomoc"
+    ]
+  },
+  {
+    "id": "g-guide",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guide",
+    "pronunciation": "gaɪd",
+    "meaning": [
+      "przewodnik turystyczny",
+      "przewodnik",
+      "doraźna pomoc",
+      "orientacja",
+      "harcerka",
+      "oprowadzać",
+      "prowadzić",
+      "kierować się",
+      "kierować"
+    ]
+  },
+  {
+    "id": "g-guidebook",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "guidebook",
+    "pronunciation": "ˈgaɪdbʊk",
+    "meaning": [
+      "przewodnik"
+    ]
+  },
+  {
+    "id": "g-guideline",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guideline",
+    "pronunciation": "ˈgaɪdlaɪn",
+    "meaning": [
+      "wytyczna",
+      "dyrektywa"
+    ]
+  },
+  {
+    "id": "g-guild",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guild",
+    "pronunciation": "gɪld",
+    "meaning": [
+      "cech",
+      "gildia"
+    ]
+  },
+  {
+    "id": "g-guile",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "guile",
+    "pronunciation": "gaɪl",
+    "meaning": [
+      "chytrość",
+      "przebiegłość"
+    ]
+  },
+  {
+    "id": "g-guileful",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "guileful",
+    "pronunciation": "ˈgaɪlfʊl",
+    "meaning": [
+      "chytry",
+      "przebiegły"
+    ]
+  },
+  {
+    "id": "g-guileless",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "guileless",
+    "pronunciation": "ˈgaɪllɪs",
+    "meaning": [
+      "prostolinijny"
+    ]
+  },
+  {
+    "id": "g-guillotine",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guillotine",
+    "pronunciation": "ˈgɪləti:n",
+    "meaning": [
+      "gilotyna",
+      "gilotynować"
+    ]
+  },
+  {
+    "id": "g-guilt",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "guilt",
+    "pronunciation": "gɪlt",
+    "meaning": [
+      "wina",
+      "poczucie winy",
+      "przewinienie"
+    ]
+  },
+  {
+    "id": "g-guiltless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "guiltless",
+    "pronunciation": "ˈgɪltlɪs",
+    "meaning": [
+      "niewinny",
+      "wolny od winy",
+      "bez winy"
+    ]
+  },
+  {
+    "id": "g-guilty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "guilty",
+    "pronunciation": "ˈgɪltɪ",
+    "meaning": [
+      "winny"
+    ]
+  },
+  {
+    "id": "g-guinea",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "guinea",
+    "pronunciation": "ˈgɪnɪ",
+    "meaning": [
+      "gwinea",
+      "świnka morska"
+    ]
+  },
+  {
+    "id": "g-guise",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guise",
+    "pronunciation": "gaɪz",
+    "meaning": [
+      "przebranie",
+      "przykrywka"
+    ]
+  },
+  {
+    "id": "g-guitar",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "guitar",
+    "pronunciation": "gɪˈtɑ:",
+    "meaning": [
+      "gitara"
+    ]
+  },
+  {
+    "id": "g-gulf",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gulf",
+    "pronunciation": "gʌlf",
+    "meaning": [
+      "zatoka",
+      "przepaść"
+    ]
+  },
+  {
+    "id": "g-gull",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gull",
+    "pronunciation": "gʌl",
+    "meaning": [
+      "mewa"
+    ]
+  },
+  {
+    "id": "g-gullet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gullet",
+    "pronunciation": "ˈgʌlɪt",
+    "meaning": [
+      "przełyk"
+    ]
+  },
+  {
+    "id": "g-gullible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gullible",
+    "pronunciation": "ˈgʌlɪbəl",
+    "meaning": [
+      "łatwowierny"
+    ]
+  },
+  {
+    "id": "g-gully",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gully",
+    "pronunciation": "ˈgʌlɪ",
+    "meaning": [
+      "parów"
+    ]
+  },
+  {
+    "id": "g-gulp",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gulp",
+    "pronunciation": "gʌlp",
+    "meaning": [
+      "połykać",
+      "przełykać szybko",
+      "przełykać",
+      "brać oddech",
+      "łyk",
+      "haust",
+      "pić jednym haustem"
+    ]
+  },
+  {
+    "id": "g-gum",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gum",
+    "pronunciation": "gʌm",
+    "meaning": [
+      "guma do żucia",
+      "guma",
+      "guma arabska",
+      "dziąsło",
+      "sklejać"
+    ]
+  },
+  {
+    "id": "g-gumboot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gumboot",
+    "pronunciation": "ˈgʌmbu:t",
+    "meaning": [
+      "kalosz",
+      "gumiak"
+    ]
+  },
+  {
+    "id": "g-gumption",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gumption",
+    "pronunciation": "ˈgʌmpʃən",
+    "meaning": [
+      "smykałka",
+      "chłopski rozum"
+    ]
+  },
+  {
+    "id": "g-gun",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gun",
+    "pronunciation": "gʌn",
+    "meaning": [
+      "pistolet",
+      "działo",
+      "karabin",
+      "postrzelić",
+      "zastrzelić"
+    ]
+  },
+  {
+    "id": "g-gunboat",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunboat",
+    "pronunciation": "ˈgʌnbəʊt",
+    "meaning": [
+      "kanonierka"
+    ]
+  },
+  {
+    "id": "g-gunfire",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunfire",
+    "pronunciation": "ˈgʌnfaɪə",
+    "meaning": [
+      "ogień",
+      "obstrzał"
+    ]
+  },
+  {
+    "id": "g-gunman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunman",
+    "pronunciation": "ˈgʌnmən",
+    "meaning": [
+      "rewolwerowiec"
+    ]
+  },
+  {
+    "id": "g-gunner",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunner",
+    "pronunciation": "ˈgʌnə",
+    "meaning": [
+      "artylerzysta",
+      "strzelec"
+    ]
+  },
+  {
+    "id": "g-gunpoint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunpoint",
+    "pronunciation": "ˈgʌnpɔɪnt",
+    "meaning": []
+  },
+  {
+    "id": "g-gunpowder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gunpowder",
+    "pronunciation": "ˈgʌnpaʊdə",
+    "meaning": [
+      "proch strzelniczy",
+      "proch"
+    ]
+  },
+  {
+    "id": "g-gunshot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gunshot",
+    "pronunciation": "ˈgʌnʃɒt",
+    "meaning": [
+      "wystrzał"
+    ]
+  },
+  {
+    "id": "g-gurgle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gurgle",
+    "pronunciation": "ˈgɜ:gəl",
+    "meaning": [
+      "bulgotać",
+      "gaworzyć",
+      "paplać",
+      "paplanina"
+    ]
+  },
+  {
+    "id": "g-gush",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gush",
+    "pronunciation": "gʌʃ",
+    "meaning": [
+      "tryskać",
+      "wytrysk",
+      "potok",
+      "rozpływać się"
+    ]
+  },
+  {
+    "id": "g-grit",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grit",
+    "pronunciation": "grɪt",
+    "meaning": [
+      "żwir",
+      "piasek",
+      "charakter",
+      "posypywać piaskiem"
+    ]
+  },
+  {
+    "id": "g-groan",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "groan",
+    "pronunciation": "grəʊn",
+    "meaning": [
+      "jęczeć",
+      "skrzypieć",
+      "jęk"
+    ]
+  },
+  {
+    "id": "g-grocer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grocer",
+    "pronunciation": "ˈgrəʊsə",
+    "meaning": [
+      "sprzedawca sklepu spożywczego",
+      "właściciel sklepu spożywczego"
+    ]
+  },
+  {
+    "id": "g-grocery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grocery",
+    "pronunciation": "ˈgrəʊsərɪ",
+    "meaning": [
+      "sklep spożywczy",
+      "towary spożywcze"
+    ]
+  },
+  {
+    "id": "g-groggy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "groggy",
+    "pronunciation": "ˈgrɒgɪ",
+    "meaning": [
+      "oszołomiony",
+      "odurzony"
+    ]
+  },
+  {
+    "id": "g-groin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groin",
+    "pronunciation": "grɔɪn",
+    "meaning": [
+      "pachwina"
+    ]
+  },
+  {
+    "id": "g-groom",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "groom",
+    "pronunciation": "gru:m",
+    "meaning": [
+      "pan młody",
+      "stajenny",
+      "oporządzać",
+      "wyszykowywać się",
+      "szkolić"
+    ]
+  },
+  {
+    "id": "g-groomed",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "groomed",
+    "pronunciation": "ˈgru:md",
+    "meaning": []
+  },
+  {
+    "id": "g-groove",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "groove",
+    "pronunciation": "gru:v",
+    "meaning": [
+      "rowek"
+    ]
+  },
+  {
+    "id": "g-grope",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "grope",
+    "pronunciation": "grəʊp",
+    "meaning": [
+      "szukać po omacku",
+      "iść po omacku",
+      "starać się znaleźć"
+    ]
+  },
+  {
+    "id": "g-gross",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "word": "gross",
+    "pronunciation": "/ɡrəʊs/",
+    "meaning": [
+      "ogromny",
+      "prymitywny",
+      "grubiański",
+      "zwalisty",
+      "odrażający",
+      "całkowity",
+      "ogólny",
+      "przynosić łącznie",
+      "gros"
+    ]
+  },
+  {
+    "id": "g-grotesque",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "grotesque",
+    "pronunciation": "grəʊˈtesk",
+    "meaning": [
+      "groteska",
+      "groteskowy"
+    ]
+  },
+  {
+    "id": "g-grotto",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grotto",
+    "pronunciation": "ˈgrɒtəʊ",
+    "meaning": [
+      "grota"
+    ]
+  },
+  {
+    "id": "g-grounding",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "grounding",
+    "pronunciation": "ˈgraʊndɪŋ",
+    "meaning": [
+      "wyszkolenie",
+      "podstawy"
+    ]
+  },
+  {
+    "id": "g-groundless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "groundless",
+    "pronunciation": "ˈgraʊndlɪs",
+    "meaning": [
+      "bezpodstawny"
+    ]
+  },
+  {
+    "id": "g-groundsheet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groundsheet",
+    "pronunciation": "ˈgraʊndʃi:t",
+    "meaning": [
+      "płachta nieprzemakalna"
+    ]
+  },
+  {
+    "id": "g-groundsman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groundsman",
+    "pronunciation": "ˈgraʊndzmən",
+    "meaning": [
+      "dozorca parku",
+      "dozorca"
+    ]
+  },
+  {
+    "id": "g-groundwork",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "groundwork",
+    "pronunciation": "ˈgraʊndwɜ:k",
+    "meaning": [
+      "podstawa",
+      "przygotowanie"
+    ]
+  },
+  {
+    "id": "g-group",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "group",
+    "pronunciation": "gru:p",
+    "meaning": [
+      "grupa",
+      "grupować"
+    ]
+  },
+  {
+    "id": "g-grouping",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grouping",
+    "pronunciation": "ˈgru:pɪŋ",
+    "meaning": [
+      "zgrupowanie",
+      "grupa"
+    ]
+  },
+  {
+    "id": "g-grouse",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grouse",
+    "pronunciation": "graʊs",
+    "meaning": [
+      "głuszec",
+      "cietrzew",
+      "pardwa",
+      "zrzędzić"
+    ]
+  },
+  {
+    "id": "g-grove",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grove",
+    "pronunciation": "grəʊv",
+    "meaning": [
+      "zagajnik"
+    ]
+  },
+  {
+    "id": "g-grovel",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "grovel",
+    "pronunciation": "ˈgrɒvəl",
+    "meaning": [
+      "płaszczyć się",
+      "poniżać się",
+      "pełzać",
+      "czołgać się"
+    ]
+  },
+  {
+    "id": "g-grow",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "grow",
+    "pronunciation": "grəʊ",
+    "meaning": [
+      "rosnąć",
+      "hodować",
+      "nosić",
+      "zapuszczać",
+      "stawać się",
+      "dochodzić",
+      "narastać",
+      "wyrastać",
+      "wzrastać",
+      "oddalać się",
+      "dorastać",
+      "docierać",
+      "tracić",
+      "umacniać się"
+    ]
+  },
+  {
+    "id": "g-grower",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "grower",
+    "pronunciation": "ˈgrəʊə",
+    "meaning": [
+      "hodowca"
+    ]
+  },
+  {
+    "id": "g-grown",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "grown",
+    "pronunciation": "grəʊn",
+    "meaning": [
+      "dorosły"
+    ]
+  },
+  {
+    "id": "g-grown-up",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "grown-up",
+    "pronunciation": "ˌgrəʊnˈʌp",
+    "meaning": [
+      "dorosły"
+    ]
+  },
+  {
+    "id": "g-growth",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "growth",
+    "pronunciation": "grəʊθ",
+    "meaning": [
+      "wzrost",
+      "narośl"
+    ]
+  },
+  {
+    "id": "g-grubby",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "grubby",
+    "pronunciation": "ˈgrʌbɪ",
+    "meaning": [
+      "brudny"
+    ]
+  },
+  {
+    "id": "g-grudge",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grudge",
+    "pronunciation": "grʌʤ",
+    "meaning": [
+      "uraz",
+      "żal",
+      "żałować",
+      "skąpić"
+    ]
+  },
+  {
+    "id": "g-grudging",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "grudging",
+    "pronunciation": "ˈgrʌʤɪŋ",
+    "meaning": [
+      "niechętny",
+      "nieszczery"
+    ]
+  },
+  {
+    "id": "g-gruel",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gruel",
+    "pronunciation": "grʊəl",
+    "meaning": [
+      "wodzianka",
+      "kasza na wodzie"
+    ]
+  },
+  {
+    "id": "g-gruelling",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gruelling",
+    "pronunciation": "ˈgrʊəlɪŋ",
+    "meaning": [
+      "wyczerpujący",
+      "wykańczający"
+    ]
+  },
+  {
+    "id": "g-gruesome",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gruesome",
+    "pronunciation": "ˈgru:səm",
+    "meaning": [
+      "makabryczny"
+    ]
+  },
+  {
+    "id": "g-gruff",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "gruff",
+    "pronunciation": "grʌf",
+    "meaning": [
+      "szorstki",
+      "opryskliwy"
+    ]
+  },
+  {
+    "id": "g-grumble",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grumble",
+    "pronunciation": "ˈgrʌmbəl",
+    "meaning": [
+      "narzekać",
+      "utyskiwać",
+      "narzekanie",
+      "utyskiwanie"
+    ]
+  },
+  {
+    "id": "g-grumpy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "grumpy",
+    "pronunciation": "ˈgrʌmpɪ",
+    "meaning": [
+      "marudzący",
+      "wściekły"
+    ]
+  },
+  {
+    "id": "g-grunt",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "grunt",
+    "pronunciation": "grʌnt",
+    "meaning": [
+      "mruczeć",
+      "burczeć",
+      "chrząkać",
+      "mruczenie",
+      "burczenie",
+      "chrząkanie"
+    ]
+  },
+  {
+    "id": "g-gt.",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "gt.",
+    "pronunciation": "/ˌdʒiːˈtiː/",
+    "meaning": [
+      "wlk.",
+      "wielki"
+    ]
+  },
+  {
+    "id": "g-guarantee",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guarantee",
+    "pronunciation": "ˌgærənˈti:",
+    "meaning": [
+      "gwarantować",
+      "zapewniać",
+      "ręczyć",
+      "zaręczać, że",
+      "zaręczać",
+      "dawać gwarancję",
+      "gwarancja",
+      "poręczenie",
+      "zapewnienie"
+    ]
+  },
+  {
+    "id": "g-guarantor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guarantor",
+    "pronunciation": "ˌgærənˈtɔ:",
+    "meaning": [
+      "gwarant"
+    ]
+  },
+  {
+    "id": "g-guard",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guard",
+    "pronunciation": "gɑ:d",
+    "meaning": [
+      "ochraniać",
+      "strzec",
+      "konduktor",
+      "strażnik",
+      "wartownik",
+      "ochrona",
+      "warta",
+      "osłona",
+      "pokrywa",
+      "wystrzegać się"
+    ]
+  },
+  {
+    "id": "g-guarded",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "guarded",
+    "pronunciation": "ˈgɑ:dɪd",
+    "meaning": [
+      "powściągliwy",
+      "ostrożny"
+    ]
+  },
+  {
+    "id": "g-guardian",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guardian",
+    "pronunciation": "ˈgɑ:dɪən",
+    "meaning": [
+      "opiekun",
+      "strażnik"
+    ]
+  },
+  {
+    "id": "g-guerilla",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guerilla",
+    "pronunciation": "gəˈrɪlə",
+    "meaning": [
+      "partyzant"
+    ]
+  },
+  {
+    "id": "g-guess",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guess",
+    "pronunciation": "ges",
+    "meaning": [
+      "przypuszczać",
+      "domyślać się",
+      "zgadywać",
+      "przypuszczenie"
+    ]
+  },
+  {
+    "id": "g-guesswork",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "guesswork",
+    "pronunciation": "ˈgeswɜ:k",
+    "meaning": [
+      "domysł"
+    ]
+  },
+  {
+    "id": "g-guest",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guest",
+    "pronunciation": "gest",
+    "meaning": [
+      "gość",
+      "hotelik"
+    ]
+  },
+  {
+    "id": "g-guffaw",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guffaw",
+    "pronunciation": "gəˈfɔ:",
+    "meaning": [
+      "ryk śmiechu",
+      "ryk",
+      "ryczeć ze śmiechu",
+      "ryczeć"
+    ]
+  },
+  {
+    "id": "g-guidance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "guidance",
+    "pronunciation": "ˈgaɪdəns",
+    "meaning": [
+      "pomoc"
+    ]
+  },
+  {
+    "id": "g-guide",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guide",
+    "pronunciation": "gaɪd",
+    "meaning": [
+      "przewodnik turystyczny",
+      "przewodnik",
+      "doraźna pomoc",
+      "orientacja",
+      "harcerka",
+      "oprowadzać",
+      "prowadzić",
+      "kierować się",
+      "kierować"
+    ]
+  },
+  {
+    "id": "g-guidebook",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "guidebook",
+    "pronunciation": "ˈgaɪdbʊk",
+    "meaning": [
+      "przewodnik"
+    ]
+  },
+  {
+    "id": "g-guideline",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guideline",
+    "pronunciation": "ˈgaɪdlaɪn",
+    "meaning": [
+      "wytyczna",
+      "dyrektywa"
+    ]
+  },
+  {
+    "id": "g-guild",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guild",
+    "pronunciation": "gɪld",
+    "meaning": [
+      "cech",
+      "gildia"
+    ]
+  },
+  {
+    "id": "g-guile",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "guile",
+    "pronunciation": "gaɪl",
+    "meaning": [
+      "chytrość",
+      "przebiegłość"
+    ]
+  },
+  {
+    "id": "g-guileful",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "guileful",
+    "pronunciation": "ˈgaɪlfʊl",
+    "meaning": [
+      "chytry",
+      "przebiegły"
+    ]
+  },
+  {
+    "id": "g-guileless",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "guileless",
+    "pronunciation": "ˈgaɪllɪs",
+    "meaning": [
+      "prostolinijny"
+    ]
+  },
+  {
+    "id": "g-guillotine",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "guillotine",
+    "pronunciation": "ˈgɪləti:n",
+    "meaning": [
+      "gilotyna",
+      "gilotynować"
+    ]
+  },
+  {
+    "id": "g-guilt",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "guilt",
+    "pronunciation": "gɪlt",
+    "meaning": [
+      "wina",
+      "poczucie winy",
+      "przewinienie"
+    ]
+  },
+  {
+    "id": "g-guiltless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "guiltless",
+    "pronunciation": "ˈgɪltlɪs",
+    "meaning": [
+      "niewinny",
+      "wolny od winy",
+      "bez winy"
+    ]
+  },
+  {
+    "id": "g-guilty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "guilty",
+    "pronunciation": "ˈgɪltɪ",
+    "meaning": [
+      "winny"
+    ]
+  },
+  {
+    "id": "g-guinea",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "guinea",
+    "pronunciation": "ˈgɪnɪ",
+    "meaning": [
+      "gwinea",
+      "świnka morska"
+    ]
+  },
+  {
+    "id": "g-guise",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "guise",
+    "pronunciation": "gaɪz",
+    "meaning": [
+      "przebranie",
+      "przykrywka"
+    ]
+  },
+  {
+    "id": "g-guitar",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "guitar",
+    "pronunciation": "gɪˈtɑ:",
+    "meaning": [
+      "gitara"
+    ]
+  },
+  {
+    "id": "g-gulf",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gulf",
+    "pronunciation": "gʌlf",
+    "meaning": [
+      "zatoka",
+      "przepaść"
+    ]
+  },
+  {
+    "id": "g-gull",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gull",
+    "pronunciation": "gʌl",
+    "meaning": [
+      "mewa"
+    ]
+  },
+  {
+    "id": "g-gullet",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gullet",
+    "pronunciation": "ˈgʌlɪt",
+    "meaning": [
+      "przełyk"
+    ]
+  },
+  {
+    "id": "g-gullible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gullible",
+    "pronunciation": "ˈgʌlɪbəl",
+    "meaning": [
+      "łatwowierny"
+    ]
+  },
+  {
+    "id": "g-gully",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gully",
+    "pronunciation": "ˈgʌlɪ",
+    "meaning": [
+      "parów"
+    ]
+  },
+  {
+    "id": "g-gulp",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gulp",
+    "pronunciation": "gʌlp",
+    "meaning": [
+      "połykać",
+      "przełykać szybko",
+      "przełykać",
+      "brać oddech",
+      "łyk",
+      "haust",
+      "pić jednym haustem"
+    ]
+  },
+  {
+    "id": "g-gum",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gum",
+    "pronunciation": "gʌm",
+    "meaning": [
+      "guma do żucia",
+      "guma",
+      "guma arabska",
+      "dziąsło",
+      "sklejać"
+    ]
+  },
+  {
+    "id": "g-gumboot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gumboot",
+    "pronunciation": "ˈgʌmbu:t",
+    "meaning": [
+      "kalosz",
+      "gumiak"
+    ]
+  },
+  {
+    "id": "g-gumption",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gumption",
+    "pronunciation": "ˈgʌmpʃən",
+    "meaning": [
+      "smykałka",
+      "chłopski rozum"
+    ]
+  },
+  {
+    "id": "g-gun",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gun",
+    "pronunciation": "gʌn",
+    "meaning": [
+      "pistolet",
+      "działo",
+      "karabin",
+      "postrzelić",
+      "zastrzelić"
+    ]
+  },
+  {
+    "id": "g-gunboat",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunboat",
+    "pronunciation": "ˈgʌnbəʊt",
+    "meaning": [
+      "kanonierka"
+    ]
+  },
+  {
+    "id": "g-gunfire",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunfire",
+    "pronunciation": "ˈgʌnfaɪə",
+    "meaning": [
+      "ogień",
+      "obstrzał"
+    ]
+  },
+  {
+    "id": "g-gunman",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunman",
+    "pronunciation": "ˈgʌnmən",
+    "meaning": [
+      "rewolwerowiec"
+    ]
+  },
+  {
+    "id": "g-gunner",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunner",
+    "pronunciation": "ˈgʌnə",
+    "meaning": [
+      "artylerzysta",
+      "strzelec"
+    ]
+  },
+  {
+    "id": "g-gunpoint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gunpoint",
+    "pronunciation": "ˈgʌnpɔɪnt",
+    "meaning": []
+  },
+  {
+    "id": "g-gunpowder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gunpowder",
+    "pronunciation": "ˈgʌnpaʊdə",
+    "meaning": [
+      "proch strzelniczy",
+      "proch"
+    ]
+  },
+  {
+    "id": "g-gunshot",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gunshot",
+    "pronunciation": "ˈgʌnʃɒt",
+    "meaning": [
+      "wystrzał"
+    ]
+  },
+  {
+    "id": "g-gurgle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gurgle",
+    "pronunciation": "ˈgɜ:gəl",
+    "meaning": [
+      "bulgotać",
+      "gaworzyć",
+      "paplać",
+      "paplanina"
+    ]
+  },
+  {
+    "id": "g-gush",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "gush",
+    "pronunciation": "gʌʃ",
+    "meaning": [
+      "tryskać",
+      "wytrysk",
+      "potok",
+      "rozpływać się"
+    ]
+  },
+  {
+    "id": "g-gust",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gust",
+    "pronunciation": "gʌst",
+    "meaning": [
+      "powiew",
+      "poryw",
+      "przypływ",
+      "napływ"
+    ]
+  },
+  {
+    "id": "g-gusto",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gusto",
+    "pronunciation": "ˈgʌstəʊ",
+    "meaning": []
+  },
+  {
+    "id": "g-gusty",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gusty",
+    "pronunciation": "ˈgʌstɪ",
+    "meaning": [
+      "porywisty"
+    ]
+  },
+  {
+    "id": "g-gutter",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "gutter",
+    "pronunciation": "ˈgʌtə",
+    "meaning": [
+      "rynsztok",
+      "rynna",
+      "brukowy"
+    ]
+  },
+  {
+    "id": "g-guttural",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "guttural",
+    "pronunciation": "ˈgʌtərəl",
+    "meaning": [
+      "gardłowy"
+    ]
+  },
+  {
+    "id": "g-guy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "guy",
+    "pronunciation": "gaɪ",
+    "meaning": [
+      "facet",
+      "chłopy",
+      "ludziska"
+    ]
+  },
+  {
+    "id": "g-guzzle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "guzzle",
+    "pronunciation": "ˈgʌzəl",
+    "meaning": [
+      "pochłaniać"
+    ]
+  },
+  {
+    "id": "g-gym",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gym",
+    "pronunciation": "ʤɪm",
+    "meaning": [
+      "sala gimnastyczna",
+      "gimnastyka",
+      "wf"
+    ]
+  },
+  {
+    "id": "g-gymnasium",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gymnasium",
+    "pronunciation": "ʤɪmˈneɪzɪəm",
+    "meaning": [
+      "sala gimnastyczna"
+    ]
+  },
+  {
+    "id": "g-gymnast",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "gymnast",
+    "pronunciation": "ˈʤɪmnæst",
+    "meaning": [
+      "gimnastyk"
+    ]
+  },
+  {
+    "id": "g-gymnastic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "gymnastic",
+    "pronunciation": "ʤɪmˈnæstɪk",
+    "meaning": [
+      "gimnastyczny"
+    ]
+  },
+  {
+    "id": "g-gymnastics",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "gymnastics",
+    "pronunciation": "ʤɪmˈnæstɪks",
+    "meaning": [
+      "gimnastyka"
+    ]
+  },
+  {
+    "id": "g-gynaecological",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "gynaecological",
+    "pronunciation": "ˌgaɪnəkəˈlɒʤɪkəl",
+    "meaning": [
+      "ginekologiczny"
+    ]
+  },
+  {
+    "id": "g-gynaecologist",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "gynaecologist",
+    "pronunciation": "ˌgaɪnəˈkɒləʤɪst",
+    "meaning": [
+      "ginekolog"
+    ]
+  },
+  {
+    "id": "g-gynaecology",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "gynaecology",
+    "pronunciation": "ˌgaɪnəˈkɒləʤɪ",
+    "meaning": [
+      "ginekologia"
+    ]
+  },
+  {
+    "id": "g-gypsy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "gypsy",
+    "pronunciation": "ˈʤɪpsɪ",
+    "meaning": [
+      "Cygan"
+    ]
+  },
+  {
+    "id": "g-gyrate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "gyrate",
+    "pronunciation": "ʤaɪˈreɪt",
+    "meaning": [
+      "wirować",
+      "obracać się"
+    ]
+  }
+]
