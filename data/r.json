@@ -1,0 +1,10650 @@
+[
+  {
+    "id": "r-r.",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "r.",
+    "pronunciation": "/ˈɑː/",
+    "meaning": [
+      "prawy",
+      "rzeka",
+      "droga"
+    ]
+  },
+  {
+    "id": "r-RA",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "RA",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Akademia Królewska",
+      "członek Akademii Królewskiej"
+    ]
+  },
+  {
+    "id": "r-rabbi",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rabbi",
+    "pronunciation": "ˈræbaɪ",
+    "meaning": [
+      "rabin"
+    ]
+  },
+  {
+    "id": "r-rabbit",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "rabbit",
+    "pronunciation": "ˈræbɪt",
+    "meaning": [
+      "królik"
+    ]
+  },
+  {
+    "id": "r-rabble",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rabble",
+    "pronunciation": "ˈræbəl",
+    "meaning": [
+      "tłum",
+      "ciżba"
+    ]
+  },
+  {
+    "id": "r-rabid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rabid",
+    "pronunciation": "ˈræbɪd",
+    "meaning": [
+      "zażarty",
+      "zaciekły",
+      "wściekły"
+    ]
+  },
+  {
+    "id": "r-rabies",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rabies",
+    "pronunciation": "ˈreɪbi:z",
+    "meaning": [
+      "wścieklizna"
+    ]
+  },
+  {
+    "id": "r-RAC",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "RAC",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Królewski Automobilklub"
+    ]
+  },
+  {
+    "id": "r-race",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "race",
+    "pronunciation": "reɪs",
+    "meaning": [
+      "rasa",
+      "wyścig",
+      "bieg",
+      "ścigać się",
+      "przygotowywać do wyścigów",
+      "przygotowywać",
+      "pędzić",
+      "mknąć",
+      "walić"
+    ]
+  },
+  {
+    "id": "r-racecourse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "racecourse",
+    "pronunciation": "ˈreɪskɔ:s",
+    "meaning": [
+      "tor wyścigowy"
+    ]
+  },
+  {
+    "id": "r-racehorse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "racehorse",
+    "pronunciation": "ˈreɪshɔ:s",
+    "meaning": [
+      "koń wyścigowy"
+    ]
+  },
+  {
+    "id": "r-racetrack",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "racetrack",
+    "pronunciation": "ˈreɪstræk",
+    "meaning": [
+      "tor wyścigowy"
+    ]
+  },
+  {
+    "id": "r-racial",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "racial",
+    "pronunciation": "ˈreɪʃəl",
+    "meaning": [
+      "rasowy"
+    ]
+  },
+  {
+    "id": "r-racialism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "racialism",
+    "pronunciation": "ˈreɪʃəlɪzəm",
+    "meaning": [
+      "rasizm"
+    ]
+  },
+  {
+    "id": "r-racing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "racing",
+    "pronunciation": "ˈreɪsɪŋ",
+    "meaning": [
+      "wyścigi"
+    ]
+  },
+  {
+    "id": "r-racism",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "racism",
+    "pronunciation": "ˈreɪsɪzəm",
+    "meaning": [
+      "rasizm"
+    ]
+  },
+  {
+    "id": "r-racist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "racist",
+    "pronunciation": "ˈreɪsɪst",
+    "meaning": [
+      "rasista"
+    ]
+  },
+  {
+    "id": "r-rack",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rack",
+    "pronunciation": "ræk",
+    "meaning": [
+      "półka na bagaże",
+      "półka",
+      "bagażnik dachowy",
+      "bagażnik",
+      "suszarka na naczynia",
+      "suszarka",
+      "udręczyć"
+    ]
+  },
+  {
+    "id": "r-racket",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "racket",
+    "pronunciation": "ˈrækɪt",
+    "meaning": [
+      "rakieta",
+      "wielki hałas",
+      "hałas",
+      "oszustwo",
+      "szwindel"
+    ]
+  },
+  {
+    "id": "r-racy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "racy",
+    "pronunciation": "ˈreɪsɪ",
+    "meaning": [
+      "z werwą",
+      "pikantny"
+    ]
+  },
+  {
+    "id": "r-radar",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "radar",
+    "pronunciation": "ˈreɪdɑ:",
+    "meaning": [
+      "radar"
+    ]
+  },
+  {
+    "id": "r-radiance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "radiance",
+    "pronunciation": "ˈreɪdɪəns",
+    "meaning": [
+      "promieniowanie",
+      "blask"
+    ]
+  },
+  {
+    "id": "r-radiant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "radiant",
+    "pronunciation": "ˈreɪdɪənt",
+    "meaning": [
+      "rozpromieniony",
+      "rozjarzony"
+    ]
+  },
+  {
+    "id": "r-radiate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "radiate",
+    "pronunciation": "ˈreɪdɪeɪt",
+    "meaning": [
+      "rozchodzić się promieniście",
+      "promieniować"
+    ]
+  },
+  {
+    "id": "r-radiation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "radiation",
+    "pronunciation": "ˌreɪdɪˈeɪʃən",
+    "meaning": [
+      "promieniowanie",
+      "radiacja"
+    ]
+  },
+  {
+    "id": "r-radiator",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "radiator",
+    "pronunciation": "ˈreɪdɪeɪtə",
+    "meaning": [
+      "grzejnik",
+      "kaloryfer",
+      "chłodnica"
+    ]
+  },
+  {
+    "id": "r-radical",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "radical",
+    "pronunciation": "ˈrædɪkəl",
+    "meaning": [
+      "radykał",
+      "radykalny",
+      "zasadniczy",
+      "fundamentalny"
+    ]
+  },
+  {
+    "id": "r-radio",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "radio",
+    "pronunciation": "ˈreɪdɪəʊ",
+    "meaning": [
+      "radio",
+      "radiowy",
+      "łączyć się drogą radiową",
+      "łączyć się"
+    ]
+  },
+  {
+    "id": "r-radioactive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "radioactive",
+    "pronunciation": "ˌreɪdɪəʊˈæktɪv",
+    "meaning": [
+      "radioaktywny"
+    ]
+  },
+  {
+    "id": "r-radioactivity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "radioactivity",
+    "pronunciation": "ˌreɪdɪəʊækˈtɪvɪtɪ",
+    "meaning": [
+      "radioaktywność"
+    ]
+  },
+  {
+    "id": "r-radiography",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "radiography",
+    "pronunciation": "ˌreɪdɪˈɒgrəfɪ",
+    "meaning": [
+      "radiografia",
+      "prześwietlenie"
+    ]
+  },
+  {
+    "id": "r-radiology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "radiology",
+    "pronunciation": "ˌreɪdɪˈɒləʤɪ",
+    "meaning": [
+      "radiologia",
+      "rentgenologia"
+    ]
+  },
+  {
+    "id": "r-radiotherapy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "radiotherapy",
+    "pronunciation": "ˌreɪdɪəʊˈθerəpɪ",
+    "meaning": [
+      "radioterapia",
+      "naświetlanie"
+    ]
+  },
+  {
+    "id": "r-radish",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "radish",
+    "pronunciation": "ˈrædɪʃ",
+    "meaning": [
+      "rzodkiewka"
+    ]
+  },
+  {
+    "id": "r-radius",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "radius",
+    "pronunciation": "ˈreɪdɪəs",
+    "meaning": [
+      "promień"
+    ]
+  },
+  {
+    "id": "r-RAF",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "RAF",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "Królewskie Siły Powietrzne"
+    ]
+  },
+  {
+    "id": "r-raffle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "raffle",
+    "pronunciation": "ˈræfəl",
+    "meaning": [
+      "loteria"
+    ]
+  },
+  {
+    "id": "r-raft",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "raft",
+    "pronunciation": "rɑ:ft",
+    "meaning": [
+      "tratwa",
+      "gumowa tratwa ratunkowa",
+      "tratwa ratunkowa",
+      "materac nadmuchiwany"
+    ]
+  },
+  {
+    "id": "r-rafter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rafter",
+    "pronunciation": "ˈrɑ:ftə",
+    "meaning": [
+      "krokiew"
+    ]
+  },
+  {
+    "id": "r-rag",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rag",
+    "pronunciation": "ræg",
+    "meaning": [
+      "szmata",
+      "łachmany",
+      "brukowiec",
+      "nabijać się",
+      "festyn studencki"
+    ]
+  },
+  {
+    "id": "r-ragbag",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ragbag",
+    "pronunciation": "ˈrægbæg",
+    "meaning": [
+      "śmietnik"
+    ]
+  },
+  {
+    "id": "r-rage",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rage",
+    "pronunciation": "reɪʤ",
+    "meaning": [
+      "wściekłość",
+      "szaleństwo",
+      "wściekać się",
+      "szaleć"
+    ]
+  },
+  {
+    "id": "r-ragged",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ragged",
+    "pronunciation": "ˈrægɪd",
+    "meaning": [
+      "podarty",
+      "w łachmanach",
+      "obdarty",
+      "nieporządny",
+      "nierówny",
+      "niestaranny"
+    ]
+  },
+  {
+    "id": "r-raging",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "raging",
+    "pronunciation": "ˈreɪʤɪŋ",
+    "meaning": [
+      "wściekły",
+      "oszalały"
+    ]
+  },
+  {
+    "id": "r-raid",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "raid",
+    "pronunciation": "reɪd",
+    "meaning": [
+      "napadać",
+      "plądrować",
+      "włamywać się",
+      "napad",
+      "nalot",
+      "obława"
+    ]
+  },
+  {
+    "id": "r-rail",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rail",
+    "pronunciation": "reɪl",
+    "meaning": [
+      "poręcz",
+      "wieszak",
+      "szyna"
+    ]
+  },
+  {
+    "id": "r-railcard",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "railcard",
+    "pronunciation": "ˈreɪlkɑ:d",
+    "meaning": [
+      "karta miesięczna na pociąg",
+      "karta"
+    ]
+  },
+  {
+    "id": "r-railing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "railing",
+    "pronunciation": "ˈreɪlɪŋ",
+    "meaning": [
+      "balustrada",
+      "ogrodzenie"
+    ]
+  },
+  {
+    "id": "r-railroad",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "railroad",
+    "pronunciation": "ˈreɪlrəʊd",
+    "meaning": [
+      "kolej",
+      "kolejowy"
+    ]
+  },
+  {
+    "id": "r-railway",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "railway",
+    "pronunciation": "ˈreɪlweɪ",
+    "meaning": [
+      "kolej",
+      "kolejowy"
+    ]
+  },
+  {
+    "id": "r-rain",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rain",
+    "pronunciation": "reɪn",
+    "meaning": [
+      "deszcz",
+      "padać"
+    ]
+  },
+  {
+    "id": "r-rainbow",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "rainbow",
+    "pronunciation": "ˈreɪnbəʊ",
+    "meaning": [
+      "tęcza"
+    ]
+  },
+  {
+    "id": "r-raincoat",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "raincoat",
+    "pronunciation": "ˈreɪnkəʊt",
+    "meaning": [
+      "płaszcz przeciwdeszczowy"
+    ]
+  },
+  {
+    "id": "r-raindrop",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "raindrop",
+    "pronunciation": "ˈreɪndrɒp",
+    "meaning": [
+      "kropla deszczu"
+    ]
+  },
+  {
+    "id": "r-rainfall",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rainfall",
+    "pronunciation": "ˈreɪnfɔ:l",
+    "meaning": [
+      "opady",
+      "poziom opadów"
+    ]
+  },
+  {
+    "id": "r-rainstorm",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rainstorm",
+    "pronunciation": "ˈreɪnstɔ:m",
+    "meaning": [
+      "oberwanie chmury"
+    ]
+  },
+  {
+    "id": "r-rainy",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "rainy",
+    "pronunciation": "ˈreɪnɪ",
+    "meaning": [
+      "deszczowy"
+    ]
+  },
+  {
+    "id": "r-raise",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "raise",
+    "pronunciation": "reɪz",
+    "meaning": [
+      "podnosić",
+      "unosić",
+      "zbierać",
+      "przywoływać",
+      "wychowywać",
+      "hodować",
+      "podwyżka"
+    ]
+  },
+  {
+    "id": "r-raised",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "raised",
+    "pronunciation": "ˈreɪzd",
+    "meaning": [
+      "wyniesiony",
+      "wypukły"
+    ]
+  },
+  {
+    "id": "r-raisin",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "raisin",
+    "pronunciation": "ˈreɪzɪn",
+    "meaning": [
+      "rodzynka"
+    ]
+  },
+  {
+    "id": "r-rajah",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rajah",
+    "pronunciation": "ˈrɑ:ʤə",
+    "meaning": [
+      "radża"
+    ]
+  },
+  {
+    "id": "r-rake",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rake",
+    "pronunciation": "reɪk",
+    "meaning": [
+      "grabie",
+      "rozpustnik",
+      "grabić",
+      "zgarniać",
+      "zbierać",
+      "odgrzebywać"
+    ]
+  },
+  {
+    "id": "r-rakish",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rakish",
+    "pronunciation": "ˈreɪkɪʃ",
+    "meaning": [
+      "zadzierzysty",
+      "chwacki"
+    ]
+  },
+  {
+    "id": "r-rally",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rally",
+    "pronunciation": "ˈrælɪ",
+    "meaning": [
+      "wiec",
+      "rajd",
+      "wyścig",
+      "wymiana piłek",
+      "wymiana",
+      "zbierać się na pomoc",
+      "zbierać na pomoc",
+      "wydobrzeć",
+      "przyjść do siebie",
+      "zbierać się wokół kogoś do pomocy",
+      "zbierać się wokół kogoś"
+    ]
+  },
+  {
+    "id": "r-ram",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ram",
+    "pronunciation": "ræm",
+    "meaning": [
+      "walić jak taranem",
+      "walić",
+      "wbijać",
+      "tryk",
+      "baran"
+    ]
+  },
+  {
+    "id": "r-ramble",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ramble",
+    "pronunciation": "ˈræmbəl",
+    "meaning": [
+      "wędrówka",
+      "wałęsanie się",
+      "wałęsać się",
+      "ględzić"
+    ]
+  },
+  {
+    "id": "r-rambler",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rambler",
+    "pronunciation": "ˈræmblə",
+    "meaning": [
+      "wędrowiec"
+    ]
+  },
+  {
+    "id": "r-rambling",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rambling",
+    "pronunciation": "ˈræmblɪŋ",
+    "meaning": [
+      "rozrzucony",
+      "nieregularny",
+      "niedorzeczny"
+    ]
+  },
+  {
+    "id": "r-ramification",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ramification",
+    "pronunciation": "ˌræmɪfɪˈkeɪʃən",
+    "meaning": [
+      "rozgałęzienie"
+    ]
+  },
+  {
+    "id": "r-ramp",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ramp",
+    "pronunciation": "ræmp",
+    "meaning": [
+      "rampa",
+      "podjazd"
+    ]
+  },
+  {
+    "id": "r-rampage",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rampage",
+    "pronunciation": "ˈræmpɪʤ",
+    "meaning": [
+      "panikować",
+      "szaleć"
+    ]
+  },
+  {
+    "id": "r-rampant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rampant",
+    "pronunciation": "ˈræmpənt",
+    "meaning": [
+      "szerzący się"
+    ]
+  },
+  {
+    "id": "r-rampart",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "rampart",
+    "pronunciation": "ˈræmpɑ:t",
+    "meaning": [
+      "wał",
+      "szaniec"
+    ]
+  },
+  {
+    "id": "r-ramshackle",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ramshackle",
+    "pronunciation": "ˈræmʃækəl",
+    "meaning": [
+      "walący się"
+    ]
+  },
+  {
+    "id": "r-ranch",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ranch",
+    "pronunciation": "rɑ:nʧ",
+    "meaning": [
+      "ranczo"
+    ]
+  },
+  {
+    "id": "r-rancid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rancid",
+    "pronunciation": "ˈrænsɪd",
+    "meaning": [
+      "zjełczały"
+    ]
+  },
+  {
+    "id": "r-rancour",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rancour",
+    "pronunciation": "ˈræŋkə",
+    "meaning": [
+      "uraza",
+      "zajadłość"
+    ]
+  },
+  {
+    "id": "r-random",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "random",
+    "pronunciation": "ˈrændəm",
+    "meaning": [
+      "przypadkowy",
+      "losowy"
+    ]
+  },
+  {
+    "id": "r-randy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "randy",
+    "pronunciation": "ˈrændɪ",
+    "meaning": [
+      "podniecony"
+    ]
+  },
+  {
+    "id": "r-range",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "range",
+    "pronunciation": "reɪnʤ",
+    "meaning": [
+      "obszar",
+      "teren",
+      "zasięg",
+      "dziedzina",
+      "wybór",
+      "rozpiętość",
+      "łańcuch",
+      "strzelnica",
+      "piec",
+      "sięgać",
+      "mieć zasięg",
+      "ustawiać w szeregu",
+      "ustawiać"
+    ]
+  },
+  {
+    "id": "r-ranger",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ranger",
+    "pronunciation": "ˈreɪnʤə",
+    "meaning": [
+      "strażnik leśny"
+    ]
+  },
+  {
+    "id": "r-rank",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rank",
+    "pronunciation": "ræŋk",
+    "meaning": [
+      "stopień",
+      "ranga",
+      "szeregowi członkowie",
+      "szeregowcy",
+      "szereg",
+      "zaliczać się",
+      "zaliczać",
+      "wypadać",
+      "prawdziwy",
+      "czysty",
+      "smrodliwy"
+    ]
+  },
+  {
+    "id": "r-rankle",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rankle",
+    "pronunciation": "ˈræŋkəl",
+    "meaning": [
+      "gryźć",
+      "leżeć na sercu"
+    ]
+  },
+  {
+    "id": "r-ransack",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ransack",
+    "pronunciation": "ˈrænsæk",
+    "meaning": [
+      "przetrząsać",
+      "przewracać do góry nogami"
+    ]
+  },
+  {
+    "id": "r-rant",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rant",
+    "pronunciation": "rænt",
+    "meaning": [
+      "perorować"
+    ]
+  },
+  {
+    "id": "r-rap",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rap",
+    "pronunciation": "ræp",
+    "meaning": [
+      "stukać",
+      "stuknięcie"
+    ]
+  },
+  {
+    "id": "r-rapacious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "rapacious",
+    "pronunciation": "rəˈpeɪʃəs",
+    "meaning": [
+      "chciwy"
+    ]
+  },
+  {
+    "id": "r-rape",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rape",
+    "pronunciation": "reɪp",
+    "meaning": [
+      "gwałcić",
+      "gwałt",
+      "zniewolenie",
+      "rzepak"
+    ]
+  },
+  {
+    "id": "r-rapid",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "rapid",
+    "pronunciation": "ˈræpɪd",
+    "meaning": [
+      "prędki",
+      "porohy"
+    ]
+  },
+  {
+    "id": "r-rapier",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rapier",
+    "pronunciation": "ˈreɪpɪə",
+    "meaning": [
+      "rapier"
+    ]
+  },
+  {
+    "id": "r-rapist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rapist",
+    "pronunciation": "ˈreɪpɪst",
+    "meaning": [
+      "gwałciciel"
+    ]
+  },
+  {
+    "id": "r-rapport",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rapport",
+    "pronunciation": "ræˈpɔ:",
+    "meaning": [
+      "zrozumienie",
+      "harmonia"
+    ]
+  },
+  {
+    "id": "r-rapprochement",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "rapprochement",
+    "pronunciation": "ræˈprɒʃmɒŋ",
+    "meaning": [
+      "zbliżenie"
+    ]
+  },
+  {
+    "id": "r-rapt",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rapt",
+    "pronunciation": "ræpt",
+    "meaning": [
+      "olśniony",
+      "zauroczony"
+    ]
+  },
+  {
+    "id": "r-rapture",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rapture",
+    "pronunciation": "ˈræpʧə",
+    "meaning": [
+      "ekstaza",
+      "uniesienie"
+    ]
+  },
+  {
+    "id": "r-rapturous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rapturous",
+    "pronunciation": "ˈræpʧərəs",
+    "meaning": [
+      "entuzjastyczny"
+    ]
+  },
+  {
+    "id": "r-rare",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rare",
+    "pronunciation": "reə",
+    "meaning": [
+      "rzadki",
+      "krwisty"
+    ]
+  },
+  {
+    "id": "r-rarefied",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rarefied",
+    "pronunciation": "ˈreərɪfaɪd",
+    "meaning": [
+      "rozrzedzony"
+    ]
+  },
+  {
+    "id": "r-rarely",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "rarely",
+    "pronunciation": "ˈreəlɪ",
+    "meaning": [
+      "rzadko"
+    ]
+  },
+  {
+    "id": "r-rarity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rarity",
+    "pronunciation": "ˈreərɪtɪ",
+    "meaning": [
+      "rzadkość"
+    ]
+  },
+  {
+    "id": "r-rascal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rascal",
+    "pronunciation": "ˈrɑ:skəl",
+    "meaning": [
+      "łobuz",
+      "hultaj"
+    ]
+  },
+  {
+    "id": "r-rash",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rash",
+    "pronunciation": "ræʃ",
+    "meaning": [
+      "zapalczywy",
+      "pochopny",
+      "wysypka",
+      "seria"
+    ]
+  },
+  {
+    "id": "r-rasher",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rasher",
+    "pronunciation": "ˈræʃə",
+    "meaning": [
+      "plasterek"
+    ]
+  },
+  {
+    "id": "r-rasp",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rasp",
+    "pronunciation": "rɑ:sp",
+    "meaning": [
+      "chrypieć",
+      "zgrzytać",
+      "zgrzytanie",
+      "chrypienie"
+    ]
+  },
+  {
+    "id": "r-raspberry",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "raspberry",
+    "pronunciation": "ˈrɑ:zbərɪ",
+    "meaning": [
+      "malina"
+    ]
+  },
+  {
+    "id": "r-rat",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "rat",
+    "pronunciation": "ræt",
+    "meaning": [
+      "szczur",
+      "podlec"
+    ]
+  },
+  {
+    "id": "r-rate",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rate",
+    "pronunciation": "reɪt",
+    "meaning": [
+      "tempo",
+      "stopa",
+      "wysokość",
+      "podatek lokalowy",
+      "mieć opinię",
+      "oceniać",
+      "zasługiwać",
+      "kurs wymiany"
+    ]
+  },
+  {
+    "id": "r-ratepayer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ratepayer",
+    "pronunciation": "ˈreɪtpeɪə",
+    "meaning": [
+      "płatnik podatku lokalowego"
+    ]
+  },
+  {
+    "id": "r-rather",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "rather",
+    "pronunciation": "ˈrɑ:ðə",
+    "meaning": [
+      "raczej",
+      "dość",
+      "całkiem"
+    ]
+  },
+  {
+    "id": "r-ratification",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ratification",
+    "pronunciation": "ˌrætɪfɪˈkeɪʃən",
+    "meaning": [
+      "ratyfikacja"
+    ]
+  },
+  {
+    "id": "r-ratify",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "ratify",
+    "pronunciation": "ˈrætɪfaɪ",
+    "meaning": [
+      "ratyfikować"
+    ]
+  },
+  {
+    "id": "r-rating",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rating",
+    "pronunciation": "ˈreɪtɪŋ",
+    "meaning": [
+      "ocena",
+      "zaszeregowanie",
+      "klasa",
+      "klasyfikacja",
+      "szeregowy marynarz",
+      "marynarz"
+    ]
+  },
+  {
+    "id": "r-ratio",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ratio",
+    "pronunciation": "ˈreɪʃɪəʊ",
+    "meaning": [
+      "stosunek",
+      "proporcja"
+    ]
+  },
+  {
+    "id": "r-ration",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ration",
+    "pronunciation": "ˈræʃən",
+    "meaning": [
+      "przydział",
+      "racja",
+      "racjonować",
+      "wydzielać"
+    ]
+  },
+  {
+    "id": "r-rational",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rational",
+    "pronunciation": "ˈræʃənəl",
+    "meaning": [
+      "racjonalny",
+      "rozsądny"
+    ]
+  },
+  {
+    "id": "r-rationale",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rationale",
+    "pronunciation": "ˌræʃəˈnɑ:l",
+    "meaning": [
+      "powody",
+      "racje"
+    ]
+  },
+  {
+    "id": "r-rationalism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "rationalism",
+    "pronunciation": "ˈræʃənəlɪzəm",
+    "meaning": [
+      "racjonalizm"
+    ]
+  },
+  {
+    "id": "r-rationalize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rationalize",
+    "pronunciation": "ˈræʃənəlaɪz",
+    "meaning": [
+      "racjonalizować",
+      "usprawniać"
+    ]
+  },
+  {
+    "id": "r-rattle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rattle",
+    "pronunciation": "ˈrætəl",
+    "meaning": [
+      "postukiwać",
+      "kołatać",
+      "zirytować",
+      "stukot",
+      "stukanie",
+      "grzechotka"
+    ]
+  },
+  {
+    "id": "r-rattlesnake",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rattlesnake",
+    "pronunciation": "ˈrætəlsneɪk",
+    "meaning": [
+      "grzechotnik"
+    ]
+  },
+  {
+    "id": "r-ratty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ratty",
+    "pronunciation": "ˈrætɪ",
+    "meaning": [
+      "szczurzy",
+      "szczurowaty",
+      "rozsierdzony"
+    ]
+  },
+  {
+    "id": "r-raucous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "raucous",
+    "pronunciation": "ˈrɔ:kəs",
+    "meaning": [
+      "szorstki"
+    ]
+  },
+  {
+    "id": "r-ravage",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ravage",
+    "pronunciation": "ˈrævɪʤ",
+    "meaning": [
+      "druzgotać",
+      "niweczyć",
+      "spustoszenia"
+    ]
+  },
+  {
+    "id": "r-rave",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rave",
+    "pronunciation": "reɪv",
+    "meaning": [
+      "wywnętrzać się",
+      "wygadywać",
+      "szaleć z entuzjazmu",
+      "szaleć",
+      "szalony entuzjazm",
+      "rozentuzjazmowany"
+    ]
+  },
+  {
+    "id": "r-raven",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "raven",
+    "pronunciation": "ˈreɪvən",
+    "meaning": [
+      "kruk",
+      "kruczoczarny"
+    ]
+  },
+  {
+    "id": "r-ravenous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "ravenous",
+    "pronunciation": "ˈrævənəs",
+    "meaning": [
+      "żarłoczny",
+      "wygłodniały"
+    ]
+  },
+  {
+    "id": "r-ravine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ravine",
+    "pronunciation": "rəˈvi:n",
+    "meaning": [
+      "parów"
+    ]
+  },
+  {
+    "id": "r-raving",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "raving",
+    "pronunciation": "ˈreɪvɪŋ",
+    "meaning": [
+      "wariacki",
+      "oszalały",
+      "brednie"
+    ]
+  },
+  {
+    "id": "r-ravishing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ravishing",
+    "pronunciation": "ˈrævɪʃɪŋ",
+    "meaning": [
+      "przepiękny"
+    ]
+  },
+  {
+    "id": "r-raw",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "raw",
+    "pronunciation": "rɔ:",
+    "meaning": [
+      "surowy",
+      "nieprzetworzony",
+      "otwarty",
+      "żywy",
+      "surowiec",
+      "tworzywo"
+    ]
+  },
+  {
+    "id": "r-ray",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ray",
+    "pronunciation": "reɪ",
+    "meaning": [
+      "promień"
+    ]
+  },
+  {
+    "id": "r-rayon",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rayon",
+    "pronunciation": "ˈreɪɒn",
+    "meaning": [
+      "wiskoza",
+      "sztuczny jedwab"
+    ]
+  },
+  {
+    "id": "r-raze",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "raze",
+    "pronunciation": "reɪz",
+    "meaning": []
+  },
+  {
+    "id": "r-razor",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "razor",
+    "pronunciation": "ˈreɪzə",
+    "meaning": [
+      "brzytwa",
+      "maszynka do golenia",
+      "żyletka"
+    ]
+  },
+  {
+    "id": "r-RC",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "RC",
+    "pronunciation": "⋅ˈ⋅",
+    "meaning": [
+      "Czerwony Krzyż",
+      "rzymskokatolicki",
+      "katolicki",
+      "katolik"
+    ]
+  },
+  {
+    "id": "r-Rd.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Rd.",
+    "pronunciation": "/ˌɑːˈdiː/",
+    "meaning": [
+      "droga"
+    ]
+  },
+  {
+    "id": "r-re",
+    "level": "B1",
+    "partOfSpeech": "preposition",
+    "word": "re",
+    "pronunciation": "ri:",
+    "meaning": [
+      "odnośnie",
+      "w sprawie"
+    ]
+  },
+  {
+    "id": "r-react",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "react",
+    "pronunciation": "rɪˈækt",
+    "meaning": [
+      "reagować",
+      "postępować",
+      "źle znosić",
+      "oddziaływać"
+    ]
+  },
+  {
+    "id": "r-reaction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reaction",
+    "pronunciation": "rɪˈækʃən",
+    "meaning": [
+      "reakcja",
+      "odruch"
+    ]
+  },
+  {
+    "id": "r-reactionary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reactionary",
+    "pronunciation": "rɪˈækʃənərɪ",
+    "meaning": [
+      "reakcyjny",
+      "reakcjonista"
+    ]
+  },
+  {
+    "id": "r-reactor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reactor",
+    "pronunciation": "rɪˈæktə",
+    "meaning": [
+      "reaktor"
+    ]
+  },
+  {
+    "id": "r-read",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "read",
+    "pronunciation": "ri:d",
+    "meaning": [
+      "czytać",
+      "przeczytać",
+      "być napisanym",
+      "czytać się",
+      "odczytywać",
+      "wskazywać",
+      "studiować"
+    ]
+  },
+  {
+    "id": "r-readable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "readable",
+    "pronunciation": "ˈri:dəbəl",
+    "meaning": [
+      "wart przeczytania"
+    ]
+  },
+  {
+    "id": "r-reader",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "reader",
+    "pronunciation": "ˈri:də",
+    "meaning": [
+      "czytelnik",
+      "czytnik",
+      "lektor",
+      "asystent"
+    ]
+  },
+  {
+    "id": "r-readership",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "readership",
+    "pronunciation": "ˈri:dəʃɪp",
+    "meaning": [
+      "liczba czytelników"
+    ]
+  },
+  {
+    "id": "r-readily",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "readily",
+    "pronunciation": "ˈredɪlɪ",
+    "meaning": [
+      "ochoczo",
+      "skwapliwie",
+      "łatwo"
+    ]
+  },
+  {
+    "id": "r-readiness",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "readiness",
+    "pronunciation": "ˈredɪnɪs",
+    "meaning": [
+      "gotowość"
+    ]
+  },
+  {
+    "id": "r-reading",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reading",
+    "pronunciation": "ˈri:dɪŋ",
+    "meaning": [
+      "czytanie",
+      "recytacja",
+      "odczyt"
+    ]
+  },
+  {
+    "id": "r-readjust",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "readjust",
+    "pronunciation": "ˌri:əˈʤʌst",
+    "meaning": [
+      "dostosowywać się",
+      "poprawiać"
+    ]
+  },
+  {
+    "id": "r-readout",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "readout",
+    "pronunciation": "ˈri:daʊt",
+    "meaning": [
+      "odczyt informacji",
+      "odczyt"
+    ]
+  },
+  {
+    "id": "r-ready",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "ready",
+    "pronunciation": "ˈredɪ",
+    "meaning": [
+      "gotowy",
+      "przygotowany",
+      "natychmiastowy",
+      "przygotowywać"
+    ]
+  },
+  {
+    "id": "r-ready-made",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "ready-made",
+    "pronunciation": "ˌredɪˈmeɪd",
+    "meaning": [
+      "gotowy",
+      "przygotowany"
+    ]
+  },
+  {
+    "id": "r-real",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "real",
+    "pronunciation": "rɪəl",
+    "meaning": [
+      "prawdziwy",
+      "naprawdę",
+      "nieruchomość",
+      "majątek nieruchomy"
+    ]
+  },
+  {
+    "id": "r-realism",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "realism",
+    "pronunciation": "ˈrɪəlɪzəm",
+    "meaning": [
+      "realizm"
+    ]
+  },
+  {
+    "id": "r-realist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "realist",
+    "pronunciation": "ˈrɪəlɪst",
+    "meaning": [
+      "realista"
+    ]
+  },
+  {
+    "id": "r-realistic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "realistic",
+    "pronunciation": "rɪəˈlɪstɪk",
+    "meaning": [
+      "realistyczny"
+    ]
+  },
+  {
+    "id": "r-reality",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "reality",
+    "pronunciation": "rɪˈælɪtɪ",
+    "meaning": [
+      "rzeczywistość",
+      "realia"
+    ]
+  },
+  {
+    "id": "r-realm",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "realm",
+    "pronunciation": "relm",
+    "meaning": [
+      "dziedzina",
+      "sfera",
+      "panowanie",
+      "królestwo"
+    ]
+  },
+  {
+    "id": "r-ream",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ream",
+    "pronunciation": "ri:m",
+    "meaning": [
+      "ryza",
+      "stosy",
+      "zwały"
+    ]
+  },
+  {
+    "id": "r-reap",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reap",
+    "pronunciation": "ri:p",
+    "meaning": [
+      "żąć",
+      "zbierać"
+    ]
+  },
+  {
+    "id": "r-reaper",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reaper",
+    "pronunciation": "ˈri:pə",
+    "meaning": [
+      "żniwiarz",
+      "żniwiarka"
+    ]
+  },
+  {
+    "id": "r-reappear",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reappear",
+    "pronunciation": "ˌrɪəˈpɪə",
+    "meaning": [
+      "pojawiać się powtórnie",
+      "pojawiać się"
+    ]
+  },
+  {
+    "id": "r-reappraisal",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "reappraisal",
+    "pronunciation": "ˌri:əˈpreɪzəl",
+    "meaning": [
+      "ocena"
+    ]
+  },
+  {
+    "id": "r-rearm",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "rearm",
+    "pronunciation": "ri:ˈɑ:m",
+    "meaning": [
+      "przezbroić"
+    ]
+  },
+  {
+    "id": "r-rearrange",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rearrange",
+    "pronunciation": "ˌri:əˈreɪnʤ",
+    "meaning": [
+      "przestawiać",
+      "reorganizować"
+    ]
+  },
+  {
+    "id": "r-rearrangement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rearrangement",
+    "pronunciation": "ˌri:əˈreɪnʤmənt",
+    "meaning": [
+      "reorganizacja"
+    ]
+  },
+  {
+    "id": "r-reason",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reason",
+    "pronunciation": "ˈri:zən",
+    "meaning": [
+      "powód",
+      "racja",
+      "uzasadnienie",
+      "przyczyna",
+      "rozum",
+      "rozsądek",
+      "rozważać",
+      "przemyśliwać",
+      "przekonywać"
+    ]
+  },
+  {
+    "id": "r-reasonable",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "reasonable",
+    "pronunciation": "ˈri:zənəbəl",
+    "meaning": [
+      "rozsądny",
+      "racjonalny",
+      "spory"
+    ]
+  },
+  {
+    "id": "r-reasonably",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "reasonably",
+    "pronunciation": "ˈri:zənəblɪ",
+    "meaning": [
+      "dość",
+      "całkiem",
+      "rozsądnie"
+    ]
+  },
+  {
+    "id": "r-reasoned",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "reasoned",
+    "pronunciation": "ˈri:zənd",
+    "meaning": [
+      "racjonalny",
+      "wyważony"
+    ]
+  },
+  {
+    "id": "r-reasoning",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reasoning",
+    "pronunciation": "ˈri:zənɪŋ",
+    "meaning": [
+      "rozumowanie"
+    ]
+  },
+  {
+    "id": "r-reassemble",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reassemble",
+    "pronunciation": "ˌri:əˈsembəl",
+    "meaning": [
+      "składać z powrotem",
+      "składać"
+    ]
+  },
+  {
+    "id": "r-reassert",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reassert",
+    "pronunciation": "ˌri:əˈsɜ:t",
+    "meaning": [
+      "umacniać",
+      "wzmacniać",
+      "potwierdzać się"
+    ]
+  },
+  {
+    "id": "r-reassurance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reassurance",
+    "pronunciation": "ˌri:əˈʃʊərəns",
+    "meaning": [
+      "otucha",
+      "zapewnienie"
+    ]
+  },
+  {
+    "id": "r-reassure",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reassure",
+    "pronunciation": "ˌri:əˈʃʊə",
+    "meaning": [
+      "pocieszać",
+      "dodawać otuchy"
+    ]
+  },
+  {
+    "id": "r-rebate",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rebate",
+    "pronunciation": "ˈri:beɪt",
+    "meaning": [
+      "rabat",
+      "zwrot kwoty nadpłaconej",
+      "zwrot"
+    ]
+  },
+  {
+    "id": "r-rebel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rebel",
+    "pronunciation": "/ˈrebəl/",
+    "meaning": [
+      "rebeliant",
+      "buntownik",
+      "buntować się"
+    ]
+  },
+  {
+    "id": "r-rebellion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rebellion",
+    "pronunciation": "rɪˈbeljən",
+    "meaning": [
+      "rebelia",
+      "bunt"
+    ]
+  },
+  {
+    "id": "r-rebellious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rebellious",
+    "pronunciation": "rɪˈbeljəs",
+    "meaning": [
+      "buntowniczy"
+    ]
+  },
+  {
+    "id": "r-rebirth",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rebirth",
+    "pronunciation": "ri:ˈbɜ:θ",
+    "meaning": [
+      "odrodzenie"
+    ]
+  },
+  {
+    "id": "r-rebuff",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rebuff",
+    "pronunciation": "rɪˈbʌf",
+    "meaning": [
+      "odmówić",
+      "odrzucić",
+      "odmowa",
+      "odrzucenie"
+    ]
+  },
+  {
+    "id": "r-rebuild",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rebuild",
+    "pronunciation": "ˌri:ˈbɪld",
+    "meaning": [
+      "odbudowywać"
+    ]
+  },
+  {
+    "id": "r-rebuke",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rebuke",
+    "pronunciation": "rɪˈbju:k",
+    "meaning": [
+      "ganić",
+      "nagana"
+    ]
+  },
+  {
+    "id": "r-rebut",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rebut",
+    "pronunciation": "rɪˈbʌt",
+    "meaning": [
+      "obalić zarzuty"
+    ]
+  },
+  {
+    "id": "r-recalcitrant",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "recalcitrant",
+    "pronunciation": "rɪˈkælsɪtrənt",
+    "meaning": [
+      "oporny",
+      "krnąbrny"
+    ]
+  },
+  {
+    "id": "r-recall",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "recall",
+    "pronunciation": "rɪˈkɔ:l",
+    "meaning": [
+      "przypominać sobie",
+      "odwoływać",
+      "przypominanie sobie"
+    ]
+  },
+  {
+    "id": "r-recant",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "recant",
+    "pronunciation": "rɪˈkænt",
+    "meaning": [
+      "wyrzec się"
+    ]
+  },
+  {
+    "id": "r-recap",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "recap",
+    "pronunciation": "ˈri:kæp",
+    "meaning": [
+      "podsumowywać",
+      "podsumowanie"
+    ]
+  },
+  {
+    "id": "r-recapitulate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "recapitulate",
+    "pronunciation": "ˌri:kəˈpɪʧʊleɪt",
+    "meaning": [
+      "podsumowywać"
+    ]
+  },
+  {
+    "id": "r-recapitulation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "recapitulation",
+    "pronunciation": "ˌri:kəpɪʧʊˈleɪʃən",
+    "meaning": [
+      "podsumowanie"
+    ]
+  },
+  {
+    "id": "r-recapture",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "recapture",
+    "pronunciation": "ˌri:ˈkæpʧə",
+    "meaning": [
+      "ponownie łapać",
+      "odzyskiwać",
+      "przywoływać",
+      "odzyskanie"
+    ]
+  },
+  {
+    "id": "r-recede",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "recede",
+    "pronunciation": "rɪˈsi:d",
+    "meaning": [
+      "uchodzić w dal",
+      "gasnąć",
+      "rzednąć"
+    ]
+  },
+  {
+    "id": "r-receipt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "receipt",
+    "pronunciation": "rɪˈsi:t",
+    "meaning": [
+      "rachunek",
+      "pokwitowanie",
+      "wpływy"
+    ]
+  },
+  {
+    "id": "r-receive",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "receive",
+    "pronunciation": "rɪˈsi:v",
+    "meaning": [
+      "otrzymywać",
+      "przyjmować",
+      "podejmować"
+    ]
+  },
+  {
+    "id": "r-receiver",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "receiver",
+    "pronunciation": "rɪˈsi:və",
+    "meaning": [
+      "słuchawka",
+      "odbiornik",
+      "odbiorca"
+    ]
+  },
+  {
+    "id": "r-recent",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "recent",
+    "pronunciation": "ˈri:sənt",
+    "meaning": [
+      "niedawny"
+    ]
+  },
+  {
+    "id": "r-recently",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "recently",
+    "pronunciation": "ˈri:səntlɪ",
+    "meaning": [
+      "niedawno"
+    ]
+  },
+  {
+    "id": "r-receptacle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "receptacle",
+    "pronunciation": "rɪˈseptəkəl",
+    "meaning": [
+      "pojemnik"
+    ]
+  },
+  {
+    "id": "r-reception",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reception",
+    "pronunciation": "rɪˈsepʃən",
+    "meaning": [
+      "recepcja",
+      "przyjęcie",
+      "przyjmowanie",
+      "witanie",
+      "odbiór"
+    ]
+  },
+  {
+    "id": "r-receptionist",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "receptionist",
+    "pronunciation": "rɪˈsepʃənɪst",
+    "meaning": [
+      "recepcjonista"
+    ]
+  },
+  {
+    "id": "r-receptive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "receptive",
+    "pronunciation": "rɪˈseptɪv",
+    "meaning": [
+      "otwarty"
+    ]
+  },
+  {
+    "id": "r-recess",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "recess",
+    "pronunciation": "rɪˈses",
+    "meaning": [
+      "przerwa",
+      "nisza",
+      "wnęka",
+      "zakamarki"
+    ]
+  },
+  {
+    "id": "r-recession",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "recession",
+    "pronunciation": "rɪˈseʃən",
+    "meaning": [
+      "recesja"
+    ]
+  },
+  {
+    "id": "r-recipe",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "recipe",
+    "pronunciation": "ˈresɪpɪ",
+    "meaning": [
+      "przepis kulinarny",
+      "przepis",
+      "recepta"
+    ]
+  },
+  {
+    "id": "r-recipient",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recipient",
+    "pronunciation": "rɪˈsɪpɪənt",
+    "meaning": [
+      "odbiorca"
+    ]
+  },
+  {
+    "id": "r-reciprocal",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "reciprocal",
+    "pronunciation": "rɪˈsɪprəkəl",
+    "meaning": [
+      "wzajemny",
+      "obopólny"
+    ]
+  },
+  {
+    "id": "r-reciprocate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reciprocate",
+    "pronunciation": "rɪˈsɪprəkeɪt",
+    "meaning": [
+      "odwzajemniać"
+    ]
+  },
+  {
+    "id": "r-recital",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recital",
+    "pronunciation": "rɪˈsaɪtəl",
+    "meaning": [
+      "recital"
+    ]
+  },
+  {
+    "id": "r-recitation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recitation",
+    "pronunciation": "ˌresɪˈteɪʃən",
+    "meaning": [
+      "recytacja"
+    ]
+  },
+  {
+    "id": "r-recite",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "recite",
+    "pronunciation": "rɪˈsaɪt",
+    "meaning": [
+      "recytować"
+    ]
+  },
+  {
+    "id": "r-reckless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reckless",
+    "pronunciation": "ˈreklɪs",
+    "meaning": [
+      "lekkomyślny"
+    ]
+  },
+  {
+    "id": "r-reckon",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reckon",
+    "pronunciation": "ˈrekən",
+    "meaning": [
+      "sądzić",
+      "mieć nadzieję",
+      "obliczać",
+      "liczyć",
+      "liczyć się"
+    ]
+  },
+  {
+    "id": "r-reckoning",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reckoning",
+    "pronunciation": "ˈrekənɪŋ",
+    "meaning": [
+      "wyliczenie"
+    ]
+  },
+  {
+    "id": "r-reclaim",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reclaim",
+    "pronunciation": "rɪˈkleɪm",
+    "meaning": [
+      "odzyskiwać",
+      "rekultywować",
+      "meliorować",
+      "osuszać"
+    ]
+  },
+  {
+    "id": "r-recline",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "recline",
+    "pronunciation": "rɪˈklaɪn",
+    "meaning": [
+      "wyciągnąć się",
+      "rozłożyć się"
+    ]
+  },
+  {
+    "id": "r-reclining",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reclining",
+    "pronunciation": "rɪˈklaɪnɪŋ",
+    "meaning": [
+      "rozkładany"
+    ]
+  },
+  {
+    "id": "r-recluse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "recluse",
+    "pronunciation": "rɪˈklu:s",
+    "meaning": [
+      "samotnik",
+      "odludek"
+    ]
+  },
+  {
+    "id": "r-recognition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recognition",
+    "pronunciation": "ˌrekəgˈnɪʃən",
+    "meaning": [
+      "rozpoznanie",
+      "docenianie"
+    ]
+  },
+  {
+    "id": "r-recognizable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "recognizable",
+    "pronunciation": "ˈrekəgnaɪzəbəl",
+    "meaning": [
+      "rozpoznawalny"
+    ]
+  },
+  {
+    "id": "r-recognize",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "recognize",
+    "pronunciation": "ˈrekəgnaɪz",
+    "meaning": [
+      "rozpoznawać",
+      "doceniać",
+      "dostrzegać",
+      "uznawać",
+      "nagradzać"
+    ]
+  },
+  {
+    "id": "r-recoil",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "recoil",
+    "pronunciation": "rɪˈkɔɪl",
+    "meaning": [
+      "wzdragać się",
+      "odskakiwać",
+      "szarpać w tył",
+      "szarpać"
+    ]
+  },
+  {
+    "id": "r-recollect",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "recollect",
+    "pronunciation": "ˌrekəˈlekt",
+    "meaning": [
+      "przypominać sobie"
+    ]
+  },
+  {
+    "id": "r-recollection",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recollection",
+    "pronunciation": "ˌrekəˈlekʃən",
+    "meaning": [
+      "wspomnienie",
+      "przypomnienie sobie"
+    ]
+  },
+  {
+    "id": "r-recommend",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "recommend",
+    "pronunciation": "ˌrekəˈmend",
+    "meaning": [
+      "polecać",
+      "rekomendować",
+      "zalecać"
+    ]
+  },
+  {
+    "id": "r-recommendation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recommendation",
+    "pronunciation": "ˌrekəmenˈdeɪʃən",
+    "meaning": [
+      "rekomendacja",
+      "zalecenie"
+    ]
+  },
+  {
+    "id": "r-recompense",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "recompense",
+    "pronunciation": "ˈrekəmpens",
+    "meaning": [
+      "wynagradzać",
+      "odszkodowanie"
+    ]
+  },
+  {
+    "id": "r-reconcile",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reconcile",
+    "pronunciation": "ˈrekənsaɪl",
+    "meaning": [
+      "godzić",
+      "pogodzić",
+      "pogodzić się"
+    ]
+  },
+  {
+    "id": "r-recondition",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "recondition",
+    "pronunciation": "ˌri:kənˈdɪʃən",
+    "meaning": [
+      "remontować"
+    ]
+  },
+  {
+    "id": "r-reconnaissance",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "reconnaissance",
+    "pronunciation": "rɪˈkɒnɪsəns",
+    "meaning": [
+      "rekonesans"
+    ]
+  },
+  {
+    "id": "r-reconsider",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reconsider",
+    "pronunciation": "ˌri:kənˈsɪdə",
+    "meaning": [
+      "przemyśleć",
+      "zastanowić się"
+    ]
+  },
+  {
+    "id": "r-reconstitute",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "reconstitute",
+    "pronunciation": "ri:ˈkɒnstɪtju:t",
+    "meaning": [
+      "przywracać",
+      "odświeżać"
+    ]
+  },
+  {
+    "id": "r-reconstruct",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reconstruct",
+    "pronunciation": "ˌri:kənˈstrʌkt",
+    "meaning": [
+      "odbudowywać",
+      "rekonstruować"
+    ]
+  },
+  {
+    "id": "r-reconstruction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reconstruction",
+    "pronunciation": "ˌri:kənˈstrʌkʃən",
+    "meaning": [
+      "odbudowa",
+      "rekonstrukcja"
+    ]
+  },
+  {
+    "id": "r-recorded_delivery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recorded delivery",
+    "pronunciation": "rɪˌkɔ:dɪd dɪˈlɪvərɪ",
+    "meaning": [
+      "za poświadczeniem odbioru"
+    ]
+  },
+  {
+    "id": "r-recorder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recorder",
+    "pronunciation": "rɪˈkɔ:də",
+    "meaning": [
+      "urządzenie nagrywające",
+      "flet prosty"
+    ]
+  },
+  {
+    "id": "r-recording",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recording",
+    "pronunciation": "rɪˈkɔ:dɪŋ",
+    "meaning": [
+      "nagranie",
+      "nagrywanie",
+      "dźwięk"
+    ]
+  },
+  {
+    "id": "r-recount",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "recount",
+    "pronunciation": "/rɪˈkaʊnt/",
+    "meaning": [
+      "relacjonować",
+      "opowiadać",
+      "powtórnie przeliczyć",
+      "powtórne przeliczenie"
+    ]
+  },
+  {
+    "id": "r-recourse",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "recourse",
+    "pronunciation": "rɪˈkɔ:s",
+    "meaning": []
+  },
+  {
+    "id": "r-recover",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "recover",
+    "pronunciation": "rɪˈkʌvə",
+    "meaning": [
+      "wyzdrowieć",
+      "odzyskiwać siły",
+      "otrząsnąć się",
+      "odzyskiwać"
+    ]
+  },
+  {
+    "id": "r-re-cover",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "re-cover",
+    "pronunciation": "ˌri:ˈkʌvə",
+    "meaning": [
+      "pokryć na nowo"
+    ]
+  },
+  {
+    "id": "r-recovery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recovery",
+    "pronunciation": "rɪˈkʌvərɪ",
+    "meaning": [
+      "wyzdrowienie",
+      "poprawa",
+      "odzyskanie"
+    ]
+  },
+  {
+    "id": "r-recreate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "recreate",
+    "pronunciation": "ˌri:krɪˈeɪt",
+    "meaning": [
+      "odtwarzać"
+    ]
+  },
+  {
+    "id": "r-recreation",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "recreation",
+    "pronunciation": "ˌrekrɪˈeɪʃən",
+    "meaning": [
+      "rekreacja"
+    ]
+  },
+  {
+    "id": "r-recruit",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "recruit",
+    "pronunciation": "rɪˈkru:t",
+    "meaning": [
+      "rekrutować",
+      "werbować",
+      "rekrut",
+      "nowicjusz"
+    ]
+  },
+  {
+    "id": "r-recruitment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "recruitment",
+    "pronunciation": "rɪˈkru:tmənt",
+    "meaning": [
+      "rekrutacja"
+    ]
+  },
+  {
+    "id": "r-rectangle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rectangle",
+    "pronunciation": "ˈrektæŋgəl",
+    "meaning": [
+      "prostokąt"
+    ]
+  },
+  {
+    "id": "r-rectangular",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rectangular",
+    "pronunciation": "rekˈtæŋgjʊlə",
+    "meaning": [
+      "prostokątny"
+    ]
+  },
+  {
+    "id": "r-rectify",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rectify",
+    "pronunciation": "ˈrektɪfaɪ",
+    "meaning": [
+      "naprawiać"
+    ]
+  },
+  {
+    "id": "r-rector",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rector",
+    "pronunciation": "ˈrektə",
+    "meaning": [
+      "pastor",
+      "proboszcz protestancki",
+      "proboszcz"
+    ]
+  },
+  {
+    "id": "r-rectory",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rectory",
+    "pronunciation": "ˈrektərɪ",
+    "meaning": [
+      "probostwo"
+    ]
+  },
+  {
+    "id": "r-recuperate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "recuperate",
+    "pronunciation": "rɪˈkju:pəreɪt",
+    "meaning": [
+      "dochodzić do sił"
+    ]
+  },
+  {
+    "id": "r-recur",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "recur",
+    "pronunciation": "rɪˈkɜ:",
+    "meaning": [
+      "powracać",
+      "powtarzać się"
+    ]
+  },
+  {
+    "id": "r-recurrence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "recurrence",
+    "pronunciation": "rɪˈkʌrəns",
+    "meaning": [
+      "powtarzanie się",
+      "nawrót"
+    ]
+  },
+  {
+    "id": "r-recurrent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "recurrent",
+    "pronunciation": "rɪˈkʌrənt",
+    "meaning": [
+      "powtarzający się",
+      "nawracający"
+    ]
+  },
+  {
+    "id": "r-recycle",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "recycle",
+    "pronunciation": "ˌri:ˈsaɪkəl",
+    "meaning": [
+      "przetwarzać"
+    ]
+  },
+  {
+    "id": "r-red",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "red",
+    "pronunciation": "red",
+    "meaning": [
+      "czerwony",
+      "rudy",
+      "czerwień",
+      "wabik",
+      "przynęta",
+      "fałszywy ślad",
+      "biurokracja"
+    ]
+  },
+  {
+    "id": "r-redden",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "redden",
+    "pronunciation": "ˈredən",
+    "meaning": [
+      "czerwienić się",
+      "czerwienić"
+    ]
+  },
+  {
+    "id": "r-reddish",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "reddish",
+    "pronunciation": "ˈredɪʃ",
+    "meaning": [
+      "czerwonawy"
+    ]
+  },
+  {
+    "id": "r-redeem",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "redeem",
+    "pronunciation": "rɪˈdi:m",
+    "meaning": [
+      "ratować",
+      "okupywać",
+      "dotrzymywać",
+      "spełniać",
+      "wykupywać"
+    ]
+  },
+  {
+    "id": "r-redemption",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "redemption",
+    "pronunciation": "rɪˈdempʃən",
+    "meaning": [
+      "odkupienie"
+    ]
+  },
+  {
+    "id": "r-redeploy",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "redeploy",
+    "pronunciation": "ˌri:dɪˈplɔɪ",
+    "meaning": [
+      "przemieszczać",
+      "przeorganizować"
+    ]
+  },
+  {
+    "id": "r-red-head",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "red-head",
+    "pronunciation": "ˈredhed",
+    "meaning": [
+      "rudzielec"
+    ]
+  },
+  {
+    "id": "r-red-hot",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "red-hot",
+    "pronunciation": "ˌredˈhɒt",
+    "meaning": [
+      "rozgrzany do czerwoności",
+      "zażarty"
+    ]
+  },
+  {
+    "id": "r-redirect",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "redirect",
+    "pronunciation": "ˌri:dəˈrekt",
+    "meaning": [
+      "przeadresowywać"
+    ]
+  },
+  {
+    "id": "r-red-letter",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "red-letter",
+    "pronunciation": "ˌredˈletə",
+    "meaning": []
+  },
+  {
+    "id": "r-redness",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "redness",
+    "pronunciation": "ˈrednɪs",
+    "meaning": [
+      "czerwoność"
+    ]
+  },
+  {
+    "id": "r-redo",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "redo",
+    "pronunciation": "ˌri:ˈdu:",
+    "meaning": [
+      "przerabiać"
+    ]
+  },
+  {
+    "id": "r-redouble",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "redouble",
+    "pronunciation": "ˌri:ˈdʌbəl",
+    "meaning": [
+      "podwajać",
+      "zwiększać"
+    ]
+  },
+  {
+    "id": "r-redress",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "redress",
+    "pronunciation": "rɪˈdres",
+    "meaning": [
+      "naprawiać",
+      "rekompensować",
+      "rekompensata"
+    ]
+  },
+  {
+    "id": "r-reduce",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "reduce",
+    "pronunciation": "rɪˈdju:s",
+    "meaning": [
+      "redukować",
+      "zmniejszać",
+      "doprowadzać",
+      "obniżać",
+      "zmuszać"
+    ]
+  },
+  {
+    "id": "r-reduction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reduction",
+    "pronunciation": "rɪˈdʌkʃən",
+    "meaning": [
+      "redukcja",
+      "ograniczenie"
+    ]
+  },
+  {
+    "id": "r-redundancy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "redundancy",
+    "pronunciation": "rɪˈdʌndənsɪ",
+    "meaning": [
+      "zbyteczne miejsce pracy",
+      "zbędne miejsce pracy",
+      "bezrobocie",
+      "redukcja pracy",
+      "redukcja"
+    ]
+  },
+  {
+    "id": "r-redundant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "redundant",
+    "pronunciation": "rɪˈdʌndənt",
+    "meaning": [
+      "zbyteczny",
+      "zbędny"
+    ]
+  },
+  {
+    "id": "r-reed",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "reed",
+    "pronunciation": "ri:d",
+    "meaning": [
+      "trzcina"
+    ]
+  },
+  {
+    "id": "r-reef",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reef",
+    "pronunciation": "ri:f",
+    "meaning": [
+      "rafa"
+    ]
+  },
+  {
+    "id": "r-reek",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reek",
+    "pronunciation": "ri:k",
+    "meaning": [
+      "śmierdzieć",
+      "woń",
+      "odór"
+    ]
+  },
+  {
+    "id": "r-reel",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reel",
+    "pronunciation": "ri:l",
+    "meaning": [
+      "szpula",
+      "rolka",
+      "kołowrotek",
+      "nawijać",
+      "zataczać się",
+      "chwiać się",
+      "wirować",
+      "kręcić się"
+    ]
+  },
+  {
+    "id": "r-re-elect",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "re-elect",
+    "pronunciation": "ˌri:ɪˈlekt",
+    "meaning": [
+      "powtórnie wybierać"
+    ]
+  },
+  {
+    "id": "r-ref",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ref",
+    "pronunciation": "ref",
+    "meaning": [
+      "nr",
+      "nasz znak"
+    ]
+  },
+  {
+    "id": "r-ref.",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ref.",
+    "pronunciation": "/ˌɑːr iː ˈef/",
+    "meaning": [
+      "odnośnik",
+      "referencja",
+      "przywoływany"
+    ]
+  },
+  {
+    "id": "r-refectory",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "refectory",
+    "pronunciation": "rɪˈfektərɪ",
+    "meaning": [
+      "refektarz"
+    ]
+  },
+  {
+    "id": "r-refer",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "refer",
+    "pronunciation": "rɪˈfɜ:",
+    "meaning": [
+      "wspominać",
+      "nazywać",
+      "odnosić się",
+      "zaglądać",
+      "odsyłać",
+      "kierować"
+    ]
+  },
+  {
+    "id": "r-referee",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "referee",
+    "pronunciation": "ˌrefəˈri:",
+    "meaning": [
+      "sędzia"
+    ]
+  },
+  {
+    "id": "r-reference",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reference",
+    "pronunciation": "ˈrefərəns",
+    "meaning": [
+      "odniesienie",
+      "aluzja",
+      "odniesienie się",
+      "użycie",
+      "pozycja bibliograficzna",
+      "referencja",
+      "podręczny",
+      "encyklopedyczny",
+      "książka podręczna",
+      "wydawnictwo encyklopedyczne",
+      "wydawnictwo słownikowe"
+    ]
+  },
+  {
+    "id": "r-referendum",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "referendum",
+    "pronunciation": "ˌrefəˈrendəm",
+    "meaning": [
+      "referendum"
+    ]
+  },
+  {
+    "id": "r-refill",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "refill",
+    "pronunciation": "/ˌriːˈfɪl/",
+    "meaning": [
+      "napełniać znów",
+      "napełniać",
+      "dolewka",
+      "wkład"
+    ]
+  },
+  {
+    "id": "r-refine",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "refine",
+    "pronunciation": "rɪˈfaɪn",
+    "meaning": [
+      "oczyszczać",
+      "rafinować",
+      "krystalizować"
+    ]
+  },
+  {
+    "id": "r-refined",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "refined",
+    "pronunciation": "rɪˈfaɪnd",
+    "meaning": [
+      "rafinowany",
+      "oczyszczony",
+      "wyrafinowany",
+      "dopracowany"
+    ]
+  },
+  {
+    "id": "r-refinement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "refinement",
+    "pronunciation": "rɪˈfaɪnmənt",
+    "meaning": [
+      "udoskonalenie",
+      "wyrafinowanie"
+    ]
+  },
+  {
+    "id": "r-refinery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "refinery",
+    "pronunciation": "rɪˈfaɪnərɪ",
+    "meaning": [
+      "rafineria"
+    ]
+  },
+  {
+    "id": "r-reflect",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reflect",
+    "pronunciation": "rɪˈflekt",
+    "meaning": [
+      "odbijać się",
+      "odbijać",
+      "odzwierciedlać",
+      "rozmyślać",
+      "snuć refleksje",
+      "reflektować się"
+    ]
+  },
+  {
+    "id": "r-reflection",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reflection",
+    "pronunciation": "rɪˈflekʃən",
+    "meaning": [
+      "odbicie",
+      "odzwierciedlenie",
+      "spostrzeżenie",
+      "refleksja",
+      "zaduma"
+    ]
+  },
+  {
+    "id": "r-reflective",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reflective",
+    "pronunciation": "rɪˈflektɪv",
+    "meaning": [
+      "refleksyjny",
+      "pełen zadumy"
+    ]
+  },
+  {
+    "id": "r-reflector",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reflector",
+    "pronunciation": "rɪˈflektə",
+    "meaning": [
+      "odbłyśnik",
+      "światło odblaskowe"
+    ]
+  },
+  {
+    "id": "r-reflex",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reflex",
+    "pronunciation": "ˈri:fleks",
+    "meaning": [
+      "odruch",
+      "refleks"
+    ]
+  },
+  {
+    "id": "r-reflexive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reflexive",
+    "pronunciation": "rɪˈfleksɪv",
+    "meaning": [
+      "zwrotny"
+    ]
+  },
+  {
+    "id": "r-reform",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reform",
+    "pronunciation": "rɪˈfɔ:m",
+    "meaning": [
+      "reforma",
+      "reformowanie",
+      "reformować",
+      "poprawić się",
+      "poprawić",
+      "reedukować"
+    ]
+  },
+  {
+    "id": "r-reformation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reformation",
+    "pronunciation": "ˌrefəˈmeɪʃən",
+    "meaning": [
+      "przekształcenie",
+      "zreformowanie",
+      "reformacja"
+    ]
+  },
+  {
+    "id": "r-reformer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reformer",
+    "pronunciation": "rɪˈfɔ:mə",
+    "meaning": [
+      "reformator"
+    ]
+  },
+  {
+    "id": "r-refrain",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "refrain",
+    "pronunciation": "rɪˈfreɪn",
+    "meaning": [
+      "powstrzymywać się",
+      "refren"
+    ]
+  },
+  {
+    "id": "r-refresh",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "refresh",
+    "pronunciation": "rɪˈfreʃ",
+    "meaning": [
+      "odświeżać",
+      "orzeźwiać się"
+    ]
+  },
+  {
+    "id": "r-refreshment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "refreshment",
+    "pronunciation": "rɪˈfreʃmənt",
+    "meaning": [
+      "orzeźwienie się",
+      "napoje orzeźwiające i przekąski",
+      "bufet"
+    ]
+  },
+  {
+    "id": "r-refrigerator",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "refrigerator",
+    "pronunciation": "rɪˈfrɪʤəreɪtə",
+    "meaning": [
+      "chłodziarka",
+      "lodówka"
+    ]
+  },
+  {
+    "id": "r-refuel",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "refuel",
+    "pronunciation": "ˌri:ˈfju:əl",
+    "meaning": [
+      "tankować",
+      "uzupełniać paliwo"
+    ]
+  },
+  {
+    "id": "r-refuge",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "refuge",
+    "pronunciation": "ˈrefju:ʤ",
+    "meaning": [
+      "schronienie"
+    ]
+  },
+  {
+    "id": "r-refugee",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "refugee",
+    "pronunciation": "ˌrefju:ˈʤi:",
+    "meaning": [
+      "uciekinier",
+      "uchodźca"
+    ]
+  },
+  {
+    "id": "r-refund",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "refund",
+    "pronunciation": "/ˈriːfʌnd/",
+    "meaning": [
+      "zwrot pieniędzy",
+      "zwrot",
+      "zwracać pieniądze",
+      "zwracać"
+    ]
+  },
+  {
+    "id": "r-refusal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "refusal",
+    "pronunciation": "rɪˈfju:zəl",
+    "meaning": [
+      "odmowa"
+    ]
+  },
+  {
+    "id": "r-refuse",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "refuse",
+    "pronunciation": "/rɪˈfjuːz/",
+    "meaning": [
+      "odmawiać",
+      "odrzucać",
+      "nie przyjmować",
+      "odpadki"
+    ]
+  },
+  {
+    "id": "r-refute",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "refute",
+    "pronunciation": "rɪˈfju:t",
+    "meaning": [
+      "obalać"
+    ]
+  },
+  {
+    "id": "r-regain",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "regain",
+    "pronunciation": "rɪˈgeɪn",
+    "meaning": [
+      "odzyskiwać"
+    ]
+  },
+  {
+    "id": "r-regal",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "regal",
+    "pronunciation": "ˈri:gəl",
+    "meaning": [
+      "królewski"
+    ]
+  },
+  {
+    "id": "r-regalia",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "regalia",
+    "pronunciation": "rɪˈgeɪlɪə",
+    "meaning": [
+      "regalia",
+      "insygnia"
+    ]
+  },
+  {
+    "id": "r-regarding",
+    "level": "B1",
+    "partOfSpeech": "preposition",
+    "word": "regarding",
+    "pronunciation": "rɪˈgɑ:dɪŋ",
+    "meaning": [
+      "dotyczący",
+      "odnośnie",
+      "co do"
+    ]
+  },
+  {
+    "id": "r-regardless",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "regardless",
+    "pronunciation": "rɪˈgɑ:dlɪs",
+    "meaning": [
+      "niezależnie",
+      "pomimo tego",
+      "pomimo"
+    ]
+  },
+  {
+    "id": "r-regatta",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "regatta",
+    "pronunciation": "rɪˈgætə",
+    "meaning": [
+      "regaty"
+    ]
+  },
+  {
+    "id": "r-regency",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "regency",
+    "pronunciation": "ˈri:ʤənsɪ",
+    "meaning": [
+      "regencja"
+    ]
+  },
+  {
+    "id": "r-regenerate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "regenerate",
+    "pronunciation": "rɪˈʤenəreɪt",
+    "meaning": [
+      "odradzać się"
+    ]
+  },
+  {
+    "id": "r-regent",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "regent",
+    "pronunciation": "ˈri:ʤənt",
+    "meaning": [
+      "regent"
+    ]
+  },
+  {
+    "id": "r-regime",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "regime",
+    "pronunciation": "reɪˈʒi:m",
+    "meaning": [
+      "reżym"
+    ]
+  },
+  {
+    "id": "r-regiment",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "regiment",
+    "pronunciation": "/ˈredʒɪmənt/",
+    "meaning": [
+      "pułk",
+      "reglamentować"
+    ]
+  },
+  {
+    "id": "r-regimental",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "regimental",
+    "pronunciation": "ˌreʤɪˈmentəl",
+    "meaning": [
+      "pułkowy"
+    ]
+  },
+  {
+    "id": "r-regimentation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "regimentation",
+    "pronunciation": "ˌreʤɪmenˈteɪʃən",
+    "meaning": [
+      "reglamentacja",
+      "ścisła władza"
+    ]
+  },
+  {
+    "id": "r-region",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "region",
+    "pronunciation": "ˈri:ʤən",
+    "meaning": [
+      "region",
+      "rejon"
+    ]
+  },
+  {
+    "id": "r-regional",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "regional",
+    "pronunciation": "ˈri:ʤənəl",
+    "meaning": [
+      "regionalny",
+      "rejonowy"
+    ]
+  },
+  {
+    "id": "r-register",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "register",
+    "pronunciation": "ˈreʤɪstə",
+    "meaning": [
+      "lista",
+      "rejestr",
+      "rejestrować się",
+      "pokazywać",
+      "okazywać"
+    ]
+  },
+  {
+    "id": "r-registered",
+    "level": "B1",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "registered",
+    "pronunciation": "ˈreʤɪstəd",
+    "meaning": [
+      "polecony"
+    ]
+  },
+  {
+    "id": "r-registrar",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "registrar",
+    "pronunciation": "ˌreʤɪstˈrɑ:",
+    "meaning": [
+      "urzędnik stanu cywilnego",
+      "sekretarz"
+    ]
+  },
+  {
+    "id": "r-registration",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "registration",
+    "pronunciation": "ˌreʤɪˈstreɪʃən",
+    "meaning": [
+      "rejestracja"
+    ]
+  },
+  {
+    "id": "r-registry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "registry",
+    "pronunciation": "ˈreʤɪstrɪ",
+    "meaning": [
+      "archiwum",
+      "urząd stanu cywilnego"
+    ]
+  },
+  {
+    "id": "r-regress",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "regress",
+    "pronunciation": "rɪˈgres",
+    "meaning": [
+      "przechodzić regres",
+      "przechodzić w gorszy stan"
+    ]
+  },
+  {
+    "id": "r-regret",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "regret",
+    "pronunciation": "rɪˈgret",
+    "meaning": [
+      "żałować",
+      "przepraszać",
+      "wyrażać żal z powodu",
+      "wyrażać żal",
+      "żal",
+      "ubolewanie",
+      "wątpliwości"
+    ]
+  },
+  {
+    "id": "r-regretful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "regretful",
+    "pronunciation": "rɪˈgretfʊl",
+    "meaning": [
+      "przepraszający"
+    ]
+  },
+  {
+    "id": "r-regrettable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "regrettable",
+    "pronunciation": "rɪˈgretəbəl",
+    "meaning": [
+      "pożałowania godny"
+    ]
+  },
+  {
+    "id": "r-regroup",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "regroup",
+    "pronunciation": "ˌri:ˈgru:p",
+    "meaning": [
+      "przegrupowywać się",
+      "przegrupowywać"
+    ]
+  },
+  {
+    "id": "r-regular",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "regular",
+    "pronunciation": "ˈregjʊlə",
+    "meaning": [
+      "regularny",
+      "stały",
+      "częsty",
+      "normalny",
+      "zwykły",
+      "stały klient",
+      "bywalec",
+      "żołnierz zawodowy"
+    ]
+  },
+  {
+    "id": "r-regularity",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "regularity",
+    "pronunciation": "ˌregjʊˈlærɪtɪ",
+    "meaning": [
+      "regularność"
+    ]
+  },
+  {
+    "id": "r-regulate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "regulate",
+    "pronunciation": "ˈregjʊleɪt",
+    "meaning": [
+      "regulować"
+    ]
+  },
+  {
+    "id": "r-regulation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "regulation",
+    "pronunciation": "ˌregjʊˈleɪʃən",
+    "meaning": [
+      "przepis",
+      "regulamin",
+      "kontrola",
+      "przepisowy",
+      "regulaminowy"
+    ]
+  },
+  {
+    "id": "r-rehabilitate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rehabilitate",
+    "pronunciation": "ˌri:həˈbɪlɪteɪt",
+    "meaning": [
+      "rehabilitować",
+      "odnawiać"
+    ]
+  },
+  {
+    "id": "r-rehearsal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rehearsal",
+    "pronunciation": "rɪˈhɜ:səl",
+    "meaning": [
+      "próba"
+    ]
+  },
+  {
+    "id": "r-rehearse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rehearse",
+    "pronunciation": "rɪˈhɜ:s",
+    "meaning": [
+      "ćwiczyć",
+      "mieć próbę"
+    ]
+  },
+  {
+    "id": "r-reign",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reign",
+    "pronunciation": "reɪn",
+    "meaning": [
+      "panować",
+      "panowanie"
+    ]
+  },
+  {
+    "id": "r-reimburse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reimburse",
+    "pronunciation": "ˌri:ɪmˈbɜ:s",
+    "meaning": [
+      "wynagradzać",
+      "rekompensować"
+    ]
+  },
+  {
+    "id": "r-rein",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rein",
+    "pronunciation": "reɪn",
+    "meaning": [
+      "cugiel",
+      "wodza",
+      "lejce"
+    ]
+  },
+  {
+    "id": "r-reincarnate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "reincarnate",
+    "pronunciation": "ˌri:ɪnˈkɑ:neɪt",
+    "meaning": [
+      "przechodzić reinkarnację",
+      "wcielać się"
+    ]
+  },
+  {
+    "id": "r-reincarnation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "reincarnation",
+    "pronunciation": "ˌri:ɪnkɑ:ˈneɪʃən",
+    "meaning": [
+      "reinkarnacja"
+    ]
+  },
+  {
+    "id": "r-reindeer",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "reindeer",
+    "pronunciation": "ˈreɪndɪə",
+    "meaning": [
+      "renifer"
+    ]
+  },
+  {
+    "id": "r-reinforce",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reinforce",
+    "pronunciation": "ˌri:ɪnˈfɔ:s",
+    "meaning": [
+      "wzmacniać",
+      "potwierdzać"
+    ]
+  },
+  {
+    "id": "r-reinforced",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reinforced",
+    "pronunciation": "ˌri:ɪnˈfɔ:st",
+    "meaning": [
+      "wzmocniony",
+      "utwardzony",
+      "żelazobeton",
+      "żelbet"
+    ]
+  },
+  {
+    "id": "r-reinforcement",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reinforcement",
+    "pronunciation": "ˌri:ɪnˈfɔ:smənt",
+    "meaning": [
+      "wzmocnienie",
+      "umocnienie",
+      "posiłki"
+    ]
+  },
+  {
+    "id": "r-reinstate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reinstate",
+    "pronunciation": "ˌri:ɪnˈsteɪt",
+    "meaning": [
+      "przywracać",
+      "przywracać do pracy"
+    ]
+  },
+  {
+    "id": "r-reiterate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reiterate",
+    "pronunciation": "ri:ˈɪtəreɪt",
+    "meaning": [
+      "powtarzać"
+    ]
+  },
+  {
+    "id": "r-reject",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reject",
+    "pronunciation": "/rɪˈdʒekt/",
+    "meaning": [
+      "odrzucać",
+      "nie przyjmować",
+      "odrzut",
+      "brak"
+    ]
+  },
+  {
+    "id": "r-rejoice",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rejoice",
+    "pronunciation": "rɪˈʤɔɪs",
+    "meaning": [
+      "radować się"
+    ]
+  },
+  {
+    "id": "r-rejuvenate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rejuvenate",
+    "pronunciation": "rɪˈʤu:vəneɪt",
+    "meaning": [
+      "odmładzać"
+    ]
+  },
+  {
+    "id": "r-relapse",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "relapse",
+    "pronunciation": "rɪˈlæps",
+    "meaning": [
+      "powracać",
+      "ponownie zapadać",
+      "nawrót",
+      "ponowne wpadnięcie",
+      "pogorszenie"
+    ]
+  },
+  {
+    "id": "r-relate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "relate",
+    "pronunciation": "rɪˈleɪt",
+    "meaning": [
+      "odnosić się",
+      "łączyć się",
+      "wiązać",
+      "kojarzyć",
+      "relacjonować"
+    ]
+  },
+  {
+    "id": "r-related",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "related",
+    "pronunciation": "rɪˈleɪtɪd",
+    "meaning": [
+      "spokrewniony"
+    ]
+  },
+  {
+    "id": "r-relation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "relation",
+    "pronunciation": "rɪˈleɪʃən",
+    "meaning": [
+      "odniesienie",
+      "więź",
+      "krewny",
+      "relacja",
+      "stosunek"
+    ]
+  },
+  {
+    "id": "r-relationship",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "relationship",
+    "pronunciation": "rɪˈleɪʃənʃɪp",
+    "meaning": [
+      "stosunek",
+      "związek"
+    ]
+  },
+  {
+    "id": "r-relative",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "relative",
+    "pronunciation": "ˈrelətɪv",
+    "meaning": [
+      "stosunkowy",
+      "relatywny",
+      "odpowiedni",
+      "względny",
+      "odnośnie",
+      "krewny"
+    ]
+  },
+  {
+    "id": "r-relatively",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "relatively",
+    "pronunciation": "ˈrelətɪvlɪ",
+    "meaning": [
+      "stosunkowo"
+    ]
+  },
+  {
+    "id": "r-relax",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "relax",
+    "pronunciation": "rɪˈlæks",
+    "meaning": [
+      "odprężać się",
+      "relaksować się",
+      "rozluźniać się",
+      "zwalniać",
+      "osłabiać",
+      "rozluźniać"
+    ]
+  },
+  {
+    "id": "r-relaxation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "relaxation",
+    "pronunciation": "ˌri:lækˈseɪʃən",
+    "meaning": [
+      "relaks",
+      "odprężenie się",
+      "osłabienie",
+      "rozluźnienie"
+    ]
+  },
+  {
+    "id": "r-relaxed",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "relaxed",
+    "pronunciation": "rɪˈlækst",
+    "meaning": [
+      "rozluźniony"
+    ]
+  },
+  {
+    "id": "r-release",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "release",
+    "pronunciation": "rɪˈli:s",
+    "meaning": [
+      "wypuszczać",
+      "uwalniać",
+      "wydawać",
+      "oswobadzać",
+      "zwalniać",
+      "oswobodzenie",
+      "oświadczenie",
+      "spuszczanie",
+      "uwalnianie",
+      "wersja",
+      "wydanie",
+      "nowa płyta",
+      "płyta",
+      "nowy film",
+      "film"
+    ]
+  },
+  {
+    "id": "r-relegate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "relegate",
+    "pronunciation": "ˈrelɪgeɪt",
+    "meaning": [
+      "relegować",
+      "odsuwać"
+    ]
+  },
+  {
+    "id": "r-relent",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "relent",
+    "pronunciation": "rɪˈlent",
+    "meaning": [
+      "łagodnieć"
+    ]
+  },
+  {
+    "id": "r-relentless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "relentless",
+    "pronunciation": "rɪˈlentlɪs",
+    "meaning": [
+      "bezlitosny",
+      "nieugięty"
+    ]
+  },
+  {
+    "id": "r-relevant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "relevant",
+    "pronunciation": "ˈreləvənt",
+    "meaning": [
+      "tyczący się",
+      "mający znaczenie",
+      "odpowiedni"
+    ]
+  },
+  {
+    "id": "r-reliability",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reliability",
+    "pronunciation": "rɪˌlaɪəˈbɪlətɪ",
+    "meaning": [
+      "niezawodność"
+    ]
+  },
+  {
+    "id": "r-reliable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "reliable",
+    "pronunciation": "rɪˈlaɪəbəl",
+    "meaning": [
+      "pewny",
+      "niezawodny",
+      "odpowiedzialny"
+    ]
+  },
+  {
+    "id": "r-reliance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reliance",
+    "pronunciation": "rɪˈlaɪəns",
+    "meaning": [
+      "zaufanie"
+    ]
+  },
+  {
+    "id": "r-reliant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reliant",
+    "pronunciation": "rɪˈlaɪənt",
+    "meaning": [
+      "zależny"
+    ]
+  },
+  {
+    "id": "r-relic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "relic",
+    "pronunciation": "ˈrelɪk",
+    "meaning": [
+      "relikt",
+      "relikwia"
+    ]
+  },
+  {
+    "id": "r-relief",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "relief",
+    "pronunciation": "rɪˈli:f",
+    "meaning": [
+      "ulga",
+      "pomoc"
+    ]
+  },
+  {
+    "id": "r-relieve",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "relieve",
+    "pronunciation": "rɪˈli:v",
+    "meaning": [
+      "zmniejszyć",
+      "ulżyć",
+      "uwalniać"
+    ]
+  },
+  {
+    "id": "r-relieved",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "relieved",
+    "pronunciation": "rɪˈli:vd",
+    "meaning": [
+      "uszczęśliwiony",
+      "pełen ulgi"
+    ]
+  },
+  {
+    "id": "r-religion",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "religion",
+    "pronunciation": "rɪˈlɪʤən",
+    "meaning": [
+      "religia"
+    ]
+  },
+  {
+    "id": "r-religious",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "religious",
+    "pronunciation": "rɪˈlɪʤəs",
+    "meaning": [
+      "religijny"
+    ]
+  },
+  {
+    "id": "r-religiously",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "religiously",
+    "pronunciation": "rɪˈlɪʤəslɪ",
+    "meaning": [
+      "sumiennie",
+      "z czcią"
+    ]
+  },
+  {
+    "id": "r-relinquish",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "relinquish",
+    "pronunciation": "rɪˈlɪŋkwɪʃ",
+    "meaning": [
+      "rezygnować"
+    ]
+  },
+  {
+    "id": "r-relish",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "relish",
+    "pronunciation": "ˈrelɪʃ",
+    "meaning": [
+      "rozkoszować się",
+      "cieszyć się",
+      "upodobanie",
+      "radość",
+      "przyprawa"
+    ]
+  },
+  {
+    "id": "r-relive",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "relive",
+    "pronunciation": "ˌri:ˈlɪv",
+    "meaning": [
+      "odżyć"
+    ]
+  },
+  {
+    "id": "r-relocate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "relocate",
+    "pronunciation": "ˌri:ləʊˈkeɪt",
+    "meaning": [
+      "przenosić"
+    ]
+  },
+  {
+    "id": "r-reluctant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "reluctant",
+    "pronunciation": "rɪˈlʌktənt",
+    "meaning": []
+  },
+  {
+    "id": "r-rely",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rely",
+    "pronunciation": "rɪˈlaɪ",
+    "meaning": [
+      "polegać"
+    ]
+  },
+  {
+    "id": "r-remain",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "remain",
+    "pronunciation": "rɪˈmeɪn",
+    "meaning": [
+      "pozostawać",
+      "resztki",
+      "szczątki",
+      "pozostałości"
+    ]
+  },
+  {
+    "id": "r-remainder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "remainder",
+    "pronunciation": "rɪˈmeɪndə",
+    "meaning": [
+      "reszta"
+    ]
+  },
+  {
+    "id": "r-remand",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "remand",
+    "pronunciation": "rɪˈmɑ:nd",
+    "meaning": [
+      "odraczać rozprawę"
+    ]
+  },
+  {
+    "id": "r-remark",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "remark",
+    "pronunciation": "rɪˈmɑ:k",
+    "meaning": [
+      "zauważać",
+      "napomykać",
+      "komentować",
+      "uwaga"
+    ]
+  },
+  {
+    "id": "r-remarkable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "remarkable",
+    "pronunciation": "rɪˈmɑ:kəbəl",
+    "meaning": [
+      "godny uwagi",
+      "zadziwiający"
+    ]
+  },
+  {
+    "id": "r-remedial",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "remedial",
+    "pronunciation": "rɪˈmi:dɪəl",
+    "meaning": [
+      "leczniczy",
+      "rehabilitacyjny",
+      "dokształcający"
+    ]
+  },
+  {
+    "id": "r-remedy",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "remedy",
+    "pronunciation": "ˈremədɪ",
+    "meaning": [
+      "środek",
+      "lekarstwo",
+      "zaradzić"
+    ]
+  },
+  {
+    "id": "r-remember",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "remember",
+    "pronunciation": "rɪˈmembə",
+    "meaning": [
+      "pamiętać",
+      "przypominać sobie",
+      "przypominać",
+      "przekazywać pozdrowienia"
+    ]
+  },
+  {
+    "id": "r-remembrance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "remembrance",
+    "pronunciation": "rɪˈmembrəns",
+    "meaning": [
+      "pamięć"
+    ]
+  },
+  {
+    "id": "r-remind",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "remind",
+    "pronunciation": "rɪˈmaɪnd",
+    "meaning": [
+      "przypominać"
+    ]
+  },
+  {
+    "id": "r-reminder",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "reminder",
+    "pronunciation": "rɪˈmaɪndə",
+    "meaning": [
+      "przypomnienie",
+      "upomnienie"
+    ]
+  },
+  {
+    "id": "r-reminisce",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reminisce",
+    "pronunciation": "ˌremɪˈnɪs",
+    "meaning": [
+      "wieść",
+      "reminiscencje"
+    ]
+  },
+  {
+    "id": "r-reminiscence",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "reminiscence",
+    "pronunciation": "ˌremɪˈnɪsəns",
+    "meaning": [
+      "reminiscencja"
+    ]
+  },
+  {
+    "id": "r-reminiscent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reminiscent",
+    "pronunciation": "ˌremɪˈnɪsənt",
+    "meaning": [
+      "przypominający"
+    ]
+  },
+  {
+    "id": "r-remission",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "remission",
+    "pronunciation": "rɪˈmɪʃən",
+    "meaning": [
+      "wcześniejsze zwolnienie"
+    ]
+  },
+  {
+    "id": "r-remit",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "remit",
+    "pronunciation": "rɪˈmɪt",
+    "meaning": [
+      "odpuszczać",
+      "odraczać"
+    ]
+  },
+  {
+    "id": "r-remnant",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "remnant",
+    "pronunciation": "ˈremnənt",
+    "meaning": [
+      "pozostałość",
+      "resztka"
+    ]
+  },
+  {
+    "id": "r-remorse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "remorse",
+    "pronunciation": "rɪˈmɔ:s",
+    "meaning": [
+      "wyrzuty sumienia"
+    ]
+  },
+  {
+    "id": "r-remote",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "remote",
+    "pronunciation": "rɪˈməʊt",
+    "meaning": [
+      "odległy",
+      "oddalony",
+      "odseparowany",
+      "oderwany",
+      "mało prawdopodobny",
+      "zdalne sterowanie",
+      "pilot"
+    ]
+  },
+  {
+    "id": "r-remotely",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "remotely",
+    "pronunciation": "rɪˈməʊtlɪ",
+    "meaning": [
+      "w najmniejszym stopniu",
+      "w oddaleniu"
+    ]
+  },
+  {
+    "id": "r-removable",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "removable",
+    "pronunciation": "rɪˈmu:vəbəl",
+    "meaning": [
+      "usuwalny"
+    ]
+  },
+  {
+    "id": "r-removal",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "removal",
+    "pronunciation": "rɪˈmu:vəl",
+    "meaning": [
+      "usunięcie",
+      "transportowy",
+      "przewoźny"
+    ]
+  },
+  {
+    "id": "r-remove",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "remove",
+    "pronunciation": "rɪˈmu:v",
+    "meaning": [
+      "zabierać",
+      "ściągać",
+      "usuwać"
+    ]
+  },
+  {
+    "id": "r-removed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "removed",
+    "pronunciation": "rɪˈmu:vd",
+    "meaning": [
+      "odległy"
+    ]
+  },
+  {
+    "id": "r-remover",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "remover",
+    "pronunciation": "rɪˈmu:və",
+    "meaning": [
+      "zmywacz",
+      "wywabiacz"
+    ]
+  },
+  {
+    "id": "r-remunerate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "remunerate",
+    "pronunciation": "rɪˈmju:nəreɪt",
+    "meaning": [
+      "wynagradzać"
+    ]
+  },
+  {
+    "id": "r-renaissance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "renaissance",
+    "pronunciation": "rəˈneɪsəns",
+    "meaning": [
+      "renesans"
+    ]
+  },
+  {
+    "id": "r-rename",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rename",
+    "pronunciation": "ˌri:ˈneɪm",
+    "meaning": [
+      "przemianowywać"
+    ]
+  },
+  {
+    "id": "r-rend",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "rend",
+    "pronunciation": "rend",
+    "meaning": [
+      "rozdzierać"
+    ]
+  },
+  {
+    "id": "r-render",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "render",
+    "pronunciation": "ˈrendə",
+    "meaning": [
+      "czynić",
+      "sprawiać",
+      "oddawać",
+      "interpretować",
+      "wykonywać"
+    ]
+  },
+  {
+    "id": "r-rendering",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rendering",
+    "pronunciation": "ˈrendərɪŋ",
+    "meaning": [
+      "wykonanie"
+    ]
+  },
+  {
+    "id": "r-rendezvous",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rendezvous",
+    "pronunciation": "ˈrɒndɪvu:",
+    "meaning": [
+      "spotkanie"
+    ]
+  },
+  {
+    "id": "r-renegade",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "renegade",
+    "pronunciation": "ˈrenɪgeɪd",
+    "meaning": [
+      "renegat"
+    ]
+  },
+  {
+    "id": "r-renew",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "renew",
+    "pronunciation": "rɪˈnju:",
+    "meaning": [
+      "wznawiać",
+      "odnawiać",
+      "przedłużać"
+    ]
+  },
+  {
+    "id": "r-renewal",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "renewal",
+    "pronunciation": "rɪˈnju:əl",
+    "meaning": [
+      "wznowienie",
+      "przedłużenie"
+    ]
+  },
+  {
+    "id": "r-renounce",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "renounce",
+    "pronunciation": "rɪˈnaʊns",
+    "meaning": [
+      "wyrzekać się",
+      "zrzekać się"
+    ]
+  },
+  {
+    "id": "r-renovate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "renovate",
+    "pronunciation": "ˈrenəveɪt",
+    "meaning": [
+      "odnawiać"
+    ]
+  },
+  {
+    "id": "r-renown",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "renown",
+    "pronunciation": "rɪˈnaʊn",
+    "meaning": [
+      "sława"
+    ]
+  },
+  {
+    "id": "r-renowned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "renowned",
+    "pronunciation": "rɪˈnaʊnd",
+    "meaning": [
+      "sławny",
+      "znany"
+    ]
+  },
+  {
+    "id": "r-rent",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rent",
+    "pronunciation": "rent",
+    "meaning": [
+      "wynajmować",
+      "czynsz",
+      "opłata wynajmu"
+    ]
+  },
+  {
+    "id": "r-rental",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "rental",
+    "pronunciation": "ˈrentəl",
+    "meaning": [
+      "opłata za wynajęcie",
+      "czynsz",
+      "dzierżawny"
+    ]
+  },
+  {
+    "id": "r-renunciation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "renunciation",
+    "pronunciation": "rɪˌnʌnsɪˈeɪʃən",
+    "meaning": [
+      "wyrzeczenie się"
+    ]
+  },
+  {
+    "id": "r-reorganize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reorganize",
+    "pronunciation": "rɪˈɔ:gənaɪz",
+    "meaning": [
+      "reorganizować"
+    ]
+  },
+  {
+    "id": "r-Rep.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Rep.",
+    "pronunciation": "/ˌɑːr iː ˈpiː/",
+    "meaning": [
+      "republikański",
+      "republikanin"
+    ]
+  },
+  {
+    "id": "r-rep",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rep",
+    "pronunciation": "rep",
+    "meaning": [
+      "przedstawiciel",
+      "repertuar"
+    ]
+  },
+  {
+    "id": "r-rep.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "rep.",
+    "pronunciation": "/ˌɑːr iː ˈpiː/",
+    "meaning": [
+      "reprezentant",
+      "przedstawiciel"
+    ]
+  },
+  {
+    "id": "r-repair",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "repair",
+    "pronunciation": "rɪˈpeə",
+    "meaning": [
+      "naprawa",
+      "naprawiać",
+      "wynagradzać"
+    ]
+  },
+  {
+    "id": "r-repartee",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "repartee",
+    "pronunciation": "ˌrepɑ:ˈti:",
+    "meaning": [
+      "cięta wymiana zdań"
+    ]
+  },
+  {
+    "id": "r-repay",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "repay",
+    "pronunciation": "rɪˈpeɪ",
+    "meaning": [
+      "zwracać",
+      "odpłacać",
+      "rewanżować się"
+    ]
+  },
+  {
+    "id": "r-repayment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "repayment",
+    "pronunciation": "rɪˈpeɪmənt",
+    "meaning": [
+      "zwrot pieniędzy",
+      "zwrot",
+      "spłata"
+    ]
+  },
+  {
+    "id": "r-repeal",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "repeal",
+    "pronunciation": "rɪˈpi:l",
+    "meaning": [
+      "odwoływać",
+      "uchylać",
+      "odwołanie",
+      "uchylenie"
+    ]
+  },
+  {
+    "id": "r-repeat",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "repeat",
+    "pronunciation": "rɪˈpi:t",
+    "meaning": [
+      "powtarzać",
+      "powtórka",
+      "powtórny"
+    ]
+  },
+  {
+    "id": "r-repeatedly",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "repeatedly",
+    "pronunciation": "rɪˈpi:tɪdlɪ",
+    "meaning": [
+      "powtórnie"
+    ]
+  },
+  {
+    "id": "r-repel",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "repel",
+    "pronunciation": "rɪˈpel",
+    "meaning": [
+      "odpychać",
+      "odrzucać"
+    ]
+  },
+  {
+    "id": "r-repellent",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "repellent",
+    "pronunciation": "rɪˈpelənt",
+    "meaning": [
+      "odrażający",
+      "wstrętny",
+      "środek odstraszający"
+    ]
+  },
+  {
+    "id": "r-repent",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "repent",
+    "pronunciation": "rɪˈpent",
+    "meaning": [
+      "żałować"
+    ]
+  },
+  {
+    "id": "r-repentance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repentance",
+    "pronunciation": "rɪˈpentəns",
+    "meaning": [
+      "żal"
+    ]
+  },
+  {
+    "id": "r-repentant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "repentant",
+    "pronunciation": "rɪˈpentənt",
+    "meaning": [
+      "skruszony",
+      "żałujący"
+    ]
+  },
+  {
+    "id": "r-repercussions",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "repercussions",
+    "pronunciation": "ˌri:pəˈkʌʃənz",
+    "meaning": [
+      "reperkusje"
+    ]
+  },
+  {
+    "id": "r-repertoire",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repertoire",
+    "pronunciation": "ˈrepətwɑ:",
+    "meaning": [
+      "repertuar"
+    ]
+  },
+  {
+    "id": "r-repertory",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repertory",
+    "pronunciation": "ˈrepətərɪ",
+    "meaning": [
+      "repertuar"
+    ]
+  },
+  {
+    "id": "r-repetition",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "repetition",
+    "pronunciation": "ˌrepɪˈtɪʃən",
+    "meaning": [
+      "powtórzenie"
+    ]
+  },
+  {
+    "id": "r-repetitious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "repetitious",
+    "pronunciation": "ˌrepɪˈtɪʃəs",
+    "meaning": [
+      "powtarzający się"
+    ]
+  },
+  {
+    "id": "r-repetitive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "repetitive",
+    "pronunciation": "rɪˈpetɪtɪv",
+    "meaning": [
+      "powtarzający się"
+    ]
+  },
+  {
+    "id": "r-rephrase",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rephrase",
+    "pronunciation": "ˌri:ˈfreɪz",
+    "meaning": [
+      "przeformułowywać"
+    ]
+  },
+  {
+    "id": "r-replace",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "replace",
+    "pronunciation": "rɪˈpleɪs",
+    "meaning": [
+      "zastępować",
+      "odkładać",
+      "umieszczać z powrotem"
+    ]
+  },
+  {
+    "id": "r-replacement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "replacement",
+    "pronunciation": "rɪˈpleɪsmənt",
+    "meaning": [
+      "zastąpienie",
+      "zastępstwo"
+    ]
+  },
+  {
+    "id": "r-replay",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "replay",
+    "pronunciation": "/ˌriːˈpleɪ/",
+    "meaning": [
+      "rozgrywać powtórnie",
+      "przegrywać",
+      "puszczać znów",
+      "puszczać",
+      "powtórny mecz"
+    ]
+  },
+  {
+    "id": "r-replenish",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "replenish",
+    "pronunciation": "rɪˈplenɪʃ",
+    "meaning": [
+      "uzupełniać",
+      "powtórnie napełniać",
+      "napełniać"
+    ]
+  },
+  {
+    "id": "r-replete",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "replete",
+    "pronunciation": "rɪˈpli:t",
+    "meaning": [
+      "przepełniony"
+    ]
+  },
+  {
+    "id": "r-replica",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "replica",
+    "pronunciation": "ˈreplɪkə",
+    "meaning": [
+      "replika",
+      "kopia"
+    ]
+  },
+  {
+    "id": "r-reply",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reply",
+    "pronunciation": "rɪˈplaɪ",
+    "meaning": [
+      "odpowiadać",
+      "odpowiedź"
+    ]
+  },
+  {
+    "id": "r-report",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "report",
+    "pronunciation": "rɪˈpɔ:t",
+    "meaning": [
+      "donosić",
+      "zgłaszać",
+      "składać raport",
+      "składać sprawozdanie",
+      "skarżyć się",
+      "składać doniesienie",
+      "zgłaszać się",
+      "raport",
+      "sprawozdanie",
+      "świadectwo",
+      "odgłos",
+      "huk",
+      "pogłoski",
+      "wieści"
+    ]
+  },
+  {
+    "id": "r-reportedly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "reportedly",
+    "pronunciation": "rɪˈpɔ:tɪdlɪ",
+    "meaning": [
+      "rzekomo"
+    ]
+  },
+  {
+    "id": "r-reporter",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reporter",
+    "pronunciation": "rɪˈpɔ:tə",
+    "meaning": [
+      "reporter",
+      "sprawozdawca"
+    ]
+  },
+  {
+    "id": "r-repose",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repose",
+    "pronunciation": "rɪˈpəʊz",
+    "meaning": [
+      "odpoczynek",
+      "spoczynek"
+    ]
+  },
+  {
+    "id": "r-repository",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repository",
+    "pronunciation": "rɪˈpɒzɪtərɪ",
+    "meaning": [
+      "skarbnica",
+      "składnica"
+    ]
+  },
+  {
+    "id": "r-reprehensible",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "reprehensible",
+    "pronunciation": "ˌreprɪˈhensəbəl",
+    "meaning": [
+      "naganny"
+    ]
+  },
+  {
+    "id": "r-represent",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "represent",
+    "pronunciation": "ˌreprɪˈzent",
+    "meaning": [
+      "reprezentować",
+      "przedstawiać"
+    ]
+  },
+  {
+    "id": "r-representation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "representation",
+    "pronunciation": "ˌreprɪzenˈteɪʃən",
+    "meaning": [
+      "przedstawicielstwo",
+      "reprezentacja",
+      "przedstawienie",
+      "sprostowanie",
+      "zażalenie"
+    ]
+  },
+  {
+    "id": "r-representative",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "representative",
+    "pronunciation": "ˌreprɪˈzentətɪv",
+    "meaning": [
+      "przedstawiciel",
+      "reprezentant",
+      "reprezentatywny",
+      "reprezentacyjny",
+      "przedstawicielski"
+    ]
+  },
+  {
+    "id": "r-repress",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "repress",
+    "pronunciation": "rɪˈpres",
+    "meaning": [
+      "tłumić",
+      "zduszać",
+      "represjonować",
+      "utrzymywać w posłuchu"
+    ]
+  },
+  {
+    "id": "r-repression",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "repression",
+    "pronunciation": "rɪˈpreʃən",
+    "meaning": [
+      "represja",
+      "tłumienie odruchów",
+      "tłumienie"
+    ]
+  },
+  {
+    "id": "r-repressive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "repressive",
+    "pronunciation": "rɪˈpresɪv",
+    "meaning": [
+      "represyjny"
+    ]
+  },
+  {
+    "id": "r-reprieve",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reprieve",
+    "pronunciation": "rɪˈpri:v",
+    "meaning": [
+      "ułaskawiać",
+      "ułaskawienie",
+      "zawieszenie"
+    ]
+  },
+  {
+    "id": "r-reprimand",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reprimand",
+    "pronunciation": "ˈreprɪmɑ:nd",
+    "meaning": [
+      "upominać",
+      "reprymenda"
+    ]
+  },
+  {
+    "id": "r-reprint",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reprint",
+    "pronunciation": "/ˌriːˈprɪnt/",
+    "meaning": [
+      "przedrukowywać",
+      "dodrukowywać",
+      "dodruk",
+      "wydanie niezmienione",
+      "wydanie"
+    ]
+  },
+  {
+    "id": "r-reprisal",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "reprisal",
+    "pronunciation": "rɪˈpraɪzəl",
+    "meaning": [
+      "odwet",
+      "akcja odwetowa"
+    ]
+  },
+  {
+    "id": "r-reproach",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reproach",
+    "pronunciation": "rɪˈprəʊʧ",
+    "meaning": [
+      "wyrzut",
+      "robić wyrzuty"
+    ]
+  },
+  {
+    "id": "r-reproachful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reproachful",
+    "pronunciation": "rɪˈprəʊʧfʊl",
+    "meaning": [
+      "pełen wyrzutu"
+    ]
+  },
+  {
+    "id": "r-reproduce",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reproduce",
+    "pronunciation": "ˌri:prəˈdju:s",
+    "meaning": [
+      "reprodukować",
+      "naśladować",
+      "mnożyć się"
+    ]
+  },
+  {
+    "id": "r-reproduction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reproduction",
+    "pronunciation": "ˌri:prəˈdʌkʃən",
+    "meaning": [
+      "reprodukcja",
+      "kopiowanie",
+      "rozmnażanie się",
+      "rozmnażanie"
+    ]
+  },
+  {
+    "id": "r-reproductive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reproductive",
+    "pronunciation": "ˌri:prəˈdʌktɪv",
+    "meaning": [
+      "rozrodczy"
+    ]
+  },
+  {
+    "id": "r-reproof",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reproof",
+    "pronunciation": "rɪˈpru:f",
+    "meaning": [
+      "nagana",
+      "zarzut"
+    ]
+  },
+  {
+    "id": "r-reprove",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "reprove",
+    "pronunciation": "rɪˈpru:v",
+    "meaning": [
+      "ganić",
+      "strofować"
+    ]
+  },
+  {
+    "id": "r-reptile",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "reptile",
+    "pronunciation": "ˈreptaɪl",
+    "meaning": [
+      "gad"
+    ]
+  },
+  {
+    "id": "r-republic",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "republic",
+    "pronunciation": "rɪˈpʌblɪk",
+    "meaning": [
+      "republika"
+    ]
+  },
+  {
+    "id": "r-republican",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "republican",
+    "pronunciation": "rɪˈpʌblɪkən",
+    "meaning": [
+      "republikański",
+      "republikanin"
+    ]
+  },
+  {
+    "id": "r-repudiate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "repudiate",
+    "pronunciation": "rɪˈpju:dɪeɪt",
+    "meaning": [
+      "odrzucać"
+    ]
+  },
+  {
+    "id": "r-repugnance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repugnance",
+    "pronunciation": "rɪˈpʌgnəns",
+    "meaning": [
+      "wstręt"
+    ]
+  },
+  {
+    "id": "r-repugnant",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "repugnant",
+    "pronunciation": "rɪˈpʌgnənt",
+    "meaning": [
+      "wstrętny"
+    ]
+  },
+  {
+    "id": "r-repulse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "repulse",
+    "pronunciation": "rɪˈpʌls",
+    "meaning": [
+      "odrzucać"
+    ]
+  },
+  {
+    "id": "r-repulsion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repulsion",
+    "pronunciation": "rɪˈpʌlʃən",
+    "meaning": [
+      "odraza",
+      "wstręt"
+    ]
+  },
+  {
+    "id": "r-repulsive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "repulsive",
+    "pronunciation": "rɪˈpʌlsɪv",
+    "meaning": [
+      "odrażający"
+    ]
+  },
+  {
+    "id": "r-reputable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reputable",
+    "pronunciation": "ˈrepjʊtəbəl",
+    "meaning": [
+      "renomowany"
+    ]
+  },
+  {
+    "id": "r-reputation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reputation",
+    "pronunciation": "ˌrepjʊˈteɪʃən",
+    "meaning": [
+      "reputacja",
+      "opinia"
+    ]
+  },
+  {
+    "id": "r-repute",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "repute",
+    "pronunciation": "rɪˈpju:t",
+    "meaning": [
+      "reputacja"
+    ]
+  },
+  {
+    "id": "r-reputed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reputed",
+    "pronunciation": "rɪˈpju:tɪd",
+    "meaning": [
+      "uznawany"
+    ]
+  },
+  {
+    "id": "r-reputedly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "reputedly",
+    "pronunciation": "rɪˈpju:tɪdlɪ",
+    "meaning": [
+      "rzekomo",
+      "podobno"
+    ]
+  },
+  {
+    "id": "r-request",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "request",
+    "pronunciation": "rɪˈkwest",
+    "meaning": [
+      "składać prośbę",
+      "upraszać",
+      "prośba"
+    ]
+  },
+  {
+    "id": "r-require",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "require",
+    "pronunciation": "rɪˈkwaɪə",
+    "meaning": [
+      "potrzebować",
+      "wymagać"
+    ]
+  },
+  {
+    "id": "r-requirement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "requirement",
+    "pronunciation": "rɪˈkwaɪəmənt",
+    "meaning": [
+      "wymaganie",
+      "potrzeba"
+    ]
+  },
+  {
+    "id": "r-requisite",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "requisite",
+    "pronunciation": "ˈrekwɪzɪt",
+    "meaning": [
+      "niezbędny",
+      "wymagany",
+      "rzecz niezbędna"
+    ]
+  },
+  {
+    "id": "r-requisition",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "requisition",
+    "pronunciation": "ˌrekwɪˈzɪʃən",
+    "meaning": [
+      "rekwizycja",
+      "rekwirować"
+    ]
+  },
+  {
+    "id": "r-re-route",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "re-route",
+    "pronunciation": "ˌri:ˈru:t",
+    "meaning": [
+      "kierować inną trasą",
+      "kierować"
+    ]
+  },
+  {
+    "id": "r-rescue",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rescue",
+    "pronunciation": "ˈreskju:",
+    "meaning": [
+      "ratować",
+      "pomoc",
+      "ratunek",
+      "akcja ratownicza"
+    ]
+  },
+  {
+    "id": "r-rescuer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rescuer",
+    "pronunciation": "ˈreskjʊə",
+    "meaning": [
+      "ratownik"
+    ]
+  },
+  {
+    "id": "r-research",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "research",
+    "pronunciation": "rɪˈsɜ:ʧ",
+    "meaning": [
+      "badania",
+      "praca naukowa",
+      "badać",
+      "prowadzić badania naukowe",
+      "prowadzić badania"
+    ]
+  },
+  {
+    "id": "r-researcher",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "researcher",
+    "pronunciation": "rɪˈsɜ:ʧə",
+    "meaning": [
+      "badacz"
+    ]
+  },
+  {
+    "id": "r-resemblance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "resemblance",
+    "pronunciation": "rɪˈzembləns",
+    "meaning": [
+      "podobieństwo"
+    ]
+  },
+  {
+    "id": "r-resemble",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "resemble",
+    "pronunciation": "rɪˈzembəl",
+    "meaning": [
+      "przypominać",
+      "być podobnym"
+    ]
+  },
+  {
+    "id": "r-resent",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "resent",
+    "pronunciation": "rɪˈzent",
+    "meaning": [
+      "czuć urazę",
+      "mieć za złe"
+    ]
+  },
+  {
+    "id": "r-resentful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "resentful",
+    "pronunciation": "rɪˈzentfʊl",
+    "meaning": [
+      "urażony"
+    ]
+  },
+  {
+    "id": "r-resentment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "resentment",
+    "pronunciation": "rɪˈzentmənt",
+    "meaning": [
+      "uraza",
+      "resentyment"
+    ]
+  },
+  {
+    "id": "r-reservation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reservation",
+    "pronunciation": "ˌrezəˈveɪʃən",
+    "meaning": [
+      "zastrzeżenie",
+      "rezerwacja"
+    ]
+  },
+  {
+    "id": "r-reserve",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reserve",
+    "pronunciation": "rɪˈzɜ:v",
+    "meaning": [
+      "rezerwować",
+      "rezerwa",
+      "zapas",
+      "rezerwat"
+    ]
+  },
+  {
+    "id": "r-reserved",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reserved",
+    "pronunciation": "rɪˈzɜ:vd",
+    "meaning": [
+      "pełen rezerwy",
+      "powściągliwy"
+    ]
+  },
+  {
+    "id": "r-reservoir",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reservoir",
+    "pronunciation": "ˈrezəvwɑ:",
+    "meaning": [
+      "rezerwuar",
+      "zbiornik"
+    ]
+  },
+  {
+    "id": "r-reside",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reside",
+    "pronunciation": "rɪˈzaɪd",
+    "meaning": [
+      "znajdować się"
+    ]
+  },
+  {
+    "id": "r-residence",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "residence",
+    "pronunciation": "ˈrezɪdəns",
+    "meaning": [
+      "rezydencja",
+      "miejsce zamieszkania"
+    ]
+  },
+  {
+    "id": "r-resident",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "resident",
+    "pronunciation": "ˈrezɪdənt",
+    "meaning": [
+      "stały mieszkaniec",
+      "mieszkaniec",
+      "zamieszkały",
+      "miejscowy",
+      "zamieszkały na miejscu",
+      "rezydentny"
+    ]
+  },
+  {
+    "id": "r-residential",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "residential",
+    "pronunciation": "ˌrezɪˈdenʃəl",
+    "meaning": [
+      "mieszkalny",
+      "mieszkaniowy",
+      "z internatem",
+      "wymagający mieszkania na miejscu"
+    ]
+  },
+  {
+    "id": "r-residual",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "residual",
+    "pronunciation": "rɪˈzɪdjʊəl",
+    "meaning": [
+      "szczątkowy"
+    ]
+  },
+  {
+    "id": "r-residue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "residue",
+    "pronunciation": "ˈrezɪdju:",
+    "meaning": [
+      "resztki",
+      "pozostałości"
+    ]
+  },
+  {
+    "id": "r-resign",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "resign",
+    "pronunciation": "rɪˈzaɪn",
+    "meaning": [
+      "rezygnować"
+    ]
+  },
+  {
+    "id": "r-resignation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "resignation",
+    "pronunciation": "ˌrezɪˈgneɪʃən",
+    "meaning": [
+      "wypowiedzenie",
+      "rezygnacja"
+    ]
+  },
+  {
+    "id": "r-resigned",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "resigned",
+    "pronunciation": "rɪˈzaɪnd",
+    "meaning": [
+      "pogodzony"
+    ]
+  },
+  {
+    "id": "r-resilient",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "resilient",
+    "pronunciation": "rɪˈzɪlɪənt",
+    "meaning": [
+      "elastyczny",
+      "prężny"
+    ]
+  },
+  {
+    "id": "r-resin",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "resin",
+    "pronunciation": "ˈrezɪn",
+    "meaning": [
+      "żywica"
+    ]
+  },
+  {
+    "id": "r-resist",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "resist",
+    "pronunciation": "rɪˈzɪst",
+    "meaning": [
+      "stawiać opór",
+      "opierać się",
+      "opierać",
+      "dawać odpór",
+      "odpierać",
+      "powstrzymywać się"
+    ]
+  },
+  {
+    "id": "r-resistance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "resistance",
+    "pronunciation": "rɪˈzɪstəns",
+    "meaning": [
+      "opór",
+      "odporność"
+    ]
+  },
+  {
+    "id": "r-resistant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "resistant",
+    "pronunciation": "rɪˈzɪstənt",
+    "meaning": [
+      "oporny",
+      "odporny"
+    ]
+  },
+  {
+    "id": "r-resolute",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "resolute",
+    "pronunciation": "ˈrezəljʊt",
+    "meaning": [
+      "zdecydowany"
+    ]
+  },
+  {
+    "id": "r-resolution",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "resolution",
+    "pronunciation": "ˌrezəˈlu:ʃən",
+    "meaning": [
+      "rezolucja",
+      "postanowienie",
+      "zdeterminowanie",
+      "rozwiązanie"
+    ]
+  },
+  {
+    "id": "r-resolve",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "resolve",
+    "pronunciation": "rɪˈzɒlv",
+    "meaning": [
+      "postanawiać",
+      "rozwiązywać",
+      "postanowienie"
+    ]
+  },
+  {
+    "id": "r-resonant",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "resonant",
+    "pronunciation": "ˈrezənənt",
+    "meaning": [
+      "głęboki"
+    ]
+  },
+  {
+    "id": "r-resonate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "resonate",
+    "pronunciation": "ˈrezəneɪt",
+    "meaning": [
+      "rozbrzmiewać"
+    ]
+  },
+  {
+    "id": "r-resort",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "resort",
+    "pronunciation": "rɪˈzɔ:t",
+    "meaning": [
+      "uciekać się",
+      "miejscowość wypoczynkowa"
+    ]
+  },
+  {
+    "id": "r-resound",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "resound",
+    "pronunciation": "rɪˈzaʊnd",
+    "meaning": [
+      "rozbrzmiewać",
+      "napełniać się"
+    ]
+  },
+  {
+    "id": "r-resounding",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "resounding",
+    "pronunciation": "rɪˈzaʊndɪŋ",
+    "meaning": [
+      "rozgłośny"
+    ]
+  },
+  {
+    "id": "r-resource",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "resource",
+    "pronunciation": "rɪˈzɔ:s",
+    "meaning": [
+      "zasoby"
+    ]
+  },
+  {
+    "id": "r-resourceful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "resourceful",
+    "pronunciation": "rɪˈzɔ:sfʊl",
+    "meaning": [
+      "zmyślny",
+      "pomysłowy"
+    ]
+  },
+  {
+    "id": "r-resp.",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "resp.",
+    "pronunciation": "/rɪˈspɒnd/",
+    "meaning": [
+      "odpowiednio"
+    ]
+  },
+  {
+    "id": "r-respectable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "respectable",
+    "pronunciation": "rɪˈspektəbəl",
+    "meaning": [
+      "szacowny",
+      "przyzwoity"
+    ]
+  },
+  {
+    "id": "r-respectful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "respectful",
+    "pronunciation": "rɪˈspektfʊl",
+    "meaning": [
+      "pełen szacunku"
+    ]
+  },
+  {
+    "id": "r-respective",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "respective",
+    "pronunciation": "rɪˈspektɪv",
+    "meaning": [
+      "właściwy",
+      "odpowiedni"
+    ]
+  },
+  {
+    "id": "r-respectively",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "respectively",
+    "pronunciation": "rɪˈspektɪvlɪ",
+    "meaning": [
+      "odpowiednio"
+    ]
+  },
+  {
+    "id": "r-respiration",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "respiration",
+    "pronunciation": "ˌrespəˈreɪʃən",
+    "meaning": [
+      "oddychanie"
+    ]
+  },
+  {
+    "id": "r-respiratory",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "respiratory",
+    "pronunciation": "rɪˈspɪrətərɪ",
+    "meaning": [
+      "oddechowy",
+      "płucny"
+    ]
+  },
+  {
+    "id": "r-respite",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "respite",
+    "pronunciation": "ˈrespaɪt",
+    "meaning": [
+      "wytchnienie"
+    ]
+  },
+  {
+    "id": "r-resplendent",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "resplendent",
+    "pronunciation": "rɪˈsplendənt",
+    "meaning": [
+      "olśniewający",
+      "pełen splendoru"
+    ]
+  },
+  {
+    "id": "r-respond",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "respond",
+    "pronunciation": "rɪˈspɒnd",
+    "meaning": [
+      "odpowiadać"
+    ]
+  },
+  {
+    "id": "r-response",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "response",
+    "pronunciation": "rɪˈspɒns",
+    "meaning": [
+      "odpowiedź"
+    ]
+  },
+  {
+    "id": "r-responsibility",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "responsibility",
+    "pronunciation": "rɪˌspɒnsəˈbɪlɪtɪ",
+    "meaning": [
+      "odpowiedzialność",
+      "obowiązek"
+    ]
+  },
+  {
+    "id": "r-responsible",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "responsible",
+    "pronunciation": "rɪˈspɒnsɪbəl",
+    "meaning": [
+      "odpowiedzialny"
+    ]
+  },
+  {
+    "id": "r-responsive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "responsive",
+    "pronunciation": "rɪsˈpɒnsɪv",
+    "meaning": [
+      "wrażliwy",
+      "żywo reagujący"
+    ]
+  },
+  {
+    "id": "r-restaurant",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "restaurant",
+    "pronunciation": "ˈrestərɒnt",
+    "meaning": [
+      "restauracja"
+    ]
+  },
+  {
+    "id": "r-restful",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "restful",
+    "pronunciation": "ˈrestfʊl",
+    "meaning": [
+      "dający odpoczynek"
+    ]
+  },
+  {
+    "id": "r-restitution",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "restitution",
+    "pronunciation": "ˌrestɪˈtju:ʃən",
+    "meaning": [
+      "restytucja",
+      "przywrócenie"
+    ]
+  },
+  {
+    "id": "r-restive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "restive",
+    "pronunciation": "ˈrestɪv",
+    "meaning": [
+      "niespokojny"
+    ]
+  },
+  {
+    "id": "r-restless",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "restless",
+    "pronunciation": "ˈrestlɪs",
+    "meaning": [
+      "niespokojny",
+      "nie mogący sobie znaleźć miejsca"
+    ]
+  },
+  {
+    "id": "r-restoration",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "restoration",
+    "pronunciation": "ˌrestɜ:ˈreɪʃən",
+    "meaning": [
+      "przywrócenie",
+      "restauracja",
+      "odnowienie"
+    ]
+  },
+  {
+    "id": "r-restore",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "restore",
+    "pronunciation": "rɪˈstɔ:",
+    "meaning": [
+      "przywracać",
+      "restaurować"
+    ]
+  },
+  {
+    "id": "r-restrain",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "restrain",
+    "pronunciation": "rɪˈstreɪn",
+    "meaning": [
+      "powstrzymywać"
+    ]
+  },
+  {
+    "id": "r-restrained",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "restrained",
+    "pronunciation": "rɪˈstreɪnd",
+    "meaning": [
+      "powściągliwy"
+    ]
+  },
+  {
+    "id": "r-restraint",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "restraint",
+    "pronunciation": "rɪˈstreɪnt",
+    "meaning": [
+      "ograniczenie",
+      "powściągliwość"
+    ]
+  },
+  {
+    "id": "r-restrict",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "restrict",
+    "pronunciation": "rɪˈstrɪkt",
+    "meaning": [
+      "ograniczać"
+    ]
+  },
+  {
+    "id": "r-restricted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "restricted",
+    "pronunciation": "rɪˈstrɪktɪd",
+    "meaning": [
+      "ograniczony",
+      "poufny",
+      "o ograniczonym dostępie"
+    ]
+  },
+  {
+    "id": "r-restriction",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "restriction",
+    "pronunciation": "rɪˈstrɪkʃən",
+    "meaning": [
+      "ograniczenie",
+      "restrykcje"
+    ]
+  },
+  {
+    "id": "r-restrictive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "restrictive",
+    "pronunciation": "rɪˈstrɪktɪv",
+    "meaning": [
+      "ograniczający",
+      "restrykcyjny"
+    ]
+  },
+  {
+    "id": "r-result",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "result",
+    "pronunciation": "rɪˈzʌlt",
+    "meaning": [
+      "rezultat",
+      "wynik",
+      "ocena",
+      "dawać w wyniku",
+      "kończyć się",
+      "wynikać",
+      "być rezultatem"
+    ]
+  },
+  {
+    "id": "r-resultant",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "resultant",
+    "pronunciation": "rɪˈzʌltənt",
+    "meaning": [
+      "wynikający",
+      "wynikły"
+    ]
+  },
+  {
+    "id": "r-resume",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "resume",
+    "pronunciation": "rɪˈzju:m",
+    "meaning": [
+      "wznawiać",
+      "kontynuować się",
+      "kontynuować",
+      "przyjmować"
+    ]
+  },
+  {
+    "id": "r-résumé",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "résumé",
+    "pronunciation": "ˈrezjʊmeɪ",
+    "meaning": [
+      "podsumowanie",
+      "streszczenie",
+      "życiorys"
+    ]
+  },
+  {
+    "id": "r-resumption",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "resumption",
+    "pronunciation": "rɪˈzʌmpʃən",
+    "meaning": [
+      "wznowienie",
+      "ponowne podjęcie",
+      "podjęcie"
+    ]
+  },
+  {
+    "id": "r-resurgence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "resurgence",
+    "pronunciation": "rɪˈsɜ:ʤəns",
+    "meaning": [
+      "odrodzenie się"
+    ]
+  },
+  {
+    "id": "r-resurrect",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "resurrect",
+    "pronunciation": "ˌrezəˈrekt",
+    "meaning": [
+      "wskrzeszać"
+    ]
+  },
+  {
+    "id": "r-resurrection",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "resurrection",
+    "pronunciation": "ˌrezəˈrekʃən",
+    "meaning": [
+      "wskrzeszenie"
+    ]
+  },
+  {
+    "id": "r-resuscitate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "resuscitate",
+    "pronunciation": "rɪˈsʌsɪteɪt",
+    "meaning": [
+      "reanimować"
+    ]
+  },
+  {
+    "id": "r-resuscitation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "resuscitation",
+    "pronunciation": "rɪˌsʌsɪˈteɪʃən",
+    "meaning": [
+      "reanimacja"
+    ]
+  },
+  {
+    "id": "r-retail",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "retail",
+    "pronunciation": "ˈri:teɪl",
+    "meaning": [
+      "detal",
+      "detaliczna sprzedaż",
+      "detaliczny"
+    ]
+  },
+  {
+    "id": "r-retailer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "retailer",
+    "pronunciation": "ˈri:teɪlə",
+    "meaning": [
+      "detalista"
+    ]
+  },
+  {
+    "id": "r-retain",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "retain",
+    "pronunciation": "rɪˈteɪn",
+    "meaning": [
+      "zachowywać",
+      "zatrzymywać"
+    ]
+  },
+  {
+    "id": "r-retaliate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "retaliate",
+    "pronunciation": "rɪˈtælɪeɪt",
+    "meaning": [
+      "brać odwet"
+    ]
+  },
+  {
+    "id": "r-retaliation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "retaliation",
+    "pronunciation": "rɪˌtælɪˈeɪʃən",
+    "meaning": [
+      "odwet"
+    ]
+  },
+  {
+    "id": "r-retarded",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "retarded",
+    "pronunciation": "rɪˈtɑ:dɪd",
+    "meaning": [
+      "opóźniony"
+    ]
+  },
+  {
+    "id": "r-retch",
+    "level": "B2",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "retch",
+    "pronunciation": "reʧ",
+    "meaning": []
+  },
+  {
+    "id": "r-retd.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "retd.",
+    "pronunciation": "/rɪˈtaɪəd/",
+    "meaning": [
+      "emerytowany"
+    ]
+  },
+  {
+    "id": "r-retention",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "retention",
+    "pronunciation": "rɪˈtenʃən",
+    "meaning": [
+      "zatrzymanie",
+      "pozostawienie"
+    ]
+  },
+  {
+    "id": "r-rethink",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rethink",
+    "pronunciation": "ˌri:ˈθɪŋk",
+    "meaning": [
+      "przemyśleć"
+    ]
+  },
+  {
+    "id": "r-reticent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reticent",
+    "pronunciation": "ˈretɪsənt",
+    "meaning": [
+      "powściągliwy"
+    ]
+  },
+  {
+    "id": "r-retina",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "retina",
+    "pronunciation": "ˈrətɪnə",
+    "meaning": [
+      "siatkówka"
+    ]
+  },
+  {
+    "id": "r-retinue",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "retinue",
+    "pronunciation": "ˈrətɪnju:",
+    "meaning": [
+      "świta",
+      "orszak"
+    ]
+  },
+  {
+    "id": "r-retire",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "retire",
+    "pronunciation": "rɪˈtaɪə",
+    "meaning": [
+      "iść na emeryturę",
+      "wycofywać się",
+      "iść kłaść się spać",
+      "kłaść się spać"
+    ]
+  },
+  {
+    "id": "r-retired",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "retired",
+    "pronunciation": "rɪˈtaɪəd",
+    "meaning": [
+      "emerytowany"
+    ]
+  },
+  {
+    "id": "r-retirement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "retirement",
+    "pronunciation": "rɪˈtaɪəmənt",
+    "meaning": [
+      "emerytura"
+    ]
+  },
+  {
+    "id": "r-retiring",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "retiring",
+    "pronunciation": "rɪˈtaɪərɪŋ",
+    "meaning": [
+      "ustępujący",
+      "idący na emeryturę",
+      "mało towarzyski",
+      "emerytalny"
+    ]
+  },
+  {
+    "id": "r-retort",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "retort",
+    "pronunciation": "rɪˈtɔ:t",
+    "meaning": [
+      "replikować",
+      "replika"
+    ]
+  },
+  {
+    "id": "r-retrace",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "retrace",
+    "pronunciation": "rɪˈtreɪs",
+    "meaning": [
+      "cofać się tą samą drogą",
+      "cofać się"
+    ]
+  },
+  {
+    "id": "r-retract",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "retract",
+    "pronunciation": "rɪˈtrækt",
+    "meaning": [
+      "wycofywać",
+      "cofać się"
+    ]
+  },
+  {
+    "id": "r-retreat",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "retreat",
+    "pronunciation": "rɪˈtri:t",
+    "meaning": [
+      "odsuwać się",
+      "wycofywać się",
+      "odwrót",
+      "schronienie",
+      "azyl"
+    ]
+  },
+  {
+    "id": "r-retrial",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "retrial",
+    "pronunciation": "ˌrɪˈtraɪəl",
+    "meaning": [
+      "rewizja"
+    ]
+  },
+  {
+    "id": "r-retribution",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "retribution",
+    "pronunciation": "ˌretrɪˈbju:ʃən",
+    "meaning": [
+      "kara"
+    ]
+  },
+  {
+    "id": "r-retrieval",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "retrieval",
+    "pronunciation": "rɪˈtri:vəl",
+    "meaning": [
+      "odzyskiwanie danych",
+      "odzyskiwanie"
+    ]
+  },
+  {
+    "id": "r-retrieve",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "retrieve",
+    "pronunciation": "rɪˈtri:v",
+    "meaning": [
+      "odzyskiwać",
+      "naprawiać"
+    ]
+  },
+  {
+    "id": "r-retrograde",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "retrograde",
+    "pronunciation": "ˈretrəgreɪd",
+    "meaning": [
+      "wsteczny",
+      "regresywny"
+    ]
+  },
+  {
+    "id": "r-retrospect",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "retrospect",
+    "pronunciation": "ˈretrəspekt",
+    "meaning": []
+  },
+  {
+    "id": "r-retrospective",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "retrospective",
+    "pronunciation": "ˌretrəˈspektɪv",
+    "meaning": [
+      "retrospektywny",
+      "działający wstecz"
+    ]
+  },
+  {
+    "id": "r-return",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "return",
+    "pronunciation": "rɪˈtɜ:n",
+    "meaning": [
+      "powracać",
+      "wracać",
+      "zwracać",
+      "oddawać",
+      "odwzajemniać",
+      "ogłaszać",
+      "wydawać",
+      "powrót",
+      "zwrot",
+      "bilet powrotny",
+      "powrotny",
+      "zysk"
+    ]
+  },
+  {
+    "id": "r-returnable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "returnable",
+    "pronunciation": "rɪˈtɜ:nəbəl",
+    "meaning": [
+      "zwrotny",
+      "podlegający zwróceniu"
+    ]
+  },
+  {
+    "id": "r-reunion",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "reunion",
+    "pronunciation": "ri:ˈju:nɪən",
+    "meaning": [
+      "spotkanie",
+      "zjazd",
+      "połączenie"
+    ]
+  },
+  {
+    "id": "r-reunite",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reunite",
+    "pronunciation": "ˌri:ju:ˈnaɪt",
+    "meaning": [
+      "połączyć",
+      "złączyć",
+      "scalać"
+    ]
+  },
+  {
+    "id": "r-Rev.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "Rev.",
+    "pronunciation": "/rɛv/",
+    "meaning": [
+      "wielebny"
+    ]
+  },
+  {
+    "id": "r-rev",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rev",
+    "pronunciation": "rev",
+    "meaning": [
+      "zwiększać obroty",
+      "liczba obrotów"
+    ]
+  },
+  {
+    "id": "r-rev.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rev.",
+    "pronunciation": "/rɛv/",
+    "meaning": [
+      "obrót"
+    ]
+  },
+  {
+    "id": "r-Revd.",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "Revd.",
+    "pronunciation": "/ˈrevrənd/",
+    "meaning": [
+      "wielebny"
+    ]
+  },
+  {
+    "id": "r-reveal",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "reveal",
+    "pronunciation": "rɪˈvi:l",
+    "meaning": [
+      "odsłaniać",
+      "odkrywać"
+    ]
+  },
+  {
+    "id": "r-revealing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "revealing",
+    "pronunciation": "rɪˈvi:lɪŋ",
+    "meaning": [
+      "odkrywczy",
+      "odsłaniający",
+      "odkrywający"
+    ]
+  },
+  {
+    "id": "r-revel",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "revel",
+    "pronunciation": "ˈrevəl",
+    "meaning": [
+      "bardzo się cieszyć",
+      "hulać"
+    ]
+  },
+  {
+    "id": "r-revelation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "revelation",
+    "pronunciation": "ˌrevəˈleɪʃən",
+    "meaning": [
+      "rewelacja",
+      "odkrycie"
+    ]
+  },
+  {
+    "id": "r-revelry",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "revelry",
+    "pronunciation": "ˈrevəlrɪ",
+    "meaning": [
+      "hulanka"
+    ]
+  },
+  {
+    "id": "r-revenge",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "revenge",
+    "pronunciation": "rɪˈvenʤ",
+    "meaning": [
+      "zemsta"
+    ]
+  },
+  {
+    "id": "r-revenue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "revenue",
+    "pronunciation": "ˈrevɪnju:",
+    "meaning": [
+      "dochód"
+    ]
+  },
+  {
+    "id": "r-reverberate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "reverberate",
+    "pronunciation": "rɪˈvɜ:bəreɪt",
+    "meaning": [
+      "odbijać się echem"
+    ]
+  },
+  {
+    "id": "r-revere",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "revere",
+    "pronunciation": "rɪˈvɪə",
+    "meaning": [
+      "czcić"
+    ]
+  },
+  {
+    "id": "r-reverence",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reverence",
+    "pronunciation": "ˈrevərəns",
+    "meaning": [
+      "cześć",
+      "czczenie"
+    ]
+  },
+  {
+    "id": "r-reverend",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reverend",
+    "pronunciation": "ˈrevərənd",
+    "meaning": []
+  },
+  {
+    "id": "r-reverent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "reverent",
+    "pronunciation": "ˈrevərənt",
+    "meaning": [
+      "pełen czci"
+    ]
+  },
+  {
+    "id": "r-reversal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reversal",
+    "pronunciation": "rɪˈvɜ:səl",
+    "meaning": [
+      "zwrot",
+      "diametralna zmiana",
+      "zmiana",
+      "odwrócenie"
+    ]
+  },
+  {
+    "id": "r-reverse",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reverse",
+    "pronunciation": "rɪˈvɜ:s",
+    "meaning": [
+      "odwracać",
+      "cofać się",
+      "cofać",
+      "bieg wsteczny",
+      "odwrotny"
+    ]
+  },
+  {
+    "id": "r-reversion",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "reversion",
+    "pronunciation": "rɪˈvɜ:ʃən",
+    "meaning": [
+      "nawrót"
+    ]
+  },
+  {
+    "id": "r-revert",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "revert",
+    "pronunciation": "rɪˈvɜ:t",
+    "meaning": [
+      "cofać się",
+      "powracać"
+    ]
+  },
+  {
+    "id": "r-review",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "review",
+    "pronunciation": "rɪˈvju:",
+    "meaning": [
+      "dokonywać przeglądu",
+      "przemyśliwać",
+      "recenzować",
+      "powtarzać przed egzaminem",
+      "egzamin",
+      "recenzja",
+      "przegląd",
+      "sprawdzenie"
+    ]
+  },
+  {
+    "id": "r-reviewer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "reviewer",
+    "pronunciation": "rɪˈvju:ə",
+    "meaning": [
+      "recenzent"
+    ]
+  },
+  {
+    "id": "r-revise",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "revise",
+    "pronunciation": "rɪˈvaɪz",
+    "meaning": [
+      "poprawiać",
+      "rewidować",
+      "powtarzać"
+    ]
+  },
+  {
+    "id": "r-revision",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "revision",
+    "pronunciation": "rɪˈvɪʒən",
+    "meaning": [
+      "poprawa",
+      "poprawienie",
+      "rewizja",
+      "powtórka"
+    ]
+  },
+  {
+    "id": "r-revitalize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "revitalize",
+    "pronunciation": "ˌri:ˈvaɪtəlaɪz",
+    "meaning": [
+      "ożywiać na nowo"
+    ]
+  },
+  {
+    "id": "r-revival",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "revival",
+    "pronunciation": "rɪˈvaɪvəl",
+    "meaning": [
+      "ożywienie"
+    ]
+  },
+  {
+    "id": "r-revive",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "revive",
+    "pronunciation": "rɪˈvaɪv",
+    "meaning": [
+      "ożywiać się",
+      "ożywiać",
+      "ocucić"
+    ]
+  },
+  {
+    "id": "r-revoke",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "revoke",
+    "pronunciation": "rɪˈvəʊk",
+    "meaning": [
+      "odwoływać"
+    ]
+  },
+  {
+    "id": "r-revolt",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "revolt",
+    "pronunciation": "rɪˈvəʊlt",
+    "meaning": [
+      "bunt",
+      "rewolta",
+      "buntować się"
+    ]
+  },
+  {
+    "id": "r-revolting",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "revolting",
+    "pronunciation": "rɪˈvəʊltɪŋ",
+    "meaning": [
+      "odrażający",
+      "odstręczający"
+    ]
+  },
+  {
+    "id": "r-revolution",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "revolution",
+    "pronunciation": "ˌrevəˈlu:ʃən",
+    "meaning": [
+      "rewolucja",
+      "obrót"
+    ]
+  },
+  {
+    "id": "r-revolutionary",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "revolutionary",
+    "pronunciation": "ˌrevəˈlu:ʃənərɪ",
+    "meaning": [
+      "rewolucyjny",
+      "rewolucjonista"
+    ]
+  },
+  {
+    "id": "r-revolutionize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "revolutionize",
+    "pronunciation": "ˌrevəˈlu:ʃənaɪz",
+    "meaning": [
+      "rewolucjonizować"
+    ]
+  },
+  {
+    "id": "r-revolve",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "revolve",
+    "pronunciation": "rɪˈvɒlv",
+    "meaning": [
+      "obracać się",
+      "kręcić się"
+    ]
+  },
+  {
+    "id": "r-revolver",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "revolver",
+    "pronunciation": "rɪˈvɒlvə",
+    "meaning": [
+      "rewolwer"
+    ]
+  },
+  {
+    "id": "r-revue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "revue",
+    "pronunciation": "rɪˈvju:",
+    "meaning": [
+      "rewia"
+    ]
+  },
+  {
+    "id": "r-revulsion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "revulsion",
+    "pronunciation": "rɪˈvʌlʃən",
+    "meaning": [
+      "odraza"
+    ]
+  },
+  {
+    "id": "r-reward",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "reward",
+    "pronunciation": "rɪˈwɔ:d",
+    "meaning": [
+      "nagroda",
+      "nagradzać"
+    ]
+  },
+  {
+    "id": "r-rewarding",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rewarding",
+    "pronunciation": "rɪˈwɔ:dɪŋ",
+    "meaning": [
+      "opłacalny"
+    ]
+  },
+  {
+    "id": "r-rewind",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rewind",
+    "pronunciation": "ˌri:ˈwaɪnd",
+    "meaning": [
+      "przewijać"
+    ]
+  },
+  {
+    "id": "r-rewrite",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rewrite",
+    "pronunciation": "ˌri:ˈraɪt",
+    "meaning": [
+      "przepisywać",
+      "ulepszać"
+    ]
+  },
+  {
+    "id": "r-rhetoric",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rhetoric",
+    "pronunciation": "ˈretərɪk",
+    "meaning": [
+      "retoryka"
+    ]
+  },
+  {
+    "id": "r-rhetorical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rhetorical",
+    "pronunciation": "rɪˈtɒrɪkəl",
+    "meaning": [
+      "retoryczny"
+    ]
+  },
+  {
+    "id": "r-rheumatic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rheumatic",
+    "pronunciation": "ru:ˈmætɪk",
+    "meaning": [
+      "reumatyczny",
+      "chory na reumatyzm"
+    ]
+  },
+  {
+    "id": "r-rheumatism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rheumatism",
+    "pronunciation": "ˈru:mətɪzəm",
+    "meaning": [
+      "reumatyzm"
+    ]
+  },
+  {
+    "id": "r-Rhine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Rhine",
+    "pronunciation": "raɪn",
+    "meaning": []
+  },
+  {
+    "id": "r-rhino",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rhino",
+    "pronunciation": "ˈraɪnəʊ",
+    "meaning": [
+      "nosorożec"
+    ]
+  },
+  {
+    "id": "r-rhinoceros",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rhinoceros",
+    "pronunciation": "raɪˈnɒsərəs",
+    "meaning": [
+      "nosorożec"
+    ]
+  },
+  {
+    "id": "r-Rhodesia",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "Rhodesia",
+    "pronunciation": "rəʊˈdi:ʃə",
+    "meaning": [
+      "Rodezja"
+    ]
+  },
+  {
+    "id": "r-Rhodesian",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "Rhodesian",
+    "pronunciation": "rəʊˈdi:ʃən",
+    "meaning": [
+      "rodezyjski"
+    ]
+  },
+  {
+    "id": "r-rhododendron",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "rhododendron",
+    "pronunciation": "ˌrəʊdəˈdendrən",
+    "meaning": [
+      "rododendron",
+      "różanecznik"
+    ]
+  },
+  {
+    "id": "r-rhubarb",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rhubarb",
+    "pronunciation": "ˈru:bɑ:b",
+    "meaning": [
+      "rabarbar"
+    ]
+  },
+  {
+    "id": "r-rhyme",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rhyme",
+    "pronunciation": "raɪm",
+    "meaning": [
+      "rymować się",
+      "rymować",
+      "rym",
+      "rymowanka"
+    ]
+  },
+  {
+    "id": "r-rhythm",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rhythm",
+    "pronunciation": "ˈrɪðəm",
+    "meaning": [
+      "rytm"
+    ]
+  },
+  {
+    "id": "r-rhythmic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rhythmic",
+    "pronunciation": "ˈrɪðmɪk",
+    "meaning": [
+      "rytmiczny"
+    ]
+  },
+  {
+    "id": "r-rib",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rib",
+    "pronunciation": "rɪb",
+    "meaning": [
+      "żebro",
+      "żartować"
+    ]
+  },
+  {
+    "id": "r-ribald",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ribald",
+    "pronunciation": "ˈrɪbəld",
+    "meaning": [
+      "sprośny"
+    ]
+  },
+  {
+    "id": "r-ribbon",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ribbon",
+    "pronunciation": "ˈrɪbən",
+    "meaning": [
+      "wstążka",
+      "taśma"
+    ]
+  },
+  {
+    "id": "r-rice",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "rice",
+    "pronunciation": "raɪs",
+    "meaning": [
+      "ryż"
+    ]
+  },
+  {
+    "id": "r-rich",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "rich",
+    "pronunciation": "rɪʧ",
+    "meaning": [
+      "bogaty",
+      "tłusty",
+      "nasycony",
+      "głęboki",
+      "bogactwa"
+    ]
+  },
+  {
+    "id": "r-richly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "richly",
+    "pronunciation": "ˈrɪʧlɪ",
+    "meaning": [
+      "bogato",
+      "obficie",
+      "wielce",
+      "bardzo"
+    ]
+  },
+  {
+    "id": "r-rick",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rick",
+    "pronunciation": "rɪk",
+    "meaning": [
+      "stóg",
+      "kopa"
+    ]
+  },
+  {
+    "id": "r-rickety",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rickety",
+    "pronunciation": "ˈrɪkɪtɪ",
+    "meaning": [
+      "rozklekotany",
+      "rozpadający się"
+    ]
+  },
+  {
+    "id": "r-rickshaw",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rickshaw",
+    "pronunciation": "ˈrɪkʃɔ:",
+    "meaning": [
+      "riksza"
+    ]
+  },
+  {
+    "id": "r-ricochet",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ricochet",
+    "pronunciation": "ˈrɪkəʃeɪ",
+    "meaning": [
+      "rykoszetować",
+      "rykoszet"
+    ]
+  },
+  {
+    "id": "r-rid",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "rid",
+    "pronunciation": "rɪd",
+    "meaning": [
+      "uwalniać",
+      "oczyszczać",
+      "uwolniony"
+    ]
+  },
+  {
+    "id": "r-riddle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "riddle",
+    "pronunciation": "ˈrɪdəl",
+    "meaning": [
+      "podziurawić",
+      "przeżerać",
+      "zagadka"
+    ]
+  },
+  {
+    "id": "r-ride",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ride",
+    "pronunciation": "raɪd",
+    "meaning": [
+      "jeździć",
+      "przejażdżka",
+      "jazda",
+      "podjeżdżać",
+      "podsuwać się",
+      "podjeżdżać do góry"
+    ]
+  },
+  {
+    "id": "r-rider",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rider",
+    "pronunciation": "ˈraɪdə",
+    "meaning": [
+      "jeździec",
+      "rowerzysta",
+      "motocyklista",
+      "aneks"
+    ]
+  },
+  {
+    "id": "r-ridge",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ridge",
+    "pronunciation": "rɪʤ",
+    "meaning": [
+      "grzbiet",
+      "krawędź",
+      "karb",
+      "wypukłość"
+    ]
+  },
+  {
+    "id": "r-ridicule",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ridicule",
+    "pronunciation": "ˈrɪdɪkju:l",
+    "meaning": [
+      "drwić",
+      "szydzić",
+      "szyderstwo",
+      "drwina"
+    ]
+  },
+  {
+    "id": "r-ridiculous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ridiculous",
+    "pronunciation": "rɪˈdɪkjələs",
+    "meaning": [
+      "groteskowy",
+      "śmieszny"
+    ]
+  },
+  {
+    "id": "r-rife",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rife",
+    "pronunciation": "raɪf",
+    "meaning": [
+      "powszechny",
+      "rozpowszechniony"
+    ]
+  },
+  {
+    "id": "r-rifle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rifle",
+    "pronunciation": "ˈraɪfəl",
+    "meaning": [
+      "karabin",
+      "strzelba",
+      "ograbiać",
+      "przeszukiwać"
+    ]
+  },
+  {
+    "id": "r-rift",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rift",
+    "pronunciation": "rɪft",
+    "meaning": [
+      "szczelina",
+      "niezgoda"
+    ]
+  },
+  {
+    "id": "r-rig",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rig",
+    "pronunciation": "rɪg",
+    "meaning": [
+      "takielować",
+      "fałszować",
+      "oszukiwać",
+      "takielunek",
+      "instalacja",
+      "składać",
+      "klecić"
+    ]
+  },
+  {
+    "id": "r-rigging",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rigging",
+    "pronunciation": "ˈrɪgɪŋ",
+    "meaning": [
+      "otaklowanie"
+    ]
+  },
+  {
+    "id": "r-right",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "right",
+    "pronunciation": "raɪt",
+    "meaning": [
+      "prawy",
+      "właściwy",
+      "poprawny",
+      "prawa strona",
+      "prawo",
+      "dobro",
+      "prawica",
+      "w prawo",
+      "na prawo",
+      "właśnie",
+      "poprawnie",
+      "niezły",
+      "zaraz",
+      "od razu",
+      "wyprostować",
+      "naprawiać",
+      "kąt prosty",
+      "pierwszeństwo przejazdu",
+      "pierwszeństwo",
+      "prawo przejazdu",
+      "możliwość przejazdu"
+    ]
+  },
+  {
+    "id": "r-righteous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "righteous",
+    "pronunciation": "ˈraɪʧəs",
+    "meaning": [
+      "prawy"
+    ]
+  },
+  {
+    "id": "r-rightful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rightful",
+    "pronunciation": "ˈraɪtfʊl",
+    "meaning": [
+      "prawowity"
+    ]
+  },
+  {
+    "id": "r-right-hand",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "right-hand",
+    "pronunciation": "ˌraɪtˈhænd",
+    "meaning": [
+      "prawostronny"
+    ]
+  },
+  {
+    "id": "r-right-wing",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "right-wing",
+    "pronunciation": "ˌraɪtˈwɪŋ",
+    "meaning": [
+      "prawicowy",
+      "skrzydło prawicowe"
+    ]
+  },
+  {
+    "id": "r-rigid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rigid",
+    "pronunciation": "ˈrɪʤɪd",
+    "meaning": [
+      "sztywny",
+      "nieelastyczny"
+    ]
+  },
+  {
+    "id": "r-rigorous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rigorous",
+    "pronunciation": "ˈrɪgərəs",
+    "meaning": [
+      "rygorystyczny"
+    ]
+  },
+  {
+    "id": "r-rigours",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rigours",
+    "pronunciation": "ˈrɪgəz",
+    "meaning": [
+      "trudności",
+      "ciężary"
+    ]
+  },
+  {
+    "id": "r-rile",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rile",
+    "pronunciation": "ˈraɪl",
+    "meaning": [
+      "irytować",
+      "drażnić"
+    ]
+  },
+  {
+    "id": "r-rim",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rim",
+    "pronunciation": "rɪm",
+    "meaning": [
+      "brzeg",
+      "krawędź",
+      "obręcz",
+      "oprawka"
+    ]
+  },
+  {
+    "id": "r-rind",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rind",
+    "pronunciation": "raɪnd",
+    "meaning": [
+      "skórka"
+    ]
+  },
+  {
+    "id": "r-ringleader",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ringleader",
+    "pronunciation": "ˈrɪŋli:də",
+    "meaning": [
+      "prowodyr"
+    ]
+  },
+  {
+    "id": "r-rink",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rink",
+    "pronunciation": "rɪŋk",
+    "meaning": [
+      "lodowisko",
+      "tor wrotkowy"
+    ]
+  },
+  {
+    "id": "r-rinse",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rinse",
+    "pronunciation": "rɪnz",
+    "meaning": [
+      "płukać",
+      "opłukanie",
+      "płukanie"
+    ]
+  },
+  {
+    "id": "r-riot",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "riot",
+    "pronunciation": "ˈraɪət",
+    "meaning": [
+      "zamieszki",
+      "rozruchy",
+      "burzyć się",
+      "wzniecać zamieszki"
+    ]
+  },
+  {
+    "id": "r-rioter",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rioter",
+    "pronunciation": "ˈraɪətə",
+    "meaning": [
+      "chuligan",
+      "uczestnik zamieszek"
+    ]
+  },
+  {
+    "id": "r-riotous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "riotous",
+    "pronunciation": "ˈraɪətəs",
+    "meaning": [
+      "chuligański",
+      "burzliwy",
+      "żywiołowy"
+    ]
+  },
+  {
+    "id": "r-rip",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rip",
+    "pronunciation": "rɪp",
+    "meaning": [
+      "rozdzierać",
+      "oddzierać",
+      "wydzierać",
+      "rozdarcie",
+      "obdzierać",
+      "zdzierać"
+    ]
+  },
+  {
+    "id": "r-ripe",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "ripe",
+    "pronunciation": "raɪp",
+    "meaning": [
+      "dojrzały"
+    ]
+  },
+  {
+    "id": "r-ripen",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "ripen",
+    "pronunciation": "ˈraɪpən",
+    "meaning": [
+      "dojrzewać",
+      "czynić dojrzałym"
+    ]
+  },
+  {
+    "id": "r-rip-off",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rip-off",
+    "pronunciation": "ˈrɪpɒf",
+    "meaning": [
+      "zdzierstwo",
+      "złodziejstwo"
+    ]
+  },
+  {
+    "id": "r-ripple",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ripple",
+    "pronunciation": "ˈrɪpəl",
+    "meaning": [
+      "falowanie",
+      "szmer",
+      "marszczyć się"
+    ]
+  },
+  {
+    "id": "r-risk",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "risk",
+    "pronunciation": "rɪsk",
+    "meaning": [
+      "ryzyko",
+      "ryzykowanie",
+      "zagrożenie",
+      "ryzykować",
+      "podejmować ryzyko"
+    ]
+  },
+  {
+    "id": "r-risky",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "risky",
+    "pronunciation": "ˈrɪskɪ",
+    "meaning": [
+      "ryzykowny"
+    ]
+  },
+  {
+    "id": "r-rite",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rite",
+    "pronunciation": "raɪt",
+    "meaning": [
+      "ceremoniał",
+      "obrzęd"
+    ]
+  },
+  {
+    "id": "r-ritual",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ritual",
+    "pronunciation": "ˈrɪtjʊəl",
+    "meaning": [
+      "rytuał",
+      "rytualny"
+    ]
+  },
+  {
+    "id": "r-rival",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rival",
+    "pronunciation": "ˈraɪvəl",
+    "meaning": [
+      "rywal",
+      "konkurent",
+      "rywalizujący",
+      "konkurencyjny",
+      "równać się"
+    ]
+  },
+  {
+    "id": "r-rivalry",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rivalry",
+    "pronunciation": "ˈraɪvəlrɪ",
+    "meaning": [
+      "rywalizacja"
+    ]
+  },
+  {
+    "id": "r-river",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "river",
+    "pronunciation": "ˈrɪvə",
+    "meaning": [
+      "rzeka",
+      "łożysko rzeki"
+    ]
+  },
+  {
+    "id": "r-riverside",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "riverside",
+    "pronunciation": "ˈrɪvəsaɪd",
+    "meaning": [
+      "pobrzeże"
+    ]
+  },
+  {
+    "id": "r-rivet",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rivet",
+    "pronunciation": "ˈrɪvɪt",
+    "meaning": [
+      "nit",
+      "przykuwać uwagę"
+    ]
+  },
+  {
+    "id": "r-rm.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rm.",
+    "pronunciation": "/ˌɑːr ˈem/",
+    "meaning": [
+      "sala",
+      "pokój",
+      "pomieszczenie"
+    ]
+  },
+  {
+    "id": "r-RN",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "RN",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "Królewska Marynarka"
+    ]
+  },
+  {
+    "id": "r-roadblock",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "roadblock",
+    "pronunciation": "ˈrəʊdblɒk",
+    "meaning": [
+      "blokada drogi",
+      "szlaban"
+    ]
+  },
+  {
+    "id": "r-roadside",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "roadside",
+    "pronunciation": "ˈrəʊdsaɪd",
+    "meaning": [
+      "bok drogi",
+      "przydrożny"
+    ]
+  },
+  {
+    "id": "r-roadway",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "roadway",
+    "pronunciation": "ˈrəʊdweɪ",
+    "meaning": [
+      "jezdnia"
+    ]
+  },
+  {
+    "id": "r-roadworthy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "roadworthy",
+    "pronunciation": "ˈrəʊdwɜ:ðɪ",
+    "meaning": [
+      "przejezdny"
+    ]
+  },
+  {
+    "id": "r-roam",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "roam",
+    "pronunciation": "rəʊm",
+    "meaning": [
+      "włóczyć się",
+      "wędrować"
+    ]
+  },
+  {
+    "id": "r-roar",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "roar",
+    "pronunciation": "rɔ:",
+    "meaning": [
+      "ryczeć",
+      "łoskotać",
+      "ryk",
+      "łoskot"
+    ]
+  },
+  {
+    "id": "r-roaring",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "roaring",
+    "pronunciation": "ˈrɔ:rɪŋ",
+    "meaning": [
+      "ogłuszający",
+      "olbrzymi",
+      "straszny"
+    ]
+  },
+  {
+    "id": "r-roast",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "roast",
+    "pronunciation": "rəʊst",
+    "meaning": [
+      "piec",
+      "prażyć",
+      "palić",
+      "pieczony",
+      "pieczeń"
+    ]
+  },
+  {
+    "id": "r-rob",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rob",
+    "pronunciation": "rɒb",
+    "meaning": [
+      "ograbiać",
+      "rabować"
+    ]
+  },
+  {
+    "id": "r-robber",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "robber",
+    "pronunciation": "ˈrɒbə",
+    "meaning": [
+      "rabuś",
+      "napastnik"
+    ]
+  },
+  {
+    "id": "r-robbery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "robbery",
+    "pronunciation": "ˈrɒbərɪ",
+    "meaning": [
+      "rabunek",
+      "grabież"
+    ]
+  },
+  {
+    "id": "r-robe",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "robe",
+    "pronunciation": "rəʊb",
+    "meaning": [
+      "szaty",
+      "toga",
+      "peniuar",
+      "szlafrok",
+      "płaszcz kąpielowy",
+      "oblekać"
+    ]
+  },
+  {
+    "id": "r-robin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "robin",
+    "pronunciation": "ˈrɒbɪn",
+    "meaning": [
+      "rudzik",
+      "drozd"
+    ]
+  },
+  {
+    "id": "r-robot",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "robot",
+    "pronunciation": "ˈrəʊbət",
+    "meaning": [
+      "robot"
+    ]
+  },
+  {
+    "id": "r-robust",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "robust",
+    "pronunciation": "rəˈbʌst",
+    "meaning": [
+      "kwitnący"
+    ]
+  },
+  {
+    "id": "r-rocker",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rocker",
+    "pronunciation": "ˈrɒkə",
+    "meaning": [
+      "fotel bujany"
+    ]
+  },
+  {
+    "id": "r-rockery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rockery",
+    "pronunciation": "ˈrɒkərɪ",
+    "meaning": [
+      "ogródek skalny"
+    ]
+  },
+  {
+    "id": "r-rocket",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rocket",
+    "pronunciation": "ˈrɒkɪt",
+    "meaning": [
+      "rakieta",
+      "iść ostro w górę"
+    ]
+  },
+  {
+    "id": "r-rocking",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rocking",
+    "pronunciation": "ˈrɒkɪŋ",
+    "meaning": [
+      "kołyszący się",
+      "kołysanie się"
+    ]
+  },
+  {
+    "id": "r-rocking-chair",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rocking-chair",
+    "pronunciation": "ˈrɒkɪŋʧeə",
+    "meaning": [
+      "fotel bujany"
+    ]
+  },
+  {
+    "id": "r-rocking-horse",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rocking-horse",
+    "pronunciation": "ˈrɒkɪŋhɔ:s",
+    "meaning": [
+      "koń na biegunach"
+    ]
+  },
+  {
+    "id": "r-rocky",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rocky",
+    "pronunciation": "ˈrɒkɪ",
+    "meaning": [
+      "kamienisty"
+    ]
+  },
+  {
+    "id": "r-rod",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rod",
+    "pronunciation": "rɒd",
+    "meaning": [
+      "pręt",
+      "sworzeń",
+      "trzpień"
+    ]
+  },
+  {
+    "id": "r-rodent",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rodent",
+    "pronunciation": "ˈrəʊdənt",
+    "meaning": [
+      "gryzoń"
+    ]
+  },
+  {
+    "id": "r-roe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "roe",
+    "pronunciation": "rəʊ",
+    "meaning": [
+      "ikra"
+    ]
+  },
+  {
+    "id": "r-rogue",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rogue",
+    "pronunciation": "rəʊg",
+    "meaning": [
+      "łajdak",
+      "nicpoń",
+      "szelma"
+    ]
+  },
+  {
+    "id": "r-roguish",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "roguish",
+    "pronunciation": "ˈrəʊgɪʃ",
+    "meaning": [
+      "szelmowski"
+    ]
+  },
+  {
+    "id": "r-role",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "role",
+    "pronunciation": "rəʊl",
+    "meaning": [
+      "rola"
+    ]
+  },
+  {
+    "id": "r-roll",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "roll",
+    "pronunciation": "rəʊl",
+    "meaning": [
+      "toczyć się",
+      "toczyć",
+      "kołysać się",
+      "przewracać",
+      "zwijać",
+      "rolować",
+      "rolka",
+      "bułka",
+      "lista",
+      "werbel",
+      "przetoczyć się",
+      "napływać",
+      "przewracać się",
+      "zwijać się",
+      "podwijać"
+    ]
+  },
+  {
+    "id": "r-roll-call",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "roll-call",
+    "pronunciation": "ˈrəʊlkɔ:l",
+    "meaning": [
+      "odczytywanie listy"
+    ]
+  },
+  {
+    "id": "r-roller",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "roller",
+    "pronunciation": "ˈrəʊlə",
+    "meaning": [
+      "wałek",
+      "walec",
+      "lokówka"
+    ]
+  },
+  {
+    "id": "r-roller-skate",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "roller-skate",
+    "pronunciation": "ˈrəʊləskeɪt",
+    "meaning": [
+      "wrotka",
+      "jeździć na wrotkach"
+    ]
+  },
+  {
+    "id": "r-rolling",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rolling",
+    "pronunciation": "ˈrəʊlɪŋ",
+    "meaning": [
+      "pofałdowany",
+      "chwiejny",
+      "wałek do ciasta",
+      "wałek"
+    ]
+  },
+  {
+    "id": "r-ROM",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ROM",
+    "pronunciation": "rɒm",
+    "meaning": [
+      "pamięć stała"
+    ]
+  },
+  {
+    "id": "r-Roman",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Roman",
+    "pronunciation": "ˈrəʊmən",
+    "meaning": [
+      "rzymski",
+      "Rzymianin"
+    ]
+  },
+  {
+    "id": "r-romance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "romance",
+    "pronunciation": "ˈrəʊmæns",
+    "meaning": [
+      "romans",
+      "romantyka",
+      "przygoda"
+    ]
+  },
+  {
+    "id": "r-Romania",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Romania",
+    "pronunciation": "rʊˈmeɪnɪə",
+    "meaning": [
+      "Rumunia"
+    ]
+  },
+  {
+    "id": "r-Romanian",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Romanian",
+    "pronunciation": "rʊˈmeɪnɪən",
+    "meaning": [
+      "rumuński",
+      "Rumun"
+    ]
+  },
+  {
+    "id": "r-romantic",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "romantic",
+    "pronunciation": "rəˈmæntɪk",
+    "meaning": [
+      "romantyczny",
+      "romantyk"
+    ]
+  },
+  {
+    "id": "r-romanticism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "romanticism",
+    "pronunciation": "rəˈmæntɪsɪzəm",
+    "meaning": [
+      "romantyzm"
+    ]
+  },
+  {
+    "id": "r-romanticize",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "romanticize",
+    "pronunciation": "rəˈmæntɪsaɪz",
+    "meaning": [
+      "uromantyczniać",
+      "sentymentalizować"
+    ]
+  },
+  {
+    "id": "r-Rome",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Rome",
+    "pronunciation": "rəʊm",
+    "meaning": [
+      "Rzym"
+    ]
+  },
+  {
+    "id": "r-romp",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "romp",
+    "pronunciation": "rɒmp",
+    "meaning": [
+      "hasać",
+      "szaleć",
+      "szaleństwo",
+      "hasanie"
+    ]
+  },
+  {
+    "id": "r-rompers",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rompers",
+    "pronunciation": "ˈrɒmpəz",
+    "meaning": [
+      "śpiochy",
+      "pajacyki"
+    ]
+  },
+  {
+    "id": "r-roof",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "roof",
+    "pronunciation": "ru:f",
+    "meaning": [
+      "dach",
+      "sklepienie",
+      "pokrywać dachem"
+    ]
+  },
+  {
+    "id": "r-roofing",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "roofing",
+    "pronunciation": "ˈru:fɪŋ",
+    "meaning": [
+      "pokrycie dachu"
+    ]
+  },
+  {
+    "id": "r-roof-rack",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "roof-rack",
+    "pronunciation": "ˈru:fræk",
+    "meaning": [
+      "bagażnik dachowy"
+    ]
+  },
+  {
+    "id": "r-rook",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rook",
+    "pronunciation": "ru:k",
+    "meaning": [
+      "gawron",
+      "wieża"
+    ]
+  },
+  {
+    "id": "r-room",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "room",
+    "pronunciation": "ru:m",
+    "meaning": [
+      "pomieszczenie",
+      "pokój",
+      "sala",
+      "miejsce"
+    ]
+  },
+  {
+    "id": "r-roommate",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "roommate",
+    "pronunciation": "ˈru:mmeɪt",
+    "meaning": [
+      "współlokator"
+    ]
+  },
+  {
+    "id": "r-roomy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "roomy",
+    "pronunciation": "ˈru:mɪ",
+    "meaning": [
+      "przestronny"
+    ]
+  },
+  {
+    "id": "r-roost",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "roost",
+    "pronunciation": "ru:st",
+    "meaning": [
+      "grzęda",
+      "miejsce gnieżdżenia się",
+      "gnieździć się"
+    ]
+  },
+  {
+    "id": "r-rooster",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rooster",
+    "pronunciation": "ˈru:stə",
+    "meaning": [
+      "kogut"
+    ]
+  },
+  {
+    "id": "r-root",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "root",
+    "pronunciation": "ru:t",
+    "meaning": [
+      "korzeń",
+      "podstawa",
+      "źródło",
+      "pierwiastek",
+      "podstawowy",
+      "zakorzeniać się",
+      "zakorzeniać",
+      "grzebać",
+      "przegrzebywać",
+      "wykorzeniać",
+      "wypłaszać"
+    ]
+  },
+  {
+    "id": "r-rooted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rooted",
+    "pronunciation": "ˈru:tɪd",
+    "meaning": [
+      "zakorzeniony"
+    ]
+  },
+  {
+    "id": "r-rope",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rope",
+    "pronunciation": "rəʊp",
+    "meaning": [
+      "lina",
+      "sznur",
+      "przywiązywać liną",
+      "przywiązywać",
+      "obwiązywać",
+      "wciągać"
+    ]
+  },
+  {
+    "id": "r-rosary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rosary",
+    "pronunciation": "ˈrəʊzərɪ",
+    "meaning": [
+      "różaniec"
+    ]
+  },
+  {
+    "id": "r-rose",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "rose",
+    "pronunciation": "rəʊz",
+    "meaning": [
+      "róża",
+      "różowy"
+    ]
+  },
+  {
+    "id": "r-rosé",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rosé",
+    "pronunciation": "ˈrəʊzeɪ",
+    "meaning": [
+      "wino różowe"
+    ]
+  },
+  {
+    "id": "r-rosette",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rosette",
+    "pronunciation": "rəʊˈzet",
+    "meaning": [
+      "rozeta"
+    ]
+  },
+  {
+    "id": "r-roster",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "roster",
+    "pronunciation": "ˈrɒstə",
+    "meaning": [
+      "lista",
+      "rozkład dyżurów"
+    ]
+  },
+  {
+    "id": "r-rostrum",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rostrum",
+    "pronunciation": "ˈrɒstrəm",
+    "meaning": [
+      "mównica",
+      "podium"
+    ]
+  },
+  {
+    "id": "r-rosy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rosy",
+    "pronunciation": "ˈrəʊzɪ",
+    "meaning": [
+      "różowy",
+      "rumiany"
+    ]
+  },
+  {
+    "id": "r-rot",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rot",
+    "pronunciation": "rɒt",
+    "meaning": [
+      "psuć się",
+      "gnić",
+      "powodować psucie",
+      "gnicie",
+      "zepsuta część",
+      "bzdury"
+    ]
+  },
+  {
+    "id": "r-rota",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rota",
+    "pronunciation": "ˈrəʊtə",
+    "meaning": [
+      "rotacja",
+      "kolejność"
+    ]
+  },
+  {
+    "id": "r-rotary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rotary",
+    "pronunciation": "ˈrəʊtərɪ",
+    "meaning": [
+      "obrotowy",
+      "rotacyjny"
+    ]
+  },
+  {
+    "id": "r-rotate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rotate",
+    "pronunciation": "rəʊˈteɪt",
+    "meaning": [
+      "obracać się",
+      "obracać",
+      "zmieniać się kolejno",
+      "zmieniać kolejno",
+      "prowadzić rotację"
+    ]
+  },
+  {
+    "id": "r-rotation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rotation",
+    "pronunciation": "rəʊˈteɪʃən",
+    "meaning": [
+      "obrót",
+      "rotacja"
+    ]
+  },
+  {
+    "id": "r-rotor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rotor",
+    "pronunciation": "ˈrəʊtə",
+    "meaning": [
+      "wirnik",
+      "płat wirnika",
+      "wirnikowy"
+    ]
+  },
+  {
+    "id": "r-rotten",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rotten",
+    "pronunciation": "ˈrɒtən",
+    "meaning": [
+      "zepsuty",
+      "zgniły",
+      "beznadziejny",
+      "paskudny",
+      "cholerny"
+    ]
+  },
+  {
+    "id": "r-rotund",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "rotund",
+    "pronunciation": "rəʊˈtʌnd",
+    "meaning": [
+      "okrągły",
+      "pękaty"
+    ]
+  },
+  {
+    "id": "r-rouge",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rouge",
+    "pronunciation": "ru:ʒ",
+    "meaning": [
+      "róż"
+    ]
+  },
+  {
+    "id": "r-rough",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rough",
+    "pronunciation": "rʌf",
+    "meaning": [
+      "nierówny",
+      "szorstki",
+      "brutalny",
+      "ciężki",
+      "przybliżony",
+      "surowy",
+      "prymitywny",
+      "wzburzony",
+      "burzliwy",
+      "niebezpieczny",
+      "szkicować",
+      "zarysowywać"
+    ]
+  },
+  {
+    "id": "r-roulette",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "roulette",
+    "pronunciation": "ru:ˈlet",
+    "meaning": [
+      "ruletka"
+    ]
+  },
+  {
+    "id": "r-roundabout",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "roundabout",
+    "pronunciation": "ˈraʊndəbaʊt",
+    "meaning": [
+      "karuzela",
+      "skrzyżowanie okrężne",
+      "rondo",
+      "okrężny"
+    ]
+  },
+  {
+    "id": "r-rounded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rounded",
+    "pronunciation": "ˈraʊndɪd",
+    "meaning": [
+      "zaokrąglony"
+    ]
+  },
+  {
+    "id": "r-roundly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "roundly",
+    "pronunciation": "ˈraʊndlɪ",
+    "meaning": [
+      "bezceremonialnie"
+    ]
+  },
+  {
+    "id": "r-round-the-clock",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "round-the-clock",
+    "pronunciation": "ˌraʊndðəˈklɒk",
+    "meaning": [
+      "całodobowy",
+      "całodzienny",
+      "całą dobę",
+      "dwadzieścia cztery godziny"
+    ]
+  },
+  {
+    "id": "r-roundup",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "roundup",
+    "pronunciation": "ˈraʊndʌp",
+    "meaning": [
+      "przegląd",
+      "obława"
+    ]
+  },
+  {
+    "id": "r-rouse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rouse",
+    "pronunciation": "raʊz",
+    "meaning": [
+      "budzić się",
+      "budzić",
+      "pobudzać",
+      "wzbudzać"
+    ]
+  },
+  {
+    "id": "r-root",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "root",
+    "pronunciation": "ru:t",
+    "meaning": [
+      "korzeń",
+      "podstawa",
+      "źródło",
+      "pierwiastek",
+      "podstawowy",
+      "zakorzeniać się",
+      "zakorzeniać",
+      "grzebać",
+      "przegrzebywać",
+      "wykorzeniać",
+      "wypłaszać"
+    ]
+  },
+  {
+    "id": "r-rooted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rooted",
+    "pronunciation": "ˈru:tɪd",
+    "meaning": [
+      "zakorzeniony"
+    ]
+  },
+  {
+    "id": "r-rope",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rope",
+    "pronunciation": "rəʊp",
+    "meaning": [
+      "lina",
+      "sznur",
+      "przywiązywać liną",
+      "przywiązywać",
+      "obwiązywać",
+      "wciągać"
+    ]
+  },
+  {
+    "id": "r-rosary",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rosary",
+    "pronunciation": "ˈrəʊzərɪ",
+    "meaning": [
+      "różaniec"
+    ]
+  },
+  {
+    "id": "r-rose",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "rose",
+    "pronunciation": "rəʊz",
+    "meaning": [
+      "róża",
+      "różowy"
+    ]
+  },
+  {
+    "id": "r-rosé",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rosé",
+    "pronunciation": "ˈrəʊzeɪ",
+    "meaning": [
+      "wino różowe"
+    ]
+  },
+  {
+    "id": "r-rosette",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rosette",
+    "pronunciation": "rəʊˈzet",
+    "meaning": [
+      "rozeta"
+    ]
+  },
+  {
+    "id": "r-roster",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "roster",
+    "pronunciation": "ˈrɒstə",
+    "meaning": [
+      "lista",
+      "rozkład dyżurów"
+    ]
+  },
+  {
+    "id": "r-rostrum",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rostrum",
+    "pronunciation": "ˈrɒstrəm",
+    "meaning": [
+      "mównica",
+      "podium"
+    ]
+  },
+  {
+    "id": "r-rosy",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rosy",
+    "pronunciation": "ˈrəʊzɪ",
+    "meaning": [
+      "różowy",
+      "rumiany"
+    ]
+  },
+  {
+    "id": "r-rot",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rot",
+    "pronunciation": "rɒt",
+    "meaning": [
+      "psuć się",
+      "gnić",
+      "powodować psucie",
+      "gnicie",
+      "zepsuta część",
+      "bzdury"
+    ]
+  },
+  {
+    "id": "r-rota",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rota",
+    "pronunciation": "ˈrəʊtə",
+    "meaning": [
+      "rotacja",
+      "kolejność"
+    ]
+  },
+  {
+    "id": "r-rotary",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rotary",
+    "pronunciation": "ˈrəʊtərɪ",
+    "meaning": [
+      "obrotowy",
+      "rotacyjny"
+    ]
+  },
+  {
+    "id": "r-rotate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rotate",
+    "pronunciation": "rəʊˈteɪt",
+    "meaning": [
+      "obracać się",
+      "obracać",
+      "zmieniać się kolejno",
+      "zmieniać kolejno",
+      "prowadzić rotację"
+    ]
+  },
+  {
+    "id": "r-rotation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rotation",
+    "pronunciation": "rəʊˈteɪʃən",
+    "meaning": [
+      "obrót",
+      "rotacja"
+    ]
+  },
+  {
+    "id": "r-rotor",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rotor",
+    "pronunciation": "ˈrəʊtə",
+    "meaning": [
+      "wirnik",
+      "płat wirnika",
+      "wirnikowy"
+    ]
+  },
+  {
+    "id": "r-rotten",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rotten",
+    "pronunciation": "ˈrɒtən",
+    "meaning": [
+      "zepsuty",
+      "zgniły",
+      "beznadziejny",
+      "paskudny",
+      "cholerny"
+    ]
+  },
+  {
+    "id": "r-rotund",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "rotund",
+    "pronunciation": "rəʊˈtʌnd",
+    "meaning": [
+      "okrągły",
+      "pękaty"
+    ]
+  },
+  {
+    "id": "r-rouge",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rouge",
+    "pronunciation": "ru:ʒ",
+    "meaning": [
+      "róż"
+    ]
+  },
+  {
+    "id": "r-rough",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rough",
+    "pronunciation": "rʌf",
+    "meaning": [
+      "nierówny",
+      "szorstki",
+      "brutalny",
+      "ciężki",
+      "przybliżony",
+      "surowy",
+      "prymitywny",
+      "wzburzony",
+      "burzliwy",
+      "niebezpieczny",
+      "szkicować",
+      "zarysowywać"
+    ]
+  },
+  {
+    "id": "r-roulette",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "roulette",
+    "pronunciation": "ru:ˈlet",
+    "meaning": [
+      "ruletka"
+    ]
+  },
+  {
+    "id": "r-roundabout",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "roundabout",
+    "pronunciation": "ˈraʊndəbaʊt",
+    "meaning": [
+      "karuzela",
+      "skrzyżowanie okrężne",
+      "rondo",
+      "okrężny"
+    ]
+  },
+  {
+    "id": "r-rounded",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rounded",
+    "pronunciation": "ˈraʊndɪd",
+    "meaning": [
+      "zaokrąglony"
+    ]
+  },
+  {
+    "id": "r-roundly",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "roundly",
+    "pronunciation": "ˈraʊndlɪ",
+    "meaning": [
+      "bezceremonialnie"
+    ]
+  },
+  {
+    "id": "r-round-the-clock",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "round-the-clock",
+    "pronunciation": "ˌraʊndðəˈklɒk",
+    "meaning": [
+      "całodobowy",
+      "całodzienny",
+      "całą dobę",
+      "dwadzieścia cztery godziny"
+    ]
+  },
+  {
+    "id": "r-roundup",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "roundup",
+    "pronunciation": "ˈraʊndʌp",
+    "meaning": [
+      "przegląd",
+      "obława"
+    ]
+  },
+  {
+    "id": "r-rouse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rouse",
+    "pronunciation": "raʊz",
+    "meaning": [
+      "budzić się",
+      "budzić",
+      "pobudzać",
+      "wzbudzać"
+    ]
+  },
+  {
+    "id": "r-rout",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rout",
+    "pronunciation": "raʊt",
+    "meaning": [
+      "rozgromić",
+      "rozsypka"
+    ]
+  },
+  {
+    "id": "r-route",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "route",
+    "pronunciation": "ru:t",
+    "meaning": [
+      "trasa",
+      "linia",
+      "droga",
+      "sposób",
+      "kierować"
+    ]
+  },
+  {
+    "id": "r-routine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "routine",
+    "pronunciation": "ru:ˈti:n",
+    "meaning": [
+      "rutynowy",
+      "rutyna",
+      "normalny porządek zajęć",
+      "normalny porządek",
+      "numer",
+      "punkt"
+    ]
+  },
+  {
+    "id": "r-rove",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "rove",
+    "pronunciation": "rəʊv",
+    "meaning": [
+      "wędrować"
+    ]
+  },
+  {
+    "id": "r-rover",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rover",
+    "pronunciation": "rəʊvə",
+    "meaning": [
+      "wędrowiec"
+    ]
+  },
+  {
+    "id": "r-row",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "row",
+    "pronunciation": "/rəʊ/",
+    "meaning": [
+      "kłótnia",
+      "sprzeczka",
+      "hałas",
+      "harmider",
+      "kłócić się",
+      "rząd",
+      "szereg",
+      "przejażdżka łodzią",
+      "wiosłować",
+      "przewozić łodzią"
+    ]
+  },
+  {
+    "id": "r-rowboat",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rowboat",
+    "pronunciation": "ˈrəʊbəʊt",
+    "meaning": [
+      "łódź wiosłowa"
+    ]
+  },
+  {
+    "id": "r-rowdy",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rowdy",
+    "pronunciation": "ˈraʊdɪ",
+    "meaning": [
+      "hałaśliwy",
+      "awanturniczy"
+    ]
+  },
+  {
+    "id": "r-rowing",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rowing",
+    "pronunciation": "ˈrəʊɪŋ",
+    "meaning": [
+      "wioślarstwo",
+      "łódż wiosłowa"
+    ]
+  },
+  {
+    "id": "r-royal",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "royal",
+    "pronunciation": "ˈrɔɪəl",
+    "meaning": [
+      "królewski",
+      "członek rodziny królewskiej",
+      "Królewska Mość"
+    ]
+  },
+  {
+    "id": "r-royalist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "royalist",
+    "pronunciation": "ˈrɔɪəlɪst",
+    "meaning": [
+      "rojalista"
+    ]
+  },
+  {
+    "id": "r-royalty",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "royalty",
+    "pronunciation": "ˈrɔɪəltɪ",
+    "meaning": [
+      "rodzina królewska",
+      "tantiema"
+    ]
+  },
+  {
+    "id": "r-RP",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "RP",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": []
+  },
+  {
+    "id": "r-rpm",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rpm",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "obr./min.",
+      "obroty na minutę"
+    ]
+  },
+  {
+    "id": "r-rps",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rps",
+    "pronunciation": "ˌ⋅⋅ˈ⋅",
+    "meaning": [
+      "obr./sek.",
+      "obroty na sekundę"
+    ]
+  },
+  {
+    "id": "r-rt.",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rt.",
+    "pronunciation": "/ˌɑːˈtiː/",
+    "meaning": [
+      "prawy"
+    ]
+  },
+  {
+    "id": "r-Rt._Hon.",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "Rt. Hon.",
+    "pronunciation": "/ˌɑːt ˈɒn/",
+    "meaning": [
+      "Czcigodny"
+    ]
+  },
+  {
+    "id": "r-rub",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "word": "rub",
+    "pronunciation": "rʌb",
+    "meaning": [
+      "trzeć",
+      "pocierać",
+      "ocierać się",
+      "ocierać",
+      "wcierać",
+      "ścierać",
+      "tarcie"
+    ]
+  },
+  {
+    "id": "r-rubber",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rubber",
+    "pronunciation": "ˈrʌbə",
+    "meaning": [
+      "guma",
+      "kauczuk",
+      "gumka",
+      "gumowy",
+      "gumka aptekarska",
+      "stempel"
+    ]
+  },
+  {
+    "id": "r-rubbery",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rubbery",
+    "pronunciation": "ˈrʌbərɪ",
+    "meaning": [
+      "gumowaty"
+    ]
+  },
+  {
+    "id": "r-rubbish",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rubbish",
+    "pronunciation": "ˈrʌbɪʃ",
+    "meaning": [
+      "odpadki",
+      "śmiecie",
+      "tandeta",
+      "chała",
+      "bzdura"
+    ]
+  },
+  {
+    "id": "r-rubble",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rubble",
+    "pronunciation": "ˈrʌbəl",
+    "meaning": [
+      "gruz",
+      "kamień łamany"
+    ]
+  },
+  {
+    "id": "r-ruby",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ruby",
+    "pronunciation": "ˈru:bɪ",
+    "meaning": [
+      "rubin"
+    ]
+  },
+  {
+    "id": "r-rucksack",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rucksack",
+    "pronunciation": "ˈrʌksæk",
+    "meaning": [
+      "plecak"
+    ]
+  },
+  {
+    "id": "r-rudder",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rudder",
+    "pronunciation": "ˈrʌdə",
+    "meaning": [
+      "ster",
+      "płat sterowy"
+    ]
+  },
+  {
+    "id": "r-ruddy",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ruddy",
+    "pronunciation": "ˈrʌdɪ",
+    "meaning": [
+      "czerstwy",
+      "piekielny"
+    ]
+  },
+  {
+    "id": "r-rude",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rude",
+    "pronunciation": "ru:d",
+    "meaning": [
+      "niegrzeczny",
+      "opryskliwy",
+      "wulgarny",
+      "nieprzyjemny",
+      "nagły",
+      "prymitywny"
+    ]
+  },
+  {
+    "id": "r-rudimentary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rudimentary",
+    "pronunciation": "ˌru:dɪˈmentərɪ",
+    "meaning": [
+      "rudymentarny",
+      "podstawowy",
+      "elementarny"
+    ]
+  },
+  {
+    "id": "r-rudiments",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rudiments",
+    "pronunciation": "ˈru:dɪmənts",
+    "meaning": [
+      "podstawy",
+      "zaczątki"
+    ]
+  },
+  {
+    "id": "r-rueful",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "rueful",
+    "pronunciation": "ˈru:fʊl",
+    "meaning": [
+      "smutny"
+    ]
+  },
+  {
+    "id": "r-ruff",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ruff",
+    "pronunciation": "rʌf",
+    "meaning": [
+      "kryza"
+    ]
+  },
+  {
+    "id": "r-ruffian",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ruffian",
+    "pronunciation": "ˈrʌfɪən",
+    "meaning": [
+      "opryszek"
+    ]
+  },
+  {
+    "id": "r-ruffle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ruffle",
+    "pronunciation": "ˈrʌfəl",
+    "meaning": [
+      "wzburzać",
+      "kryza",
+      "kreza"
+    ]
+  },
+  {
+    "id": "r-rug",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rug",
+    "pronunciation": "rʌg",
+    "meaning": [
+      "dywanik",
+      "pled",
+      "koc"
+    ]
+  },
+  {
+    "id": "r-rugby",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rugby",
+    "pronunciation": "ˈrʌgbɪ",
+    "meaning": [
+      "rugby"
+    ]
+  },
+  {
+    "id": "r-rugged",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rugged",
+    "pronunciation": "ˈrʌgɪd",
+    "meaning": [
+      "dziki",
+      "poszarpany",
+      "surowy",
+      "mocny"
+    ]
+  },
+  {
+    "id": "r-rugger",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "rugger",
+    "pronunciation": "ˈrʌgə",
+    "meaning": [
+      "rugby"
+    ]
+  },
+  {
+    "id": "r-ruin",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ruin",
+    "pronunciation": "ˈru:ɪn",
+    "meaning": [
+      "rujnować",
+      "ruina",
+      "rujnacja",
+      "zrujnowanie się"
+    ]
+  },
+  {
+    "id": "r-ruinous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ruinous",
+    "pronunciation": "ˈru:ɪnəs",
+    "meaning": [
+      "rujnujący"
+    ]
+  },
+  {
+    "id": "r-rule",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rule",
+    "pronunciation": "ru:l",
+    "meaning": [
+      "reguła",
+      "przepis",
+      "norma",
+      "panować",
+      "rządzić",
+      "orzekać",
+      "postanawiać",
+      "wykluczać",
+      "odrzucać"
+    ]
+  },
+  {
+    "id": "r-ruler",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ruler",
+    "pronunciation": "ˈru:lə",
+    "meaning": [
+      "władca",
+      "linijka"
+    ]
+  },
+  {
+    "id": "r-ruling",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "ruling",
+    "pronunciation": "ˈru:lɪŋ",
+    "meaning": [
+      "panujący",
+      "najsilniejszy",
+      "werdykt",
+      "orzeczenie"
+    ]
+  },
+  {
+    "id": "r-rum",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rum",
+    "pronunciation": "rʌm",
+    "meaning": [
+      "rum",
+      "dziwaczny"
+    ]
+  },
+  {
+    "id": "r-rumble",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rumble",
+    "pronunciation": "ˈrʌmbəl",
+    "meaning": [
+      "turkot",
+      "burczenie",
+      "turkotać",
+      "burczeć",
+      "przejrzeć"
+    ]
+  },
+  {
+    "id": "r-rummage",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rummage",
+    "pronunciation": "ˈrʌmɪʤ",
+    "meaning": [
+      "szperać",
+      "przeszukiwać"
+    ]
+  },
+  {
+    "id": "r-rumour",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rumour",
+    "pronunciation": "ˈru:mə",
+    "meaning": [
+      "pogłoska",
+      "plotka"
+    ]
+  },
+  {
+    "id": "r-rump",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rump",
+    "pronunciation": "rʌmp",
+    "meaning": [
+      "zad",
+      "zadek",
+      "resztka",
+      "kadłub",
+      "rumsztyk"
+    ]
+  },
+  {
+    "id": "r-rumple",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "rumple",
+    "pronunciation": "ˈrʌmpəl",
+    "meaning": [
+      "miąć",
+      "mierzwić"
+    ]
+  },
+  {
+    "id": "r-rumpus",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rumpus",
+    "pronunciation": "ˈrʌmpəs",
+    "meaning": [
+      "burda",
+      "wrzawa"
+    ]
+  },
+  {
+    "id": "r-runaway",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "runaway",
+    "pronunciation": "ˈrʌnəweɪ",
+    "meaning": [
+      "uciekinier",
+      "zbieg",
+      "samoistnie odjeżdżający",
+      "niekontrolowany",
+      "uciekający spod kontroli"
+    ]
+  },
+  {
+    "id": "r-run-down",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "run-down",
+    "pronunciation": "ˈrʌndaʊn",
+    "meaning": [
+      "zmęczony",
+      "wykończony",
+      "kiepski",
+      "paskudny",
+      "zredukowany",
+      "ograniczony",
+      "redukcja",
+      "najważniejsze fakty",
+      "fakty"
+    ]
+  },
+  {
+    "id": "r-rung",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rung",
+    "pronunciation": "rʌŋ",
+    "meaning": [
+      "szczebel"
+    ]
+  },
+  {
+    "id": "r-runner",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "runner",
+    "pronunciation": "ˈrʌnə",
+    "meaning": [
+      "biegacz",
+      "przemytnik",
+      "prowadnica",
+      "płoza"
+    ]
+  },
+  {
+    "id": "r-runner-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "runner-up",
+    "pronunciation": "ˌrʌnəˈrʌp",
+    "meaning": [
+      "zdobywca drugiego miejsca"
+    ]
+  },
+  {
+    "id": "r-running",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "running",
+    "pronunciation": "ˈrʌnɪŋ",
+    "meaning": [
+      "bieganie",
+      "zarządzanie",
+      "kierowanie",
+      "biegnący",
+      "bieżący"
+    ]
+  },
+  {
+    "id": "r-runny",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "runny",
+    "pronunciation": "ˈrʌnɪ",
+    "meaning": [
+      "lejący się",
+      "cieknący"
+    ]
+  },
+  {
+    "id": "r-run-of-the-mill",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "run-of-the-mill",
+    "pronunciation": "ˌrʌnəvðəˈmɪl",
+    "meaning": [
+      "najzwyczajniejszy"
+    ]
+  },
+  {
+    "id": "r-run-up",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "run-up",
+    "pronunciation": "ˈrʌnʌp",
+    "meaning": [
+      "okres poprzedzający"
+    ]
+  },
+  {
+    "id": "r-runway",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "runway",
+    "pronunciation": "ˈrʌnweɪ",
+    "meaning": [
+      "pas startowy"
+    ]
+  },
+  {
+    "id": "r-rupee",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rupee",
+    "pronunciation": "ru:ˈpi:",
+    "meaning": [
+      "rupia"
+    ]
+  },
+  {
+    "id": "r-rupture",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rupture",
+    "pronunciation": "ˈrʌpʧə",
+    "meaning": [
+      "pęknięcie",
+      "przepuklina",
+      "zerwanie",
+      "nadrywać",
+      "zrywać",
+      "nabawiać się przepukliny"
+    ]
+  },
+  {
+    "id": "r-rural",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rural",
+    "pronunciation": "ˈrʊərəl",
+    "meaning": [
+      "wiejski"
+    ]
+  },
+  {
+    "id": "r-ruse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ruse",
+    "pronunciation": "ru:z",
+    "meaning": [
+      "podstęp"
+    ]
+  },
+  {
+    "id": "r-rusk",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rusk",
+    "pronunciation": "rʌsk",
+    "meaning": [
+      "sucharek"
+    ]
+  },
+  {
+    "id": "r-Russia",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Russia",
+    "pronunciation": "ˈrʌʃə",
+    "meaning": [
+      "Rosja"
+    ]
+  },
+  {
+    "id": "r-Russian",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Russian",
+    "pronunciation": "ˈrʌʃən",
+    "meaning": [
+      "rosyjski",
+      "Rosjanin"
+    ]
+  },
+  {
+    "id": "r-rust",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rust",
+    "pronunciation": "rʌst",
+    "meaning": [
+      "rdza",
+      "rdzewieć"
+    ]
+  },
+  {
+    "id": "r-rustic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "rustic",
+    "pronunciation": "ˈrʌstɪk",
+    "meaning": [
+      "rustykalny",
+      "wieśniaczy"
+    ]
+  },
+  {
+    "id": "r-rustle",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "rustle",
+    "pronunciation": "ˈrʌsəl",
+    "meaning": [
+      "szeleścić",
+      "szelest"
+    ]
+  },
+  {
+    "id": "r-rusty",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "rusty",
+    "pronunciation": "ˈrʌstɪ",
+    "meaning": [
+      "zardzewiały"
+    ]
+  },
+  {
+    "id": "r-rut",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "rut",
+    "pronunciation": "rʌt",
+    "meaning": [
+      "koleina",
+      "ruja"
+    ]
+  },
+  {
+    "id": "r-ruthless",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ruthless",
+    "pronunciation": "ˈru:θlɪs",
+    "meaning": [
+      "bezlitosny"
+    ]
+  },
+  {
+    "id": "r-rye",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "rye",
+    "pronunciation": "raɪ",
+    "meaning": [
+      "żyto"
+    ]
+  }
+]
