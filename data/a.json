@@ -1,0 +1,5615 @@
+[
+  {
+    "id": "a-alarm",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "alarm",
+    "pronunciation": "əˈlɑ:m",
+    "meaning": [
+      "przestrach",
+      "trwoga",
+      "alarm",
+      "wystraszyć",
+      "budzik"
+    ]
+  },
+  {
+    "id": "a-alarming",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "alarming",
+    "pronunciation": "əˈlɑ:mɪŋ",
+    "meaning": [
+      "zatrważający"
+    ]
+  },
+  {
+    "id": "a-approachable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "approachable",
+    "pronunciation": "əˈprəʊʧəbəl",
+    "meaning": [
+      "przystępny",
+      "przyjazny"
+    ]
+  },
+  {
+    "id": "a-approbation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "approbation",
+    "pronunciation": "əˌprəˈbeɪʃən",
+    "meaning": [
+      "aprobata",
+      "zgoda"
+    ]
+  },
+  {
+    "id": "a-appropriate",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "appropriate",
+    "pronunciation": "/əˈprəʊpriət/",
+    "meaning": [
+      "stosowny",
+      "przywłaszczać"
+    ]
+  },
+  {
+    "id": "a-approval",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "approval",
+    "pronunciation": "əˈpru:vəl",
+    "meaning": [
+      "zgoda",
+      "podziw"
+    ]
+  },
+  {
+    "id": "a-approve",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "approve",
+    "pronunciation": "əˈpru:v",
+    "meaning": [
+      "pochwalać",
+      "aprobować",
+      "zgadzać się"
+    ]
+  },
+  {
+    "id": "a-approximate",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "approximate",
+    "pronunciation": "/əˈprɒksɪmət/",
+    "meaning": [
+      "przybliżony",
+      "zbliżać się"
+    ]
+  },
+  {
+    "id": "a-approximation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "approximation",
+    "pronunciation": "əˌprɒksɪˈmeɪʃən",
+    "meaning": [
+      "przybliżenie",
+      "oszacowanie"
+    ]
+  },
+  {
+    "id": "a-Apr.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Apr.",
+    "pronunciation": "/ˌeɪpiːˈɑː/",
+    "meaning": [
+      "kwiecień"
+    ]
+  },
+  {
+    "id": "a-apricot",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "apricot",
+    "pronunciation": "ˈeɪprɪkɒt",
+    "meaning": [
+      "morela"
+    ]
+  },
+  {
+    "id": "a-April",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "April",
+    "pronunciation": "ˈeɪprɪl",
+    "meaning": [
+      "kwiecień"
+    ]
+  },
+  {
+    "id": "a-apron",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "apron",
+    "pronunciation": "ˈeɪprən",
+    "meaning": [
+      "fartuch"
+    ]
+  },
+  {
+    "id": "a-apt",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "apt",
+    "pronunciation": "æpt",
+    "meaning": [
+      "trafny"
+    ]
+  },
+  {
+    "id": "a-aptitude",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "aptitude",
+    "pronunciation": "ˈæptɪtju:d",
+    "meaning": [
+      "zdolność"
+    ]
+  },
+  {
+    "id": "a-aquarium",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "aquarium",
+    "pronunciation": "əˈkweərɪəm",
+    "meaning": [
+      "akwarium"
+    ]
+  },
+  {
+    "id": "a-Aquarius",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Aquarius",
+    "pronunciation": "əˈkweərɪəs",
+    "meaning": [
+      "Wodnik"
+    ]
+  },
+  {
+    "id": "a-aquatic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "aquatic",
+    "pronunciation": "əˈkwætɪk",
+    "meaning": [
+      "wodny"
+    ]
+  },
+  {
+    "id": "a-aqueduct",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "aqueduct",
+    "pronunciation": "ˈækwɪdʌkt",
+    "meaning": [
+      "akwedukt"
+    ]
+  },
+  {
+    "id": "a-Arab",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Arab",
+    "pronunciation": "ˈærəb",
+    "meaning": [
+      "Arab"
+    ]
+  },
+  {
+    "id": "a-Arabia",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Arabia",
+    "pronunciation": "əˈreɪbɪə",
+    "meaning": [
+      "Arabia"
+    ]
+  },
+  {
+    "id": "a-Arabian",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "Arabian",
+    "pronunciation": "əˈreɪbɪən",
+    "meaning": [
+      "arabski"
+    ]
+  },
+  {
+    "id": "a-Arabic",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Arabic",
+    "pronunciation": "ˈærəbɪk",
+    "meaning": [
+      "arabski"
+    ]
+  },
+  {
+    "id": "a-arable",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "arable",
+    "pronunciation": "ˈærəbəl",
+    "meaning": [
+      "orny",
+      "uprawny"
+    ]
+  },
+  {
+    "id": "a-arbiter",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "arbiter",
+    "pronunciation": "ˈɑ:bɪtə",
+    "meaning": [
+      "arbiter"
+    ]
+  },
+  {
+    "id": "a-arbitrary",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "arbitrary",
+    "pronunciation": "ˈɑ:bɪtrərɪ",
+    "meaning": [
+      "arbitralny"
+    ]
+  },
+  {
+    "id": "a-arbitrate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "arbitrate",
+    "pronunciation": "ˈɑ:bɪtreɪt",
+    "meaning": [
+      "rozstrzygać"
+    ]
+  },
+  {
+    "id": "a-arbitration",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "arbitration",
+    "pronunciation": "ˌɑ:bɪˈtreɪʃən",
+    "meaning": [
+      "arbitraż"
+    ]
+  },
+  {
+    "id": "a-arc",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "arc",
+    "pronunciation": "ɑ:k",
+    "meaning": [
+      "łuk"
+    ]
+  },
+  {
+    "id": "a-arcade",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "arcade",
+    "pronunciation": "ɑ:ˈkeɪd",
+    "meaning": [
+      "podcienie",
+      "arkada"
+    ]
+  },
+  {
+    "id": "a-arch",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "arch",
+    "pronunciation": "ɑ:ʧ",
+    "meaning": [
+      "łuk",
+      "podbicie stopy",
+      "podbicie",
+      "zagadkowy",
+      "wyginać się w łuk",
+      "wyginać w łuk",
+      "arcy-"
+    ]
+  },
+  {
+    "id": "a-archaeologist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "archaeologist",
+    "pronunciation": "ˌɑ:kɪˈɒləʤɪst",
+    "meaning": [
+      "archeolog"
+    ]
+  },
+  {
+    "id": "a-archaeology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "archaeology",
+    "pronunciation": "ˌɑ:kɪˈɒləʤɪ",
+    "meaning": [
+      "archeologia"
+    ]
+  },
+  {
+    "id": "a-archaic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "archaic",
+    "pronunciation": "ɑ:ˈkeɪɪk",
+    "meaning": [
+      "archaiczny"
+    ]
+  },
+  {
+    "id": "a-archbishop",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "archbishop",
+    "pronunciation": "ˌɑ:ʧˈbɪʃəp",
+    "meaning": [
+      "arcybiskup"
+    ]
+  },
+  {
+    "id": "a-archer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "archer",
+    "pronunciation": "ˈɑ:ʧə",
+    "meaning": [
+      "łucznik"
+    ]
+  },
+  {
+    "id": "a-archery",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "archery",
+    "pronunciation": "ˈɑ:ʧərɪ",
+    "meaning": [
+      "łucznictwo"
+    ]
+  },
+  {
+    "id": "a-archetype",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "archetype",
+    "pronunciation": "ˈɑ:kɪtaɪp",
+    "meaning": [
+      "archetyp",
+      "uosobienie"
+    ]
+  },
+  {
+    "id": "a-archipelago",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "archipelago",
+    "pronunciation": "ˌɑ:kɪˈpeləgəʊ",
+    "meaning": [
+      "archipelag"
+    ]
+  },
+  {
+    "id": "a-architect",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "architect",
+    "pronunciation": "ˈɑ:kɪtekt",
+    "meaning": [
+      "architekt",
+      "budowniczy"
+    ]
+  },
+  {
+    "id": "a-architecture",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "architecture",
+    "pronunciation": "ˈɑ:kɪtekʧə",
+    "meaning": [
+      "architektura"
+    ]
+  },
+  {
+    "id": "a-archive",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "archive",
+    "pronunciation": "ˈɑ:kaɪv",
+    "meaning": [
+      "archiwum"
+    ]
+  },
+  {
+    "id": "a-arctic",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "arctic",
+    "pronunciation": "ˈɑ:rktɪk",
+    "meaning": [
+      "arktyczny"
+    ]
+  },
+  {
+    "id": "a-ardent",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ardent",
+    "pronunciation": "ˈɑ:dənt",
+    "meaning": [
+      "zapalony"
+    ]
+  },
+  {
+    "id": "a-ardour",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ardour",
+    "pronunciation": "ˈɑ:də",
+    "meaning": [
+      "zapał"
+    ]
+  },
+  {
+    "id": "a-arduous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "arduous",
+    "pronunciation": "ˈɑ:djʊəs",
+    "meaning": [
+      "nużący"
+    ]
+  },
+  {
+    "id": "a-area",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "area",
+    "pronunciation": "ˈeərɪə",
+    "meaning": [
+      "obszar",
+      "region",
+      "miejsce",
+      "dziedzina"
+    ]
+  },
+  {
+    "id": "a-arena",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "arena",
+    "pronunciation": "əˈri:nə",
+    "meaning": [
+      "arena"
+    ]
+  },
+  {
+    "id": "a-Argentina",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Argentina",
+    "pronunciation": "ˌɑ:ʤənˈti:nə",
+    "meaning": [
+      "Argentyna"
+    ]
+  },
+  {
+    "id": "a-Argentine",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Argentine",
+    "pronunciation": "/ˈɑːdʒəntaɪn/",
+    "meaning": [
+      "Argentyna",
+      "Argentyńczyk"
+    ]
+  },
+  {
+    "id": "a-Argentinian",
+    "level": "B1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Argentinian",
+    "pronunciation": "ˌɑ:ʤenˈtɪnɪən",
+    "meaning": [
+      "argentyński"
+    ]
+  },
+  {
+    "id": "a-arguable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "arguable",
+    "pronunciation": "ˈɑ:gjʊəbəl",
+    "meaning": [
+      "dyskusyjny",
+      "możliwy do wykazania"
+    ]
+  },
+  {
+    "id": "a-argue",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "argue",
+    "pronunciation": "ˈɑ:gju:",
+    "meaning": [
+      "kłócić się",
+      "twierdzić",
+      "przekonywać"
+    ]
+  },
+  {
+    "id": "a-argument",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "argument",
+    "pronunciation": "ˈɑ:gju:mənt",
+    "meaning": [
+      "kłótnia",
+      "argument"
+    ]
+  },
+  {
+    "id": "a-argumentative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "argumentative",
+    "pronunciation": "ˌɑ:gjʊˈmentətɪv",
+    "meaning": [
+      "kłótliwy"
+    ]
+  },
+  {
+    "id": "a-aria",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aria",
+    "pronunciation": "ˈɑ:rɪə",
+    "meaning": [
+      "aria"
+    ]
+  },
+  {
+    "id": "a-arid",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "arid",
+    "pronunciation": "ˈærɪd",
+    "meaning": [
+      "jałowy"
+    ]
+  },
+  {
+    "id": "a-Aries",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Aries",
+    "pronunciation": "ˈeəri:z",
+    "meaning": [
+      "Baran"
+    ]
+  },
+  {
+    "id": "a-arise",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "arise",
+    "pronunciation": "əˈraɪz",
+    "meaning": [
+      "powstawać"
+    ]
+  },
+  {
+    "id": "a-aristocracy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aristocracy",
+    "pronunciation": "ˌærɪˈstɒkrəsɪ",
+    "meaning": [
+      "arystokracja"
+    ]
+  },
+  {
+    "id": "a-aristocrat",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aristocrat",
+    "pronunciation": "ˈærɪstəkræt",
+    "meaning": [
+      "arystokrata"
+    ]
+  },
+  {
+    "id": "a-arithmetic",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "arithmetic",
+    "pronunciation": "/əˈrɪθmətɪk/",
+    "meaning": [
+      "arytmetyka"
+    ]
+  },
+  {
+    "id": "a-Arizona",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Arizona",
+    "pronunciation": "ˌærɪˈzəʊnə",
+    "meaning": [
+      "Arizona"
+    ]
+  },
+  {
+    "id": "a-ark",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ark",
+    "pronunciation": "ɑ:k",
+    "meaning": [
+      "arka"
+    ]
+  },
+  {
+    "id": "a-Arkansas",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Arkansas",
+    "pronunciation": "ˈɑ:kənsɔ:",
+    "meaning": [
+      "Arkansas"
+    ]
+  },
+  {
+    "id": "a-arm",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "arm",
+    "pronunciation": "ɑ:m",
+    "meaning": [
+      "ramię",
+      "ręka",
+      "broń"
+    ]
+  },
+  {
+    "id": "a-armament",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "armament",
+    "pronunciation": "ˈɑ:məmənt",
+    "meaning": [
+      "uzbrojenie",
+      "zbrojenie się"
+    ]
+  },
+  {
+    "id": "a-armchair",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "armchair",
+    "pronunciation": "ˈɑ:mʧeə",
+    "meaning": [
+      "fotel"
+    ]
+  },
+  {
+    "id": "a-armed",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "armed",
+    "pronunciation": "ɑ:md",
+    "meaning": [
+      "uzbrojony",
+      "zbrojny",
+      "siły zbrojne"
+    ]
+  },
+  {
+    "id": "a-Armenia",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Armenia",
+    "pronunciation": "əˈmi:nɪə",
+    "meaning": [
+      "Armenia"
+    ]
+  },
+  {
+    "id": "a-Armenian",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Armenian",
+    "pronunciation": "əˈmi:nɪən",
+    "meaning": [
+      "ormiański",
+      "Ormianin"
+    ]
+  },
+  {
+    "id": "a-armful",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "armful",
+    "pronunciation": "ˈɑ:mfʊl",
+    "meaning": [
+      "naręcze"
+    ]
+  },
+  {
+    "id": "a-armistice",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "armistice",
+    "pronunciation": "ˈɑ:mɪstɪs",
+    "meaning": [
+      "zawieszenie broni"
+    ]
+  },
+  {
+    "id": "a-armour",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "armour",
+    "pronunciation": "ˈɑ:mə",
+    "meaning": [
+      "pancerz",
+      "zbroja"
+    ]
+  },
+  {
+    "id": "a-armoured",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "armoured",
+    "pronunciation": "ˈɑ:məd",
+    "meaning": [
+      "pancerny",
+      "opancerzony"
+    ]
+  },
+  {
+    "id": "a-armpit",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "armpit",
+    "pronunciation": "ˈɑ:mpɪt",
+    "meaning": [
+      "pacha"
+    ]
+  },
+  {
+    "id": "a-army",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "army",
+    "pronunciation": "ˈɑ:mɪ",
+    "meaning": [
+      "wojsko",
+      "armia"
+    ]
+  },
+  {
+    "id": "a-aroma",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "aroma",
+    "pronunciation": "əˈrəʊmə",
+    "meaning": [
+      "aromat"
+    ]
+  },
+  {
+    "id": "a-aromatic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "aromatic",
+    "pronunciation": "ˌærəˈmætɪk",
+    "meaning": [
+      "aromatyczny"
+    ]
+  },
+  {
+    "id": "a-arousal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "arousal",
+    "pronunciation": "əˈraʊzəl",
+    "meaning": [
+      "obudzenie",
+      "pobudzenie"
+    ]
+  },
+  {
+    "id": "a-arouse",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "arouse",
+    "pronunciation": "əˈraʊz",
+    "meaning": [
+      "pobudzać",
+      "poruszać",
+      "prowokować",
+      "budzić"
+    ]
+  },
+  {
+    "id": "a-arrange",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "arrange",
+    "pronunciation": "əˈreɪnʤ",
+    "meaning": [
+      "organizować",
+      "ustalać",
+      "umawiać się",
+      "postarać się",
+      "załatwić",
+      "układać",
+      "aranżować"
+    ]
+  },
+  {
+    "id": "a-anticyclone",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "anticyclone",
+    "pronunciation": "ˌæntɪˈsaɪkləʊn",
+    "meaning": [
+      "obszar wysokiego ciśnienia"
+    ]
+  },
+  {
+    "id": "a-antidote",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antidote",
+    "pronunciation": "ˈæntɪdəʊt",
+    "meaning": [
+      "odtrutka",
+      "antidotum"
+    ]
+  },
+  {
+    "id": "a-antifreeze",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antifreeze",
+    "pronunciation": "ˈæntɪfri:z",
+    "meaning": [
+      "substancja przeciw zamarzaniu"
+    ]
+  },
+  {
+    "id": "a-antipathy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antipathy",
+    "pronunciation": "ænˈtɪpəθɪ",
+    "meaning": [
+      "antypatia"
+    ]
+  },
+  {
+    "id": "a-antiquarian",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "antiquarian",
+    "pronunciation": "ˌæntɪˈkweərɪən",
+    "meaning": [
+      "antykwaryczny"
+    ]
+  },
+  {
+    "id": "a-antiquated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "antiquated",
+    "pronunciation": "ˈæntɪkweɪtɪd",
+    "meaning": [
+      "przestarzały"
+    ]
+  },
+  {
+    "id": "a-antique",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "antique",
+    "pronunciation": "ænˈti:k",
+    "meaning": [
+      "antyk",
+      "zabytek"
+    ]
+  },
+  {
+    "id": "a-antiquity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antiquity",
+    "pronunciation": "ænˈtɪkwɪtɪ",
+    "meaning": [
+      "antyk",
+      "antyczność",
+      "zabytek",
+      "starożytność"
+    ]
+  },
+  {
+    "id": "a-anti-Semitism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "anti-Semitism",
+    "pronunciation": "ˌæntɪˈsemɪtɪzəm",
+    "meaning": [
+      "antysemityzm"
+    ]
+  },
+  {
+    "id": "a-antiseptic",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antiseptic",
+    "pronunciation": "ˌæntɪˈseptɪk",
+    "meaning": [
+      "środek odkażający"
+    ]
+  },
+  {
+    "id": "a-anti-social",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "anti-social",
+    "pronunciation": "ˌæntɪˈsəʊʃəl",
+    "meaning": [
+      "nietowarzyski",
+      "aspołeczny"
+    ]
+  },
+  {
+    "id": "a-antithesis",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "antithesis",
+    "pronunciation": "ænˈtɪθɪsɪs",
+    "meaning": [
+      "przeciwieństwo"
+    ]
+  },
+  {
+    "id": "a-antler",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antler",
+    "pronunciation": "ˈæntlə",
+    "meaning": [
+      "poroże"
+    ]
+  },
+  {
+    "id": "a-Antwerp",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Antwerp",
+    "pronunciation": "ˈæntwɜ:p",
+    "meaning": [
+      "Antwerpia"
+    ]
+  },
+  {
+    "id": "a-anus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anus",
+    "pronunciation": "ˈeɪnəs",
+    "meaning": [
+      "odbyt"
+    ]
+  },
+  {
+    "id": "a-anvil",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anvil",
+    "pronunciation": "ˈænvɪl",
+    "meaning": [
+      "kowadło"
+    ]
+  },
+  {
+    "id": "a-anxiety",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "anxiety",
+    "pronunciation": "æŋˈzaɪətɪ",
+    "meaning": [
+      "niepokój",
+      "kłopot"
+    ]
+  },
+  {
+    "id": "a-anxious",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "anxious",
+    "pronunciation": "ˈæŋkʃəs",
+    "meaning": [
+      "zaniepokojony",
+      "niepokojący",
+      "pragnący"
+    ]
+  },
+  {
+    "id": "a-any",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "any",
+    "pronunciation": "ˈenɪ",
+    "meaning": [
+      "żaden",
+      "którykolwiek",
+      "jakikolwiek",
+      "jakiś",
+      "dowolny"
+    ]
+  },
+  {
+    "id": "a-anyhow",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "anyhow",
+    "pronunciation": "ˈenɪhaʊ",
+    "meaning": [
+      "jakkolwiek"
+    ]
+  },
+  {
+    "id": "a-anyone",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "anyone",
+    "pronunciation": "ˈenɪwʌn",
+    "meaning": [
+      "nikt",
+      "ktoś",
+      "każdy"
+    ]
+  },
+  {
+    "id": "a-anything",
+    "level": "A1",
+    "partOfSpeech": "pronoun",
+    "word": "anything",
+    "pronunciation": "ˈenɪθɪŋ",
+    "meaning": [
+      "cokolwiek",
+      "nic"
+    ]
+  },
+  {
+    "id": "a-anyway",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "anyway",
+    "pronunciation": "ˈenɪweɪ",
+    "meaning": [
+      "w każdym razie",
+      "tak w ogóle"
+    ]
+  },
+  {
+    "id": "a-anywhere",
+    "level": "A1",
+    "partOfSpeech": "adverb",
+    "word": "anywhere",
+    "pronunciation": "ˈenɪweə",
+    "meaning": [
+      "gdziekolwiek",
+      "nigdzie"
+    ]
+  },
+  {
+    "id": "a-apart",
+    "level": "A2",
+    "partOfSpeech": "adverb",
+    "word": "apart",
+    "pronunciation": "əˈpɑ:t",
+    "meaning": [
+      "z dala",
+      "osobno",
+      "w rozłące"
+    ]
+  },
+  {
+    "id": "a-apartment",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "apartment",
+    "pronunciation": "əˈpɑ:tmənt",
+    "meaning": [
+      "mieszkanie",
+      "apartament"
+    ]
+  },
+  {
+    "id": "a-apathetic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "apathetic",
+    "pronunciation": "ˌæpəˈθetɪk",
+    "meaning": [
+      "apatyczny"
+    ]
+  },
+  {
+    "id": "a-apathy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "apathy",
+    "pronunciation": "ˈæpəθɪ",
+    "meaning": [
+      "apatia"
+    ]
+  },
+  {
+    "id": "a-ape",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "ape",
+    "pronunciation": "eɪp",
+    "meaning": [
+      "małpa człekokształtna",
+      "małpować"
+    ]
+  },
+  {
+    "id": "a-aperitif",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aperitif",
+    "pronunciation": "əˌperɪˈti:f",
+    "meaning": [
+      "aperitif"
+    ]
+  },
+  {
+    "id": "a-aperture",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "aperture",
+    "pronunciation": "ˈæpəʧə",
+    "meaning": [
+      "otwór",
+      "przesłona"
+    ]
+  },
+  {
+    "id": "a-apex",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "apex",
+    "pronunciation": "ˈeɪpeks",
+    "meaning": [
+      "wierzchołek"
+    ]
+  },
+  {
+    "id": "a-aphorism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "aphorism",
+    "pronunciation": "ˈæfərɪzəm",
+    "meaning": [
+      "aforyzm"
+    ]
+  },
+  {
+    "id": "a-aphrodisiac",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "aphrodisiac",
+    "pronunciation": "ˌæfrəˈdɪzɪæk",
+    "meaning": [
+      "afrodyzjak"
+    ]
+  },
+  {
+    "id": "a-apiece",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "apiece",
+    "pronunciation": "əˈpi:s",
+    "meaning": [
+      "na osobę",
+      "na sztukę"
+    ]
+  },
+  {
+    "id": "a-aplomb",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "aplomb",
+    "pronunciation": "əˈplɒm",
+    "meaning": [
+      "pewność siebie"
+    ]
+  },
+  {
+    "id": "a-apolitical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "apolitical",
+    "pronunciation": "ˌeɪpəˈlɪtɪkəl",
+    "meaning": [
+      "apolityczny"
+    ]
+  },
+  {
+    "id": "a-apologetic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "apologetic",
+    "pronunciation": "əˌpɒləˈʤetɪk",
+    "meaning": [
+      "przepraszający",
+      "usprawiedliwiający"
+    ]
+  },
+  {
+    "id": "a-apologize",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "apologize",
+    "pronunciation": "əˈpɒləʤaɪz",
+    "meaning": [
+      "prosić o wybaczenie",
+      "przepraszać"
+    ]
+  },
+  {
+    "id": "a-apology",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "apology",
+    "pronunciation": "əˈpɒləʤɪ",
+    "meaning": [
+      "prośba o wybaczenie",
+      "przeprosiny"
+    ]
+  },
+  {
+    "id": "a-apoplexy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "apoplexy",
+    "pronunciation": "ˈæpəpleksɪ",
+    "meaning": [
+      "apopleksja",
+      "udar"
+    ]
+  },
+  {
+    "id": "a-apostle",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "apostle",
+    "pronunciation": "əˈpɒstəl",
+    "meaning": [
+      "apostoł"
+    ]
+  },
+  {
+    "id": "a-app.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "app.",
+    "pronunciation": "/əˈpliːkeɪʃən/",
+    "meaning": [
+      "dodatek",
+      "suplement"
+    ]
+  },
+  {
+    "id": "a-appal",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "appal",
+    "pronunciation": "əˈpɔ:l",
+    "meaning": [
+      "zatrważać",
+      "napełniać niesmakiem"
+    ]
+  },
+  {
+    "id": "a-appalling",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "appalling",
+    "pronunciation": "əˈpɔ:lɪŋ",
+    "meaning": [
+      "zatrważający",
+      "okropny"
+    ]
+  },
+  {
+    "id": "a-apparatus",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "apparatus",
+    "pronunciation": "ˌæpəˈreɪtəs",
+    "meaning": [
+      "urządzenie"
+    ]
+  },
+  {
+    "id": "a-apparent",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "apparent",
+    "pronunciation": "əˈpærənt",
+    "meaning": [
+      "pozorny",
+      "oczywisty",
+      "widoczny"
+    ]
+  },
+  {
+    "id": "a-apparition",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "apparition",
+    "pronunciation": "ˌæpəˈrɪʃən",
+    "meaning": [
+      "zjawa"
+    ]
+  },
+  {
+    "id": "a-appeal",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "appeal",
+    "pronunciation": "əˈpi:l",
+    "meaning": [
+      "ubiegać się",
+      "prosić",
+      "odwoływać się",
+      "apelować",
+      "składać odwołanie",
+      "podobać się",
+      "odpowiadać",
+      "atrakcja",
+      "urok",
+      "prośba",
+      "odwołanie się",
+      "odwołanie",
+      "apelacja"
+    ]
+  },
+  {
+    "id": "a-appealing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "appealing",
+    "pronunciation": "əˈpi:lɪŋ",
+    "meaning": [
+      "atrakcyjny"
+    ]
+  },
+  {
+    "id": "a-appear",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "appear",
+    "pronunciation": "əˈpɪə",
+    "meaning": [
+      "pojawiać się",
+      "ukazywać się",
+      "występować",
+      "stawiać się",
+      "wydawać się"
+    ]
+  },
+  {
+    "id": "a-appearance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "appearance",
+    "pronunciation": "əˈpɪərəns",
+    "meaning": [
+      "pojawienie się",
+      "wygląd",
+      "pozory"
+    ]
+  },
+  {
+    "id": "a-appease",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "appease",
+    "pronunciation": "əˈpi:z",
+    "meaning": [
+      "łagodzić"
+    ]
+  },
+  {
+    "id": "a-append",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "append",
+    "pronunciation": "əˈpend",
+    "meaning": [
+      "dołączać",
+      "dodawać"
+    ]
+  },
+  {
+    "id": "a-appendicitis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "appendicitis",
+    "pronunciation": "əˌpendɪˈsaɪtɪs",
+    "meaning": [
+      "zapalenie wyrostka robaczkowego"
+    ]
+  },
+  {
+    "id": "a-appetite",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "appetite",
+    "pronunciation": "ˈæpɪtaɪt",
+    "meaning": [
+      "apetyt",
+      "żądza"
+    ]
+  },
+  {
+    "id": "a-appetizing",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "appetizing",
+    "pronunciation": "ˈæpɪtaɪzɪŋ",
+    "meaning": [
+      "apetyczny"
+    ]
+  },
+  {
+    "id": "a-applaud",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "applaud",
+    "pronunciation": "əˈplɔ:d",
+    "meaning": [
+      "oklaskiwać"
+    ]
+  },
+  {
+    "id": "a-applause",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "applause",
+    "pronunciation": "əˈplɔ:z",
+    "meaning": [
+      "aplauz",
+      "oklaski"
+    ]
+  },
+  {
+    "id": "a-apple",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "apple",
+    "pronunciation": "ˈæpəl",
+    "meaning": [
+      "jabłko",
+      "jabłoń"
+    ]
+  },
+  {
+    "id": "a-appliance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "appliance",
+    "pronunciation": "əˈplaɪəns",
+    "meaning": [
+      "urządzenie"
+    ]
+  },
+  {
+    "id": "a-applicable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "applicable",
+    "pronunciation": "əˈplɪkəbəl",
+    "meaning": [
+      "odnoszący się"
+    ]
+  },
+  {
+    "id": "a-applicant",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "applicant",
+    "pronunciation": "ˈæplɪkənt",
+    "meaning": [
+      "kandydat"
+    ]
+  },
+  {
+    "id": "a-application",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "application",
+    "pronunciation": "ˌæplɪˈkeɪʃən",
+    "meaning": [
+      "podanie",
+      "zgłoszenie",
+      "zastosowanie",
+      "przykładanie się",
+      "program użytkowy"
+    ]
+  },
+  {
+    "id": "a-applied",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "applied",
+    "pronunciation": "əˈplaɪd",
+    "meaning": [
+      "stosowany"
+    ]
+  },
+  {
+    "id": "a-apply",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "apply",
+    "pronunciation": "əˈplaɪ",
+    "meaning": [
+      "zgłaszać swoją kandydaturę",
+      "zgłaszać kandydaturę",
+      "zabierać",
+      "stosować",
+      "odnosić się"
+    ]
+  },
+  {
+    "id": "a-appoint",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "appoint",
+    "pronunciation": "əˈpɔɪnt",
+    "meaning": [
+      "mianować",
+      "wyznaczać"
+    ]
+  },
+  {
+    "id": "a-appointment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "appointment",
+    "pronunciation": "əˈpɔɪntmənt",
+    "meaning": [
+      "mianowanie",
+      "stanowisko",
+      "spotkanie",
+      "wizyta"
+    ]
+  },
+  {
+    "id": "a-appraisal",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "appraisal",
+    "pronunciation": "əˈpreɪzəl",
+    "meaning": [
+      "ocena"
+    ]
+  },
+  {
+    "id": "a-appraise",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "appraise",
+    "pronunciation": "əˈpreɪz",
+    "meaning": [
+      "oceniać"
+    ]
+  },
+  {
+    "id": "a-appreciable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "appreciable",
+    "pronunciation": "əˈpri:ʃəbəl",
+    "meaning": [
+      "znaczny"
+    ]
+  },
+  {
+    "id": "a-appreciate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "appreciate",
+    "pronunciation": "əˈpri:ʃɪeɪt",
+    "meaning": [
+      "doceniać",
+      "w pełni zdawać sobie sprawę",
+      "być wdzięcznym za coś",
+      "być wdzięcznym",
+      "zyskiwać na wartości"
+    ]
+  },
+  {
+    "id": "a-appreciation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "appreciation",
+    "pronunciation": "əˌpri:ʃɪˈeɪʃən",
+    "meaning": [
+      "uznanie",
+      "zrozumienie",
+      "wzrost wartości",
+      "ocena"
+    ]
+  },
+  {
+    "id": "a-appreciative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "appreciative",
+    "pronunciation": "əˈpri:ʃətɪv",
+    "meaning": [
+      "rozumiejący",
+      "doceniający"
+    ]
+  },
+  {
+    "id": "a-apprehension",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "apprehension",
+    "pronunciation": "ˌæprɪˈhenʃən",
+    "meaning": [
+      "przeczucie",
+      "obawa"
+    ]
+  },
+  {
+    "id": "a-apprehensive",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "apprehensive",
+    "pronunciation": "ˌæprɪˈhensɪv",
+    "meaning": [
+      "pełen obawy"
+    ]
+  },
+  {
+    "id": "a-apprentice",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "apprentice",
+    "pronunciation": "əˈprentɪs",
+    "meaning": [
+      "terminator",
+      "praktykant"
+    ]
+  },
+  {
+    "id": "a-apprenticeship",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "apprenticeship",
+    "pronunciation": "əˈprentɪsʃɪp",
+    "meaning": [
+      "praktyka",
+      "terminowanie"
+    ]
+  },
+  {
+    "id": "a-appro",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "appro",
+    "pronunciation": "ˈæprəʊ",
+    "meaning": [
+      "zatwierdzenie"
+    ]
+  },
+  {
+    "id": "a-approach",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "approach",
+    "pronunciation": "əˈprəʊʧ",
+    "meaning": [
+      "zbliżać się",
+      "nadchodzić",
+      "zgłaszać się",
+      "podchodzić do",
+      "dochodzić",
+      "nadejście",
+      "dojście",
+      "dojazd",
+      "zgłoszenie się",
+      "podejście"
+    ]
+  },
+  {
+    "id": "a-analyst",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "analyst",
+    "pronunciation": "ˈænəlɪst",
+    "meaning": [
+      "analityk",
+      "psychoanalityk"
+    ]
+  },
+  {
+    "id": "a-analytic",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "analytic",
+    "pronunciation": "ˌænəˈlɪtɪk(əl)",
+    "meaning": [
+      "analityczny"
+    ]
+  },
+  {
+    "id": "a-anarchist",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "anarchist",
+    "pronunciation": "ˈænəkɪst",
+    "meaning": [
+      "anarchista",
+      "anarchistyczny"
+    ]
+  },
+  {
+    "id": "a-anarchy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anarchy",
+    "pronunciation": "ˈænəkɪ",
+    "meaning": [
+      "anarchia"
+    ]
+  },
+  {
+    "id": "a-anathema",
+    "level": "C2",
+    "partOfSpeech": "noun",
+    "word": "anathema",
+    "pronunciation": "əˈnæθɪmə",
+    "meaning": [
+      "klątwa",
+      "coś znienawidzonego"
+    ]
+  },
+  {
+    "id": "a-anatomical",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "anatomical",
+    "pronunciation": "ˌænəˈtɒmɪkəl",
+    "meaning": [
+      "anatomiczny"
+    ]
+  },
+  {
+    "id": "a-anatomy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anatomy",
+    "pronunciation": "əˈnætəmɪ",
+    "meaning": [
+      "anatomia",
+      "struktura"
+    ]
+  },
+  {
+    "id": "a-ancestor",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ancestor",
+    "pronunciation": "ˈænsəstə",
+    "meaning": [
+      "przodek"
+    ]
+  },
+  {
+    "id": "a-ancestral",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "ancestral",
+    "pronunciation": "ænˈsestrəl",
+    "meaning": [
+      "rodowy"
+    ]
+  },
+  {
+    "id": "a-ancestry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ancestry",
+    "pronunciation": "ˈænsəstrɪ",
+    "meaning": [
+      "ród",
+      "pochodzenie"
+    ]
+  },
+  {
+    "id": "a-anchor",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "anchor",
+    "pronunciation": "ˈæŋkə",
+    "meaning": [
+      "kotwica",
+      "zakotwiczać",
+      "przymocowywać"
+    ]
+  },
+  {
+    "id": "a-anchovy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "anchovy",
+    "pronunciation": "ˈænʧəvɪ",
+    "meaning": [
+      "sardela"
+    ]
+  },
+  {
+    "id": "a-ancient",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "ancient",
+    "pronunciation": "ˈeɪnʃənt",
+    "meaning": [
+      "starożytny",
+      "starodawny",
+      "sędziwy"
+    ]
+  },
+  {
+    "id": "a-ancillary",
+    "level": "C2",
+    "partOfSpeech": "adjective",
+    "word": "ancillary",
+    "pronunciation": "ænˈsɪlərɪ",
+    "meaning": [
+      "pomocniczy",
+      "podrzędny"
+    ]
+  },
+  {
+    "id": "a-and",
+    "level": "A1",
+    "partOfSpeech": "conjunction",
+    "word": "and",
+    "pronunciation": "/ənd/",
+    "meaning": [
+      "i",
+      "a",
+      "coraz"
+    ]
+  },
+  {
+    "id": "a-anecdote",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anecdote",
+    "pronunciation": "ˈænɪkdəʊt",
+    "meaning": [
+      "anegdota",
+      "żart"
+    ]
+  },
+  {
+    "id": "a-anemone",
+    "level": "C2",
+    "partOfSpeech": "noun",
+    "word": "anemone",
+    "pronunciation": "əˈnemənɪ",
+    "meaning": [
+      "anemon",
+      "zawilec"
+    ]
+  },
+  {
+    "id": "a-anew",
+    "level": "B2",
+    "partOfSpeech": "adverb",
+    "word": "anew",
+    "pronunciation": "əˈnju:",
+    "meaning": [
+      "od nowa"
+    ]
+  },
+  {
+    "id": "a-angel",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "angel",
+    "pronunciation": "ˈeɪnʤəl",
+    "meaning": [
+      "anioł"
+    ]
+  },
+  {
+    "id": "a-angelic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "angelic",
+    "pronunciation": "ænˈʤelɪk",
+    "meaning": [
+      "anielski"
+    ]
+  },
+  {
+    "id": "a-anger",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "anger",
+    "pronunciation": "ˈæŋgə",
+    "meaning": [
+      "gniew",
+      "gniewać"
+    ]
+  },
+  {
+    "id": "a-angle",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "angle",
+    "pronunciation": "ˈæŋgəl",
+    "meaning": [
+      "kąt",
+      "narożnik",
+      "róg",
+      "strona",
+      "punkt widzenia",
+      "nastawiać",
+      "wyczekiwać"
+    ]
+  },
+  {
+    "id": "a-angler",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "angler",
+    "pronunciation": "ˈæŋglə",
+    "meaning": [
+      "wędkarz"
+    ]
+  },
+  {
+    "id": "a-Anglican",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Anglican",
+    "pronunciation": "ˈæŋglɪkən",
+    "meaning": [
+      "anglikański"
+    ]
+  },
+  {
+    "id": "a-angry",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "angry",
+    "pronunciation": "ˈæŋgrɪ",
+    "meaning": [
+      "zły",
+      "gniewny"
+    ]
+  },
+  {
+    "id": "a-anguish",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anguish",
+    "pronunciation": "ˈæŋgwɪʃ",
+    "meaning": [
+      "cierpienie",
+      "udręka"
+    ]
+  },
+  {
+    "id": "a-angular",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "angular",
+    "pronunciation": "ˈæŋgjʊlə",
+    "meaning": [
+      "kanciasty"
+    ]
+  },
+  {
+    "id": "a-animal",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "animal",
+    "pronunciation": "ˈænɪməl",
+    "meaning": [
+      "zwierzę",
+      "ssak",
+      "zwierzęcy"
+    ]
+  },
+  {
+    "id": "a-animate",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "animate",
+    "pronunciation": "/ˈænɪmeɪt/",
+    "meaning": [
+      "ożywiony",
+      "ożywiać"
+    ]
+  },
+  {
+    "id": "a-animated",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "animated",
+    "pronunciation": "ˈænɪmeɪtɪd",
+    "meaning": [
+      "ożywiony",
+      "animowany"
+    ]
+  },
+  {
+    "id": "a-animation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "animation",
+    "pronunciation": "ˌænɪˈmeɪʃən",
+    "meaning": [
+      "ożywienie",
+      "animacja"
+    ]
+  },
+  {
+    "id": "a-animosity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "animosity",
+    "pronunciation": "ˌænɪˈmɒsɪtɪ",
+    "meaning": [
+      "niechęć",
+      "uraza"
+    ]
+  },
+  {
+    "id": "a-aniseed",
+    "level": "C2",
+    "partOfSpeech": "noun",
+    "word": "aniseed",
+    "pronunciation": "ˈænɪsi:d",
+    "meaning": [
+      "anyż"
+    ]
+  },
+  {
+    "id": "a-ankle",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ankle",
+    "pronunciation": "ˈæŋkəl",
+    "meaning": [
+      "kostka"
+    ]
+  },
+  {
+    "id": "a-annals",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "annals",
+    "pronunciation": "ˈænəlz",
+    "meaning": []
+  },
+  {
+    "id": "a-annex",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "annex",
+    "pronunciation": "/ˈæneks/",
+    "meaning": [
+      "skrzydło",
+      "dobudówka",
+      "anektować"
+    ]
+  },
+  {
+    "id": "a-annexation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "annexation",
+    "pronunciation": "ˌænekˈseɪʃən",
+    "meaning": [
+      "aneksja"
+    ]
+  },
+  {
+    "id": "a-annihilate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "annihilate",
+    "pronunciation": "əˈnaɪəleɪt",
+    "meaning": [
+      "unicestwiać"
+    ]
+  },
+  {
+    "id": "a-annihilation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "annihilation",
+    "pronunciation": "əˌnaɪəˈleɪʃən",
+    "meaning": [
+      "unicestwienie"
+    ]
+  },
+  {
+    "id": "a-anniversary",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "anniversary",
+    "pronunciation": "ˌænɪˈvɜ:sərɪ",
+    "meaning": [
+      "rocznica"
+    ]
+  },
+  {
+    "id": "a-announce",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "announce",
+    "pronunciation": "əˈnaʊns",
+    "meaning": [
+      "ogłaszać",
+      "zawiadamiać",
+      "oznajmiać"
+    ]
+  },
+  {
+    "id": "a-announcement",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "announcement",
+    "pronunciation": "əˈnaʊnsmənt",
+    "meaning": [
+      "zawiadomienie",
+      "ogłoszenie"
+    ]
+  },
+  {
+    "id": "a-announcer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "announcer",
+    "pronunciation": "əˈnaʊnsə",
+    "meaning": [
+      "spiker"
+    ]
+  },
+  {
+    "id": "a-annoy",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "annoy",
+    "pronunciation": "əˈnɔɪ",
+    "meaning": [
+      "złościć",
+      "drażnić"
+    ]
+  },
+  {
+    "id": "a-annoyance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "annoyance",
+    "pronunciation": "əˈnɔɪəns",
+    "meaning": [
+      "irytacja",
+      "rozzłoszczenie się"
+    ]
+  },
+  {
+    "id": "a-annual",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "annual",
+    "pronunciation": "ˈænjʊəl",
+    "meaning": [
+      "coroczny",
+      "roczny",
+      "rocznik",
+      "roślina jednoroczna"
+    ]
+  },
+  {
+    "id": "a-annul",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "annul",
+    "pronunciation": "əˈnʌl",
+    "meaning": [
+      "anulować",
+      "rozwiązywać"
+    ]
+  },
+  {
+    "id": "a-anoint",
+    "level": "C2",
+    "partOfSpeech": "verb",
+    "word": "anoint",
+    "pronunciation": "əˈnɔɪnt",
+    "meaning": [
+      "namaszczać"
+    ]
+  },
+  {
+    "id": "a-anomalous",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "anomalous",
+    "pronunciation": "əˈnɒmələs",
+    "meaning": [
+      "nieprawidłowy"
+    ]
+  },
+  {
+    "id": "a-anomaly",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "anomaly",
+    "pronunciation": "əˈnɒməlɪ",
+    "meaning": [
+      "anomalia"
+    ]
+  },
+  {
+    "id": "a-anon.",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "anon.",
+    "pronunciation": "əˈnɒn",
+    "meaning": [
+      "anonim",
+      "anonimowy"
+    ]
+  },
+  {
+    "id": "a-anonymity",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "anonymity",
+    "pronunciation": "ˌænəˈnɪmɪtɪ",
+    "meaning": [
+      "anonimowość"
+    ]
+  },
+  {
+    "id": "a-anonymous",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "anonymous",
+    "pronunciation": "əˈnɒnɪməs",
+    "meaning": [
+      "anonimowy"
+    ]
+  },
+  {
+    "id": "a-anorak",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "anorak",
+    "pronunciation": "ˈænəræk",
+    "meaning": [
+      "skafander",
+      "kurtka z kapturem"
+    ]
+  },
+  {
+    "id": "a-another",
+    "level": "A1",
+    "partOfSpeech": "determiner",
+    "word": "another",
+    "pronunciation": "əˈnʌðə",
+    "meaning": [
+      "następny",
+      "inny"
+    ]
+  },
+  {
+    "id": "a-ans.",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ans.",
+    "pronunciation": "/ˈɑːnsə/",
+    "meaning": [
+      "odpowiedź"
+    ]
+  },
+  {
+    "id": "a-ANSI",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ANSI",
+    "pronunciation": "ˈænsɪ",
+    "meaning": [
+      "Narodowy Amerykański Instytut Normalizacyjny"
+    ]
+  },
+  {
+    "id": "a-answer",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "answer",
+    "pronunciation": "ˈɑ:nsə",
+    "meaning": [
+      "odpowiadać",
+      "otwierać",
+      "odbierać",
+      "odpowiedź",
+      "odzew",
+      "rozwiązanie",
+      "odpyskowywać",
+      "odpowiadać za",
+      "ręczyć za"
+    ]
+  },
+  {
+    "id": "a-answerable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "answerable",
+    "pronunciation": "ˈɑ:nsərəbəl",
+    "meaning": [
+      "odpowiedzialny"
+    ]
+  },
+  {
+    "id": "a-ant",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ant",
+    "pronunciation": "ænt",
+    "meaning": [
+      "mrówka"
+    ]
+  },
+  {
+    "id": "a-antagonism",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antagonism",
+    "pronunciation": "ænˈtægənɪzəm",
+    "meaning": [
+      "antagonism"
+    ]
+  },
+  {
+    "id": "a-antagonist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "antagonist",
+    "pronunciation": "ænˈtægənɪst",
+    "meaning": [
+      "przeciwnik"
+    ]
+  },
+  {
+    "id": "a-antagonistic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "antagonistic",
+    "pronunciation": "ænˌtægəˈnɪstɪk",
+    "meaning": [
+      "przeciwny",
+      "antagonistyczny",
+      "wrogi"
+    ]
+  },
+  {
+    "id": "a-antagonize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "antagonize",
+    "pronunciation": "ænˈtægənaɪz",
+    "meaning": [
+      "zrażać sobie"
+    ]
+  },
+  {
+    "id": "a-antarctic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "antarctic",
+    "pronunciation": "æntˈɑ:rktɪk",
+    "meaning": [
+      "antarktyczny"
+    ]
+  },
+  {
+    "id": "a-Antarctica",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Antarctica",
+    "pronunciation": "æntˈɑ:rktɪkə",
+    "meaning": [
+      "Antarktyda"
+    ]
+  },
+  {
+    "id": "a-antecedent",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "antecedent",
+    "pronunciation": "ˌæntɪˈsi:dənt",
+    "meaning": [
+      "przodek",
+      "poprzednik"
+    ]
+  },
+  {
+    "id": "a-antelope",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "antelope",
+    "pronunciation": "ˈæntɪləʊp",
+    "meaning": [
+      "antylopa"
+    ]
+  },
+  {
+    "id": "a-antenatal",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "antenatal",
+    "pronunciation": "ˌæntɪˈneɪtəl",
+    "meaning": [
+      "przedporodowy",
+      "szkoła rodzenia"
+    ]
+  },
+  {
+    "id": "a-anthem",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "anthem",
+    "pronunciation": "ˈænθəm",
+    "meaning": [
+      "hymn"
+    ]
+  },
+  {
+    "id": "a-anthology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anthology",
+    "pronunciation": "ænˈθɒləʤɪ",
+    "meaning": [
+      "antologia"
+    ]
+  },
+  {
+    "id": "a-anthropologist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anthropologist",
+    "pronunciation": "ˌænθrəˈpɒləʤɪst",
+    "meaning": [
+      "antropolog"
+    ]
+  },
+  {
+    "id": "a-anthropology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anthropology",
+    "pronunciation": "ˌænθrəˈpɒləʤɪ",
+    "meaning": [
+      "antropologia"
+    ]
+  },
+  {
+    "id": "a-antibiotic",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "antibiotic",
+    "pronunciation": "ˌæntɪbaɪˈɒtɪk",
+    "meaning": [
+      "antybiotyk",
+      "antybiotykowy"
+    ]
+  },
+  {
+    "id": "a-Antichrist",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "Antichrist",
+    "pronunciation": "ˈæntɪkraɪst",
+    "meaning": [
+      "Antychryst"
+    ]
+  },
+  {
+    "id": "a-anticipate",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "anticipate",
+    "pronunciation": "ænˈtɪsɪpeɪt",
+    "meaning": [
+      "przewidywać",
+      "wyczekiwać"
+    ]
+  },
+  {
+    "id": "a-anticipation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anticipation",
+    "pronunciation": "ænˌtɪsɪˈpeɪʃən",
+    "meaning": [
+      "przewidywanie",
+      "oczekiwanie"
+    ]
+  },
+  {
+    "id": "a-anticlimax",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "anticlimax",
+    "pronunciation": "ˌæntɪˈklaɪmæks",
+    "meaning": [
+      "zawód",
+      "rozczarowanie"
+    ]
+  },
+  {
+    "id": "a-anti-clockwise",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "anti-clockwise",
+    "pronunciation": "ˌæntɪˈklɒkwaɪz",
+    "meaning": [
+      "przeciwny do ruchu wskazówek zegara",
+      "przeciwnie do ruchu wskazówek zegara"
+    ]
+  },
+  {
+    "id": "a-antics",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "antics",
+    "pronunciation": "ˈæntɪks",
+    "meaning": [
+      "zabawy",
+      "wyskoki"
+    ]
+  },
+  {
+    "id": "a-array",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "array",
+    "pronunciation": "əˈreɪ",
+    "meaning": [
+      "zgromadzenie",
+      "wystawa",
+      "prezentować",
+      "ukazywać"
+    ]
+  },
+  {
+    "id": "a-arrears",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "arrears",
+    "pronunciation": "əˈrɪəz",
+    "meaning": [
+      "długi",
+      "dłużności"
+    ]
+  },
+  {
+    "id": "a-arrest",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "arrest",
+    "pronunciation": "əˈrest",
+    "meaning": [
+      "aresztowanie",
+      "zatrzymanie",
+      "aresztować",
+      "powstrzymywać",
+      "zajmować"
+    ]
+  },
+  {
+    "id": "a-arrival",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "arrival",
+    "pronunciation": "əˈraɪvəl",
+    "meaning": [
+      "przybycie",
+      "przyjazd",
+      "nadejście",
+      "przyjście na świat",
+      "przybyły"
+    ]
+  },
+  {
+    "id": "a-arrive",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "arrive",
+    "pronunciation": "əˈraɪv",
+    "meaning": [
+      "przybywać",
+      "przyjeżdżać",
+      "dochodzić",
+      "przychodzić na świat",
+      "nadchodzić"
+    ]
+  },
+  {
+    "id": "a-arrogance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "arrogance",
+    "pronunciation": "ˈærəgəns",
+    "meaning": [
+      "arogancja"
+    ]
+  },
+  {
+    "id": "a-arrogant",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "arrogant",
+    "pronunciation": "ˈærəgənt",
+    "meaning": [
+      "arogancki"
+    ]
+  },
+  {
+    "id": "a-arrow",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "arrow",
+    "pronunciation": "ˈærəʊ",
+    "meaning": [
+      "strzała",
+      "strzałka"
+    ]
+  },
+  {
+    "id": "a-arse",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "arse",
+    "pronunciation": "ɑ:s",
+    "meaning": [
+      "dupa"
+    ]
+  },
+  {
+    "id": "a-arsenic",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "arsenic",
+    "pronunciation": "ˈɑ:sənɪk",
+    "meaning": [
+      "arszenik"
+    ]
+  },
+  {
+    "id": "a-arson",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "arson",
+    "pronunciation": "ˈɑ:sən",
+    "meaning": [
+      "umyślne podpalenie"
+    ]
+  },
+  {
+    "id": "a-art",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "art",
+    "pronunciation": "ɑ:t",
+    "meaning": [
+      "sztuka",
+      "sztuki piękne",
+      "artystyczny",
+      "kultura",
+      "humanistyka"
+    ]
+  },
+  {
+    "id": "a-artefact",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "artefact",
+    "pronunciation": "ˈɑ:təfækt",
+    "meaning": [
+      "artefakt",
+      "wytwór ludzi"
+    ]
+  },
+  {
+    "id": "a-artery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "artery",
+    "pronunciation": "ˈɑ:tərɪ",
+    "meaning": [
+      "tętnica"
+    ]
+  },
+  {
+    "id": "a-artful",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "artful",
+    "pronunciation": "ˈɑ:tfʊl",
+    "meaning": [
+      "zręczny"
+    ]
+  },
+  {
+    "id": "a-arthritis",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "arthritis",
+    "pronunciation": "ɑ:ˈθraɪtɪs",
+    "meaning": [
+      "artretyzm"
+    ]
+  },
+  {
+    "id": "a-artichoke",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "artichoke",
+    "pronunciation": "ˈɑ:tɪʃəʊk",
+    "meaning": [
+      "karczoch",
+      "bulwa",
+      "topinambur"
+    ]
+  },
+  {
+    "id": "a-article",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "article",
+    "pronunciation": "ˈɑ:tɪkəl",
+    "meaning": [
+      "artykuł",
+      "przedmiot",
+      "obiekt",
+      "przedimek"
+    ]
+  },
+  {
+    "id": "a-articulate",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "articulate",
+    "pronunciation": "/ɑːˈtɪkjuleɪt/",
+    "meaning": [
+      "wymowny",
+      "artykułować"
+    ]
+  },
+  {
+    "id": "a-articulated",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "articulated",
+    "pronunciation": "ɑ:ˌtɪkjʊˈleɪted",
+    "meaning": [
+      "artykułowany",
+      "przegubowy",
+      "ciągnik siodłowy"
+    ]
+  },
+  {
+    "id": "a-articulation",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "articulation",
+    "pronunciation": "ɑ:ˌtɪkjʊˈleɪʃən",
+    "meaning": [
+      "wyartykułowanie"
+    ]
+  },
+  {
+    "id": "a-artificial",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "artificial",
+    "pronunciation": "ˌɑ:tɪˈfɪʃəl",
+    "meaning": [
+      "sztuczny",
+      "sztuczna inteligencja"
+    ]
+  },
+  {
+    "id": "a-artificiality",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "artificiality",
+    "pronunciation": "ˌɑ:tɪfɪʃɪˈælɪtɪ",
+    "meaning": [
+      "sztuczność"
+    ]
+  },
+  {
+    "id": "a-artillery",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "artillery",
+    "pronunciation": "ɑ:ˈtɪlərɪ",
+    "meaning": [
+      "artyleria"
+    ]
+  },
+  {
+    "id": "a-artisan",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "artisan",
+    "pronunciation": "ˌɑ:tɪˈzæn",
+    "meaning": [
+      "rzemieślnik"
+    ]
+  },
+  {
+    "id": "a-artist",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "artist",
+    "pronunciation": "ˈɑ:tɪst",
+    "meaning": [
+      "artysta"
+    ]
+  },
+  {
+    "id": "a-artistic",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "artistic",
+    "pronunciation": "ɑ:ˈtɪstɪk",
+    "meaning": [
+      "artystyczny",
+      "twórczy"
+    ]
+  },
+  {
+    "id": "a-artistry",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "artistry",
+    "pronunciation": "ˈɑ:tɪstrɪ",
+    "meaning": [
+      "sztuka"
+    ]
+  },
+  {
+    "id": "a-artless",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "artless",
+    "pronunciation": "ˈɑ:tlɪs",
+    "meaning": [
+      "szczery",
+      "naturalny",
+      "naiwny"
+    ]
+  },
+  {
+    "id": "a-arty",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "arty",
+    "pronunciation": "ˈɑ:tɪ",
+    "meaning": [
+      "interesujący się sztuką"
+    ]
+  },
+  {
+    "id": "a-asbestos",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "asbestos",
+    "pronunciation": "æsˈbestɒs",
+    "meaning": [
+      "azbest"
+    ]
+  },
+  {
+    "id": "a-ascend",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ascend",
+    "pronunciation": "əˈsend",
+    "meaning": [
+      "wznosić się",
+      "wspinać się"
+    ]
+  },
+  {
+    "id": "a-ascendancy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "ascendancy",
+    "pronunciation": "æˈsendənsɪ",
+    "meaning": [
+      "przewaga"
+    ]
+  },
+  {
+    "id": "a-ascent",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "ascent",
+    "pronunciation": "əˈsent",
+    "meaning": [
+      "wspinaczka",
+      "zbocze",
+      "pójście w górę"
+    ]
+  },
+  {
+    "id": "a-ascertain",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "ascertain",
+    "pronunciation": "ˌæsəˈteɪn",
+    "meaning": [
+      "stwierdzać"
+    ]
+  },
+  {
+    "id": "a-ascetic",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "ascetic",
+    "pronunciation": "əˈsetɪk",
+    "meaning": [
+      "ascetyczny",
+      "asceta"
+    ]
+  },
+  {
+    "id": "a-ascribe",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "ascribe",
+    "pronunciation": "əˈskraɪb",
+    "meaning": [
+      "przypisywać"
+    ]
+  },
+  {
+    "id": "a-asexual",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "asexual",
+    "pronunciation": "ˌeɪˈsekʃʊəl",
+    "meaning": [
+      "bezpłciowy"
+    ]
+  },
+  {
+    "id": "a-ash",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ash",
+    "pronunciation": "æʃ",
+    "meaning": [
+      "popiół",
+      "jesion"
+    ]
+  },
+  {
+    "id": "a-ashamed",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "ashamed",
+    "pronunciation": "əˈʃeɪmd",
+    "meaning": []
+  },
+  {
+    "id": "a-ashore",
+    "level": "B1",
+    "partOfSpeech": "adverb",
+    "word": "ashore",
+    "pronunciation": "əˈʃɔ:",
+    "meaning": [
+      "na brzeg",
+      "do brzegu"
+    ]
+  },
+  {
+    "id": "a-ashtray",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "ashtray",
+    "pronunciation": "ˈæʃtreɪ",
+    "meaning": [
+      "popielniczka"
+    ]
+  },
+  {
+    "id": "a-Asia",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Asia",
+    "pronunciation": "ˈeɪʃə",
+    "meaning": [
+      "Azja",
+      "Azja Mniejsza"
+    ]
+  },
+  {
+    "id": "a-Asian",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Asian",
+    "pronunciation": "ˈeɪʃən",
+    "meaning": [
+      "azjatycki",
+      "Azjata"
+    ]
+  },
+  {
+    "id": "a-aside",
+    "level": "B1",
+    "partOfSpeech": [
+      "adverb",
+      "preposition",
+      "noun"
+    ],
+    "word": "aside",
+    "pronunciation": "əˈsaɪd",
+    "meaning": [
+      "na bok",
+      "oprócz",
+      "z wyjątkiem",
+      "apart",
+      "słowa na stronie"
+    ]
+  },
+  {
+    "id": "a-ask",
+    "level": "A1",
+    "partOfSpeech": "verb",
+    "word": "ask",
+    "pronunciation": "ɑ:sk",
+    "meaning": [
+      "pytać",
+      "prosić",
+      "zapraszać",
+      "dopytywać się",
+      "prosić o"
+    ]
+  },
+  {
+    "id": "a-askew",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "askew",
+    "pronunciation": "əˈskju:",
+    "meaning": [
+      "skrzywiony"
+    ]
+  },
+  {
+    "id": "a-asleep",
+    "level": "A1",
+    "partOfSpeech": "adjective",
+    "word": "asleep",
+    "pronunciation": "əˈsli:p",
+    "meaning": []
+  },
+  {
+    "id": "a-asp",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "asp",
+    "pronunciation": "æsp",
+    "meaning": [
+      "osika"
+    ]
+  },
+  {
+    "id": "a-asparagus",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "asparagus",
+    "pronunciation": "əˈspærəgəs",
+    "meaning": [
+      "asparagus",
+      "szparag"
+    ]
+  },
+  {
+    "id": "a-aspect",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "aspect",
+    "pronunciation": "ˈæspekt",
+    "meaning": [
+      "aspekt",
+      "wystawa",
+      "widok",
+      "postać"
+    ]
+  },
+  {
+    "id": "a-aspersions",
+    "level": "C2",
+    "partOfSpeech": "noun",
+    "word": "aspersions",
+    "pronunciation": "əˈspɜ:ʃənz",
+    "meaning": []
+  },
+  {
+    "id": "a-asphalt",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "asphalt",
+    "pronunciation": "ˈæsfælt",
+    "meaning": [
+      "asfalt"
+    ]
+  },
+  {
+    "id": "a-asphyxiate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "asphyxiate",
+    "pronunciation": "æˈsfɪksɪeɪt",
+    "meaning": []
+  },
+  {
+    "id": "a-aspirant",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "aspirant",
+    "pronunciation": "əˈspaɪərənt",
+    "meaning": []
+  },
+  {
+    "id": "a-aspiration",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aspiration",
+    "pronunciation": "ˌæspɪˈreɪʃən",
+    "meaning": [
+      "aspiracja"
+    ]
+  },
+  {
+    "id": "a-aspire",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "aspire",
+    "pronunciation": "əˈspaɪə",
+    "meaning": [
+      "dążyć"
+    ]
+  },
+  {
+    "id": "a-aspirin",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "aspirin",
+    "pronunciation": "ˈæspɪrɪn",
+    "meaning": [
+      "aspiryna"
+    ]
+  },
+  {
+    "id": "a-aspiring",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "aspiring",
+    "pronunciation": "əsˈpaɪərɪŋ",
+    "meaning": [
+      "ambitny"
+    ]
+  },
+  {
+    "id": "a-ass",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "ass",
+    "pronunciation": "æs",
+    "meaning": [
+      "osioł",
+      "dureń",
+      "dupa"
+    ]
+  },
+  {
+    "id": "a-assail",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "assail",
+    "pronunciation": "əˈseɪl",
+    "meaning": [
+      "atakować",
+      "osaczać"
+    ]
+  },
+  {
+    "id": "a-assailant",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assailant",
+    "pronunciation": "əˈseɪlənt",
+    "meaning": [
+      "napastnik"
+    ]
+  },
+  {
+    "id": "a-assassin",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assassin",
+    "pronunciation": "əˈsæsɪn",
+    "meaning": [
+      "morderca"
+    ]
+  },
+  {
+    "id": "a-assassinate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "assassinate",
+    "pronunciation": "əˈsæsɪneɪt",
+    "meaning": [
+      "mordować"
+    ]
+  },
+  {
+    "id": "a-assassination",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assassination",
+    "pronunciation": "əˌsæsɪˈneɪʃən",
+    "meaning": [
+      "morderstwo"
+    ]
+  },
+  {
+    "id": "a-assault",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "assault",
+    "pronunciation": "əˈsɔ:lt",
+    "meaning": [
+      "natarcie",
+      "napaść",
+      "atak",
+      "szturm",
+      "szturmowy",
+      "napadać"
+    ]
+  },
+  {
+    "id": "a-assemble",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "assemble",
+    "pronunciation": "əˈsembəl",
+    "meaning": [
+      "gromadzić się",
+      "gromadzić",
+      "montować"
+    ]
+  },
+  {
+    "id": "a-assembly",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "assembly",
+    "pronunciation": "əˈsemblɪ",
+    "meaning": [
+      "zgromadzenie",
+      "gromadzenie się",
+      "montaż",
+      "montażowy",
+      "linia montażowa"
+    ]
+  },
+  {
+    "id": "a-assent",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "assent",
+    "pronunciation": "əˈsent",
+    "meaning": [
+      "zgoda",
+      "aprobata",
+      "aprobować"
+    ]
+  },
+  {
+    "id": "a-assert",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "assert",
+    "pronunciation": "əˈsɜ:t",
+    "meaning": [
+      "utwierdzać się",
+      "wykazywać"
+    ]
+  },
+  {
+    "id": "a-assess",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "assess",
+    "pronunciation": "əˈses",
+    "meaning": [
+      "oceniać",
+      "szacować"
+    ]
+  },
+  {
+    "id": "a-assessment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "assessment",
+    "pronunciation": "əˈsesmənt",
+    "meaning": [
+      "ocena",
+      "oszacowanie"
+    ]
+  },
+  {
+    "id": "a-asset",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "asset",
+    "pronunciation": "ˈæset",
+    "meaning": [
+      "atut",
+      "plus",
+      "aktywa",
+      "majątek"
+    ]
+  },
+  {
+    "id": "a-assiduous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "assiduous",
+    "pronunciation": "əˈsɪdjʊəs",
+    "meaning": [
+      "pilny"
+    ]
+  },
+  {
+    "id": "a-assign",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "assign",
+    "pronunciation": "əˈsaɪn",
+    "meaning": [
+      "wyznaczać"
+    ]
+  },
+  {
+    "id": "a-assignment",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "assignment",
+    "pronunciation": "əˈsaɪnmənt",
+    "meaning": [
+      "zadanie",
+      "przydział"
+    ]
+  },
+  {
+    "id": "a-assimilate",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "assimilate",
+    "pronunciation": "əˈsɪmɪleɪt",
+    "meaning": [
+      "przyswajać",
+      "asymilować się",
+      "asymilować"
+    ]
+  },
+  {
+    "id": "a-assimilation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assimilation",
+    "pronunciation": "əˌsɪmɪˈleɪʃən",
+    "meaning": [
+      "przyswajanie",
+      "absorpcja",
+      "asymilacja"
+    ]
+  },
+  {
+    "id": "a-assist",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "assist",
+    "pronunciation": "əˈsɪst",
+    "meaning": [
+      "pomagać"
+    ]
+  },
+  {
+    "id": "a-assistance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "assistance",
+    "pronunciation": "əˈsɪstəns",
+    "meaning": [
+      "pomoc"
+    ]
+  },
+  {
+    "id": "a-assistant",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "assistant",
+    "pronunciation": "əˈsɪstənt",
+    "meaning": [
+      "wice-",
+      "asystent",
+      "sprzedawca",
+      "ekspedient"
+    ]
+  },
+  {
+    "id": "a-assoc.",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assoc.",
+    "pronunciation": "/əˈsəʊʃ/",
+    "meaning": [
+      "stowarzyszenie"
+    ]
+  },
+  {
+    "id": "a-associate",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "word": "associate",
+    "pronunciation": "/əˈsəʊʃieɪt/",
+    "meaning": [
+      "kojarzyć",
+      "przestawać",
+      "kolega",
+      "partner",
+      "nadzwyczajny"
+    ]
+  },
+  {
+    "id": "a-association",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "association",
+    "pronunciation": "əˌsəʊsɪˈeɪʃən",
+    "meaning": [
+      "stowarzyszenie",
+      "związek",
+      "skojarzenie"
+    ]
+  },
+  {
+    "id": "a-assorted",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "assorted",
+    "pronunciation": "əˈsɔ:tɪd",
+    "meaning": [
+      "mieszany",
+      "różniący się"
+    ]
+  },
+  {
+    "id": "a-assortment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assortment",
+    "pronunciation": "əˈsɔ:tmənt",
+    "meaning": [
+      "wybór"
+    ]
+  },
+  {
+    "id": "a-asst.",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "asst.",
+    "pronunciation": "/ˈæsɪst/",
+    "meaning": [
+      "zastępca"
+    ]
+  },
+  {
+    "id": "a-assume",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "assume",
+    "pronunciation": "əˈsju:m",
+    "meaning": [
+      "zakładać",
+      "przypuszczać",
+      "brać",
+      "przybierać"
+    ]
+  },
+  {
+    "id": "a-assuming",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "assuming",
+    "pronunciation": "əˈsju:mɪŋ",
+    "meaning": [
+      "przyjmując"
+    ]
+  },
+  {
+    "id": "a-assumption",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assumption",
+    "pronunciation": "əˈsʌmpʃən",
+    "meaning": [
+      "założenie",
+      "objęcie"
+    ]
+  },
+  {
+    "id": "a-assurance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "assurance",
+    "pronunciation": "əˈʃʊərəns",
+    "meaning": [
+      "zapewnienie",
+      "ubezpieczenie na życie",
+      "ubezpieczenie"
+    ]
+  },
+  {
+    "id": "a-assure",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "assure",
+    "pronunciation": "əˈʃʊə",
+    "meaning": [
+      "zapewniać",
+      "upewniać się",
+      "upewniać"
+    ]
+  },
+  {
+    "id": "a-assured",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "assured",
+    "pronunciation": "əˈʃʊəd",
+    "meaning": [
+      "pewny siebie"
+    ]
+  },
+  {
+    "id": "a-asterisk",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "asterisk",
+    "pronunciation": "ˈæstərɪsk",
+    "meaning": [
+      "gwiazdka"
+    ]
+  },
+  {
+    "id": "a-astern",
+    "level": "C1",
+    "partOfSpeech": "adverb",
+    "word": "astern",
+    "pronunciation": "əˈstɜ:n",
+    "meaning": [
+      "na rufie",
+      "wstecz"
+    ]
+  },
+  {
+    "id": "a-asthma",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "asthma",
+    "pronunciation": "ˈæsmə",
+    "meaning": [
+      "astma"
+    ]
+  },
+  {
+    "id": "a-asthmatic",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "asthmatic",
+    "pronunciation": "æsˈmætɪk",
+    "meaning": [
+      "astmatyczny"
+    ]
+  },
+  {
+    "id": "a-astir",
+    "level": "C2",
+    "partOfSpeech": "adjective",
+    "word": "astir",
+    "pronunciation": "əˈstɜ:",
+    "meaning": [
+      "wzburzony",
+      "poruszony"
+    ]
+  },
+  {
+    "id": "a-astonish",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "astonish",
+    "pronunciation": "əˈstɒnɪʃ",
+    "meaning": [
+      "zadziwiać"
+    ]
+  },
+  {
+    "id": "a-astonishment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "astonishment",
+    "pronunciation": "əˈstɒnɪʃmənt",
+    "meaning": [
+      "zdumienie"
+    ]
+  },
+  {
+    "id": "a-astound",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "astound",
+    "pronunciation": "əˈstaʊnd",
+    "meaning": [
+      "zdumiewać"
+    ]
+  },
+  {
+    "id": "a-astray",
+    "level": "B1",
+    "partOfSpeech": [
+      "adverb",
+      "adjective"
+    ],
+    "word": "astray",
+    "pronunciation": "əˈstreɪ",
+    "meaning": []
+  },
+  {
+    "id": "a-astride",
+    "level": "B2",
+    "partOfSpeech": "preposition",
+    "word": "astride",
+    "pronunciation": "əˈstraɪd",
+    "meaning": [
+      "okrakiem"
+    ]
+  },
+  {
+    "id": "a-astringent",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "astringent",
+    "pronunciation": "əˈstrɪnʤənt",
+    "meaning": [
+      "środek ściągający",
+      "ściągający",
+      "ostry",
+      "srogi"
+    ]
+  },
+  {
+    "id": "a-astrologer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "astrologer",
+    "pronunciation": "əˈstrɒləʤə",
+    "meaning": [
+      "astrolog"
+    ]
+  },
+  {
+    "id": "a-astrology",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "astrology",
+    "pronunciation": "əˈstrɒləʤɪ",
+    "meaning": [
+      "astrologia"
+    ]
+  },
+  {
+    "id": "a-astronaut",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "astronaut",
+    "pronunciation": "ˈæstrənɔ:t",
+    "meaning": [
+      "astronauta"
+    ]
+  },
+  {
+    "id": "a-astronomer",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "astronomer",
+    "pronunciation": "əˈstrɒnəmə",
+    "meaning": [
+      "astronom"
+    ]
+  },
+  {
+    "id": "a-astronomical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "astronomical",
+    "pronunciation": "ˌæstrəˈnɒmɪkəl",
+    "meaning": [
+      "astronomiczny"
+    ]
+  },
+  {
+    "id": "a-astronomy",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "astronomy",
+    "pronunciation": "əˈstrɒnəmɪ",
+    "meaning": [
+      "astronomia"
+    ]
+  },
+  {
+    "id": "a-astute",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "astute",
+    "pronunciation": "əˈstju:t",
+    "meaning": [
+      "zręczny",
+      "przenikliwy"
+    ]
+  },
+  {
+    "id": "a-asylum",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "asylum",
+    "pronunciation": "əˈsaɪləm",
+    "meaning": [
+      "szpital psychiatryczny",
+      "azyl"
+    ]
+  },
+  {
+    "id": "a-at",
+    "level": "A1",
+    "partOfSpeech": "preposition",
+    "word": "at",
+    "pronunciation": "",
+    "meaning": [
+      "przy",
+      "w",
+      "na",
+      "o"
+    ]
+  },
+  {
+    "id": "a-atheism",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "atheism",
+    "pronunciation": "ˈeɪθɪɪzəm",
+    "meaning": [
+      "ateizm"
+    ]
+  },
+  {
+    "id": "a-athlete",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "athlete",
+    "pronunciation": "ˈæθli:t",
+    "meaning": [
+      "lekkoatleta",
+      "atleta"
+    ]
+  },
+  {
+    "id": "a-athletic",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "athletic",
+    "pronunciation": "æθˈletɪk",
+    "meaning": [
+      "atletyczny",
+      "lekkoatletyczny"
+    ]
+  },
+  {
+    "id": "a-athletics",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "athletics",
+    "pronunciation": "æθˈletɪks",
+    "meaning": [
+      "lekka atletyka"
+    ]
+  },
+  {
+    "id": "a-Atlantic",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "Atlantic",
+    "pronunciation": "ətˈlæntɪk",
+    "meaning": [
+      "atlantycki"
+    ]
+  },
+  {
+    "id": "a-atlas",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "atlas",
+    "pronunciation": "ˈætləs",
+    "meaning": [
+      "atlas"
+    ]
+  },
+  {
+    "id": "a-atmosphere",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "atmosphere",
+    "pronunciation": "ˈætməsfɪə",
+    "meaning": [
+      "atmosfera"
+    ]
+  },
+  {
+    "id": "a-atmospheric",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "atmospheric",
+    "pronunciation": "ˌætməsˈferɪk",
+    "meaning": [
+      "atmosferyczny"
+    ]
+  },
+  {
+    "id": "a-atom",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "atom",
+    "pronunciation": "ˈætəm",
+    "meaning": [
+      "atom",
+      "odrobina"
+    ]
+  },
+  {
+    "id": "a-atomic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "atomic",
+    "pronunciation": "əˈtɒmɪk",
+    "meaning": [
+      "atomowy",
+      "nuklearny"
+    ]
+  },
+  {
+    "id": "a-atone",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "atone",
+    "pronunciation": "əˈtəʊn",
+    "meaning": [
+      "odpokutowywać"
+    ]
+  },
+  {
+    "id": "a-atrocious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "atrocious",
+    "pronunciation": "əˈtrəʊʃəs",
+    "meaning": [
+      "okropny",
+      "odrażający"
+    ]
+  },
+  {
+    "id": "a-atrocity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "atrocity",
+    "pronunciation": "əˈtrɒsɪtɪ",
+    "meaning": [
+      "bestialstwo"
+    ]
+  },
+  {
+    "id": "a-attach",
+    "level": "A2",
+    "partOfSpeech": "verb",
+    "word": "attach",
+    "pronunciation": "əˈtæʧ",
+    "meaning": [
+      "przyłączać",
+      "dołączać",
+      "odnosić się",
+      "odnosić"
+    ]
+  },
+  {
+    "id": "a-attached",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "attached",
+    "pronunciation": "əˈtæʧt",
+    "meaning": [
+      "przywiązany"
+    ]
+  },
+  {
+    "id": "a-attachment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "attachment",
+    "pronunciation": "əˈtæʧmənt",
+    "meaning": [
+      "przywiązanie",
+      "przystawka"
+    ]
+  },
+  {
+    "id": "a-attack",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "attack",
+    "pronunciation": "əˈtæk",
+    "meaning": [
+      "napad",
+      "atak",
+      "atakować",
+      "napadać",
+      "zabierać się do wykonania jakiegoś zadania",
+      "zabierać się do",
+      "prowadzić atak"
+    ]
+  },
+  {
+    "id": "a-attain",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "attain",
+    "pronunciation": "əˈteɪn",
+    "meaning": [
+      "osiągać"
+    ]
+  },
+  {
+    "id": "a-attainable",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "attainable",
+    "pronunciation": "əˈteɪnəbəl",
+    "meaning": [
+      "osiągalny",
+      "do osiągnięcia"
+    ]
+  },
+  {
+    "id": "a-attainment",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "attainment",
+    "pronunciation": "əˈteɪnmənt",
+    "meaning": [
+      "osiągnięcie"
+    ]
+  },
+  {
+    "id": "a-attempt",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "attempt",
+    "pronunciation": "əˈtemt",
+    "meaning": [
+      "usiłować",
+      "próba",
+      "zamach"
+    ]
+  },
+  {
+    "id": "a-attempted",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "attempted",
+    "pronunciation": "əˈtemtɪd",
+    "meaning": [
+      "usiłowany"
+    ]
+  },
+  {
+    "id": "a-attend",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "attend",
+    "pronunciation": "əˈtend",
+    "meaning": [
+      "uczestniczyć",
+      "uczęszczać",
+      "załatwić",
+      "zwracać baczną uwagę"
+    ]
+  },
+  {
+    "id": "a-attendance",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "attendance",
+    "pronunciation": "əˈtendəns",
+    "meaning": [
+      "uczestnictwo",
+      "obecność",
+      "uczęszczanie"
+    ]
+  },
+  {
+    "id": "a-attendant",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "attendant",
+    "pronunciation": "əˈtendənt",
+    "meaning": [
+      "obsługujący",
+      "towarzyszący"
+    ]
+  },
+  {
+    "id": "a-attention",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "attention",
+    "pronunciation": "əˈtenʃən",
+    "meaning": [
+      "uwaga",
+      "opieka",
+      "uprzejmości"
+    ]
+  },
+  {
+    "id": "a-attentive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "attentive",
+    "pronunciation": "əˈtentɪv",
+    "meaning": [
+      "uważny",
+      "uczynny"
+    ]
+  },
+  {
+    "id": "a-attest",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "attest",
+    "pronunciation": "əˈtest",
+    "meaning": [
+      "poświadczać"
+    ]
+  },
+  {
+    "id": "a-attested",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "word": "attested",
+    "pronunciation": "əˈtestɪd",
+    "meaning": [
+      "atestowany"
+    ]
+  },
+  {
+    "id": "a-attic",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "attic",
+    "pronunciation": "ˈætɪk",
+    "meaning": [
+      "mansarda"
+    ]
+  },
+  {
+    "id": "a-attire",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "attire",
+    "pronunciation": "əˈtaɪə",
+    "meaning": [
+      "odzienie"
+    ]
+  },
+  {
+    "id": "a-attitude",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "attitude",
+    "pronunciation": "ˈætɪtju:d",
+    "meaning": [
+      "postawa"
+    ]
+  },
+  {
+    "id": "a-attorney",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "attorney",
+    "pronunciation": "əˈtɜ:nɪ",
+    "meaning": [
+      "adwokat",
+      "prokurator",
+      "pełnomocnik",
+      "Minister Sprawiedliwości",
+      "pełnomocnictwo"
+    ]
+  },
+  {
+    "id": "a-attract",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "attract",
+    "pronunciation": "əˈtrækt",
+    "meaning": [
+      "przyciągać",
+      "pociągać"
+    ]
+  },
+  {
+    "id": "a-attraction",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "attraction",
+    "pronunciation": "əˈtrækʃən",
+    "meaning": [
+      "urok",
+      "pociąg",
+      "atrakcja"
+    ]
+  },
+  {
+    "id": "a-attractive",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "attractive",
+    "pronunciation": "əˈtræktɪv",
+    "meaning": [
+      "atrakcyjny"
+    ]
+  },
+  {
+    "id": "a-attribute",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "attribute",
+    "pronunciation": "ˈætrɪbju:t",
+    "meaning": [
+      "przypisywać",
+      "cecha",
+      "atrybut"
+    ]
+  },
+  {
+    "id": "a-aubergine",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "aubergine",
+    "pronunciation": "ˈəʊbəʒi:n",
+    "meaning": [
+      "bakłażan"
+    ]
+  },
+  {
+    "id": "a-auburn",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "auburn",
+    "pronunciation": "ˈɔ:bən",
+    "meaning": [
+      "kasztanowy"
+    ]
+  },
+  {
+    "id": "a-auction",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "auction",
+    "pronunciation": "ˈɔ:kʃən",
+    "meaning": [
+      "licytacja",
+      "aukcja",
+      "licytować",
+      "sprzedawać na licytacji",
+      "wyprzedawać na licytacji",
+      "wyprzedawać"
+    ]
+  },
+  {
+    "id": "a-auctioneer",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "auctioneer",
+    "pronunciation": "ˌɔ:kʃəˈnɪə",
+    "meaning": [
+      "licytator"
+    ]
+  },
+  {
+    "id": "a-audacious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "audacious",
+    "pronunciation": "ɔ:ˈdeɪʃəs",
+    "meaning": [
+      "śmiały",
+      "zuchwały"
+    ]
+  },
+  {
+    "id": "a-audacity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "audacity",
+    "pronunciation": "ɔ:ˈdæsɪtɪ",
+    "meaning": [
+      "czelność"
+    ]
+  },
+  {
+    "id": "a-audible",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "audible",
+    "pronunciation": "ˈɔ:dɪbəl",
+    "meaning": [
+      "słyszalny"
+    ]
+  },
+  {
+    "id": "a-audience",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "audience",
+    "pronunciation": "ˈɔ:dɪəns",
+    "meaning": [
+      "widownia",
+      "publiczność",
+      "audiencja"
+    ]
+  },
+  {
+    "id": "a-audio",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "audio",
+    "pronunciation": "ˈɔ:dɪəʊ",
+    "meaning": [
+      "dźwiękowy",
+      "muzyczny"
+    ]
+  },
+  {
+    "id": "a-audio-visual",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "audio-visual",
+    "pronunciation": "ˌɔ:dɪəʊˈvɪʒʊəl",
+    "meaning": [
+      "audiowizualny"
+    ]
+  },
+  {
+    "id": "a-awe",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "awe",
+    "pronunciation": "ɔ:",
+    "meaning": [
+      "trwoga",
+      "przestrach",
+      "bojaźń",
+      "respekt"
+    ]
+  },
+  {
+    "id": "a-awed",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "awed",
+    "pronunciation": "ɔ:d",
+    "meaning": [
+      "pełen respektu"
+    ]
+  },
+  {
+    "id": "a-awe-inspiring",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "awe-inspiring",
+    "pronunciation": "ˈɔ:ɪnˌspaɪərɪŋ",
+    "meaning": [
+      "wzbudzający respekt"
+    ]
+  },
+  {
+    "id": "a-awesome",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "awesome",
+    "pronunciation": "ˈɔ:səm",
+    "meaning": [
+      "straszliwy"
+    ]
+  },
+  {
+    "id": "a-awe-struck",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "awe-struck",
+    "pronunciation": "ˈɔ:strʌk",
+    "meaning": [
+      "przytłoczony",
+      "pełen respektu"
+    ]
+  },
+  {
+    "id": "a-awful",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "awful",
+    "pronunciation": "ˈɔ:fʊl",
+    "meaning": [
+      "okropny",
+      "okropnie",
+      "straszny"
+    ]
+  },
+  {
+    "id": "a-awkward",
+    "level": "A2",
+    "partOfSpeech": "adjective",
+    "word": "awkward",
+    "pronunciation": "ˈɔ:kwəd",
+    "meaning": [
+      "niezręczny",
+      "nieporęczny",
+      "niewygodny",
+      "ciężki",
+      "trudny"
+    ]
+  },
+  {
+    "id": "a-awning",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "awning",
+    "pronunciation": "ˈɔ:nɪŋ",
+    "meaning": [
+      "markiza"
+    ]
+  },
+  {
+    "id": "a-awry",
+    "level": "B2",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "word": "awry",
+    "pronunciation": "əˈraɪ",
+    "meaning": [
+      "przekrzywiony"
+    ]
+  },
+  {
+    "id": "a-axe",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "axe",
+    "pronunciation": "æks",
+    "meaning": [
+      "topór",
+      "utrącać",
+      "redukować"
+    ]
+  },
+  {
+    "id": "a-axiom",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "axiom",
+    "pronunciation": "ˈæksɪəm",
+    "meaning": [
+      "aksjomat"
+    ]
+  },
+  {
+    "id": "a-axiomatic",
+    "level": "C2",
+    "partOfSpeech": "adjective",
+    "word": "axiomatic",
+    "pronunciation": "ˌæksɪəˈmætɪk",
+    "meaning": [
+      "aksjomatyczne"
+    ]
+  },
+  {
+    "id": "a-axis",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "axis",
+    "pronunciation": "ˈæksɪs",
+    "meaning": [
+      "oś"
+    ]
+  },
+  {
+    "id": "a-axle",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "axle",
+    "pronunciation": "ˈæksəl",
+    "meaning": [
+      "oś"
+    ]
+  },
+  {
+    "id": "a-aye",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "exclamation"
+    ],
+    "word": "aye",
+    "pronunciation": "aɪ",
+    "meaning": [
+      "tak",
+      "głos za",
+      "za"
+    ]
+  },
+  {
+    "id": "a-Azerbaijan",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Azerbaijan",
+    "pronunciation": "ˌæzəbaɪˈʤɑ:n",
+    "meaning": [
+      "Azerbejdżan"
+    ]
+  },
+  {
+    "id": "a-Azerbaijani",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Azerbaijani",
+    "pronunciation": "ˌæzəbaɪˈʤɑ:nɪ",
+    "meaning": [
+      "azerbejdżański",
+      "Azerbejdżanin"
+    ]
+  },
+  {
+    "id": "a-azure",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "azure",
+    "pronunciation": "ˈæʒə",
+    "meaning": [
+      "błękitny",
+      "lazurowy",
+      "lazur"
+    ]
+  },
+  {
+    "id": "a-audit",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "audit",
+    "pronunciation": "ˈɔ:dɪt",
+    "meaning": [
+      "badać bilans",
+      "badanie bilansu"
+    ]
+  },
+  {
+    "id": "a-audition",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "audition",
+    "pronunciation": "ɔ:ˈdɪʃən",
+    "meaning": [
+      "próba",
+      "przesłuchanie",
+      "przesłuchiwać"
+    ]
+  },
+  {
+    "id": "a-auditor",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "auditor",
+    "pronunciation": "ˈɔ:dɪtə",
+    "meaning": [
+      "biegły księgowy"
+    ]
+  },
+  {
+    "id": "a-auditorium",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "auditorium",
+    "pronunciation": "ˌɔ:dɪˈtɔ:rɪəm",
+    "meaning": [
+      "widownia",
+      "sala widowiskowa"
+    ]
+  },
+  {
+    "id": "a-Aug.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "Aug.",
+    "pronunciation": "/ɔːɡˈʌst/",
+    "meaning": [
+      "sierpień"
+    ]
+  },
+  {
+    "id": "a-augment",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "augment",
+    "pronunciation": "ɔ:gˈment",
+    "meaning": [
+      "zwiększać"
+    ]
+  },
+  {
+    "id": "a-augur",
+    "level": "C2",
+    "partOfSpeech": "verb",
+    "word": "augur",
+    "pronunciation": "ˈɔ:gə",
+    "meaning": [
+      "wróżyć"
+    ]
+  },
+  {
+    "id": "a-August",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "August",
+    "pronunciation": "ˈɔ:gəst",
+    "meaning": [
+      "sierpień"
+    ]
+  },
+  {
+    "id": "a-august",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "august",
+    "pronunciation": "ɔ:ˈgʌst",
+    "meaning": [
+      "dostojny"
+    ]
+  },
+  {
+    "id": "a-aunt",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "aunt",
+    "pronunciation": "ɑ:nt",
+    "meaning": [
+      "ciotka"
+    ]
+  },
+  {
+    "id": "a-auntie",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "auntie",
+    "pronunciation": "ˈɑ:ntɪ",
+    "meaning": [
+      "ciocia"
+    ]
+  },
+  {
+    "id": "a-au_pair",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "au pair",
+    "pronunciation": "ˌəʊˈpeə",
+    "meaning": []
+  },
+  {
+    "id": "a-aura",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aura",
+    "pronunciation": "ˈɔ:rə",
+    "meaning": [
+      "aura"
+    ]
+  },
+  {
+    "id": "a-aural",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "aural",
+    "pronunciation": "ˈɔ:rəl",
+    "meaning": [
+      "dźwiękowy",
+      "słuchowy"
+    ]
+  },
+  {
+    "id": "a-auspices",
+    "level": "C2",
+    "partOfSpeech": "noun",
+    "word": "auspices",
+    "pronunciation": "ˈɔ:spɪsɪz",
+    "meaning": []
+  },
+  {
+    "id": "a-auspicious",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "auspicious",
+    "pronunciation": "ɔ:ˈspɪʃəs",
+    "meaning": [
+      "pomyślny"
+    ]
+  },
+  {
+    "id": "a-Aussie",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "Aussie",
+    "pronunciation": "ˈɒzɪ",
+    "meaning": [
+      "Australijczyk",
+      "Australia"
+    ]
+  },
+  {
+    "id": "a-austere",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "austere",
+    "pronunciation": "ɔ:ˈstɪə",
+    "meaning": [
+      "surowy",
+      "prosty",
+      "niewyszukany"
+    ]
+  },
+  {
+    "id": "a-austerity",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "austerity",
+    "pronunciation": "ɔ:ˈsterɪtɪ",
+    "meaning": [
+      "surowość",
+      "prostota"
+    ]
+  },
+  {
+    "id": "a-Australia",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Australia",
+    "pronunciation": "ɒˈstreɪlɪə",
+    "meaning": [
+      "Australia"
+    ]
+  },
+  {
+    "id": "a-Australian",
+    "level": "A1",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "Australian",
+    "pronunciation": "ɒˈstreɪlɪən",
+    "meaning": [
+      "australijski",
+      "Australijczyk"
+    ]
+  },
+  {
+    "id": "a-Austria",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "Austria",
+    "pronunciation": "ˈɒstrɪə",
+    "meaning": [
+      "Austria"
+    ]
+  },
+  {
+    "id": "a-Austrian",
+    "level": "A1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "Austrian",
+    "pronunciation": "ˈɒstrɪən",
+    "meaning": [
+      "austriacki",
+      "Austriak"
+    ]
+  },
+  {
+    "id": "a-authentic",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "authentic",
+    "pronunciation": "ɔ:ˈθentɪk",
+    "meaning": [
+      "autentyczny"
+    ]
+  },
+  {
+    "id": "a-authenticate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "authenticate",
+    "pronunciation": "ɔ:ˈθentɪkeɪt",
+    "meaning": [
+      "potwierdzać autentyczność"
+    ]
+  },
+  {
+    "id": "a-authenticity",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "authenticity",
+    "pronunciation": "ˌɔ:θenˈtɪsɪtɪ",
+    "meaning": [
+      "autentyczność"
+    ]
+  },
+  {
+    "id": "a-author",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "author",
+    "pronunciation": "ˈɔ:θə",
+    "meaning": [
+      "autor",
+      "pisarz"
+    ]
+  },
+  {
+    "id": "a-authoritarian",
+    "level": "C1",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "authoritarian",
+    "pronunciation": "ɔ:ˌθɒrɪˈteərɪən",
+    "meaning": [
+      "apodyktyczny",
+      "despota"
+    ]
+  },
+  {
+    "id": "a-authoritative",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "authoritative",
+    "pronunciation": "ɔ:ˈθɒrɪtətɪv",
+    "meaning": [
+      "autorytatywny",
+      "wyczerpujący",
+      "miarodajny"
+    ]
+  },
+  {
+    "id": "a-authority",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "authority",
+    "pronunciation": "ɔ:ˈθɒrɪtɪ",
+    "meaning": [
+      "władze",
+      "urząd",
+      "administracja",
+      "organ",
+      "władza",
+      "autorytet",
+      "upoważnienie"
+    ]
+  },
+  {
+    "id": "a-authorization",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "authorization",
+    "pronunciation": "ˌɔ:θəraɪˈzeɪʃən",
+    "meaning": [
+      "upoważnienie"
+    ]
+  },
+  {
+    "id": "a-authorize",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "authorize",
+    "pronunciation": "ˈɔ:θəraɪz",
+    "meaning": [
+      "zatwierdzać",
+      "upoważniać"
+    ]
+  },
+  {
+    "id": "a-auto",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "auto",
+    "pronunciation": "ˈɔ:təʊ",
+    "meaning": [
+      "samochód"
+    ]
+  },
+  {
+    "id": "a-autobiographical",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "autobiographical",
+    "pronunciation": "ˌɔ:təbaɪəˈgræfɪkəl",
+    "meaning": [
+      "autobiograficzny"
+    ]
+  },
+  {
+    "id": "a-autobiography",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "autobiography",
+    "pronunciation": "ˌɔ:təbaɪˈɒgrəfɪ",
+    "meaning": [
+      "autobiografia"
+    ]
+  },
+  {
+    "id": "a-autocracy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "autocracy",
+    "pronunciation": "ɔ:ˈtɒkrəsɪ",
+    "meaning": [
+      "autokracja"
+    ]
+  },
+  {
+    "id": "a-autograph",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "autograph",
+    "pronunciation": "ˈɔ:təgrɑ:f",
+    "meaning": [
+      "autograf",
+      "podpisywać",
+      "składać autografy"
+    ]
+  },
+  {
+    "id": "a-automate",
+    "level": "C1",
+    "partOfSpeech": "verb",
+    "word": "automate",
+    "pronunciation": "ˈɔ:təmeɪt",
+    "meaning": [
+      "automatyzować"
+    ]
+  },
+  {
+    "id": "a-automatic",
+    "level": "A2",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "word": "automatic",
+    "pronunciation": "ˌɔ:təˈmætɪk",
+    "meaning": [
+      "automatyczny",
+      "z urzędu",
+      "automat"
+    ]
+  },
+  {
+    "id": "a-automation",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "automation",
+    "pronunciation": "ˌɔ:təˈmeɪʃən",
+    "meaning": [
+      "automatyzacja"
+    ]
+  },
+  {
+    "id": "a-automaton",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "automaton",
+    "pronunciation": "ɔ:ˈtɒmətən",
+    "meaning": [
+      "automat",
+      "robot"
+    ]
+  },
+  {
+    "id": "a-automobile",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "automobile",
+    "pronunciation": "ˈɔ:təməbi:l",
+    "meaning": [
+      "samochód"
+    ]
+  },
+  {
+    "id": "a-autonomous",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "autonomous",
+    "pronunciation": "ɔ:ˈtɒnəməs",
+    "meaning": [
+      "autonomiczny"
+    ]
+  },
+  {
+    "id": "a-autonomy",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "autonomy",
+    "pronunciation": "ɔ:ˈtɒnəmɪ",
+    "meaning": [
+      "autonomia"
+    ]
+  },
+  {
+    "id": "a-autopsy",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "autopsy",
+    "pronunciation": "ˈɔ:tɒpsɪ",
+    "meaning": [
+      "sekcja zwłok"
+    ]
+  },
+  {
+    "id": "a-autumn",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "autumn",
+    "pronunciation": "ˈɔ:təm",
+    "meaning": [
+      "jesień"
+    ]
+  },
+  {
+    "id": "a-autumnal",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "autumnal",
+    "pronunciation": "ɔ:ˈtʌmnəl",
+    "meaning": [
+      "jesienny"
+    ]
+  },
+  {
+    "id": "a-auxiliary",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "auxiliary",
+    "pronunciation": "ɔ:gˈzɪljərɪ",
+    "meaning": [
+      "pracownik pomocniczy",
+      "pomocniczy",
+      "dodatkowy",
+      "posiłkowy"
+    ]
+  },
+  {
+    "id": "a-AV",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "AV",
+    "pronunciation": "ˌ⋅ˈ⋅",
+    "meaning": [
+      "audio-wizualny",
+      "Wersja Autoryzowana Biblii",
+      "Wersja Autoryzowana"
+    ]
+  },
+  {
+    "id": "a-av.",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "av.",
+    "pronunciation": "/ˌeɪˈviː/",
+    "meaning": [
+      "ul.",
+      "ulica"
+    ]
+  },
+  {
+    "id": "a-avail",
+    "level": "C1",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "avail",
+    "pronunciation": "əˈveɪl",
+    "meaning": []
+  },
+  {
+    "id": "a-availability",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "availability",
+    "pronunciation": "əˌveɪləˈbɪlɪtɪ",
+    "meaning": [
+      "dostępność"
+    ]
+  },
+  {
+    "id": "a-available",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "available",
+    "pronunciation": "əˈveɪləbəl",
+    "meaning": [
+      "dostępny",
+      "osiągalny"
+    ]
+  },
+  {
+    "id": "a-avalanche",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "avalanche",
+    "pronunciation": "ˈævəlɑ:nʃ",
+    "meaning": [
+      "lawina",
+      "potop",
+      "zalew"
+    ]
+  },
+  {
+    "id": "a-avant-garde",
+    "level": "B2",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "word": "avant-garde",
+    "pronunciation": "ˌævɒŋˈgɑ:d",
+    "meaning": [
+      "awangardowy",
+      "awangarda"
+    ]
+  },
+  {
+    "id": "a-avarice",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "avarice",
+    "pronunciation": "ˈævərɪs",
+    "meaning": [
+      "chciwość"
+    ]
+  },
+  {
+    "id": "a-avaricious",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "avaricious",
+    "pronunciation": "ˌævəˈrɪʃəs",
+    "meaning": [
+      "chciwy"
+    ]
+  },
+  {
+    "id": "a-ave.",
+    "level": "A1",
+    "partOfSpeech": "noun",
+    "word": "ave.",
+    "pronunciation": "/ˈævənjuː/",
+    "meaning": [
+      "ul.",
+      "ulica"
+    ]
+  },
+  {
+    "id": "a-avenge",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "avenge",
+    "pronunciation": "əˈvenʤ",
+    "meaning": [
+      "mścić"
+    ]
+  },
+  {
+    "id": "a-avenue",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "avenue",
+    "pronunciation": "ˈævɪnju:",
+    "meaning": [
+      "aleja",
+      "ulica",
+      "kanał"
+    ]
+  },
+  {
+    "id": "a-average",
+    "level": "B1",
+    "partOfSpeech": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "word": "average",
+    "pronunciation": "ˈævərɪʤ",
+    "meaning": [
+      "przeciętna",
+      "norma",
+      "przeciętny",
+      "normalny",
+      "średni",
+      "układać się wokół średniej",
+      "wynosić przeciętnie",
+      "wyliczać średnią"
+    ]
+  },
+  {
+    "id": "a-averse",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "averse",
+    "pronunciation": "əˈvɜ:s",
+    "meaning": [
+      "niechętny"
+    ]
+  },
+  {
+    "id": "a-aversion",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aversion",
+    "pronunciation": "əˈvɜ:ʃən",
+    "meaning": [
+      "wstręt"
+    ]
+  },
+  {
+    "id": "a-avert",
+    "level": "B2",
+    "partOfSpeech": "verb",
+    "word": "avert",
+    "pronunciation": "əˈvɜ:t",
+    "meaning": [
+      "zapobiegać",
+      "odwracać"
+    ]
+  },
+  {
+    "id": "a-aviary",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "aviary",
+    "pronunciation": "ˈeɪvɪərɪ",
+    "meaning": [
+      "ptaszarnia"
+    ]
+  },
+  {
+    "id": "a-aviation",
+    "level": "B1",
+    "partOfSpeech": "noun",
+    "word": "aviation",
+    "pronunciation": "ˌeɪvɪˈeɪʃən",
+    "meaning": [
+      "lotnictwo"
+    ]
+  },
+  {
+    "id": "a-avid",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "avid",
+    "pronunciation": "ˈævɪd",
+    "meaning": [
+      "zapalony",
+      "złakniony"
+    ]
+  },
+  {
+    "id": "a-avocado",
+    "level": "A2",
+    "partOfSpeech": "noun",
+    "word": "avocado",
+    "pronunciation": "ˌævəˈkɑ:dəʊ",
+    "meaning": [
+      "awokado"
+    ]
+  },
+  {
+    "id": "a-avoid",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "avoid",
+    "pronunciation": "əˈvɔɪd",
+    "meaning": [
+      "unikać",
+      "uchylać się"
+    ]
+  },
+  {
+    "id": "a-avoidable",
+    "level": "B1",
+    "partOfSpeech": "adjective",
+    "word": "avoidable",
+    "pronunciation": "əˈvɔɪdəbəl",
+    "meaning": [
+      "do uniknięcia"
+    ]
+  },
+  {
+    "id": "a-avoidance",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "avoidance",
+    "pronunciation": "əˈvɔɪdəns",
+    "meaning": [
+      "uchylanie się"
+    ]
+  },
+  {
+    "id": "a-avowal",
+    "level": "C1",
+    "partOfSpeech": "noun",
+    "word": "avowal",
+    "pronunciation": "əˈvaʊəl",
+    "meaning": [
+      "deklaracja"
+    ]
+  },
+  {
+    "id": "a-avowed",
+    "level": "B2",
+    "partOfSpeech": "adjective",
+    "word": "avowed",
+    "pronunciation": "əˈvaʊd",
+    "meaning": [
+      "zdeklarowany"
+    ]
+  },
+  {
+    "id": "a-avuncular",
+    "level": "C1",
+    "partOfSpeech": "adjective",
+    "word": "avuncular",
+    "pronunciation": "əˈvʌŋkjələ",
+    "meaning": [
+      "ojcowski",
+      "dobrotliwie protekcjonalny"
+    ]
+  },
+  {
+    "id": "a-await",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "await",
+    "pronunciation": "əˈweɪt",
+    "meaning": [
+      "oczekiwać"
+    ]
+  },
+  {
+    "id": "a-awake",
+    "level": "A2",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "word": "awake",
+    "pronunciation": "əˈweɪk",
+    "meaning": [
+      "budzić się",
+      "budzić",
+      "czuwający"
+    ]
+  },
+  {
+    "id": "a-awaken",
+    "level": "B1",
+    "partOfSpeech": "verb",
+    "word": "awaken",
+    "pronunciation": "əˈweɪkən",
+    "meaning": [
+      "rozbudzać",
+      "przebudzać się",
+      "przebudzać"
+    ]
+  },
+  {
+    "id": "a-awakening",
+    "level": "B2",
+    "partOfSpeech": "noun",
+    "word": "awakening",
+    "pronunciation": "əˈweɪkənɪŋ",
+    "meaning": [
+      "przebudzenie",
+      "rozbudzenie"
+    ]
+  },
+  {
+    "id": "a-award",
+    "level": "A2",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "word": "award",
+    "pronunciation": "əˈwɔ:d",
+    "meaning": [
+      "nagroda",
+      "odszkodowanie",
+      "nagradzać",
+      "przyznawać nagrodę",
+      "zasądzać"
+    ]
+  },
+  {
+    "id": "a-away",
+    "level": "A1",
+    "partOfSpeech": [
+      "adverb",
+      "preposition"
+    ],
+    "word": "away",
+    "pronunciation": "əˈweɪ",
+    "meaning": [
+      "od",
+      "od-",
+      "z-",
+      "s-",
+      "w odległości",
+      "odległy o",
+      "gościnny"
+    ]
+  }
+]
