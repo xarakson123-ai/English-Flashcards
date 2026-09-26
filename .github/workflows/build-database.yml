@@ -3,6 +3,10 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - ".github/workflows/build-database.yml"
 permissions:
   contents: write
 jobs:
@@ -11,38 +15,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build database
-        shell: python
+        shell: bash
         run: |
-          import json, urllib.request
+          python - <<'PY'
+          import json
           from pathlib import Path
-          if Path("words.json").exists():
-              raise SystemExit(0)
-          url="https://raw.githubusercontent.com/open-dict-data/wikidict-en/master/data/pl-en_wiki.txt"
-          raw=urllib.request.urlopen(url).read().decode("utf-8", "ignore")
+          files=sorted(Path("data").glob("*.json"))
           out=[]
           seen=set()
-          for line in raw.splitlines():
-              parts=line.split("\t")
-              if len(parts)<2:
+          for f in files:
+              try:
+                  data=json.loads(f.read_text(encoding="utf-8"))
+              except Exception:
                   continue
-              pl=parts[0].strip()
-              en=parts[1].strip()
-              if not pl or not en:
-                  continue
-              key=(en.lower(),pl.lower())
-              if key in seen:
-                  continue
-              seen.add(key)
-              out.append({"en":en,"pl":pl})
-              if len(out)>=40000:
-                  break
-          if len(out)<40000:
-              raise SystemExit(f"Only {len(out)} entries found")
-          Path("words.json").write_text(json.dumps(out,ensure_ascii=False,separators=(",",":")),"utf-8")
+              for w in data:
+                  if isinstance(w,dict):
+                      en=w.get("en") or w.get("word")
+                      pl=w.get("pl")
+                      if not pl:
+                          m=w.get("meaning")
+                          if isinstance(m,list) and m:
+                              pl=m[0]
+                      if en and pl:
+                          key=(str(en).strip().lower(),str(pl).strip().lower())
+                          if key not in seen:
+                              seen.add(key)
+                              out.append({"en":str(en).strip(),"pl":str(pl).strip()})
+          if len(out) < 40000:
+              raise SystemExit(f"Database contains only {len(out)} usable entries")
+          Path("words.json").write_text(json.dumps(out[:40000],ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+          print(f"Built {len(out[:40000])} words")
+          PY
       - name: Commit database
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add words.json
-          git commit -m "Dodaj bazę 40000 słówek"
+          git diff --cached --quiet || git commit -m "Aktualizuj bazę 40000 słówek"
           git push
