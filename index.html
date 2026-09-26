@@ -31,19 +31,36 @@
 <div id="err" class="error"></div>
 </div>
 <script>
+const letters="abcdefghijklmnopqrstuvwxyz".split("");
 let words=[],deck=[],index=0,score=0;
-async function load(){try{const r=await fetch('words.json');if(!r.ok)throw Error();words=await r.json();document.getElementById('count').textContent=words.length.toLocaleString('pl-PL')+' słówek';}catch(e){document.getElementById('err').textContent='Nie udało się wczytać words.json.'}}
-function screen(id){document.querySelectorAll('.screen').forEach(x=>x.classList.remove('active'));document.getElementById(id).classList.add('active')}
-function menu(){screen('menu')}
+async function load(){
+ try{
+  const files=await Promise.all(letters.map(x=>fetch("data/"+x+".json").then(r=>r.ok?r.json():[])));
+  const all=files.flat();
+  const seen=new Set();
+  words=[];
+  for(const w of all){
+   if(!w.word||!Array.isArray(w.meaning)||!w.meaning.length)continue;
+   const key=w.word.toLowerCase()+"\t"+w.meaning[0].toLowerCase();
+   if(seen.has(key))continue;
+   seen.add(key);
+   words.push({en:w.word,pl:w.meaning[0],level:w.level||""});
+  }
+  words=words.slice(0,40000);
+  document.getElementById("count").textContent=words.length.toLocaleString("pl-PL")+" słówek";
+ }catch(e){document.getElementById("err").textContent="Nie udało się wczytać bazy słówek."}
+}
+function screen(id){document.querySelectorAll(".screen").forEach(x=>x.classList.remove("active"));document.getElementById(id).classList.add("active")}
+function menu(){screen("menu")}
 function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
-function start(){deck=shuffle(words).slice(0,20);index=0;score=0;screen('game');render()}
-function single(){deck=shuffle(words).slice(0,1);index=0;score=0;screen('game');render()}
-function render(){let w=deck[index];document.getElementById('en').textContent=w.en;document.getElementById('pl').textContent=w.pl;document.getElementById('card').classList.remove('flipped');document.getElementById('progressText').textContent=(index+1)+' / '+deck.length;document.getElementById('scoreText').textContent='Wynik: '+score;document.getElementById('bar').style.width=((index)/deck.length*100)+'%'}
-function flip(){document.getElementById('card').classList.toggle('flipped')}
-function answer(ok){if(ok)score++;index++;if(index>=deck.length){document.getElementById('finalScore').textContent=score+' / '+deck.length;document.getElementById('finalText').textContent='Poprawne odpowiedzi: '+Math.round(score/deck.length*100)+'%';screen('result')}else render()}
-function showLibrary(){screen('library');renderLibrary()}
-function renderLibrary(){let q=(document.getElementById('search').value||'').toLowerCase();let arr=words.filter(w=>(w.en+' '+w.pl).toLowerCase().includes(q)).slice(0,300);document.getElementById('list').innerHTML=arr.map(w=>'<div class="row"><b>'+esc(w.en)+'</b><span>'+esc(w.pl)+'</span></div>').join('')||'<div class="muted">Brak wyników</div>'}
-function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function start(){deck=shuffle(words).slice(0,20);index=0;score=0;screen("game");render()}
+function single(){deck=shuffle(words).slice(0,1);index=0;score=0;screen("game");render()}
+function render(){const w=deck[index];document.getElementById("en").textContent=w.en;document.getElementById("pl").textContent=w.pl;document.getElementById("card").classList.remove("flipped");document.getElementById("progressText").textContent=(index+1)+" / "+deck.length;document.getElementById("scoreText").textContent="Wynik: "+score;document.getElementById("bar").style.width=(index/deck.length*100)+"%"}
+function flip(){document.getElementById("card").classList.toggle("flipped")}
+function answer(ok){if(ok)score++;index++;if(index>=deck.length){document.getElementById("finalScore").textContent=score+" / "+deck.length;document.getElementById("finalText").textContent="Poprawne odpowiedzi: "+Math.round(score/deck.length*100)+"%";screen("result")}else render()}
+function showLibrary(){screen("library");renderLibrary()}
+function renderLibrary(){const q=(document.getElementById("search").value||"").toLowerCase();const arr=words.filter(w=>(w.en+" "+w.pl).toLowerCase().includes(q)).slice(0,300);document.getElementById("list").innerHTML=arr.map(w=>"<div class='row'><b>"+esc(w.en)+"</b><span>"+esc(w.pl)+"</span></div>").join("")||"<div class='muted'>Brak wyników</div>"}
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]))}
 load();
 </script>
 </body>
